@@ -1,0 +1,88 @@
+{
+  "sources": [
+    {
+      "name": "Nature",
+      "url": "https://www.nature.com/nature.rss",
+      "enabled": true,
+      "category": "journal",
+      "limit": 5
+    },
+    {
+      "name": "Nature Neuroscience",
+      "url": "https://www.nature.com/neuro.rss",
+      "enabled": true,
+      "category": "journal",
+      "limit": 8
+    },
+    {
+      "name": "Nature Immunology",
+      "url": "https://www.nature.com/ni.rss",
+      "enabled": true,
+      "category": "journal",
+      "limit": 8
+    },
+    {
+      "name": "Immunity",
+      "url": "https://www.cell.com/immunity/rss",
+      "enabled": true,
+      "category": "journal",
+      "limit": 8
+    },
+    {
+      "name": "Neuron",
+      "url": "https://www.cell.com/neuron/rss",
+      "enabled": true,
+      "category": "journal",
+      "limit": 8
+    },
+    {
+      "name": "bioRxiv Recent",
+      "url": "https://www.biorxiv.org/rss/recent.xml",
+      "enabled": true,
+      "category": "preprint",
+      "limit": 12
+    }
+  ],
+  "topics": [
+    {
+      "name": "Choroid Plexus",
+      "enabled": true,
+      "priority": 60,
+      "keywords": ["choroid plexus"]
+    },
+    {
+      "name": "microglia",
+      "enabled": true,
+      "priority": 50,
+      "keywords": ["microglia", "microglial"]
+    },
+    {
+      "name": "macrophage",
+      "enabled": true,
+      "priority": 40,
+      "keywords": ["macrophage", "macrophages"]
+    },
+    {
+      "name": "retina",
+      "enabled": true,
+      "priority": 35,
+      "keywords": ["retina", "retinal", "rpe", "photoreceptor"]
+    },
+    {
+      "name": "neurodegeneration",
+      "enabled": true,
+      "priority": 30,
+      "keywords": ["neurodegeneration", "parkinson", "alzheimer", "degeneration"]
+    },
+    {
+      "name": "inflammation",
+      "enabled": true,
+      "priority": 25,
+      "keywords": ["inflammation", "inflammatory", "cytokine"]
+    }
+  ],
+  "defaults": {
+    "source_limit": 8,
+    "max_items": 100
+  }
+}
