@@ -73,7 +73,7 @@ function scrollToCard(index) {
 
   window.setTimeout(() => {
     isAnimating = false;
-  }, 420);
+  }, 300);
 }
 
 function updateActiveCard(index) {
