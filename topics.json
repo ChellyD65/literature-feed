@@ -1,40 +1,86 @@
-{
-  "topics": [
-    {
-      "name": "Choroid Plexus",
-      "enabled": true,
-      "priority": 60,
-      "keywords": ["choroid plexus"]
-    },
-    {
-      "name": "microglia",
-      "enabled": true,
-      "priority": 50,
-      "keywords": ["microglia", "microglial"]
-    },
-    {
-      "name": "macrophage",
-      "enabled": true,
-      "priority": 40,
-      "keywords": ["macrophage", "macrophages"]
-    },
-    {
-      "name": "retina",
-      "enabled": true,
-      "priority": 35,
-      "keywords": ["retina", "retinal", "rpe", "photoreceptor"]
-    },
-    {
-      "name": "neurodegeneration",
-      "enabled": true,
-      "priority": 30,
-      "keywords": ["neurodegeneration", "parkinson", "alzheimer", "degeneration"]
-    },
-    {
-      "name": "inflammation",
-      "enabled": true,
-      "priority": 25,
-      "keywords": ["inflammation", "inflammatory", "cytokine"]
+[
+  {
+    "name": "Choroid Plexus",
+    "enabled": true,
+    "priority": 80,
+    "keywords": ["choroid plexus"],
+    "style": {
+      "bg1": "#ae172a",
+      "bg2": "#ae3b5a",
+      "accent": "#ffbdf8",
+      "icon": "✶"
     }
-  ]
-}
+  },
+  {
+    "name": "microglia",
+    "enabled": true,
+    "priority": 50,
+    "keywords": ["microglia", "microglial"],
+    "style": {
+      "bg1": "#0f172a",
+      "bg2": "#0b3b5a",
+      "accent": "#38bdf8",
+      "icon": "✶"
+    }
+  },
+  {
+    "name": "macrophage",
+    "enabled": true,
+    "priority": 40,
+    "keywords": ["macrophage", "macrophages"],
+    "style": {
+      "bg1": "#1f2937",
+      "bg2": "#4b5563",
+      "accent": "#f59e0b",
+      "icon": "⬢"
+    }
+  },
+  {
+    "name": "retina",
+    "enabled": true,
+    "priority": 35,
+    "keywords": ["retina", "retinal", "rpe", "photoreceptor"],
+    "style": {
+      "bg1": "#3b0764",
+      "bg2": "#6d28d9",
+      "accent": "#f472b6",
+      "icon": "◐"
+    }
+  },
+  {
+    "name": "neurodegeneration",
+    "enabled": true,
+    "priority": 30,
+    "keywords": ["neurodegeneration", "parkinson", "alzheimer"],
+    "style": {
+      "bg1": "#27272a",
+      "bg2": "#52525b",
+      "accent": "#fda4af",
+      "icon": "◈"
+    }
+  },
+  {
+    "name": "inflammation",
+    "enabled": true,
+    "priority": 25,
+    "keywords": ["inflammation", "inflammatory", "cytokine"],
+    "style": {
+      "bg1": "#450a0a",
+      "bg2": "#991b1b",
+      "accent": "#fb7185",
+      "icon": "▲"
+    }
+  },
+  {
+    "name": "default",
+    "enabled": true,
+    "priority": 0,
+    "keywords": [],
+    "style": {
+      "bg1": "#111827",
+      "bg2": "#374151",
+      "accent": "#60a5fa",
+      "icon": "•"
+    }
+  }
+]
