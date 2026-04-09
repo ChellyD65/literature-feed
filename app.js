@@ -33,7 +33,7 @@ async function loadFeed() {
 
 papers.forEach((p, i) => {
   const card = document.createElement('section');
-  const cleanSummary = stripHtml(p.summary || '');
+  const cleanSummary = stripHtml(p.abstract || p.summary || '');
   const hasImage = !!p.image;
   const topic = (p.topic || 'default').trim();
 
