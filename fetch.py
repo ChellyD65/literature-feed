@@ -1,6 +1,8 @@
 import feedparser
 import json
 import re
+import requests
+from bs4 import BeautifulSoup
 
 feeds = {
     "Nature": "https://www.nature.com/nature.rss",
@@ -10,6 +12,28 @@ feeds = {
     "Neuron": "https://www.cell.com/neuron/rss",
     "Science": "https://www.science.org/rss/news_current.xml"
 }
+
+def extract_og_image(url):
+    try:
+        headers = {
+            "User-Agent": "Mozilla/5.0"
+        }
+        r = requests.get(url, headers=headers, timeout=15)
+        r.raise_for_status()
+        soup = BeautifulSoup(r.text, "html.parser")
+
+        tag = soup.find("meta", property="og:image")
+        if tag and tag.get("content"):
+            return tag["content"]
+
+        tag = soup.find("meta", attrs={"name": "twitter:image"})
+        if tag and tag.get("content"):
+            return tag["content"]
+
+    except Exception as e:
+        print(f"Image scrape failed for {url}: {e}")
+
+    return ""
 
 def extract_image(entry):
     if "media_content" in entry and entry.media_content:
@@ -43,6 +67,10 @@ items = []
 for journal, url in feeds.items():
     d = feedparser.parse(url)
 
+    image = extract_image(entry)
+    if not image:
+        image = extract_og_image(entry.get("link", ""))
+    
     for entry in d.entries[:10]:
         items.append({
             "title": entry.get("title", ""),
@@ -50,7 +78,7 @@ for journal, url in feeds.items():
             "journal": journal,
             "date": entry.get("published", ""),
             "summary": entry.get("summary", ""),
-            "image": extract_image(entry)
+            "image": image
         })
 
 with open("data/feed.json", "w") as f:
