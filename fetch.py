@@ -67,11 +67,14 @@ items = []
 for journal, url in feeds.items():
     d = feedparser.parse(url)
 
-    image = extract_image(entry)
-    if not image:
-        image = extract_og_image(entry.get("link", ""))
+
     
     for entry in d.entries[:10]:
+
+        image = extract_image(entry)
+        if not image:
+            image = extract_og_image(entry.get("link", ""))
+        
         items.append({
             "title": entry.get("title", ""),
             "link": entry.get("link", ""),
