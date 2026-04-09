@@ -2,6 +2,7 @@ let isAnimating = false;
 let touchStartY = 0;
 let touchEndY = 0;
 let currentCardIndex = 0;
+let lastWheelTime = 0;
 
 async function loadFeed() {
   try {
@@ -19,12 +20,26 @@ async function loadFeed() {
 
     container.innerHTML = '';
 
+    if (!Array.isArray(papers) || papers.length === 0) {
+      container.innerHTML = `
+        <div class="card active no-image">
+          <div class="card-inner">
+            <div class="title">No papers found</div>
+            <div class="meta">Your feed loaded, but there were no items to display.</div>
+            <div class="abstract">Try rerunning the GitHub Action that updates data/feed.json.</div>
+          </div>
+        </div>
+      `;
+      return;
+    }
+
     papers.forEach((p, i) => {
-      const card = document.createElement('div');
+      const card = document.createElement('section');
 
       const cleanSummary = stripHtml(p.summary || '').trim();
       const hasImage = !!p.image;
       card.className = hasImage ? 'card' : 'card no-image';
+      card.dataset.index = String(i);
 
       const imageHtml = hasImage
         ? `<img class="paper-image" src="${escapeHtml(p.image)}" alt="Image related to ${escapeHtml(p.title || 'paper')}" loading="lazy" referrerpolicy="no-referrer">`
@@ -56,21 +71,10 @@ async function loadFeed() {
     });
 
     setupActiveCardObserver();
-    setupSwipeControls();
+    setupControls();
     updateActiveCard(0);
-    markInitialCardsReady();
 
-    if (!papers.length) {
-      container.innerHTML = `
-        <div class="card active no-image">
-          <div class="card-inner">
-            <div class="title">No papers found</div>
-            <div class="meta">Try rerunning the feed update workflow.</div>
-            <div class="abstract">Your feed.json loaded, but it did not contain any paper objects.</div>
-          </div>
-        </div>
-      `;
-    }
+    window.scrollTo(0, 0);
   } catch (err) {
     console.error('Error loading feed:', err);
 
@@ -109,21 +113,19 @@ function scrollToCard(index) {
   if (!cards.length) return;
 
   const clamped = Math.max(0, Math.min(index, cards.length - 1));
-  if (clamped === currentCardIndex && isAnimating) return;
-
   currentCardIndex = clamped;
   isAnimating = true;
 
-  cards[clamped].scrollIntoView({
-    behavior: 'smooth',
-    block: 'start'
+  window.scrollTo({
+    top: cards[clamped].offsetTop,
+    behavior: 'auto'
   });
 
   updateActiveCard(clamped);
 
   window.setTimeout(() => {
     isAnimating = false;
-  }, 220);
+  }, 260);
 }
 
 function updateActiveCard(index) {
@@ -163,30 +165,28 @@ function setupActiveCardObserver() {
   cards.forEach(card => observer.observe(card));
 }
 
-function setupSwipeControls() {
-  let wheelCooldown = false;
-
+function setupControls() {
   window.addEventListener(
     'wheel',
     (e) => {
-      if (wheelCooldown || isAnimating) return;
-
       const absDelta = Math.abs(e.deltaY);
-      if (absDelta < 35) return;
+      if (absDelta < 25) return;
 
-      wheelCooldown = true;
+      e.preventDefault();
+
+      const now = Date.now();
+      if (now - lastWheelTime < 180) return;
+      lastWheelTime = now;
+
+      if (isAnimating) return;
 
       if (e.deltaY > 0) {
         scrollToCard(currentCardIndex + 1);
       } else {
         scrollToCard(currentCardIndex - 1);
       }
-
-      window.setTimeout(() => {
-        wheelCooldown = false;
-      }, 250);
     },
-    { passive: true }
+    { passive: false }
   );
 
   window.addEventListener(
@@ -206,7 +206,7 @@ function setupSwipeControls() {
       touchEndY = e.changedTouches[0].clientY;
       const deltaY = touchStartY - touchEndY;
 
-      if (Math.abs(deltaY) < 80) return;
+      if (Math.abs(deltaY) < 70) return;
 
       if (deltaY > 0) {
         scrollToCard(currentCardIndex + 1);
@@ -220,7 +220,7 @@ function setupSwipeControls() {
   window.addEventListener('keydown', (e) => {
     if (isAnimating) return;
 
-    if (e.key === 'ArrowDown' || e.key === 'PageDown') {
+    if (e.key === 'ArrowDown' || e.key === 'PageDown' || e.key === ' ') {
       e.preventDefault();
       scrollToCard(currentCardIndex + 1);
     }
@@ -240,15 +240,43 @@ function setupSwipeControls() {
       scrollToCard(getCards().length - 1);
     }
   });
+
+  window.addEventListener(
+    'scroll',
+    () => {
+      if (isAnimating) return;
+
+      window.clearTimeout(window.__snapScrollTimer);
+      window.__snapScrollTimer = window.setTimeout(() => {
+        snapToNearestCard();
+      }, 80);
+    },
+    { passive: true }
+  );
 }
 
-function markInitialCardsReady() {
+function snapToNearestCard() {
   const cards = getCards();
+  if (!cards.length || isAnimating) return;
+
+  const scrollY = window.scrollY;
+  let nearestIndex = 0;
+  let nearestDistance = Infinity;
+
   cards.forEach((card, i) => {
-    if (i === 0) {
-      card.classList.add('active');
+    const distance = Math.abs(card.offsetTop - scrollY);
+    if (distance < nearestDistance) {
+      nearestDistance = distance;
+      nearestIndex = i;
     }
   });
+
+  if (nearestDistance > 2) {
+    scrollToCard(nearestIndex);
+  } else {
+    currentCardIndex = nearestIndex;
+    updateActiveCard(nearestIndex);
+  }
 }
 
 function stripHtml(str) {
