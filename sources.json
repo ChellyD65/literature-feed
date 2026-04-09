@@ -1,50 +1,98 @@
-{
-  "sources": [
-    {
-      "name": "Nature",
-      "url": "https://www.nature.com/nature.rss",
-      "enabled": true,
-      "category": "journal",
-      "limit": 5
-    },
-    {
-      "name": "Nature Neuroscience",
-      "url": "https://www.nature.com/neuro.rss",
-      "enabled": true,
-      "category": "journal",
-      "limit": 8
-    },
-    {
-      "name": "Nature Immunology",
-      "url": "https://www.nature.com/ni.rss",
-      "enabled": true,
-      "category": "journal",
-      "limit": 8
-    },
-    {
-      "name": "Immunity",
-      "url": "https://www.cell.com/immunity/rss",
-      "enabled": true,
-      "category": "journal",
-      "limit": 8
-    },
-    {
-      "name": "Neuron",
-      "url": "https://www.cell.com/neuron/rss",
-      "enabled": true,
-      "category": "journal",
-      "limit": 8
-    },
-    {
-      "name": "bioRxiv Recent",
-      "url": "https://www.biorxiv.org/rss/recent.xml",
-      "enabled": true,
-      "category": "preprint",
-      "limit": 12
-    }
-  ],
-  "defaults": {
-    "source_limit": 8,
-    "max_items": 100
+[
+  {
+    "name": "Nature",
+    "url": "https://www.nature.com/nature.rss",
+    "enabled": true,
+    "category": "journal",
+    "limit": 5
+  },
+  {
+    "name": "Science",
+    "url": "https://www.science.org/rss/news_current.xml",
+    "enabled": true,
+    "category": "journal",
+    "limit": 5
+  },
+  {
+    "name": "Cell",
+    "url": "https://www.cell.com/cell/rss",
+    "enabled": true,
+    "category": "journal",
+    "limit": 6
+  },
+
+  {
+    "name": "Nature Neuroscience",
+    "url": "https://www.nature.com/neuro.rss",
+    "enabled": true,
+    "category": "journal",
+    "limit": 8
+  },
+  {
+    "name": "Neuron",
+    "url": "https://www.cell.com/neuron/rss",
+    "enabled": true,
+    "category": "journal",
+    "limit": 8
+  },
+
+  {
+    "name": "Nature Immunology",
+    "url": "https://www.nature.com/ni.rss",
+    "enabled": true,
+    "category": "journal",
+    "limit": 8
+  },
+  {
+    "name": "Immunity",
+    "url": "https://www.cell.com/immunity/rss",
+    "enabled": true,
+    "category": "journal",
+    "limit": 8
+  },
+
+  {
+    "name": "Nature Medicine",
+    "url": "https://www.nature.com/nm.rss",
+    "enabled": true,
+    "category": "journal",
+    "limit": 6
+  },
+  {
+    "name": "Cell Stem Cell",
+    "url": "https://www.cell.com/cell-stem-cell/rss",
+    "enabled": true,
+    "category": "journal",
+    "limit": 6
+  },
+  {
+    "name": "Cancer Cell",
+    "url": "https://www.cell.com/cancer-cell/rss",
+    "enabled": false,
+    "category": "journal",
+    "limit": 6
+  },
+
+  {
+    "name": "PNAS",
+    "url": "https://www.pnas.org/rss/current.xml",
+    "enabled": true,
+    "category": "journal",
+    "limit": 6
+  },
+  {
+    "name": "eLife",
+    "url": "https://elifesciences.org/rss/current.xml",
+    "enabled": true,
+    "category": "journal",
+    "limit": 6
+  },
+
+  {
+    "name": "bioRxiv Recent",
+    "url": "https://www.biorxiv.org/rss/recent.xml",
+    "enabled": true,
+    "category": "preprint",
+    "limit": 12
   }
-}
+]
