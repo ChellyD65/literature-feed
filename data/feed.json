@@ -5,7 +5,17 @@
     "journal": "Nature",
     "date": "2026-04-09",
     "summary": "<p>Nature, Published online: 09 April 2026; <a href=\"https://www.nature.com/articles/s41586-026-10486-8\">doi:10.1038/s41586-026-10486-8</a></p>Ambiphilic cross-coupling with aryl-bismuth reagents",
-    "image": "./images/nature.jpg"
+    "image": "data:image/svg+xml;charset=utf-8,%0A%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23111827%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23374151%22/%3E%0A%20%20%20%20%3C/linearGradient%3E%0A%20%20%20%20%3Cfilter%20id%3D%22blur%22%3E%0A%20%20%20%20%20%20%3CfeGaussianBlur%20stdDeviation%3D%2230%22/%3E%0A%20%20%20%20%3C/filter%3E%0A%20%20%3C/defs%3E%0A%0A%20%20%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22url%28%23bg%29%22/%3E%0A%0A%20%20%3Ccircle%20cx%3D%221030%22%20cy%3D%22110%22%20r%3D%22170%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.18%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%20%20%3Ccircle%20cx%3D%22180%22%20cy%3D%22560%22%20r%3D%22150%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.16%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%0A%20%20%3Crect%20x%3D%2256%22%20y%3D%2252%22%20rx%3D%2218%22%20ry%3D%2218%22%20width%3D%22240%22%20height%3D%2254%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.08%29%22/%3E%0A%20%20%3Ctext%20x%3D%2284%22%20y%3D%2287%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2228%22%20fill%3D%22%23e5e7eb%22%3ENature%3C/text%3E%0A%0A%20%20%3Ctext%20x%3D%2268%22%20y%3D%22205%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2244%22%20font-weight%3D%22700%22%20fill%3D%22%23f9fafb%22%3E%0A%20%20%20%20Ambiphilic%20cross-coupling%20with%20aryl-bismuth%20reagents%0A%20%20%3C/text%3E%0A%0A%20%20%3Crect%20x%3D%2268%22%20y%3D%22468%22%20rx%3D%2218%22%20ry%3D%2218%22%20width%3D%22220%22%20height%3D%2264%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.08%29%22/%3E%0A%20%20%3Ctext%20x%3D%22102%22%20y%3D%22510%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2232%22%20fill%3D%22%2360a5fa%22%3E%0A%20%20%20%20Default%0A%20%20%3C/text%3E%0A%0A%20%20%3Ctext%20x%3D%221010%22%20y%3D%22560%22%20text-anchor%3D%22middle%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%22160%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.85%22%3E%0A%20%20%20%20%E2%80%A2%0A%20%20%3C/text%3E%0A%3C/svg%3E%0A",
+    "topic": "default"
+  },
+  {
+    "title": "Do the twist: bacteria can spin ‘pucks’ without touching them",
+    "link": "https://www.nature.com/articles/d41586-026-01112-8",
+    "journal": "Nature",
+    "date": "2026-04-09",
+    "summary": "<p>Nature, Published online: 09 April 2026; <a href=\"https://www.nature.com/articles/d41586-026-01112-8\">doi:10.1038/d41586-026-01112-8</a></p>3D-printed discs harness a previously overlooked feature of bacterial locomotion to power tiny motors.",
+    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-01112-8/d41586-026-01112-8_52265278.gif",
+    "topic": "default"
   },
   {
     "title": "Liquid or solid? Oobleck droplets are both",
@@ -13,7 +23,8 @@
     "journal": "Nature",
     "date": "2026-04-09",
     "summary": "<p>Nature, Published online: 09 April 2026; <a href=\"https://www.nature.com/articles/d41586-026-01109-3\">doi:10.1038/d41586-026-01109-3</a></p>High-speed cameras can observe the strange behaviour of a cornstarch–water mixture.",
-    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-01109-3/d41586-026-01109-3_52237372.jpg"
+    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-01109-3/d41586-026-01109-3_52237372.jpg",
+    "topic": "default"
   },
   {
     "title": "Your nose contains multitudes — of long-lived immune cells",
@@ -21,7 +32,8 @@
     "journal": "Nature",
     "date": "2026-04-09",
     "summary": "<p>Nature, Published online: 09 April 2026; <a href=\"https://www.nature.com/articles/d41586-026-01111-9\">doi:10.1038/d41586-026-01111-9</a></p>Nasal tissue harbours T cells that ‘remember’ a pathogen long after infection is past.",
-    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-01111-9/d41586-026-01111-9_52237640.jpg"
+    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-01111-9/d41586-026-01111-9_52237640.jpg",
+    "topic": "t cell"
   },
   {
     "title": "One woman, three autoimmune diseases: CAR-T therapy vanquishes ultra-rare disease trio",
@@ -29,7 +41,8 @@
     "journal": "Nature",
     "date": "2026-04-09",
     "summary": "<p>Nature, Published online: 09 April 2026; <a href=\"https://www.nature.com/articles/d41586-026-01108-4\">doi:10.1038/d41586-026-01108-4</a></p>Fourteen months after treatment with engineered immune cells, the recipient has no symptoms and doesn’t need to take medication.",
-    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-01108-4/d41586-026-01108-4_52262908.jpg"
+    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-01108-4/d41586-026-01108-4_52262908.jpg",
+    "topic": "immunology"
   },
   {
     "title": "Female mice grow testes after this single DNA tweak",
@@ -37,7 +50,8 @@
     "journal": "Nature",
     "date": "2026-04-09",
     "summary": "<p>Nature, Published online: 09 April 2026; <a href=\"https://www.nature.com/articles/d41586-026-01120-8\">doi:10.1038/d41586-026-01120-8</a></p>Small changes in the non-coding part of the genome have a key role in sex determination.",
-    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-01120-8/d41586-026-01120-8_52265006.jpg"
+    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-01120-8/d41586-026-01120-8_52265006.jpg",
+    "topic": "default"
   },
   {
     "title": "How to thrive in science when you move abroad",
@@ -45,7 +59,8 @@
     "journal": "Nature",
     "date": "2026-04-09",
     "summary": "<p>Nature, Published online: 09 April 2026; <a href=\"https://www.nature.com/articles/d41586-026-00550-8\">doi:10.1038/d41586-026-00550-8</a></p>Sonali Majumdar offers a toolkit to support international scientists, their supervisors and mentors.",
-    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-00550-8/d41586-026-00550-8_52079490.jpg"
+    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-00550-8/d41586-026-00550-8_52079490.jpg",
+    "topic": "default"
   },
   {
     "title": "Comparing primate cerebellums",
@@ -53,7 +68,8 @@
     "journal": "Nature Neuroscience",
     "date": "2026-04-09",
     "summary": "<p>Nature Neuroscience, Published online: 09 April 2026; <a href=\"https://www.nature.com/articles/s41593-026-02276-2\">doi:10.1038/s41593-026-02276-2</a></p>Comparing primate cerebellums",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Neural_anticipation_of_virtual_infection_triggers_an_immune_response.pdf/page1-960px-Neural_anticipation_of_virtual_infection_triggers_an_immune_response.pdf.jpg"
+    "image": "data:image/svg+xml;charset=utf-8,%0A%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23082f49%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%231d4ed8%22/%3E%0A%20%20%20%20%3C/linearGradient%3E%0A%20%20%20%20%3Cfilter%20id%3D%22blur%22%3E%0A%20%20%20%20%20%20%3CfeGaussianBlur%20stdDeviation%3D%2230%22/%3E%0A%20%20%20%20%3C/filter%3E%0A%20%20%3C/defs%3E%0A%0A%20%20%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22url%28%23bg%29%22/%3E%0A%0A%20%20%3Ccircle%20cx%3D%221030%22%20cy%3D%22110%22%20r%3D%22170%22%20fill%3D%22%237dd3fc%22%20opacity%3D%220.18%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%20%20%3Ccircle%20cx%3D%22180%22%20cy%3D%22560%22%20r%3D%22150%22%20fill%3D%22%237dd3fc%22%20opacity%3D%220.16%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%0A%20%20%3Crect%20x%3D%2256%22%20y%3D%2252%22%20rx%3D%2218%22%20ry%3D%2218%22%20width%3D%22240%22%20height%3D%2254%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.08%29%22/%3E%0A%20%20%3Ctext%20x%3D%2284%22%20y%3D%2287%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2228%22%20fill%3D%22%23e5e7eb%22%3ENature%20Neuroscience%3C/text%3E%0A%0A%20%20%3Ctext%20x%3D%2268%22%20y%3D%22205%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2244%22%20font-weight%3D%22700%22%20fill%3D%22%23f9fafb%22%3E%0A%20%20%20%20Comparing%20primate%20cerebellums%0A%20%20%3C/text%3E%0A%0A%20%20%3Crect%20x%3D%2268%22%20y%3D%22468%22%20rx%3D%2218%22%20ry%3D%2218%22%20width%3D%22220%22%20height%3D%2264%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.08%29%22/%3E%0A%20%20%3Ctext%20x%3D%22102%22%20y%3D%22510%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2232%22%20fill%3D%22%237dd3fc%22%3E%0A%20%20%20%20Neuroscience%0A%20%20%3C/text%3E%0A%0A%20%20%3Ctext%20x%3D%221010%22%20y%3D%22560%22%20text-anchor%3D%22middle%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%22160%22%20fill%3D%22%237dd3fc%22%20opacity%3D%220.85%22%3E%0A%20%20%20%20%E2%9C%B9%0A%20%20%3C/text%3E%0A%3C/svg%3E%0A",
+    "topic": "neuroscience"
   },
   {
     "title": "Microglia RANK as fertility regulators",
@@ -61,7 +77,8 @@
     "journal": "Nature Neuroscience",
     "date": "2026-04-09",
     "summary": "<p>Nature Neuroscience, Published online: 09 April 2026; <a href=\"https://www.nature.com/articles/s41593-026-02274-4\">doi:10.1038/s41593-026-02274-4</a></p>Microglia RANK as fertility regulators",
-    "image": "./images/nature-neuro.jpg"
+    "image": "data:image/svg+xml;charset=utf-8,%0A%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%230f172a%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%230b3b5a%22/%3E%0A%20%20%20%20%3C/linearGradient%3E%0A%20%20%20%20%3Cfilter%20id%3D%22blur%22%3E%0A%20%20%20%20%20%20%3CfeGaussianBlur%20stdDeviation%3D%2230%22/%3E%0A%20%20%20%20%3C/filter%3E%0A%20%20%3C/defs%3E%0A%0A%20%20%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22url%28%23bg%29%22/%3E%0A%0A%20%20%3Ccircle%20cx%3D%221030%22%20cy%3D%22110%22%20r%3D%22170%22%20fill%3D%22%2338bdf8%22%20opacity%3D%220.18%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%20%20%3Ccircle%20cx%3D%22180%22%20cy%3D%22560%22%20r%3D%22150%22%20fill%3D%22%2338bdf8%22%20opacity%3D%220.16%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%0A%20%20%3Crect%20x%3D%2256%22%20y%3D%2252%22%20rx%3D%2218%22%20ry%3D%2218%22%20width%3D%22240%22%20height%3D%2254%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.08%29%22/%3E%0A%20%20%3Ctext%20x%3D%2284%22%20y%3D%2287%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2228%22%20fill%3D%22%23e5e7eb%22%3ENature%20Neuroscience%3C/text%3E%0A%0A%20%20%3Ctext%20x%3D%2268%22%20y%3D%22205%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2244%22%20font-weight%3D%22700%22%20fill%3D%22%23f9fafb%22%3E%0A%20%20%20%20Microglia%20RANK%20as%20fertility%20regulators%0A%20%20%3C/text%3E%0A%0A%20%20%3Crect%20x%3D%2268%22%20y%3D%22468%22%20rx%3D%2218%22%20ry%3D%2218%22%20width%3D%22220%22%20height%3D%2264%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.08%29%22/%3E%0A%20%20%3Ctext%20x%3D%22102%22%20y%3D%22510%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2232%22%20fill%3D%22%2338bdf8%22%3E%0A%20%20%20%20Microglia%0A%20%20%3C/text%3E%0A%0A%20%20%3Ctext%20x%3D%221010%22%20y%3D%22560%22%20text-anchor%3D%22middle%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%22160%22%20fill%3D%22%2338bdf8%22%20opacity%3D%220.85%22%3E%0A%20%20%20%20%E2%9C%B6%0A%20%20%3C/text%3E%0A%3C/svg%3E%0A",
+    "topic": "microglia"
   },
   {
     "title": "Not so unorganized behavior",
@@ -69,7 +86,8 @@
     "journal": "Nature Neuroscience",
     "date": "2026-04-09",
     "summary": "<p>Nature Neuroscience, Published online: 09 April 2026; <a href=\"https://www.nature.com/articles/s41593-026-02275-3\">doi:10.1038/s41593-026-02275-3</a></p>Not so unorganized behavior",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Application_of_Game_Theory_to_Neuronal_Networks.pdf/page1-960px-Application_of_Game_Theory_to_Neuronal_Networks.pdf.jpg"
+    "image": "data:image/svg+xml;charset=utf-8,%0A%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23082f49%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%231d4ed8%22/%3E%0A%20%20%20%20%3C/linearGradient%3E%0A%20%20%20%20%3Cfilter%20id%3D%22blur%22%3E%0A%20%20%20%20%20%20%3CfeGaussianBlur%20stdDeviation%3D%2230%22/%3E%0A%20%20%20%20%3C/filter%3E%0A%20%20%3C/defs%3E%0A%0A%20%20%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22url%28%23bg%29%22/%3E%0A%0A%20%20%3Ccircle%20cx%3D%221030%22%20cy%3D%22110%22%20r%3D%22170%22%20fill%3D%22%237dd3fc%22%20opacity%3D%220.18%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%20%20%3Ccircle%20cx%3D%22180%22%20cy%3D%22560%22%20r%3D%22150%22%20fill%3D%22%237dd3fc%22%20opacity%3D%220.16%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%0A%20%20%3Crect%20x%3D%2256%22%20y%3D%2252%22%20rx%3D%2218%22%20ry%3D%2218%22%20width%3D%22240%22%20height%3D%2254%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.08%29%22/%3E%0A%20%20%3Ctext%20x%3D%2284%22%20y%3D%2287%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2228%22%20fill%3D%22%23e5e7eb%22%3ENature%20Neuroscience%3C/text%3E%0A%0A%20%20%3Ctext%20x%3D%2268%22%20y%3D%22205%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2244%22%20font-weight%3D%22700%22%20fill%3D%22%23f9fafb%22%3E%0A%20%20%20%20Not%20so%20unorganized%20behavior%0A%20%20%3C/text%3E%0A%0A%20%20%3Crect%20x%3D%2268%22%20y%3D%22468%22%20rx%3D%2218%22%20ry%3D%2218%22%20width%3D%22220%22%20height%3D%2264%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.08%29%22/%3E%0A%20%20%3Ctext%20x%3D%22102%22%20y%3D%22510%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2232%22%20fill%3D%22%237dd3fc%22%3E%0A%20%20%20%20Neuroscience%0A%20%20%3C/text%3E%0A%0A%20%20%3Ctext%20x%3D%221010%22%20y%3D%22560%22%20text-anchor%3D%22middle%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%22160%22%20fill%3D%22%237dd3fc%22%20opacity%3D%220.85%22%3E%0A%20%20%20%20%E2%9C%B9%0A%20%20%3C/text%3E%0A%3C/svg%3E%0A",
+    "topic": "neuroscience"
   },
   {
     "title": "A network signature of Parkinson’s disease",
@@ -77,7 +95,8 @@
     "journal": "Nature Neuroscience",
     "date": "2026-04-09",
     "summary": "<p>Nature Neuroscience, Published online: 09 April 2026; <a href=\"https://www.nature.com/articles/s41593-026-02273-5\">doi:10.1038/s41593-026-02273-5</a></p>A network signature of Parkinson’s disease",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/UNLOCKING_THE_CURES_FOR_AMERICA%27S_MOST_DEADLY_DISEASES_%28IA_gov.gpo.fdsys.CHRG-114shrg97384%29.pdf/page1-960px-UNLOCKING_THE_CURES_FOR_AMERICA%27S_MOST_DEADLY_DISEASES_%28IA_gov.gpo.fdsys.CHRG-114shrg97384%29.pdf.jpg"
+    "image": "data:image/svg+xml;charset=utf-8,%0A%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%2327272a%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2352525b%22/%3E%0A%20%20%20%20%3C/linearGradient%3E%0A%20%20%20%20%3Cfilter%20id%3D%22blur%22%3E%0A%20%20%20%20%20%20%3CfeGaussianBlur%20stdDeviation%3D%2230%22/%3E%0A%20%20%20%20%3C/filter%3E%0A%20%20%3C/defs%3E%0A%0A%20%20%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22url%28%23bg%29%22/%3E%0A%0A%20%20%3Ccircle%20cx%3D%221030%22%20cy%3D%22110%22%20r%3D%22170%22%20fill%3D%22%23fda4af%22%20opacity%3D%220.18%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%20%20%3Ccircle%20cx%3D%22180%22%20cy%3D%22560%22%20r%3D%22150%22%20fill%3D%22%23fda4af%22%20opacity%3D%220.16%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%0A%20%20%3Crect%20x%3D%2256%22%20y%3D%2252%22%20rx%3D%2218%22%20ry%3D%2218%22%20width%3D%22240%22%20height%3D%2254%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.08%29%22/%3E%0A%20%20%3Ctext%20x%3D%2284%22%20y%3D%2287%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2228%22%20fill%3D%22%23e5e7eb%22%3ENature%20Neuroscience%3C/text%3E%0A%0A%20%20%3Ctext%20x%3D%2268%22%20y%3D%22205%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2244%22%20font-weight%3D%22700%22%20fill%3D%22%23f9fafb%22%3E%0A%20%20%20%20A%20network%20signature%20of%20Parkinson%E2%80%99s%20disease%0A%20%20%3C/text%3E%0A%0A%20%20%3Crect%20x%3D%2268%22%20y%3D%22468%22%20rx%3D%2218%22%20ry%3D%2218%22%20width%3D%22220%22%20height%3D%2264%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.08%29%22/%3E%0A%20%20%3Ctext%20x%3D%22102%22%20y%3D%22510%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2232%22%20fill%3D%22%23fda4af%22%3E%0A%20%20%20%20Neurodegeneration%0A%20%20%3C/text%3E%0A%0A%20%20%3Ctext%20x%3D%221010%22%20y%3D%22560%22%20text-anchor%3D%22middle%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%22160%22%20fill%3D%22%23fda4af%22%20opacity%3D%220.85%22%3E%0A%20%20%20%20%E2%97%88%0A%20%20%3C/text%3E%0A%3C/svg%3E%0A",
+    "topic": "neurodegeneration"
   },
   {
     "title": "Pesticides may wreak havoc on the gut microbiome",
@@ -85,7 +104,8 @@
     "journal": "Science",
     "date": "2026-04-08T11:00:00Z",
     "summary": "Disruption of intestinal ecosystem could contribute to diabetes and other health issues, scientists say",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Agricultural_research_%28IA_CAT90891937405%29.pdf/page1-960px-Agricultural_research_%28IA_CAT90891937405%29.pdf.jpg"
+    "image": "data:image/svg+xml;charset=utf-8,%0A%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23111827%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23374151%22/%3E%0A%20%20%20%20%3C/linearGradient%3E%0A%20%20%20%20%3Cfilter%20id%3D%22blur%22%3E%0A%20%20%20%20%20%20%3CfeGaussianBlur%20stdDeviation%3D%2230%22/%3E%0A%20%20%20%20%3C/filter%3E%0A%20%20%3C/defs%3E%0A%0A%20%20%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22url%28%23bg%29%22/%3E%0A%0A%20%20%3Ccircle%20cx%3D%221030%22%20cy%3D%22110%22%20r%3D%22170%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.18%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%20%20%3Ccircle%20cx%3D%22180%22%20cy%3D%22560%22%20r%3D%22150%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.16%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%0A%20%20%3Crect%20x%3D%2256%22%20y%3D%2252%22%20rx%3D%2218%22%20ry%3D%2218%22%20width%3D%22240%22%20height%3D%2254%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.08%29%22/%3E%0A%20%20%3Ctext%20x%3D%2284%22%20y%3D%2287%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2228%22%20fill%3D%22%23e5e7eb%22%3EScience%3C/text%3E%0A%0A%20%20%3Ctext%20x%3D%2268%22%20y%3D%22205%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2244%22%20font-weight%3D%22700%22%20fill%3D%22%23f9fafb%22%3E%0A%20%20%20%20Pesticides%20may%20wreak%20havoc%20on%20the%20gut%20microbiome%0A%20%20%3C/text%3E%0A%0A%20%20%3Crect%20x%3D%2268%22%20y%3D%22468%22%20rx%3D%2218%22%20ry%3D%2218%22%20width%3D%22220%22%20height%3D%2264%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.08%29%22/%3E%0A%20%20%3Ctext%20x%3D%22102%22%20y%3D%22510%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2232%22%20fill%3D%22%2360a5fa%22%3E%0A%20%20%20%20Default%0A%20%20%3C/text%3E%0A%0A%20%20%3Ctext%20x%3D%221010%22%20y%3D%22560%22%20text-anchor%3D%22middle%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%22160%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.85%22%3E%0A%20%20%20%20%E2%80%A2%0A%20%20%3C/text%3E%0A%3C/svg%3E%0A",
+    "topic": "default"
   },
   {
     "title": "Author Correction: Foundation model of neural activity predicts response to new stimulus types",
@@ -93,7 +113,8 @@
     "journal": "Nature",
     "date": "2026-04-08",
     "summary": "<p>Nature, Published online: 08 April 2026; <a href=\"https://www.nature.com/articles/s41586-026-10457-z\">doi:10.1038/s41586-026-10457-z</a></p>Author Correction: Foundation model of neural activity predicts response to new stimulus types",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Model_cell_in_Hong_Kong_Correctional_Services_Museum.jpg/1280px-Model_cell_in_Hong_Kong_Correctional_Services_Museum.jpg"
+    "image": "data:image/svg+xml;charset=utf-8,%0A%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23082f49%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%231d4ed8%22/%3E%0A%20%20%20%20%3C/linearGradient%3E%0A%20%20%20%20%3Cfilter%20id%3D%22blur%22%3E%0A%20%20%20%20%20%20%3CfeGaussianBlur%20stdDeviation%3D%2230%22/%3E%0A%20%20%20%20%3C/filter%3E%0A%20%20%3C/defs%3E%0A%0A%20%20%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22url%28%23bg%29%22/%3E%0A%0A%20%20%3Ccircle%20cx%3D%221030%22%20cy%3D%22110%22%20r%3D%22170%22%20fill%3D%22%237dd3fc%22%20opacity%3D%220.18%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%20%20%3Ccircle%20cx%3D%22180%22%20cy%3D%22560%22%20r%3D%22150%22%20fill%3D%22%237dd3fc%22%20opacity%3D%220.16%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%0A%20%20%3Crect%20x%3D%2256%22%20y%3D%2252%22%20rx%3D%2218%22%20ry%3D%2218%22%20width%3D%22240%22%20height%3D%2254%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.08%29%22/%3E%0A%20%20%3Ctext%20x%3D%2284%22%20y%3D%2287%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2228%22%20fill%3D%22%23e5e7eb%22%3ENature%3C/text%3E%0A%0A%20%20%3Ctext%20x%3D%2268%22%20y%3D%22205%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2244%22%20font-weight%3D%22700%22%20fill%3D%22%23f9fafb%22%3E%0A%20%20%20%20Author%20Correction%3A%20Foundation%20model%20of%20neural%20activity%20predicts%20respons%E2%80%A6%0A%20%20%3C/text%3E%0A%0A%20%20%3Crect%20x%3D%2268%22%20y%3D%22468%22%20rx%3D%2218%22%20ry%3D%2218%22%20width%3D%22220%22%20height%3D%2264%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.08%29%22/%3E%0A%20%20%3Ctext%20x%3D%22102%22%20y%3D%22510%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2232%22%20fill%3D%22%237dd3fc%22%3E%0A%20%20%20%20Neuroscience%0A%20%20%3C/text%3E%0A%0A%20%20%3Ctext%20x%3D%221010%22%20y%3D%22560%22%20text-anchor%3D%22middle%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%22160%22%20fill%3D%22%237dd3fc%22%20opacity%3D%220.85%22%3E%0A%20%20%20%20%E2%9C%B9%0A%20%20%3C/text%3E%0A%3C/svg%3E%0A",
+    "topic": "neuroscience"
   },
   {
     "title": "Author Correction: Oncogene ablation-resistant pancreatic cancer cells depend on mitochondrial function",
@@ -101,7 +122,8 @@
     "journal": "Nature",
     "date": "2026-04-08",
     "summary": "<p>Nature, Published online: 08 April 2026; <a href=\"https://www.nature.com/articles/s41586-026-10488-6\">doi:10.1038/s41586-026-10488-6</a></p>Author Correction: Oncogene ablation-resistant pancreatic cancer cells depend on mitochondrial function",
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-10488-6/MediaObjects/41586_2026_10488_Fig1_HTML.png"
+    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-10488-6/MediaObjects/41586_2026_10488_Fig1_HTML.png",
+    "topic": "default"
   },
   {
     "title": "Briefing Chat: The tongue trick that helps sunbirds suck",
@@ -109,15 +131,8 @@
     "journal": "Nature",
     "date": "2026-04-08",
     "summary": "<p>Nature, Published online: 08 April 2026; <a href=\"https://www.nature.com/articles/d41586-026-01132-4\">doi:10.1038/d41586-026-01132-4</a></p>Nature staff discuss some of the week’s top science news.",
-    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-01132-4/d41586-026-01132-4_52262550.jpg"
-  },
-  {
-    "title": "High-precision calculation of the quark–gluon coupling from lattice QCD",
-    "link": "https://www.nature.com/articles/s41586-026-10339-4",
-    "journal": "Nature",
-    "date": "2026-04-08",
-    "summary": "<p>Nature, Published online: 08 April 2026; <a href=\"https://www.nature.com/articles/s41586-026-10339-4\">doi:10.1038/s41586-026-10339-4</a></p>Large-scale lattice quantum chromodynamics simulations enable a model-free, highly precise determination of the strong coupling constant αs, reducing theoretical uncertainty and improving precision tests of particle physics.",
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-10339-4/MediaObjects/41586_2026_10339_Fig1_HTML.png"
+    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-01132-4/d41586-026-01132-4_52262550.jpg",
+    "topic": "default"
   },
   {
     "title": "Department of Energy’s AI push squeezes funding for research grants",
@@ -125,7 +140,8 @@
     "journal": "Science",
     "date": "2026-04-07T04:30:00Z",
     "summary": "Tapping already strained budgets, Genesis Mission gives scientists just weeks to apply for first awards",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Characterization_of_piezoelectric_energy_harvesting_MEMS_%28IA_characterization1094547971%29.pdf/page1-960px-Characterization_of_piezoelectric_energy_harvesting_MEMS_%28IA_characterization1094547971%29.pdf.jpg"
+    "image": "data:image/svg+xml;charset=utf-8,%0A%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23111827%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23374151%22/%3E%0A%20%20%20%20%3C/linearGradient%3E%0A%20%20%20%20%3Cfilter%20id%3D%22blur%22%3E%0A%20%20%20%20%20%20%3CfeGaussianBlur%20stdDeviation%3D%2230%22/%3E%0A%20%20%20%20%3C/filter%3E%0A%20%20%3C/defs%3E%0A%0A%20%20%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22url%28%23bg%29%22/%3E%0A%0A%20%20%3Ccircle%20cx%3D%221030%22%20cy%3D%22110%22%20r%3D%22170%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.18%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%20%20%3Ccircle%20cx%3D%22180%22%20cy%3D%22560%22%20r%3D%22150%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.16%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%0A%20%20%3Crect%20x%3D%2256%22%20y%3D%2252%22%20rx%3D%2218%22%20ry%3D%2218%22%20width%3D%22240%22%20height%3D%2254%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.08%29%22/%3E%0A%20%20%3Ctext%20x%3D%2284%22%20y%3D%2287%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2228%22%20fill%3D%22%23e5e7eb%22%3EScience%3C/text%3E%0A%0A%20%20%3Ctext%20x%3D%2268%22%20y%3D%22205%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2244%22%20font-weight%3D%22700%22%20fill%3D%22%23f9fafb%22%3E%0A%20%20%20%20Department%20of%20Energy%E2%80%99s%20AI%20push%20squeezes%20funding%20for%20research%20grants%0A%20%20%3C/text%3E%0A%0A%20%20%3Crect%20x%3D%2268%22%20y%3D%22468%22%20rx%3D%2218%22%20ry%3D%2218%22%20width%3D%22220%22%20height%3D%2264%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.08%29%22/%3E%0A%20%20%3Ctext%20x%3D%22102%22%20y%3D%22510%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2232%22%20fill%3D%22%2360a5fa%22%3E%0A%20%20%20%20Default%0A%20%20%3C/text%3E%0A%0A%20%20%3Ctext%20x%3D%221010%22%20y%3D%22560%22%20text-anchor%3D%22middle%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%22160%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.85%22%3E%0A%20%20%20%20%E2%80%A2%0A%20%20%3C/text%3E%0A%3C/svg%3E%0A",
+    "topic": "default"
   },
   {
     "title": "Artemis II captures an ‘Earthset’ and stunning views of the Moon",
@@ -133,7 +149,8 @@
     "journal": "Science",
     "date": "2026-04-07T03:20:00Z",
     "summary": "First crewed Moon mission since 1972 caught extraordinary glimpses of lunar terrain",
-    "image": "./images/science.jpg"
+    "image": "data:image/svg+xml;charset=utf-8,%0A%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23111827%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23374151%22/%3E%0A%20%20%20%20%3C/linearGradient%3E%0A%20%20%20%20%3Cfilter%20id%3D%22blur%22%3E%0A%20%20%20%20%20%20%3CfeGaussianBlur%20stdDeviation%3D%2230%22/%3E%0A%20%20%20%20%3C/filter%3E%0A%20%20%3C/defs%3E%0A%0A%20%20%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22url%28%23bg%29%22/%3E%0A%0A%20%20%3Ccircle%20cx%3D%221030%22%20cy%3D%22110%22%20r%3D%22170%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.18%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%20%20%3Ccircle%20cx%3D%22180%22%20cy%3D%22560%22%20r%3D%22150%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.16%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%0A%20%20%3Crect%20x%3D%2256%22%20y%3D%2252%22%20rx%3D%2218%22%20ry%3D%2218%22%20width%3D%22240%22%20height%3D%2254%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.08%29%22/%3E%0A%20%20%3Ctext%20x%3D%2284%22%20y%3D%2287%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2228%22%20fill%3D%22%23e5e7eb%22%3EScience%3C/text%3E%0A%0A%20%20%3Ctext%20x%3D%2268%22%20y%3D%22205%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2244%22%20font-weight%3D%22700%22%20fill%3D%22%23f9fafb%22%3E%0A%20%20%20%20Artemis%20II%20captures%20an%20%E2%80%98Earthset%E2%80%99%20and%20stunning%20views%20of%20the%20Moon%0A%20%20%3C/text%3E%0A%0A%20%20%3Crect%20x%3D%2268%22%20y%3D%22468%22%20rx%3D%2218%22%20ry%3D%2218%22%20width%3D%22220%22%20height%3D%2264%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.08%29%22/%3E%0A%20%20%3Ctext%20x%3D%22102%22%20y%3D%22510%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2232%22%20fill%3D%22%2360a5fa%22%3E%0A%20%20%20%20Default%0A%20%20%3C/text%3E%0A%0A%20%20%3Ctext%20x%3D%221010%22%20y%3D%22560%22%20text-anchor%3D%22middle%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%22160%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.85%22%3E%0A%20%20%20%20%E2%80%A2%0A%20%20%3C/text%3E%0A%3C/svg%3E%0A",
+    "topic": "default"
   },
   {
     "title": "The hidden math behind satisfying can-crushing videos",
@@ -141,7 +158,8 @@
     "journal": "Science",
     "date": "2026-04-07T02:50:00Z",
     "summary": "Fluid-filled soda cans confirm a long-untested theory of pattern formation",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/NO_CHILD_LEFT_BEHIND-_RAISING_STUDENT_ACHIEVEMENT_IN_AMERICA%27S_BIG_CITY_SCHOOLS_%28IA_gov.gpo.fdsys.CHRG-108hhrg94513%29.pdf/page1-960px-NO_CHILD_LEFT_BEHIND-_RAISING_STUDENT_ACHIEVEMENT_IN_AMERICA%27S_BIG_CITY_SCHOOLS_%28IA_gov.gpo.fdsys.CHRG-108hhrg94513%29.pdf.jpg"
+    "image": "data:image/svg+xml;charset=utf-8,%0A%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23111827%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23374151%22/%3E%0A%20%20%20%20%3C/linearGradient%3E%0A%20%20%20%20%3Cfilter%20id%3D%22blur%22%3E%0A%20%20%20%20%20%20%3CfeGaussianBlur%20stdDeviation%3D%2230%22/%3E%0A%20%20%20%20%3C/filter%3E%0A%20%20%3C/defs%3E%0A%0A%20%20%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22url%28%23bg%29%22/%3E%0A%0A%20%20%3Ccircle%20cx%3D%221030%22%20cy%3D%22110%22%20r%3D%22170%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.18%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%20%20%3Ccircle%20cx%3D%22180%22%20cy%3D%22560%22%20r%3D%22150%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.16%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%0A%20%20%3Crect%20x%3D%2256%22%20y%3D%2252%22%20rx%3D%2218%22%20ry%3D%2218%22%20width%3D%22240%22%20height%3D%2254%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.08%29%22/%3E%0A%20%20%3Ctext%20x%3D%2284%22%20y%3D%2287%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2228%22%20fill%3D%22%23e5e7eb%22%3EScience%3C/text%3E%0A%0A%20%20%3Ctext%20x%3D%2268%22%20y%3D%22205%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2244%22%20font-weight%3D%22700%22%20fill%3D%22%23f9fafb%22%3E%0A%20%20%20%20The%20hidden%20math%20behind%20satisfying%20can-crushing%20videos%0A%20%20%3C/text%3E%0A%0A%20%20%3Crect%20x%3D%2268%22%20y%3D%22468%22%20rx%3D%2218%22%20ry%3D%2218%22%20width%3D%22220%22%20height%3D%2264%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.08%29%22/%3E%0A%20%20%3Ctext%20x%3D%22102%22%20y%3D%22510%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2232%22%20fill%3D%22%2360a5fa%22%3E%0A%20%20%20%20Default%0A%20%20%3C/text%3E%0A%0A%20%20%3Ctext%20x%3D%221010%22%20y%3D%22560%22%20text-anchor%3D%22middle%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%22160%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.85%22%3E%0A%20%20%20%20%E2%80%A2%0A%20%20%3C/text%3E%0A%3C/svg%3E%0A",
+    "topic": "default"
   },
   {
     "title": "As Japan warms, cherry blossom displays are fading",
@@ -149,7 +167,8 @@
     "journal": "Science",
     "date": "2026-04-07T01:10:00Z",
     "summary": "Some trees in southern Japan are already failing to reach peak bloom—a trend researchers predict will move north in the coming decades",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/CHERRY_BLOSSOMS_Closeup.jpg/1280px-CHERRY_BLOSSOMS_Closeup.jpg"
+    "image": "data:image/svg+xml;charset=utf-8,%0A%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23111827%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23374151%22/%3E%0A%20%20%20%20%3C/linearGradient%3E%0A%20%20%20%20%3Cfilter%20id%3D%22blur%22%3E%0A%20%20%20%20%20%20%3CfeGaussianBlur%20stdDeviation%3D%2230%22/%3E%0A%20%20%20%20%3C/filter%3E%0A%20%20%3C/defs%3E%0A%0A%20%20%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22url%28%23bg%29%22/%3E%0A%0A%20%20%3Ccircle%20cx%3D%221030%22%20cy%3D%22110%22%20r%3D%22170%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.18%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%20%20%3Ccircle%20cx%3D%22180%22%20cy%3D%22560%22%20r%3D%22150%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.16%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%0A%20%20%3Crect%20x%3D%2256%22%20y%3D%2252%22%20rx%3D%2218%22%20ry%3D%2218%22%20width%3D%22240%22%20height%3D%2254%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.08%29%22/%3E%0A%20%20%3Ctext%20x%3D%2284%22%20y%3D%2287%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2228%22%20fill%3D%22%23e5e7eb%22%3EScience%3C/text%3E%0A%0A%20%20%3Ctext%20x%3D%2268%22%20y%3D%22205%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2244%22%20font-weight%3D%22700%22%20fill%3D%22%23f9fafb%22%3E%0A%20%20%20%20As%20Japan%20warms%2C%20cherry%20blossom%20displays%20are%20fading%0A%20%20%3C/text%3E%0A%0A%20%20%3Crect%20x%3D%2268%22%20y%3D%22468%22%20rx%3D%2218%22%20ry%3D%2218%22%20width%3D%22220%22%20height%3D%2264%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.08%29%22/%3E%0A%20%20%3Ctext%20x%3D%22102%22%20y%3D%22510%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2232%22%20fill%3D%22%2360a5fa%22%3E%0A%20%20%20%20Default%0A%20%20%3C/text%3E%0A%0A%20%20%3Ctext%20x%3D%221010%22%20y%3D%22560%22%20text-anchor%3D%22middle%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%22160%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.85%22%3E%0A%20%20%20%20%E2%80%A2%0A%20%20%3C/text%3E%0A%3C/svg%3E%0A",
+    "topic": "default"
   },
   {
     "title": "Neural circuits encode prior knowledge of temporal statistics",
@@ -157,7 +176,8 @@
     "journal": "Nature Neuroscience",
     "date": "2026-04-07",
     "summary": "<p>Nature Neuroscience, Published online: 07 April 2026; <a href=\"https://www.nature.com/articles/s41593-026-02255-7\">doi:10.1038/s41593-026-02255-7</a></p>This study shows that cerebellar circuits learn and encode prior probabilities of event timing. Cell-type-specific neural activity reflects environmental statistics and guides predictive motor behavior, providing support for neural Bayesian inference.",
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41593-026-02255-7/MediaObjects/41593_2026_2255_Fig1_HTML.png"
+    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41593-026-02255-7/MediaObjects/41593_2026_2255_Fig1_HTML.png",
+    "topic": "neuroscience"
   },
   {
     "title": "AIs can ‘memorize’ data they shouldn’t. Can they be forced to forget?",
@@ -165,7 +185,8 @@
     "journal": "Science",
     "date": "2026-04-06T08:00:00Z",
     "summary": "New tool could help researchers probe how models “unlearn” sensitive training material",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/6-month_course_in_Russian._%28IA_6monthcourseinru00army%29.pdf/page1-1280px-6-month_course_in_Russian._%28IA_6monthcourseinru00army%29.pdf.jpg"
+    "image": "data:image/svg+xml;charset=utf-8,%0A%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23111827%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23374151%22/%3E%0A%20%20%20%20%3C/linearGradient%3E%0A%20%20%20%20%3Cfilter%20id%3D%22blur%22%3E%0A%20%20%20%20%20%20%3CfeGaussianBlur%20stdDeviation%3D%2230%22/%3E%0A%20%20%20%20%3C/filter%3E%0A%20%20%3C/defs%3E%0A%0A%20%20%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22url%28%23bg%29%22/%3E%0A%0A%20%20%3Ccircle%20cx%3D%221030%22%20cy%3D%22110%22%20r%3D%22170%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.18%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%20%20%3Ccircle%20cx%3D%22180%22%20cy%3D%22560%22%20r%3D%22150%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.16%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%0A%20%20%3Crect%20x%3D%2256%22%20y%3D%2252%22%20rx%3D%2218%22%20ry%3D%2218%22%20width%3D%22240%22%20height%3D%2254%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.08%29%22/%3E%0A%20%20%3Ctext%20x%3D%2284%22%20y%3D%2287%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2228%22%20fill%3D%22%23e5e7eb%22%3EScience%3C/text%3E%0A%0A%20%20%3Ctext%20x%3D%2268%22%20y%3D%22205%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2244%22%20font-weight%3D%22700%22%20fill%3D%22%23f9fafb%22%3E%0A%20%20%20%20AIs%20can%20%E2%80%98memorize%E2%80%99%20data%20they%20shouldn%E2%80%99t.%20Can%20they%20be%20forced%20to%20forget%3F%0A%20%20%3C/text%3E%0A%0A%20%20%3Crect%20x%3D%2268%22%20y%3D%22468%22%20rx%3D%2218%22%20ry%3D%2218%22%20width%3D%22220%22%20height%3D%2264%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.08%29%22/%3E%0A%20%20%3Ctext%20x%3D%22102%22%20y%3D%22510%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2232%22%20fill%3D%22%2360a5fa%22%3E%0A%20%20%20%20Default%0A%20%20%3C/text%3E%0A%0A%20%20%3Ctext%20x%3D%221010%22%20y%3D%22560%22%20text-anchor%3D%22middle%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%22160%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.85%22%3E%0A%20%20%20%20%E2%80%A2%0A%20%20%3C/text%3E%0A%3C/svg%3E%0A",
+    "topic": "default"
   },
   {
     "title": "Relics of an ancient sandstorm on Mars point to Earth-like winds",
@@ -173,7 +194,8 @@
     "journal": "Science",
     "date": "2026-04-06T02:45:00Z",
     "summary": "Curiosity rover finds what may be the first direct evidence that Mars once had a thick atmosphere",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/8/82/Ripple-marked_sandstone_offers_offer_evidence_of_an_ancient_sandstorm%E2%80%94and_a_thicker_martian_atmosphere.jpg"
+    "image": "data:image/svg+xml;charset=utf-8,%0A%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23111827%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23374151%22/%3E%0A%20%20%20%20%3C/linearGradient%3E%0A%20%20%20%20%3Cfilter%20id%3D%22blur%22%3E%0A%20%20%20%20%20%20%3CfeGaussianBlur%20stdDeviation%3D%2230%22/%3E%0A%20%20%20%20%3C/filter%3E%0A%20%20%3C/defs%3E%0A%0A%20%20%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22url%28%23bg%29%22/%3E%0A%0A%20%20%3Ccircle%20cx%3D%221030%22%20cy%3D%22110%22%20r%3D%22170%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.18%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%20%20%3Ccircle%20cx%3D%22180%22%20cy%3D%22560%22%20r%3D%22150%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.16%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%0A%20%20%3Crect%20x%3D%2256%22%20y%3D%2252%22%20rx%3D%2218%22%20ry%3D%2218%22%20width%3D%22240%22%20height%3D%2254%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.08%29%22/%3E%0A%20%20%3Ctext%20x%3D%2284%22%20y%3D%2287%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2228%22%20fill%3D%22%23e5e7eb%22%3EScience%3C/text%3E%0A%0A%20%20%3Ctext%20x%3D%2268%22%20y%3D%22205%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2244%22%20font-weight%3D%22700%22%20fill%3D%22%23f9fafb%22%3E%0A%20%20%20%20Relics%20of%20an%20ancient%20sandstorm%20on%20Mars%20point%20to%20Earth-like%20winds%0A%20%20%3C/text%3E%0A%0A%20%20%3Crect%20x%3D%2268%22%20y%3D%22468%22%20rx%3D%2218%22%20ry%3D%2218%22%20width%3D%22220%22%20height%3D%2264%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.08%29%22/%3E%0A%20%20%3Ctext%20x%3D%22102%22%20y%3D%22510%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2232%22%20fill%3D%22%2360a5fa%22%3E%0A%20%20%20%20Default%0A%20%20%3C/text%3E%0A%0A%20%20%3Ctext%20x%3D%221010%22%20y%3D%22560%22%20text-anchor%3D%22middle%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%22160%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.85%22%3E%0A%20%20%20%20%E2%80%A2%0A%20%20%3C/text%3E%0A%3C/svg%3E%0A",
+    "topic": "default"
   },
   {
     "title": "As war escalates, Iran’s universities face increasing fire",
@@ -181,7 +203,8 @@
     "journal": "Science",
     "date": "2026-04-06T01:55:00Z",
     "summary": "Attacks have destroyed or damaged a wide range of academic and commercial research centers",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/A_new_Arab_alliance_system_-_causes_of_the_Iraq-Iran_war_and_the_reaction_of_various_Arab_states._%28IA_newaraballiances00odon%29.pdf/page1-960px-A_new_Arab_alliance_system_-_causes_of_the_Iraq-Iran_war_and_the_reaction_of_various_Arab_states._%28IA_newaraballiances00odon%29.pdf.jpg"
+    "image": "data:image/svg+xml;charset=utf-8,%0A%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23111827%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23374151%22/%3E%0A%20%20%20%20%3C/linearGradient%3E%0A%20%20%20%20%3Cfilter%20id%3D%22blur%22%3E%0A%20%20%20%20%20%20%3CfeGaussianBlur%20stdDeviation%3D%2230%22/%3E%0A%20%20%20%20%3C/filter%3E%0A%20%20%3C/defs%3E%0A%0A%20%20%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22url%28%23bg%29%22/%3E%0A%0A%20%20%3Ccircle%20cx%3D%221030%22%20cy%3D%22110%22%20r%3D%22170%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.18%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%20%20%3Ccircle%20cx%3D%22180%22%20cy%3D%22560%22%20r%3D%22150%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.16%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%0A%20%20%3Crect%20x%3D%2256%22%20y%3D%2252%22%20rx%3D%2218%22%20ry%3D%2218%22%20width%3D%22240%22%20height%3D%2254%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.08%29%22/%3E%0A%20%20%3Ctext%20x%3D%2284%22%20y%3D%2287%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2228%22%20fill%3D%22%23e5e7eb%22%3EScience%3C/text%3E%0A%0A%20%20%3Ctext%20x%3D%2268%22%20y%3D%22205%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2244%22%20font-weight%3D%22700%22%20fill%3D%22%23f9fafb%22%3E%0A%20%20%20%20As%20war%20escalates%2C%20Iran%E2%80%99s%20universities%20face%20increasing%20fire%0A%20%20%3C/text%3E%0A%0A%20%20%3Crect%20x%3D%2268%22%20y%3D%22468%22%20rx%3D%2218%22%20ry%3D%2218%22%20width%3D%22220%22%20height%3D%2264%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.08%29%22/%3E%0A%20%20%3Ctext%20x%3D%22102%22%20y%3D%22510%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2232%22%20fill%3D%22%2360a5fa%22%3E%0A%20%20%20%20Default%0A%20%20%3C/text%3E%0A%0A%20%20%3Ctext%20x%3D%221010%22%20y%3D%22560%22%20text-anchor%3D%22middle%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%22160%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.85%22%3E%0A%20%20%20%20%E2%80%A2%0A%20%20%3C/text%3E%0A%3C/svg%3E%0A",
+    "topic": "default"
   },
   {
     "title": "Flipping sides in NETosis",
@@ -189,7 +212,8 @@
     "journal": "Nature Immunology",
     "date": "2026-04-06",
     "summary": "<p>Nature Immunology, Published online: 06 April 2026; <a href=\"https://www.nature.com/articles/s41590-026-02492-9\">doi:10.1038/s41590-026-02492-9</a></p>Disruption of lipid asymmetry is not only a consequence of cell death but also a decisive step in the formation of neutrophil extracellular traps.",
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41590-026-02492-9/MediaObjects/41590_2026_2492_Fig1_HTML.png"
+    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41590-026-02492-9/MediaObjects/41590_2026_2492_Fig1_HTML.png",
+    "topic": "immunology"
   },
   {
     "title": "U.S. Forest Service unveils extensive closures of research facilities",
@@ -197,7 +221,8 @@
     "journal": "Science",
     "date": "2026-04-03T06:52:51Z",
     "summary": "Cost-cutting move is expected to cause resignations and turmoil",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Fire_management_notes_-_U.S._Department_of_Agriculture%2C_Forest_Service._%28IA_CAT77680365033%29.pdf/page1-960px-Fire_management_notes_-_U.S._Department_of_Agriculture%2C_Forest_Service._%28IA_CAT77680365033%29.pdf.jpg"
+    "image": "data:image/svg+xml;charset=utf-8,%0A%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23111827%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23374151%22/%3E%0A%20%20%20%20%3C/linearGradient%3E%0A%20%20%20%20%3Cfilter%20id%3D%22blur%22%3E%0A%20%20%20%20%20%20%3CfeGaussianBlur%20stdDeviation%3D%2230%22/%3E%0A%20%20%20%20%3C/filter%3E%0A%20%20%3C/defs%3E%0A%0A%20%20%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22url%28%23bg%29%22/%3E%0A%0A%20%20%3Ccircle%20cx%3D%221030%22%20cy%3D%22110%22%20r%3D%22170%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.18%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%20%20%3Ccircle%20cx%3D%22180%22%20cy%3D%22560%22%20r%3D%22150%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.16%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%0A%20%20%3Crect%20x%3D%2256%22%20y%3D%2252%22%20rx%3D%2218%22%20ry%3D%2218%22%20width%3D%22240%22%20height%3D%2254%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.08%29%22/%3E%0A%20%20%3Ctext%20x%3D%2284%22%20y%3D%2287%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2228%22%20fill%3D%22%23e5e7eb%22%3EScience%3C/text%3E%0A%0A%20%20%3Ctext%20x%3D%2268%22%20y%3D%22205%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2244%22%20font-weight%3D%22700%22%20fill%3D%22%23f9fafb%22%3E%0A%20%20%20%20U.S.%20Forest%20Service%20unveils%20extensive%20closures%20of%20research%20facilities%0A%20%20%3C/text%3E%0A%0A%20%20%3Crect%20x%3D%2268%22%20y%3D%22468%22%20rx%3D%2218%22%20ry%3D%2218%22%20width%3D%22220%22%20height%3D%2264%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.08%29%22/%3E%0A%20%20%3Ctext%20x%3D%22102%22%20y%3D%22510%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2232%22%20fill%3D%22%2360a5fa%22%3E%0A%20%20%20%20Default%0A%20%20%3C/text%3E%0A%0A%20%20%3Ctext%20x%3D%221010%22%20y%3D%22560%22%20text-anchor%3D%22middle%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%22160%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.85%22%3E%0A%20%20%20%20%E2%80%A2%0A%20%20%3C/text%3E%0A%3C/svg%3E%0A",
+    "topic": "default"
   },
   {
     "title": "Slasher sequel: Trump again proposes major cuts to U.S. science spending",
@@ -205,7 +230,8 @@
     "journal": "Science",
     "date": "2026-04-03T06:35:54Z",
     "summary": "Science advocates urge Congress to reject 2027 budget plan",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/A_book_of_poems_for_the_Blue_Cross_Fund_%28to_help_horses_in_war_time%29_President%2C_Lady_Smith-Dorrien_%28IA_bookofpoemsforbl00bluerich%29.pdf/page1-500px-A_book_of_poems_for_the_Blue_Cross_Fund_%28to_help_horses_in_war_time%29_President%2C_Lady_Smith-Dorrien_%28IA_bookofpoemsforbl00bluerich%29.pdf.jpg"
+    "image": "data:image/svg+xml;charset=utf-8,%0A%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23111827%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23374151%22/%3E%0A%20%20%20%20%3C/linearGradient%3E%0A%20%20%20%20%3Cfilter%20id%3D%22blur%22%3E%0A%20%20%20%20%20%20%3CfeGaussianBlur%20stdDeviation%3D%2230%22/%3E%0A%20%20%20%20%3C/filter%3E%0A%20%20%3C/defs%3E%0A%0A%20%20%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22url%28%23bg%29%22/%3E%0A%0A%20%20%3Ccircle%20cx%3D%221030%22%20cy%3D%22110%22%20r%3D%22170%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.18%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%20%20%3Ccircle%20cx%3D%22180%22%20cy%3D%22560%22%20r%3D%22150%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.16%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%0A%20%20%3Crect%20x%3D%2256%22%20y%3D%2252%22%20rx%3D%2218%22%20ry%3D%2218%22%20width%3D%22240%22%20height%3D%2254%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.08%29%22/%3E%0A%20%20%3Ctext%20x%3D%2284%22%20y%3D%2287%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2228%22%20fill%3D%22%23e5e7eb%22%3EScience%3C/text%3E%0A%0A%20%20%3Ctext%20x%3D%2268%22%20y%3D%22205%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2244%22%20font-weight%3D%22700%22%20fill%3D%22%23f9fafb%22%3E%0A%20%20%20%20Slasher%20sequel%3A%20Trump%20again%20proposes%20major%20cuts%20to%20U.S.%20science%20spending%0A%20%20%3C/text%3E%0A%0A%20%20%3Crect%20x%3D%2268%22%20y%3D%22468%22%20rx%3D%2218%22%20ry%3D%2218%22%20width%3D%22220%22%20height%3D%2264%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.08%29%22/%3E%0A%20%20%3Ctext%20x%3D%22102%22%20y%3D%22510%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2232%22%20fill%3D%22%2360a5fa%22%3E%0A%20%20%20%20Default%0A%20%20%3C/text%3E%0A%0A%20%20%3Ctext%20x%3D%221010%22%20y%3D%22560%22%20text-anchor%3D%22middle%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%22160%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.85%22%3E%0A%20%20%20%20%E2%80%A2%0A%20%20%3C/text%3E%0A%3C/svg%3E%0A",
+    "topic": "default"
   },
   {
     "title": "Newly found macrophages stand guard inside blood vessels",
@@ -213,7 +239,8 @@
     "journal": "Nature Immunology",
     "date": "2026-04-03",
     "summary": "<p>Nature Immunology, Published online: 03 April 2026; <a href=\"https://www.nature.com/articles/s41590-026-02503-9\">doi:10.1038/s41590-026-02503-9</a></p>Using high-resolution live imaging in zebrafish, we discovered a population of macrophages residing within blood vessels, termed blood vessel-resident macrophages. These cells clear foreign particles and unfit cells from the circulation and rapidly respond to endothelial injury. Blood vessel-resident macrophages therefore constitute a dedicated immune population that safeguards blood and vascular integrity.",
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41590-026-02503-9/MediaObjects/41590_2026_2503_Fig1_HTML.png"
+    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41590-026-02503-9/MediaObjects/41590_2026_2503_Fig1_HTML.png",
+    "topic": "macrophage"
   },
   {
     "title": "Engineering metabolite-sensing NK and T cells to target solid tumors",
@@ -221,7 +248,8 @@
     "journal": "Nature Immunology",
     "date": "2026-04-03",
     "summary": "<p>Nature Immunology, Published online: 03 April 2026; <a href=\"https://www.nature.com/articles/s41590-026-02500-y\">doi:10.1038/s41590-026-02500-y</a></p>Through CRISPR activation screens, we discovered that metabolite-sensing receptors can be used to mobilize natural killer cells and T cells toward solid tumors. Aberrant tumor metabolism is routinely used for diagnosis. Our work now shows that tumor metabolism can be leveraged for therapeutics through the design of tumor-targeted metabolite-sensing effector immune cells.",
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41590-026-02500-y/MediaObjects/41590_2026_2500_Fig1_HTML.png"
+    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41590-026-02500-y/MediaObjects/41590_2026_2500_Fig1_HTML.png",
+    "topic": "t cell"
   },
   {
     "title": "Multimerizing transcription factors FOXP3 and AIRE as chromatin architectural regulators",
@@ -229,7 +257,8 @@
     "journal": "Nature Immunology",
     "date": "2026-04-03",
     "summary": "<p>Nature Immunology, Published online: 03 April 2026; <a href=\"https://www.nature.com/articles/s41590-026-02483-w\">doi:10.1038/s41590-026-02483-w</a></p>Hur and colleagues review recent developments to provide insights into the molecular mechanisms and regulatory functions of the transcriptional regulators FOXP3 and AIRE.",
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41590-026-02483-w/MediaObjects/41590_2026_2483_Fig1_HTML.png"
+    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41590-026-02483-w/MediaObjects/41590_2026_2483_Fig1_HTML.png",
+    "topic": "immunology"
   },
   {
     "title": "A unique CD4⁺ T cell subset expressing granzyme K is regulated by transcription factor EOMES and important for T cell-mediated intestinal inflammation",
@@ -237,7 +266,8 @@
     "journal": "Nature Immunology",
     "date": "2026-04-02",
     "summary": "<p>Nature Immunology, Published online: 02 April 2026; <a href=\"https://www.nature.com/articles/s41590-026-02479-6\">doi:10.1038/s41590-026-02479-6</a></p>Xie et al. identify a distinct subset of CD4+ helper T cells expressing EOMES and granzyme K in both mice and human models of colitis.",
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41590-026-02479-6/MediaObjects/41590_2026_2479_Fig1_HTML.png"
+    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41590-026-02479-6/MediaObjects/41590_2026_2479_Fig1_HTML.png",
+    "topic": "t cell"
   },
   {
     "title": "Entorhinal cortex represents task-relevant remote locations independently of CA1",
@@ -245,7 +275,8 @@
     "journal": "Nature Neuroscience",
     "date": "2026-04-01",
     "summary": "<p>Nature Neuroscience, Published online: 01 April 2026; <a href=\"https://www.nature.com/articles/s41593-026-02232-0\">doi:10.1038/s41593-026-02232-0</a></p>Neurons in medial entorhinal cortex collectively represent discrete nonlocal positions during immobility. During this nonlocal coding, CA1 is uncoupled from entorhinal cortex. These representations are of task-relevant locations.",
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41593-026-02232-0/MediaObjects/41593_2026_2232_Fig1_HTML.png"
+    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41593-026-02232-0/MediaObjects/41593_2026_2232_Fig1_HTML.png",
+    "topic": "cortex"
   },
   {
     "title": "Dorsoventral hippocampus neural assemblies reactivate during sleep following an aversive experience",
@@ -253,7 +284,8 @@
     "journal": "Nature Neuroscience",
     "date": "2026-04-01",
     "summary": "<p>Nature Neuroscience, Published online: 01 April 2026; <a href=\"https://www.nature.com/articles/s41593-026-02252-w\">doi:10.1038/s41593-026-02252-w</a></p>Synchronization of sharp-wave ripples across the dorsoventral hippocampus during sleep supports coordinated reactivation that represents negative experiences more faithfully than positive ones.",
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41593-026-02252-w/MediaObjects/41593_2026_2252_Fig1_HTML.png"
+    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41593-026-02252-w/MediaObjects/41593_2026_2252_Fig1_HTML.png",
+    "topic": "neuroscience"
   },
   {
     "title": "Band-Aid for antibody production",
@@ -261,7 +293,8 @@
     "journal": "Nature Immunology",
     "date": "2026-04-01",
     "summary": "<p>Nature Immunology, Published online: 01 April 2026; <a href=\"https://www.nature.com/articles/s41590-026-02497-4\">doi:10.1038/s41590-026-02497-4</a></p>Band-Aid for antibody production",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Information_resources_for_adjuvants_and_antibody_production_-_comparisons_and_alternative_technologies%2C_1990-1997_%28IA_CAT10841987%29.pdf/page1-960px-Information_resources_for_adjuvants_and_antibody_production_-_comparisons_and_alternative_technologies%2C_1990-1997_%28IA_CAT10841987%29.pdf.jpg"
+    "image": "data:image/svg+xml;charset=utf-8,%0A%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23052e16%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23166534%22/%3E%0A%20%20%20%20%3C/linearGradient%3E%0A%20%20%20%20%3Cfilter%20id%3D%22blur%22%3E%0A%20%20%20%20%20%20%3CfeGaussianBlur%20stdDeviation%3D%2230%22/%3E%0A%20%20%20%20%3C/filter%3E%0A%20%20%3C/defs%3E%0A%0A%20%20%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22url%28%23bg%29%22/%3E%0A%0A%20%20%3Ccircle%20cx%3D%221030%22%20cy%3D%22110%22%20r%3D%22170%22%20fill%3D%22%234ade80%22%20opacity%3D%220.18%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%20%20%3Ccircle%20cx%3D%22180%22%20cy%3D%22560%22%20r%3D%22150%22%20fill%3D%22%234ade80%22%20opacity%3D%220.16%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%0A%20%20%3Crect%20x%3D%2256%22%20y%3D%2252%22%20rx%3D%2218%22%20ry%3D%2218%22%20width%3D%22240%22%20height%3D%2254%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.08%29%22/%3E%0A%20%20%3Ctext%20x%3D%2284%22%20y%3D%2287%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2228%22%20fill%3D%22%23e5e7eb%22%3ENature%20Immunology%3C/text%3E%0A%0A%20%20%3Ctext%20x%3D%2268%22%20y%3D%22205%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2244%22%20font-weight%3D%22700%22%20fill%3D%22%23f9fafb%22%3E%0A%20%20%20%20Band-Aid%20for%20antibody%20production%0A%20%20%3C/text%3E%0A%0A%20%20%3Crect%20x%3D%2268%22%20y%3D%22468%22%20rx%3D%2218%22%20ry%3D%2218%22%20width%3D%22220%22%20height%3D%2264%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.08%29%22/%3E%0A%20%20%3Ctext%20x%3D%22102%22%20y%3D%22510%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2232%22%20fill%3D%22%234ade80%22%3E%0A%20%20%20%20Immunology%0A%20%20%3C/text%3E%0A%0A%20%20%3Ctext%20x%3D%221010%22%20y%3D%22560%22%20text-anchor%3D%22middle%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%22160%22%20fill%3D%22%234ade80%22%20opacity%3D%220.85%22%3E%0A%20%20%20%20%E2%9C%B3%0A%20%20%3C/text%3E%0A%3C/svg%3E%0A",
+    "topic": "immunology"
   },
   {
     "title": "Lipids drive autoinflammation",
@@ -269,7 +302,8 @@
     "journal": "Nature Immunology",
     "date": "2026-04-01",
     "summary": "<p>Nature Immunology, Published online: 01 April 2026; <a href=\"https://www.nature.com/articles/s41590-026-02498-3\">doi:10.1038/s41590-026-02498-3</a></p>Lipids drive autoinflammation",
-    "image": "./images/nature-immunology.jpg"
+    "image": "data:image/svg+xml;charset=utf-8,%0A%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23450a0a%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23991b1b%22/%3E%0A%20%20%20%20%3C/linearGradient%3E%0A%20%20%20%20%3Cfilter%20id%3D%22blur%22%3E%0A%20%20%20%20%20%20%3CfeGaussianBlur%20stdDeviation%3D%2230%22/%3E%0A%20%20%20%20%3C/filter%3E%0A%20%20%3C/defs%3E%0A%0A%20%20%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22url%28%23bg%29%22/%3E%0A%0A%20%20%3Ccircle%20cx%3D%221030%22%20cy%3D%22110%22%20r%3D%22170%22%20fill%3D%22%23fb7185%22%20opacity%3D%220.18%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%20%20%3Ccircle%20cx%3D%22180%22%20cy%3D%22560%22%20r%3D%22150%22%20fill%3D%22%23fb7185%22%20opacity%3D%220.16%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%0A%20%20%3Crect%20x%3D%2256%22%20y%3D%2252%22%20rx%3D%2218%22%20ry%3D%2218%22%20width%3D%22240%22%20height%3D%2254%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.08%29%22/%3E%0A%20%20%3Ctext%20x%3D%2284%22%20y%3D%2287%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2228%22%20fill%3D%22%23e5e7eb%22%3ENature%20Immunology%3C/text%3E%0A%0A%20%20%3Ctext%20x%3D%2268%22%20y%3D%22205%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2244%22%20font-weight%3D%22700%22%20fill%3D%22%23f9fafb%22%3E%0A%20%20%20%20Lipids%20drive%20autoinflammation%0A%20%20%3C/text%3E%0A%0A%20%20%3Crect%20x%3D%2268%22%20y%3D%22468%22%20rx%3D%2218%22%20ry%3D%2218%22%20width%3D%22220%22%20height%3D%2264%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.08%29%22/%3E%0A%20%20%3Ctext%20x%3D%22102%22%20y%3D%22510%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2232%22%20fill%3D%22%23fb7185%22%3E%0A%20%20%20%20Inflammation%0A%20%20%3C/text%3E%0A%0A%20%20%3Ctext%20x%3D%221010%22%20y%3D%22560%22%20text-anchor%3D%22middle%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%22160%22%20fill%3D%22%23fb7185%22%20opacity%3D%220.85%22%3E%0A%20%20%20%20%E2%96%B2%0A%20%20%3C/text%3E%0A%3C/svg%3E%0A",
+    "topic": "inflammation"
   },
   {
     "title": "Engineering Trikines",
@@ -277,7 +311,8 @@
     "journal": "Nature Immunology",
     "date": "2026-04-01",
     "summary": "<p>Nature Immunology, Published online: 01 April 2026; <a href=\"https://www.nature.com/articles/s41590-026-02496-5\">doi:10.1038/s41590-026-02496-5</a></p>Engineering Trikines",
-    "image": "./images/nature-immunology.jpg"
+    "image": "data:image/svg+xml;charset=utf-8,%0A%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23052e16%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23166534%22/%3E%0A%20%20%20%20%3C/linearGradient%3E%0A%20%20%20%20%3Cfilter%20id%3D%22blur%22%3E%0A%20%20%20%20%20%20%3CfeGaussianBlur%20stdDeviation%3D%2230%22/%3E%0A%20%20%20%20%3C/filter%3E%0A%20%20%3C/defs%3E%0A%0A%20%20%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22url%28%23bg%29%22/%3E%0A%0A%20%20%3Ccircle%20cx%3D%221030%22%20cy%3D%22110%22%20r%3D%22170%22%20fill%3D%22%234ade80%22%20opacity%3D%220.18%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%20%20%3Ccircle%20cx%3D%22180%22%20cy%3D%22560%22%20r%3D%22150%22%20fill%3D%22%234ade80%22%20opacity%3D%220.16%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%0A%20%20%3Crect%20x%3D%2256%22%20y%3D%2252%22%20rx%3D%2218%22%20ry%3D%2218%22%20width%3D%22240%22%20height%3D%2254%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.08%29%22/%3E%0A%20%20%3Ctext%20x%3D%2284%22%20y%3D%2287%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2228%22%20fill%3D%22%23e5e7eb%22%3ENature%20Immunology%3C/text%3E%0A%0A%20%20%3Ctext%20x%3D%2268%22%20y%3D%22205%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2244%22%20font-weight%3D%22700%22%20fill%3D%22%23f9fafb%22%3E%0A%20%20%20%20Engineering%20Trikines%0A%20%20%3C/text%3E%0A%0A%20%20%3Crect%20x%3D%2268%22%20y%3D%22468%22%20rx%3D%2218%22%20ry%3D%2218%22%20width%3D%22220%22%20height%3D%2264%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.08%29%22/%3E%0A%20%20%3Ctext%20x%3D%22102%22%20y%3D%22510%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2232%22%20fill%3D%22%234ade80%22%3E%0A%20%20%20%20Immunology%0A%20%20%3C/text%3E%0A%0A%20%20%3Ctext%20x%3D%221010%22%20y%3D%22560%22%20text-anchor%3D%22middle%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%22160%22%20fill%3D%22%234ade80%22%20opacity%3D%220.85%22%3E%0A%20%20%20%20%E2%9C%B3%0A%20%20%3C/text%3E%0A%3C/svg%3E%0A",
+    "topic": "immunology"
   },
   {
     "title": "Author Correction: Dopamine projections to the basolateral amygdala drive the encoding of identity-specific reward memories",
@@ -285,6 +320,7 @@
     "journal": "Nature Neuroscience",
     "date": "2026-03-31",
     "summary": "<p>Nature Neuroscience, Published online: 31 March 2026; <a href=\"https://www.nature.com/articles/s41593-026-02270-8\">doi:10.1038/s41593-026-02270-8</a></p>Author Correction: Dopamine projections to the basolateral amygdala drive the encoding of identity-specific reward memories",
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41593-026-02270-8/MediaObjects/41593_2026_2270_Fig1_HTML.png"
+    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41593-026-02270-8/MediaObjects/41593_2026_2270_Fig1_HTML.png",
+    "topic": "neuroscience"
   }
 ]
