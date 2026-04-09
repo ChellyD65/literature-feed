@@ -166,17 +166,14 @@ def compute_priority_score(title: str, summary: str, topic: str) -> int:
     text_summary = strip_html(summary).lower()
 
     score = 0
-
-    # Strong boost for detected topic
     score += PRIORITY_TOPICS.get(topic, 0)
 
-    # Additional keyword boosts
     for label, keywords in PRIORITY_KEYWORDS.items():
         for kw in keywords:
             if kw in text_title:
-                score += 12
+                score += 20
             if kw in text_summary:
-                score += 4
+                score += 6
 
     return score
     
