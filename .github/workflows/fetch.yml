@@ -1,0 +1,27 @@
+name: Fetch Science Feeds
+
+on:
+  schedule:
+    - cron: "*/30 * * * *"   # every 30 minutes
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Install Python deps
+        run: pip install feedparser
+
+      - name: Fetch feeds
+        run: python fetch.py
+
+      - name: Commit updated feed
+        run: |
+          git config --global user.name "bot"
+          git config --global user.email "bot@github.com"
+          git add data/feed.json
+          git commit -m "update feed" || exit 0
+          git push
