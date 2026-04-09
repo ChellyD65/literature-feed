@@ -193,6 +193,17 @@ a:hover {
   margin-bottom: 14px;
 }
 
+.image-wrap::after {
+  content: "";
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  height: 40%;
+  background: linear-gradient(to top, rgba(0,0,0,0.6), transparent);
+  border-radius: 16px;
+}
+
 .image-wrap .paper-image {
   margin-bottom: 0;
 }
