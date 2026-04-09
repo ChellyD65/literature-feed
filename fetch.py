@@ -67,8 +67,6 @@ items = []
 for journal, url in feeds.items():
     d = feedparser.parse(url)
 
-
-    
     for entry in d.entries[:10]:
 
         image = extract_image(entry)
