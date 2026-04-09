@@ -73,6 +73,116 @@ def strip_html(text: str) -> str:
     text = html.unescape(text)
     return re.sub(r"\s+", " ", text).strip()
 
+def clean_text(text: str) -> str:
+    return strip_html(text)
+
+
+def looks_like_real_abstract(text: str) -> bool:
+    if not text:
+        return False
+
+    t = clean_text(text)
+    if len(t) < 250:
+        return False
+
+    bad_starts = [
+        "significance",
+        "editor's summary",
+        "this article has a correction",
+    ]
+    tl = t.lower()
+    if any(tl.startswith(x) for x in bad_starts):
+        return False
+
+    return True
+
+
+def extract_feed_abstract(entry) -> str:
+    candidates = []
+
+    summary = entry.get("summary", "")
+    if summary:
+        candidates.append(summary)
+
+    subtitle = entry.get("subtitle", "")
+    if subtitle:
+        candidates.append(subtitle)
+
+    description = entry.get("description", "")
+    if description:
+        candidates.append(description)
+
+    for c in entry.get("content", []):
+        value = c.get("value", "")
+        if value:
+            candidates.append(value)
+
+    for text in candidates:
+        cleaned = clean_text(text)
+        if looks_like_real_abstract(cleaned):
+            return cleaned
+
+    return ""
+
+
+def extract_meta_abstract(url: str) -> str:
+    try:
+        r = SESSION.get(url, timeout=15)
+        r.raise_for_status()
+        soup = BeautifulSoup(r.text, "html.parser")
+
+        meta_candidates = [
+            ("meta", {"name": "dc.description"}),
+            ("meta", {"name": "dc.Description"}),
+            ("meta", {"name": "description"}),
+            ("meta", {"property": "og:description"}),
+            ("meta", {"name": "twitter:description"}),
+            ("meta", {"name": "citation_abstract"}),
+        ]
+
+        for tag_name, attrs in meta_candidates:
+            tag = soup.find(tag_name, attrs=attrs)
+            if tag and tag.get("content"):
+                text = clean_text(tag["content"])
+                if looks_like_real_abstract(text):
+                    return text
+
+        # Common publisher page abstract blocks
+        selectors = [
+            '[id*="abstract"]',
+            '[class*="abstract"]',
+            'section.abstract',
+            'div.abstract',
+        ]
+
+        for sel in selectors:
+            node = soup.select_one(sel)
+            if node:
+                text = clean_text(node.get_text(" ", strip=True))
+                if looks_like_real_abstract(text):
+                    return text
+
+    except Exception as e:
+        print(f"Abstract scrape failed for {url}: {e}")
+
+    return ""
+
+def choose_abstract(entry, journal: str) -> str:
+    link = entry.get("link", "")
+
+    # 1. Best case: feed already contains the abstract
+    abstract = extract_feed_abstract(entry)
+    if abstract:
+        return abstract
+
+    # 2. Try publisher page metadata / abstract block
+    if link:
+        abstract = extract_meta_abstract(link)
+        if abstract:
+            return abstract
+
+    # 3. Fall back to feed summary
+    return clean_text(entry.get("summary", ""))
 
 def extract_image(entry) -> str:
     media_content = entry.get("media_content", [])
@@ -341,13 +451,15 @@ def process_source(source: dict, topics: list[dict]) -> list[dict]:
 
     for entry in d.entries[:limit]:
         title = entry.get("title", "")
-        summary = entry.get("summary", "")
+        summary = clean_text(entry.get("summary", ""))
+        abstract = choose_abstract(entry, name)
         date_str = normalize_date(entry)
-        topic = choose_topic(title, summary, name, topics)
-        priority_score = compute_priority_score(title, summary, topic, topics)
+        
+        topic = choose_topic(title, abstract or summary, name, topics)
+        priority_score = compute_priority_score(title, abstract or summary, topic, topics)
         image = choose_image(entry, name, topic, topics)
         topic_style = get_topic_style(topic, topics)
-
+        
         items.append(
             {
                 "title": title,
@@ -357,6 +469,7 @@ def process_source(source: dict, topics: list[dict]) -> list[dict]:
                 "date": date_str,
                 "date_sort": parse_datetime_for_sort(date_str),
                 "summary": summary,
+                "abstract": abstract,
                 "image": image,
                 "topic": topic,
                 "topic_color": topic_style["accent"],
