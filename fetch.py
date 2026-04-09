@@ -32,6 +32,24 @@ FEEDS = {
     # "bioRxiv Immunology": "<category-specific Atom/RSS URL from bioRxiv alerts page>",
 }
 
+PRIORITY_TOPICS = {
+    "choroid plexus": 60
+    "microglia": 50,
+    "macrophage": 40,
+    "retina": 35,
+    "neurodegeneration": 30,
+    "inflammation": 25,
+}
+
+
+PRIORITY_KEYWORDS = {
+    "microglia": ["microglia", "microglial"],
+    "macrophage": ["macrophage", "macrophages"],
+    "retina": ["retina", "retinal", "rpe", "photoreceptor"],
+    "neurodegeneration": ["neurodegeneration", "parkinson", "alzheimer", "degeneration"],
+    "inflammation": ["inflammation", "inflammatory", "cytokine"],
+}
+
 BLOCKED_IMAGE_SCRAPE_DOMAINS = {
     "science.org",
     "www.science.org",
@@ -142,7 +160,26 @@ def extract_og_image(url: str) -> str:
         print(f"Image scrape failed for {url}: {e}")
 
     return ""
+    
+def compute_priority_score(title: str, summary: str, topic: str) -> int:
+    text_title = strip_html(title).lower()
+    text_summary = strip_html(summary).lower()
 
+    score = 0
+
+    # Strong boost for detected topic
+    score += PRIORITY_TOPICS.get(topic, 0)
+
+    # Additional keyword boosts
+    for label, keywords in PRIORITY_KEYWORDS.items():
+        for kw in keywords:
+            if kw in text_title:
+                score += 12
+            if kw in text_summary:
+                score += 4
+
+    return score
+    
 def choose_topic(title: str, summary: str, journal: str = "") -> str:
     text = f"{strip_html(title)} {strip_html(summary)}".lower()
 
@@ -237,20 +274,28 @@ def main():
 
       for entry in d.entries[:10]:
           image, topic = choose_image(entry, journal)
+          title = entry.get("title", "")
+          summary = entry.get("summary", "")
+          priority_score = compute_priority_score(title, summary, topic)
 
           items.append(
               {
-                  "title": entry.get("title", ""),
-                  "link": entry.get("link", ""),
-                  "journal": journal,
-                  "date": normalize_date(entry),
-                  "summary": entry.get("summary", ""),
-                  "image": image,
-                  "topic": topic,
+                "title": title,
+                "link": entry.get("link", ""),
+                "journal": journal,
+                "date": normalize_date(entry),
+                "summary": summary,
+                "image": image,
+                "topic": topic,
+                "priority_score": priority_score,
               }
           )
 
-    items = sorted(items, key=lambda x: x.get("date", ""), reverse=True)
+    items = sorted(
+    items,
+    key=lambda x: (x.get("priority_score", 0), x.get("date", "")),
+    reverse=True
+    )
 
     with open("data/feed.json", "w", encoding="utf-8") as f:
         json.dump(items[:100], f, indent=2, ensure_ascii=False)
