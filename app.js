@@ -9,11 +9,16 @@ async function loadFeed() {
     card.className = 'card';
 
     const cleanSummary = (p.summary || "")
-      .replace(/<[^>]*>/g, '') // strip HTML
+      .replace(/<[^>]*>/g, '')
       .trim();
+
+    const imageHtml = p.image
+      ? `<img class="paper-image" src="${p.image}" alt="Related image for ${p.title}">`
+      : '';
 
     card.innerHTML = `
       <div class="card-inner">
+        ${imageHtml}
         <div class="title">${p.title}</div>
         <div class="meta">${p.journal} — ${p.date}</div>
 
@@ -23,7 +28,7 @@ async function loadFeed() {
 
         <div class="actions">
           <button onclick="toggleAbstract(${i})">Expand</button>
-          <a href="${p.link}" target="_blank">Open paper</a>
+          <a href="${p.link}" target="_blank" rel="noopener noreferrer">Open paper</a>
         </div>
       </div>
     `;
