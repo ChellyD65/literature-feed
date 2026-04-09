@@ -47,6 +47,10 @@ async function loadFeed() {
         ? `<button type="button" onclick="toggleAbstract(${i}, this)">Expand</button>`
         : '';
 
+      const topicBadge = p.topic && p.topic !== 'default'
+        ? `<div class="topic-badge">${escapeHtml(p.topic)}</div>`
+        : '';
+      
       card.innerHTML = `
         <div class="card-inner">
           ${imageHtml}
