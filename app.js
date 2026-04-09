@@ -73,7 +73,7 @@ function scrollToCard(index) {
 
   window.setTimeout(() => {
     isAnimating = false;
-  }, 300);
+  }, 220);
 }
 
 function updateActiveCard(index) {
@@ -122,7 +122,7 @@ function setupSwipeControls() {
       if (wheelCooldown || isAnimating) return;
 
       const absDelta = Math.abs(e.deltaY);
-      if (absDelta < 18) return;
+      if (absDelta < 35) return;
 
       wheelCooldown = true;
 
@@ -156,7 +156,7 @@ function setupSwipeControls() {
       touchEndY = e.changedTouches[0].clientY;
       const deltaY = touchStartY - touchEndY;
 
-      if (Math.abs(deltaY) < 50) return;
+      if (Math.abs(deltaY) < 80) return;
 
       if (deltaY > 0) {
         scrollToCard(currentCardIndex + 1);
