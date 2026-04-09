@@ -9,12 +9,27 @@ import requests
 from bs4 import BeautifulSoup
 
 FEEDS = {
+    # Broad / flagship
     "Nature": "https://www.nature.com/nature.rss",
+    "Cell": "https://www.cell.com/cell/rss",
+    "Science": "https://www.science.org/rss/news_current.xml",
+
+    # Nature neuroscience / immunology / medicine
     "Nature Neuroscience": "https://www.nature.com/neuro.rss",
     "Nature Immunology": "https://www.nature.com/ni.rss",
+    "Nature Medicine": "https://www.nature.com/nm.rss",
+
+    # Cell Press
     "Immunity": "https://www.cell.com/immunity/rss",
     "Neuron": "https://www.cell.com/neuron/rss",
-    "Science": "https://www.science.org/rss/news_current.xml",
+    "Cancer Cell": "https://www.cell.com/cancer-cell/rss",
+    "Cell Stem Cell": "https://www.cell.com/cell-stem-cell/rss",
+
+    # bioRxiv
+    "bioRxiv Recent": "https://www.biorxiv.org/rss/recent.xml",
+    # optional category pages if you want to test them manually from bioRxiv's RSS directory:
+    # "bioRxiv Neuroscience": "<category-specific Atom/RSS URL from bioRxiv alerts page>",
+    # "bioRxiv Immunology": "<category-specific Atom/RSS URL from bioRxiv alerts page>",
 }
 
 BLOCKED_IMAGE_SCRAPE_DOMAINS = {
