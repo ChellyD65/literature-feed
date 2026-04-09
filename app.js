@@ -6,7 +6,7 @@ let wheelAccumulator = 0;
 let wheelResetTimer = null;
 
 const WHEEL_STEP_THRESHOLD = 85;
-const SNAP_LOCK_MS = 800;
+const SNAP_LOCK_MS = 500;
 const SNAP_ANIM_MS = 180;
 
 async function loadFeed() {
