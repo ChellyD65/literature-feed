@@ -4,21 +4,21 @@
     "url": "https://www.nature.com/nature.rss",
     "enabled": true,
     "category": "journal",
-    "limit": 5
+    "limit": 12
   },
   {
     "name": "Science",
     "url": "https://www.science.org/rss/news_current.xml",
     "enabled": true,
     "category": "journal",
-    "limit": 5
+    "limit": 12
   },
   {
     "name": "Cell",
     "url": "https://www.cell.com/cell/rss",
     "enabled": true,
     "category": "journal",
-    "limit": 6
+    "limit": 12
   },
 
   {
@@ -26,14 +26,14 @@
     "url": "https://www.nature.com/neuro.rss",
     "enabled": true,
     "category": "journal",
-    "limit": 8
+    "limit": 12
   },
   {
     "name": "Neuron",
     "url": "https://www.cell.com/neuron/rss",
     "enabled": true,
     "category": "journal",
-    "limit": 8
+    "limit": 12
   },
 
   {
@@ -41,14 +41,14 @@
     "url": "https://www.nature.com/ni.rss",
     "enabled": true,
     "category": "journal",
-    "limit": 8
+    "limit": 12
   },
   {
     "name": "Immunity",
     "url": "https://www.cell.com/immunity/rss",
     "enabled": true,
     "category": "journal",
-    "limit": 8
+    "limit": 12
   },
 
   {
@@ -56,21 +56,21 @@
     "url": "https://www.nature.com/nm.rss",
     "enabled": true,
     "category": "journal",
-    "limit": 6
+    "limit": 12
   },
   {
     "name": "Cell Stem Cell",
     "url": "https://www.cell.com/cell-stem-cell/rss",
     "enabled": true,
     "category": "journal",
-    "limit": 6
+    "limit": 12
   },
   {
     "name": "Cancer Cell",
     "url": "https://www.cell.com/cancer-cell/rss",
     "enabled": false,
     "category": "journal",
-    "limit": 6
+    "limit": 12
   },
 
   {
@@ -78,14 +78,14 @@
     "url": "https://www.pnas.org/rss/current.xml",
     "enabled": true,
     "category": "journal",
-    "limit": 6
+    "limit": 12
   },
   {
     "name": "eLife",
     "url": "https://elifesciences.org/rss/current.xml",
     "enabled": true,
     "category": "journal",
-    "limit": 6
+    "limit": 12
   },
 
   {
