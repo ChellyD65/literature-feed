@@ -33,7 +33,7 @@ FEEDS = {
 }
 
 PRIORITY_TOPICS = {
-    "choroid plexus": 60
+    "choroid plexus": 60,
     "microglia": 50,
     "macrophage": 40,
     "retina": 35,
