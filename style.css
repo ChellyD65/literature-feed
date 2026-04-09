@@ -1,262 +1,285 @@
-html, body {
-  margin: 0;
-  padding: 0;
-  height: 100%;
-}
+let isAnimating = false;
+let touchStartY = 0;
+let touchEndY = 0;
+let currentCardIndex = 0;
 
-body {
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
-  background: #0f1115;
-  color: #e6e6e6;
+async function loadFeed() {
+  try {
+    const res = await fetch('./data/feed.json');
+    if (!res.ok) {
+      throw new Error(`Failed to load feed.json: ${res.status}`);
+    }
 
-  overflow-y: scroll;
-  scroll-snap-type: y mandatory;
-  scroll-behavior: smooth;
-  -webkit-overflow-scrolling: touch;
-  overscroll-behavior-y: contain;
+    const papers = await res.json();
+    const container = document.getElementById('feed');
 
-  scrollbar-width: none;
-}
+    if (!container) {
+      throw new Error('Missing #feed container in index.html');
+    }
 
-body::-webkit-scrollbar {
-  display: none;
-}
+    container.innerHTML = '';
 
-#feed {
-  width: 100%;
-}
+    papers.forEach((p, i) => {
+      const card = document.createElement('div');
 
-/* Full-screen snap page */
-.card {
-  height: 100vh;
-  padding: 16px;
-  box-sizing: border-box;
-  scroll-snap-align: start;
-  scroll-snap-stop: always;
+      const cleanSummary = stripHtml(p.summary || '').trim();
+      const hasImage = !!p.image;
+      card.className = hasImage ? 'card' : 'card no-image';
 
-  display: flex;
-  align-items: stretch;
-  justify-content: center;
+      const imageHtml = hasImage
+        ? `<img class="paper-image" src="${escapeHtml(p.image)}" alt="Image related to ${escapeHtml(p.title || 'paper')}" loading="lazy" referrerpolicy="no-referrer">`
+        : '';
 
-  opacity: 0.82;
-  transform: scale(0.97) translateY(6px);
-  transition:
-    transform 140ms cubic-bezier(0.4, 0, 0.2, 1),
-    opacity 140ms linear;
-}
+      const showExpand = cleanSummary.length > 900;
+      const expandButtonHtml = showExpand
+        ? `<button type="button" onclick="toggleAbstract(${i}, this)">Expand</button>`
+        : '';
 
-.card.active {
-  opacity: 1;
-  transform: scale(1) translateY(0);
-}
+      card.innerHTML = `
+        <div class="card-inner">
+          ${imageHtml}
+          <div class="title">${escapeHtml(p.title || '')}</div>
+          <div class="meta">${escapeHtml(p.journal || '')} — ${escapeHtml(formatDate(p.date || ''))}</div>
 
-/* Main visible card */
-.card-inner {
-  width: min(980px, 100%);
-  height: 100%;
+          <div class="abstract" id="abs-${i}">
+            ${escapeHtml(cleanSummary)}
+          </div>
 
-  display: flex;
-  flex-direction: column;
+          <div class="actions">
+            ${expandButtonHtml}
+            <a href="${escapeHtml(p.link || '#')}" target="_blank" rel="noopener noreferrer">Open paper</a>
+          </div>
+        </div>
+      `;
 
-  background: #161a22;
-  border: 1px solid #222a36;
-  border-radius: 24px;
-  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.28);
+      container.appendChild(card);
+    });
 
-  padding: 22px;
-  box-sizing: border-box;
-  overflow: hidden;
-}
+    setupActiveCardObserver();
+    setupSwipeControls();
+    updateActiveCard(0);
+    markInitialCardsReady();
 
-/* Image kept smaller so text has room */
-.paper-image {
-  display: block;
-  width: 100%;
-  max-height: 180px;
-  min-height: 120px;
-  object-fit: cover;
-  border-radius: 16px;
-  margin-bottom: 14px;
-  border: 1px solid #222;
-  background: #0f1115;
-}
+    if (!papers.length) {
+      container.innerHTML = `
+        <div class="card active no-image">
+          <div class="card-inner">
+            <div class="title">No papers found</div>
+            <div class="meta">Try rerunning the feed update workflow.</div>
+            <div class="abstract">Your feed.json loaded, but it did not contain any paper objects.</div>
+          </div>
+        </div>
+      `;
+    }
+  } catch (err) {
+    console.error('Error loading feed:', err);
 
-/* Title and meta */
-.title {
-  font-size: 1.7rem;
-  font-weight: 700;
-  line-height: 1.2;
-  color: #f3f4f6;
-
-  display: -webkit-box;
-  -webkit-line-clamp: 3;
-  -webkit-box-orient: vertical;
-  overflow: hidden;
-}
-
-.meta {
-  margin-top: 10px;
-  color: #9aa0a6;
-  font-size: 0.95rem;
-  line-height: 1.35;
-
-  display: -webkit-box;
-  -webkit-line-clamp: 2;
-  -webkit-box-orient: vertical;
-  overflow: hidden;
-}
-
-/* Summary takes the remaining space, no inner scrolling */
-.abstract {
-  margin-top: 16px;
-  color: #d1d5db;
-  font-size: 1.06rem;
-  line-height: 1.62;
-
-  flex: 1 1 auto;
-  min-height: 0;
-  overflow: hidden;
-
-  display: -webkit-box;
-  -webkit-box-orient: vertical;
-  -webkit-line-clamp: 16;
-  position: relative;
-}
-
-.abstract::after {
-  content: "";
-  position: absolute;
-  left: 0;
-  right: 0;
-  bottom: 0;
-  height: 3.2em;
-  background: linear-gradient(to bottom, rgba(22, 26, 34, 0), #161a22 90%);
-  pointer-events: none;
-}
-
-.abstract.expanded {
-  -webkit-line-clamp: unset;
-}
-
-.abstract.expanded::after {
-  display: none;
-}
-
-/* Actions pinned to bottom */
-.actions {
-  margin-top: 16px;
-  padding-top: 12px;
-  display: flex;
-  gap: 12px;
-  align-items: center;
-  flex-wrap: wrap;
-  border-top: 1px solid #222a36;
-}
-
-button {
-  background: #1f2937;
-  border: 1px solid #2f3a4c;
-  padding: 10px 16px;
-  border-radius: 10px;
-  color: #fff;
-  cursor: pointer;
-  font-size: 0.95rem;
-  transition: transform 120ms ease, background 120ms ease, border-color 120ms ease;
-}
-
-button:hover {
-  background: #374151;
-  border-color: #475569;
-}
-
-button:active {
-  transform: scale(0.97);
-}
-
-a {
-  color: #60a5fa;
-  text-decoration: none;
-  font-weight: 500;
-}
-
-a:hover {
-  text-decoration: underline;
-}
-
-/* Slightly denser layout when there is no image */
-.card.no-image .title {
-  font-size: 1.85rem;
-}
-
-.card.no-image .abstract {
-  -webkit-line-clamp: 20;
-}
-
-/* Mobile adjustments */
-@media (max-width: 700px) {
-  .card {
-    padding: 10px;
-  }
-
-  .card-inner {
-    padding: 16px;
-    border-radius: 18px;
-  }
-
-  .paper-image {
-    max-height: 140px;
-    min-height: 96px;
-    margin-bottom: 12px;
-  }
-
-  .title {
-    font-size: 1.35rem;
-    -webkit-line-clamp: 3;
-  }
-
-  .meta {
-    font-size: 0.88rem;
-  }
-
-  .abstract {
-    margin-top: 12px;
-    font-size: 0.98rem;
-    line-height: 1.55;
-    -webkit-line-clamp: 14;
-  }
-
-  .card.no-image .abstract {
-    -webkit-line-clamp: 17;
-  }
-
-  .actions {
-    margin-top: 12px;
-    padding-top: 10px;
-    gap: 10px;
-  }
-
-  button {
-    padding: 9px 14px;
-    font-size: 0.9rem;
+    const container = document.getElementById('feed');
+    if (container) {
+      container.innerHTML = `
+        <div class="card active no-image">
+          <div class="card-inner">
+            <div class="title">Error loading feed</div>
+            <div class="meta">Check the browser console and feed.json path.</div>
+            <div class="abstract">${escapeHtml(String(err))}</div>
+          </div>
+        </div>
+      `;
+    }
   }
 }
 
-/* Larger screens can show more summary */
-@media (min-width: 1100px) {
-  .paper-image {
-    max-height: 220px;
-  }
+function toggleAbstract(i, buttonEl) {
+  const el = document.getElementById(`abs-${i}`);
+  if (!el) return;
 
-  .title {
-    font-size: 1.95rem;
-  }
+  el.classList.toggle('expanded');
 
-  .abstract {
-    -webkit-line-clamp: 18;
-    font-size: 1.08rem;
-  }
-
-  .card.no-image .abstract {
-    -webkit-line-clamp: 22;
+  if (buttonEl) {
+    buttonEl.textContent = el.classList.contains('expanded') ? 'Collapse' : 'Expand';
   }
 }
+
+function getCards() {
+  return Array.from(document.querySelectorAll('.card'));
+}
+
+function scrollToCard(index) {
+  const cards = getCards();
+  if (!cards.length) return;
+
+  const clamped = Math.max(0, Math.min(index, cards.length - 1));
+  if (clamped === currentCardIndex && isAnimating) return;
+
+  currentCardIndex = clamped;
+  isAnimating = true;
+
+  cards[clamped].scrollIntoView({
+    behavior: 'smooth',
+    block: 'start'
+  });
+
+  updateActiveCard(clamped);
+
+  window.setTimeout(() => {
+    isAnimating = false;
+  }, 220);
+}
+
+function updateActiveCard(index) {
+  const cards = getCards();
+  cards.forEach((card, i) => {
+    card.classList.toggle('active', i === index);
+  });
+}
+
+function setupActiveCardObserver() {
+  const cards = getCards();
+  if (!cards.length) return;
+
+  const observer = new IntersectionObserver(
+    (entries) => {
+      let best = null;
+
+      for (const entry of entries) {
+        if (!best || entry.intersectionRatio > best.intersectionRatio) {
+          best = entry;
+        }
+      }
+
+      if (best && best.isIntersecting) {
+        const index = cards.indexOf(best.target);
+        if (index >= 0) {
+          currentCardIndex = index;
+          updateActiveCard(index);
+        }
+      }
+    },
+    {
+      threshold: [0.45, 0.65, 0.85]
+    }
+  );
+
+  cards.forEach(card => observer.observe(card));
+}
+
+function setupSwipeControls() {
+  let wheelCooldown = false;
+
+  window.addEventListener(
+    'wheel',
+    (e) => {
+      if (wheelCooldown || isAnimating) return;
+
+      const absDelta = Math.abs(e.deltaY);
+      if (absDelta < 35) return;
+
+      wheelCooldown = true;
+
+      if (e.deltaY > 0) {
+        scrollToCard(currentCardIndex + 1);
+      } else {
+        scrollToCard(currentCardIndex - 1);
+      }
+
+      window.setTimeout(() => {
+        wheelCooldown = false;
+      }, 250);
+    },
+    { passive: true }
+  );
+
+  window.addEventListener(
+    'touchstart',
+    (e) => {
+      if (!e.changedTouches || !e.changedTouches.length) return;
+      touchStartY = e.changedTouches[0].clientY;
+    },
+    { passive: true }
+  );
+
+  window.addEventListener(
+    'touchend',
+    (e) => {
+      if (isAnimating || !e.changedTouches || !e.changedTouches.length) return;
+
+      touchEndY = e.changedTouches[0].clientY;
+      const deltaY = touchStartY - touchEndY;
+
+      if (Math.abs(deltaY) < 80) return;
+
+      if (deltaY > 0) {
+        scrollToCard(currentCardIndex + 1);
+      } else {
+        scrollToCard(currentCardIndex - 1);
+      }
+    },
+    { passive: true }
+  );
+
+  window.addEventListener('keydown', (e) => {
+    if (isAnimating) return;
+
+    if (e.key === 'ArrowDown' || e.key === 'PageDown') {
+      e.preventDefault();
+      scrollToCard(currentCardIndex + 1);
+    }
+
+    if (e.key === 'ArrowUp' || e.key === 'PageUp') {
+      e.preventDefault();
+      scrollToCard(currentCardIndex - 1);
+    }
+
+    if (e.key === 'Home') {
+      e.preventDefault();
+      scrollToCard(0);
+    }
+
+    if (e.key === 'End') {
+      e.preventDefault();
+      scrollToCard(getCards().length - 1);
+    }
+  });
+}
+
+function markInitialCardsReady() {
+  const cards = getCards();
+  cards.forEach((card, i) => {
+    if (i === 0) {
+      card.classList.add('active');
+    }
+  });
+}
+
+function stripHtml(str) {
+  return String(str || '')
+    .replace(/<[^>]*>/g, ' ')
+    .replace(/\s+/g, ' ')
+    .trim();
+}
+
+function formatDate(dateStr) {
+  if (!dateStr) return '';
+
+  const parsed = new Date(dateStr);
+  if (Number.isNaN(parsed.getTime())) {
+    return dateStr;
+  }
+
+  return parsed.toLocaleDateString(undefined, {
+    year: 'numeric',
+    month: 'short',
+    day: 'numeric'
+  });
+}
+
+function escapeHtml(str) {
+  return String(str)
+    .replaceAll('&', '&amp;')
+    .replaceAll('<', '&lt;')
+    .replaceAll('>', '&gt;')
+    .replaceAll('"', '&quot;')
+    .replaceAll("'", '&#39;');
+}
+
+loadFeed();
