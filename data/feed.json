@@ -13,7 +13,15 @@
     "journal": "Nature",
     "date": "",
     "summary": "<p>Nature, Published online: 09 April 2026; <a href=\"https://www.nature.com/articles/d41586-026-01109-3\">doi:10.1038/d41586-026-01109-3</a></p>High-speed cameras can observe the strange behaviour of a cornstarch\u2013water mixture.",
-    "image": ""
+    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-01109-3/d41586-026-01109-3_52237372.jpg"
+  },
+  {
+    "title": "Your nose contains multitudes \u2014 of long-lived immune cells",
+    "link": "https://www.nature.com/articles/d41586-026-01111-9",
+    "journal": "Nature",
+    "date": "",
+    "summary": "<p>Nature, Published online: 09 April 2026; <a href=\"https://www.nature.com/articles/d41586-026-01111-9\">doi:10.1038/d41586-026-01111-9</a></p>Nasal tissue harbours T cells that \u2018remember\u2019 a pathogen long after infection is past.",
+    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-01111-9/d41586-026-01111-9_52237640.jpg"
   },
   {
     "title": "One woman, three autoimmune diseases: CAR-T therapy vanquishes ultra-rare disease trio",
@@ -21,7 +29,7 @@
     "journal": "Nature",
     "date": "",
     "summary": "<p>Nature, Published online: 09 April 2026; <a href=\"https://www.nature.com/articles/d41586-026-01108-4\">doi:10.1038/d41586-026-01108-4</a></p>Fourteen months after treatment with engineered immune cells, the recipient has no symptoms and doesn\u2019t need to take medication.",
-    "image": ""
+    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-01108-4/d41586-026-01108-4_52262908.jpg"
   },
   {
     "title": "Female mice grow testes after this single DNA tweak",
@@ -29,7 +37,7 @@
     "journal": "Nature",
     "date": "",
     "summary": "<p>Nature, Published online: 09 April 2026; <a href=\"https://www.nature.com/articles/d41586-026-01120-8\">doi:10.1038/d41586-026-01120-8</a></p>Small changes in the non-coding part of the genome have a key role in sex determination.",
-    "image": ""
+    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-01120-8/d41586-026-01120-8_52265006.jpg"
   },
   {
     "title": "How to thrive in science when you move abroad",
@@ -37,7 +45,7 @@
     "journal": "Nature",
     "date": "",
     "summary": "<p>Nature, Published online: 09 April 2026; <a href=\"https://www.nature.com/articles/d41586-026-00550-8\">doi:10.1038/d41586-026-00550-8</a></p>Sonali Majumdar offers a toolkit to support international scientists, their supervisors and mentors.",
-    "image": ""
+    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-00550-8/d41586-026-00550-8_52079490.jpg"
   },
   {
     "title": "Author Correction: Foundation model of neural activity predicts response to new stimulus types",
@@ -53,7 +61,7 @@
     "journal": "Nature",
     "date": "",
     "summary": "<p>Nature, Published online: 08 April 2026; <a href=\"https://www.nature.com/articles/s41586-026-10488-6\">doi:10.1038/s41586-026-10488-6</a></p>Author Correction: Oncogene ablation-resistant pancreatic cancer cells depend on mitochondrial function",
-    "image": ""
+    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-10488-6/MediaObjects/41586_2026_10488_Fig1_HTML.png"
   },
   {
     "title": "Briefing Chat: The tongue trick that helps sunbirds suck",
@@ -61,7 +69,7 @@
     "journal": "Nature",
     "date": "",
     "summary": "<p>Nature, Published online: 08 April 2026; <a href=\"https://www.nature.com/articles/d41586-026-01132-4\">doi:10.1038/d41586-026-01132-4</a></p>Nature staff discuss some of the week\u2019s top science news.",
-    "image": ""
+    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-01132-4/d41586-026-01132-4_52262550.jpg"
   },
   {
     "title": "High-precision calculation of the quark\u2013gluon coupling from lattice QCD",
@@ -69,15 +77,7 @@
     "journal": "Nature",
     "date": "",
     "summary": "<p>Nature, Published online: 08 April 2026; <a href=\"https://www.nature.com/articles/s41586-026-10339-4\">doi:10.1038/s41586-026-10339-4</a></p>Large-scale lattice quantum chromodynamics simulations enable a model-free, highly precise determination of the strong coupling constant \u03b1s, reducing theoretical uncertainty and improving precision tests of particle physics.",
-    "image": ""
-  },
-  {
-    "title": "Engineered immunosuppressive dendritic cells protect against cardiac remodelling",
-    "link": "https://www.nature.com/articles/s41586-026-10346-5",
-    "journal": "Nature",
-    "date": "",
-    "summary": "<p>Nature, Published online: 08 April 2026; <a href=\"https://www.nature.com/articles/s41586-026-10346-5\">doi:10.1038/s41586-026-10346-5</a></p>Lesion-targeted immune modulation is a feasible strategy to control cardiac fibrosis, and engineered dendritic cells are a promising therapeutic platform for treating cardiac remodelling and heart failure.",
-    "image": ""
+    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-10339-4/MediaObjects/41586_2026_10339_Fig1_HTML.png"
   },
   {
     "title": "Comparing primate cerebellums",
@@ -117,7 +117,7 @@
     "journal": "Nature Neuroscience",
     "date": "",
     "summary": "<p>Nature Neuroscience, Published online: 07 April 2026; <a href=\"https://www.nature.com/articles/s41593-026-02255-7\">doi:10.1038/s41593-026-02255-7</a></p>This study shows that cerebellar circuits learn and encode prior probabilities of event timing. Cell-type-specific neural activity reflects environmental statistics and guides predictive motor behavior, providing support for neural Bayesian inference.",
-    "image": ""
+    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41593-026-02255-7/MediaObjects/41593_2026_2255_Fig1_HTML.png"
   },
   {
     "title": "Entorhinal cortex represents task-relevant remote locations independently of CA1",
@@ -125,7 +125,7 @@
     "journal": "Nature Neuroscience",
     "date": "",
     "summary": "<p>Nature Neuroscience, Published online: 01 April 2026; <a href=\"https://www.nature.com/articles/s41593-026-02232-0\">doi:10.1038/s41593-026-02232-0</a></p>Neurons in medial entorhinal cortex collectively represent discrete nonlocal positions during immobility. During this nonlocal coding, CA1 is uncoupled from entorhinal cortex. These representations are of task-relevant locations.",
-    "image": ""
+    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41593-026-02232-0/MediaObjects/41593_2026_2232_Fig1_HTML.png"
   },
   {
     "title": "Dorsoventral hippocampus neural assemblies reactivate during sleep following an aversive experience",
@@ -133,7 +133,7 @@
     "journal": "Nature Neuroscience",
     "date": "",
     "summary": "<p>Nature Neuroscience, Published online: 01 April 2026; <a href=\"https://www.nature.com/articles/s41593-026-02252-w\">doi:10.1038/s41593-026-02252-w</a></p>Synchronization of sharp-wave ripples across the dorsoventral hippocampus during sleep supports coordinated reactivation that represents negative experiences more faithfully than positive ones.",
-    "image": ""
+    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41593-026-02252-w/MediaObjects/41593_2026_2252_Fig1_HTML.png"
   },
   {
     "title": "Author Correction: Dopamine projections to the basolateral amygdala drive the encoding of identity-specific reward memories",
@@ -141,7 +141,7 @@
     "journal": "Nature Neuroscience",
     "date": "",
     "summary": "<p>Nature Neuroscience, Published online: 31 March 2026; <a href=\"https://www.nature.com/articles/s41593-026-02270-8\">doi:10.1038/s41593-026-02270-8</a></p>Author Correction: Dopamine projections to the basolateral amygdala drive the encoding of identity-specific reward memories",
-    "image": ""
+    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41593-026-02270-8/MediaObjects/41593_2026_2270_Fig1_HTML.png"
   },
   {
     "title": "Flipping sides in NETosis",
@@ -149,7 +149,7 @@
     "journal": "Nature Immunology",
     "date": "",
     "summary": "<p>Nature Immunology, Published online: 06 April 2026; <a href=\"https://www.nature.com/articles/s41590-026-02492-9\">doi:10.1038/s41590-026-02492-9</a></p>Disruption of lipid asymmetry is not only a consequence of cell death but also a decisive step in the formation of neutrophil extracellular traps.",
-    "image": ""
+    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41590-026-02492-9/MediaObjects/41590_2026_2492_Fig1_HTML.png"
   },
   {
     "title": "Newly found macrophages stand guard inside blood vessels",
@@ -157,7 +157,7 @@
     "journal": "Nature Immunology",
     "date": "",
     "summary": "<p>Nature Immunology, Published online: 03 April 2026; <a href=\"https://www.nature.com/articles/s41590-026-02503-9\">doi:10.1038/s41590-026-02503-9</a></p>Using high-resolution live imaging in zebrafish, we discovered a population of macrophages residing within blood vessels, termed blood vessel-resident macrophages. These cells clear foreign particles and unfit cells from the circulation and rapidly respond to endothelial injury. Blood vessel-resident macrophages therefore constitute a dedicated immune population that safeguards blood and vascular integrity.",
-    "image": ""
+    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41590-026-02503-9/MediaObjects/41590_2026_2503_Fig1_HTML.png"
   },
   {
     "title": "Engineering metabolite-sensing NK and T cells to target solid tumors",
@@ -165,7 +165,7 @@
     "journal": "Nature Immunology",
     "date": "",
     "summary": "<p>Nature Immunology, Published online: 03 April 2026; <a href=\"https://www.nature.com/articles/s41590-026-02500-y\">doi:10.1038/s41590-026-02500-y</a></p>Through CRISPR activation screens, we discovered that metabolite-sensing receptors can be used to mobilize natural killer cells and T cells toward solid tumors. Aberrant tumor metabolism is routinely used for diagnosis. Our work now shows that tumor metabolism can be leveraged for therapeutics through the design of tumor-targeted metabolite-sensing effector immune cells.",
-    "image": ""
+    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41590-026-02500-y/MediaObjects/41590_2026_2500_Fig1_HTML.png"
   },
   {
     "title": "Multimerizing transcription factors FOXP3 and AIRE as chromatin architectural regulators",
@@ -173,7 +173,7 @@
     "journal": "Nature Immunology",
     "date": "",
     "summary": "<p>Nature Immunology, Published online: 03 April 2026; <a href=\"https://www.nature.com/articles/s41590-026-02483-w\">doi:10.1038/s41590-026-02483-w</a></p>Hur and colleagues review recent developments to provide insights into the molecular mechanisms and regulatory functions of the transcriptional regulators FOXP3 and AIRE.",
-    "image": ""
+    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41590-026-02483-w/MediaObjects/41590_2026_2483_Fig1_HTML.png"
   },
   {
     "title": "A unique CD4\u207a T cell subset expressing granzyme K is regulated by transcription factor EOMES and important for T cell-mediated intestinal inflammation",
@@ -181,7 +181,7 @@
     "journal": "Nature Immunology",
     "date": "",
     "summary": "<p>Nature Immunology, Published online: 02 April 2026; <a href=\"https://www.nature.com/articles/s41590-026-02479-6\">doi:10.1038/s41590-026-02479-6</a></p>Xie et al. identify a distinct subset of CD4+ helper T cells expressing EOMES and granzyme K in both mice and human models of colitis.",
-    "image": ""
+    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41590-026-02479-6/MediaObjects/41590_2026_2479_Fig1_HTML.png"
   },
   {
     "title": "Band-Aid for antibody production",
