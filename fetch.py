@@ -195,11 +195,6 @@ def svg_cover(title: str, journal: str, topic: str) -> str:
     {safe_title}
   </text>
 
-  <rect x="68" y="468" rx="18" ry="18" width="220" height="64" fill="rgba(255,255,255,0.08)"/>
-  <text x="102" y="510" font-family="Arial, Helvetica, sans-serif" font-size="32" fill="{style['accent']}">
-    {safe_topic}
-  </text>
-
   <text x="1010" y="560" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="160" fill="{style['accent']}" opacity="0.85">
     {style['icon']}
   </text>
