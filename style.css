@@ -186,6 +186,64 @@ a:hover {
   -webkit-line-clamp: 20;
 }
 
+
+.image-wrap {
+  position: relative;
+  width: 100%;
+  margin-bottom: 14px;
+}
+
+.image-wrap .paper-image {
+  margin-bottom: 0;
+}
+
+.topic-badge {
+  position: absolute;
+  top: 14px;
+  left: 14px;
+  display: inline-flex;
+  align-items: center;
+  padding: 7px 12px;
+  border-radius: 999px;
+  background: rgba(15, 17, 21, 0.72);
+  backdrop-filter: blur(8px);
+  -webkit-backdrop-filter: blur(8px);
+  color: #f3f4f6;
+  border: 1px solid rgba(255, 255, 255, 0.14);
+  font-size: 0.82rem;
+  font-weight: 600;
+  letter-spacing: 0.02em;
+  text-transform: capitalize;
+  z-index: 2;
+}
+
+.topic-badge.topic-default {
+  color: #d1d5db;
+}
+
+.topic-badge.topic-neuroscience,
+.topic-badge.topic-neuron,
+.topic-badge.topic-synapse,
+.topic-badge.topic-cortex,
+.topic-badge.topic-retina {
+  background: rgba(29, 78, 216, 0.24);
+}
+
+.topic-badge.topic-immunology,
+.topic-badge.topic-t-cell,
+.topic-badge.topic-b-cell,
+.topic-badge.topic-macrophage,
+.topic-badge.topic-microglia,
+.topic-badge.topic-inflammation {
+  background: rgba(22, 101, 52, 0.26);
+}
+
+.topic-badge.topic-neurodegeneration {
+  background: rgba(153, 27, 27, 0.26);
+}
+
+
+
 @media (min-width: 1100px) {
   .paper-image {
     max-height: 340px;
