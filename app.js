@@ -4,52 +4,100 @@ let touchEndY = 0;
 let currentCardIndex = 0;
 
 async function loadFeed() {
-  const res = await fetch('./data/feed.json');
-  const papers = await res.json();
+  try {
+    const res = await fetch('./data/feed.json');
+    if (!res.ok) {
+      throw new Error(`Failed to load feed.json: ${res.status}`);
+    }
 
-  const container = document.getElementById('feed');
+    const papers = await res.json();
+    const container = document.getElementById('feed');
 
-  papers.forEach((p, i) => {
-    const card = document.createElement('div');
-    card.className = 'card';
+    if (!container) {
+      throw new Error('Missing #feed container in index.html');
+    }
 
-    const cleanSummary = (p.summary || '')
-      .replace(/<[^>]*>/g, '')
-      .trim();
+    container.innerHTML = '';
 
-    const imageHtml = p.image
-      ? `<img class="paper-image" src="${p.image}" alt="Related image for ${escapeHtml(p.title)}">`
-      : '';
+    papers.forEach((p, i) => {
+      const card = document.createElement('div');
 
-    card.innerHTML = `
-      <div class="card-inner">
-        ${imageHtml}
-        <div class="title">${escapeHtml(p.title || '')}</div>
-        <div class="meta">${escapeHtml(p.journal || '')} — ${escapeHtml(p.date || '')}</div>
+      const cleanSummary = stripHtml(p.summary || '').trim();
+      const hasImage = !!p.image;
+      card.className = hasImage ? 'card' : 'card no-image';
 
-        <div class="abstract" id="abs-${i}">
-          ${escapeHtml(cleanSummary)}
+      const imageHtml = hasImage
+        ? `<img class="paper-image" src="${escapeHtml(p.image)}" alt="Image related to ${escapeHtml(p.title || 'paper')}" loading="lazy" referrerpolicy="no-referrer">`
+        : '';
+
+      const showExpand = cleanSummary.length > 900;
+      const expandButtonHtml = showExpand
+        ? `<button type="button" onclick="toggleAbstract(${i}, this)">Expand</button>`
+        : '';
+
+      card.innerHTML = `
+        <div class="card-inner">
+          ${imageHtml}
+          <div class="title">${escapeHtml(p.title || '')}</div>
+          <div class="meta">${escapeHtml(p.journal || '')} — ${escapeHtml(formatDate(p.date || ''))}</div>
+
+          <div class="abstract" id="abs-${i}">
+            ${escapeHtml(cleanSummary)}
+          </div>
+
+          <div class="actions">
+            ${expandButtonHtml}
+            <a href="${escapeHtml(p.link || '#')}" target="_blank" rel="noopener noreferrer">Open paper</a>
+          </div>
         </div>
+      `;
 
-        <div class="actions">
-          <button onclick="toggleAbstract(${i})">Expand</button>
-          <a href="${p.link}" target="_blank" rel="noopener noreferrer">Open paper</a>
+      container.appendChild(card);
+    });
+
+    setupActiveCardObserver();
+    setupSwipeControls();
+    updateActiveCard(0);
+    markInitialCardsReady();
+
+    if (!papers.length) {
+      container.innerHTML = `
+        <div class="card active no-image">
+          <div class="card-inner">
+            <div class="title">No papers found</div>
+            <div class="meta">Try rerunning the feed update workflow.</div>
+            <div class="abstract">Your feed.json loaded, but it did not contain any paper objects.</div>
+          </div>
         </div>
-      </div>
-    `;
+      `;
+    }
+  } catch (err) {
+    console.error('Error loading feed:', err);
 
-    container.appendChild(card);
-  });
-
-  setupActiveCardObserver();
-  setupSwipeControls();
-  updateActiveCard(0);
+    const container = document.getElementById('feed');
+    if (container) {
+      container.innerHTML = `
+        <div class="card active no-image">
+          <div class="card-inner">
+            <div class="title">Error loading feed</div>
+            <div class="meta">Check the browser console and feed.json path.</div>
+            <div class="abstract">${escapeHtml(String(err))}</div>
+          </div>
+        </div>
+      `;
+    }
+  }
 }
 
-function toggleAbstract(i) {
+function toggleAbstract(i, buttonEl) {
   const el = document.getElementById(`abs-${i}`);
   if (!el) return;
+
   el.classList.toggle('expanded');
+
+  if (buttonEl) {
+    buttonEl.textContent = el.classList.contains('expanded') ? 'Collapse' : 'Expand';
+  }
 }
 
 function getCards() {
@@ -61,6 +109,8 @@ function scrollToCard(index) {
   if (!cards.length) return;
 
   const clamped = Math.max(0, Math.min(index, cards.length - 1));
+  if (clamped === currentCardIndex && isAnimating) return;
+
   currentCardIndex = clamped;
   isAnimating = true;
 
@@ -106,7 +156,7 @@ function setupActiveCardObserver() {
       }
     },
     {
-      threshold: [0.4, 0.6, 0.8]
+      threshold: [0.45, 0.65, 0.85]
     }
   );
 
@@ -134,7 +184,7 @@ function setupSwipeControls() {
 
       window.setTimeout(() => {
         wheelCooldown = false;
-      }, 350);
+      }, 250);
     },
     { passive: true }
   );
@@ -179,6 +229,47 @@ function setupSwipeControls() {
       e.preventDefault();
       scrollToCard(currentCardIndex - 1);
     }
+
+    if (e.key === 'Home') {
+      e.preventDefault();
+      scrollToCard(0);
+    }
+
+    if (e.key === 'End') {
+      e.preventDefault();
+      scrollToCard(getCards().length - 1);
+    }
+  });
+}
+
+function markInitialCardsReady() {
+  const cards = getCards();
+  cards.forEach((card, i) => {
+    if (i === 0) {
+      card.classList.add('active');
+    }
+  });
+}
+
+function stripHtml(str) {
+  return String(str || '')
+    .replace(/<[^>]*>/g, ' ')
+    .replace(/\s+/g, ' ')
+    .trim();
+}
+
+function formatDate(dateStr) {
+  if (!dateStr) return '';
+
+  const parsed = new Date(dateStr);
+  if (Number.isNaN(parsed.getTime())) {
+    return dateStr;
+  }
+
+  return parsed.toLocaleDateString(undefined, {
+    year: 'numeric',
+    month: 'short',
+    day: 'numeric'
   });
 }
 
