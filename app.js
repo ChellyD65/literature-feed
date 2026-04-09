@@ -91,7 +91,7 @@ function scrollToCard(index) {
 
   setTimeout(() => {
     isAnimating = false;
-  }, 220);
+  }, 500);
 }
 
 function updateActiveCard(index) {
