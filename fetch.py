@@ -336,13 +336,6 @@ def svg_cover(title: str, journal: str, topic: str, topics: list[dict]) -> str:
   <rect x="56" y="52" rx="18" ry="18" width="260" height="54" fill="rgba(255,255,255,0.08)"/>
   <text x="84" y="87" font-family="Arial, Helvetica, sans-serif" font-size="28" fill="#e5e7eb">{safe_journal}</text>
 
-  <foreignObject x="68" y="150" width="860" height="220">
-    <div xmlns="http://www.w3.org/1999/xhtml"
-         style="font-family: Arial, Helvetica, sans-serif; font-size: 44px; font-weight: 700; line-height: 1.15; color: #f9fafb;">
-      {safe_title}
-    </div>
-  </foreignObject>
-
   <text x="1010" y="560"
         text-anchor="middle"
         font-family="Arial, Helvetica, sans-serif"
