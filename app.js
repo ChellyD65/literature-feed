@@ -31,41 +31,53 @@ async function loadFeed() {
       return;
     }
 
-    papers.forEach((p, i) => {
-      const card = document.createElement('section');
-      const cleanSummary = stripHtml(p.summary || '');
-      const hasImage = !!p.image;
+papers.forEach((p, i) => {
+  const card = document.createElement('section');
+  const cleanSummary = stripHtml(p.summary || '');
+  const hasImage = !!p.image;
+  const topic = (p.topic || 'default').trim();
 
-      card.className = hasImage ? 'card' : 'card no-image';
+  card.className = hasImage ? 'card' : 'card no-image';
 
-      const imageHtml = hasImage
-        ? `<img class="paper-image" src="${escapeHtml(p.image)}" alt="Image for ${escapeHtml(p.title || 'paper')}" loading="lazy">`
-        : '';
+  const topicClass = `topic-${topic.toLowerCase().replace(/\s+/g, '-')}`;
+  const topicBadge = topic && topic !== 'default'
+    ? `<div class="topic-badge ${topicClass}">${escapeHtml(topic)}</div>`
+    : '';
 
-      const showExpand = cleanSummary.length > 900;
-      const expandButton = showExpand
-        ? `<button type="button" onclick="toggleAbstract(${i}, this)">Expand</button>`
-        : '';
+  const imageHtml = hasImage
+    ? `
+      <div class="image-wrap">
+        <img class="paper-image" src="${escapeHtml(p.image)}" alt="Image for ${escapeHtml(p.title || 'paper')}" loading="lazy">
+        ${topicBadge}
+      </div>
+    `
+    : '';
 
-      const topicBadge = p.topic && p.topic !== 'default'
-        ? `<div class="topic-badge">${escapeHtml(p.topic)}</div>`
-        : '';
-      
-      card.innerHTML = `
-        <div class="card-inner">
-          ${imageHtml}
-          <div class="title">${escapeHtml(p.title || '')}</div>
-          <div class="meta">${escapeHtml(p.journal || '')} — ${escapeHtml(formatDate(p.date || ''))}</div>
-          <div class="abstract" id="abs-${i}">${escapeHtml(cleanSummary)}</div>
-          <div class="actions">
-            ${expandButton}
-            <a href="${escapeHtml(p.link || '#')}" target="_blank" rel="noopener noreferrer">Open paper</a>
-          </div>
-        </div>
-      `;
+  const metaBadges = !hasImage && topic && topic !== 'default'
+    ? `<div class="topic-badge ${topicClass}" style="position: static; margin-bottom: 10px;">${escapeHtml(topic)}</div>`
+    : '';
 
-      container.appendChild(card);
-    });
+  const showExpand = cleanSummary.length > 900;
+  const expandButton = showExpand
+    ? `<button type="button" onclick="toggleAbstract(${i}, this)">Expand</button>`
+    : '';
+
+  card.innerHTML = `
+    <div class="card-inner">
+      ${imageHtml}
+      ${metaBadges}
+      <div class="title">${escapeHtml(p.title || '')}</div>
+      <div class="meta">${escapeHtml(p.journal || '')} — ${escapeHtml(formatDate(p.date || ''))}</div>
+      <div class="abstract" id="abs-${i}">${escapeHtml(cleanSummary)}</div>
+      <div class="actions">
+        ${expandButton}
+        <a href="${escapeHtml(p.link || '#')}" target="_blank" rel="noopener noreferrer">Open paper</a>
+      </div>
+    </div>
+  `;
+
+  container.appendChild(card);
+});
 
     updateActiveCard(0);
     setupObserver();
