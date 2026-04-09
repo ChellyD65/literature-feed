@@ -2,6 +2,7 @@ import feedparser
 import json
 import re
 import html
+import urllib.parse
 from urllib.parse import urlparse
 
 import requests
@@ -16,30 +17,40 @@ FEEDS = {
     "Science": "https://www.science.org/rss/news_current.xml",
 }
 
-JOURNAL_FALLBACKS = {
-    "Nature": "./images/nature.jpg",
-    "Nature Neuroscience": "./images/nature-neuro.jpg",
-    "Nature Immunology": "./images/nature-immunology.jpg",
-    "Immunity": "./images/immunity.jpg",
-    "Neuron": "./images/neuron.jpg",
-    "Science": "./images/science.jpg",
-}
-
 BLOCKED_IMAGE_SCRAPE_DOMAINS = {
     "science.org",
     "www.science.org",
 }
 
-STOPWORDS = {
-    "the", "and", "for", "with", "from", "that", "this", "into", "about",
-    "after", "before", "under", "over", "between", "among", "during",
-    "study", "shows", "show", "reveal", "reveals", "revealed",
-    "paper", "papers", "article", "articles",
-    "using", "used", "use", "via", "new", "news",
-    "cell", "cells", "science", "nature", "neuron", "immunity",
-    "research", "researchers", "journal",
-    "is", "are", "was", "were", "be", "been", "being",
-    "of", "in", "on", "to", "a", "an", "as", "at", "by", "or", "it",
+TOPIC_KEYWORDS = [
+    ("microglia", ["microglia", "microglial"]),
+    ("macrophage", ["macrophage", "macrophages"]),
+    ("t cell", ["t cell", "t-cell", "cd4", "cd8", "lymphocyte"]),
+    ("b cell", ["b cell", "b-cell", "b lymphocyte"]),
+    ("retina", ["retina", "retinal", "photoreceptor", "rpe"]),
+    ("synapse", ["synapse", "synaptic"]),
+    ("cortex", ["cortex", "cortical"]),
+    ("neuron", ["neuron", "neuronal", "axon", "dendrite"]),
+    ("inflammation", ["inflammation", "inflammatory", "cytokine"]),
+    ("neurodegeneration", ["neurodegeneration", "degeneration", "alzheim", "parkinson"]),
+    ("immunology", ["immune", "immunity", "immunology", "antigen"]),
+    ("neuroscience", ["brain", "neural", "neuroscience", "hippocampus"]),
+]
+
+TOPIC_STYLES = {
+    "microglia": {"bg1": "#0f172a", "bg2": "#0b3b5a", "accent": "#38bdf8", "icon": "✶"},
+    "macrophage": {"bg1": "#1f2937", "bg2": "#4b5563", "accent": "#f59e0b", "icon": "⬢"},
+    "t cell": {"bg1": "#1e3a2f", "bg2": "#065f46", "accent": "#34d399", "icon": "◉"},
+    "b cell": {"bg1": "#312e81", "bg2": "#4338ca", "accent": "#a78bfa", "icon": "◌"},
+    "retina": {"bg1": "#3b0764", "bg2": "#6d28d9", "accent": "#f472b6", "icon": "◐"},
+    "synapse": {"bg1": "#172554", "bg2": "#1d4ed8", "accent": "#60a5fa", "icon": "⇄"},
+    "cortex": {"bg1": "#111827", "bg2": "#374151", "accent": "#93c5fd", "icon": "◎"},
+    "neuron": {"bg1": "#111827", "bg2": "#1e40af", "accent": "#22d3ee", "icon": "✺"},
+    "inflammation": {"bg1": "#450a0a", "bg2": "#991b1b", "accent": "#fb7185", "icon": "▲"},
+    "neurodegeneration": {"bg1": "#27272a", "bg2": "#52525b", "accent": "#fda4af", "icon": "◈"},
+    "immunology": {"bg1": "#052e16", "bg2": "#166534", "accent": "#4ade80", "icon": "✳"},
+    "neuroscience": {"bg1": "#082f49", "bg2": "#1d4ed8", "accent": "#7dd3fc", "icon": "✹"},
+    "default": {"bg1": "#111827", "bg2": "#374151", "accent": "#60a5fa", "icon": "•"},
 }
 
 SESSION = requests.Session()
@@ -50,15 +61,12 @@ SESSION.headers.update(
     }
 )
 
-
 def strip_html(text: str) -> str:
     if not text:
         return ""
     text = re.sub(r"<[^>]+>", " ", text)
     text = html.unescape(text)
-    text = re.sub(r"\s+", " ", text).strip()
-    return text
-
+    return re.sub(r"\s+", " ", text).strip()
 
 def extract_image(entry) -> str:
     media_content = entry.get("media_content", [])
@@ -94,14 +102,12 @@ def extract_image(entry) -> str:
 
     return ""
 
-
 def can_scrape_image(url: str) -> bool:
     try:
         domain = urlparse(url).netloc.lower()
         return domain not in BLOCKED_IMAGE_SCRAPE_DOMAINS
     except Exception:
         return False
-
 
 def extract_og_image(url: str) -> str:
     try:
@@ -122,188 +128,86 @@ def extract_og_image(url: str) -> str:
 
     return ""
 
+def choose_topic(title: str, summary: str, journal: str = "") -> str:
+    text = f"{strip_html(title)} {strip_html(summary)}".lower()
 
-def tokenize(text: str) -> list[str]:
-    text = strip_html(text).lower()
-    tokens = re.findall(r"[a-zA-Z][a-zA-Z\-]{2,}", text)
-    tokens = [t for t in tokens if t not in STOPWORDS]
-    return tokens
+    for topic, keywords in TOPIC_KEYWORDS:
+        for kw in keywords:
+            if kw in text:
+                return topic
 
+    jl = journal.lower()
+    if "immun" in jl or "immunity" in jl:
+        return "immunology"
+    if "neuro" in jl or "neuron" in jl:
+        return "neuroscience"
 
-def build_wikimedia_query(title: str, summary: str, journal: str = "") -> str:
-    title_tokens = tokenize(title)
-    summary_tokens = tokenize(summary)
+    return "default"
 
-    seen = set()
-    ranked = []
+def short_title(title: str, max_len: int = 72) -> str:
+    t = strip_html(title)
+    if len(t) <= max_len:
+        return t
+    return t[:max_len - 1].rstrip() + "…"
 
-    preferred_keywords = [
-        "microglia", "macrophage", "tcell", "t-cell", "bcell", "b-cell",
-        "neuron", "neuronal", "synapse", "astrocyte", "glia", "cortex",
-        "hippocampus", "retina", "immune", "immunity", "inflammation",
-        "brain", "spinal", "axon", "dendrite", "myelin", "lymphocyte",
-        "monocyte", "cytokine", "antigen", "receptor",
-    ]
+def svg_cover(title: str, journal: str, topic: str) -> str:
+    style = TOPIC_STYLES.get(topic, TOPIC_STYLES["default"])
+    safe_title = html.escape(short_title(title))
+    safe_journal = html.escape(journal)
+    safe_topic = html.escape(topic.title())
 
-    normalized_all = title_tokens + summary_tokens
+    svg = f"""
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="675" viewBox="0 0 1200 675">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="{style['bg1']}"/>
+      <stop offset="100%" stop-color="{style['bg2']}"/>
+    </linearGradient>
+    <filter id="blur">
+      <feGaussianBlur stdDeviation="30"/>
+    </filter>
+  </defs>
 
-    for kw in preferred_keywords:
-        if kw in normalized_all and kw not in seen:
-            ranked.append(kw)
-            seen.add(kw)
+  <rect width="1200" height="675" fill="url(#bg)"/>
 
-    for tok in title_tokens:
-        if tok not in seen:
-            ranked.append(tok)
-            seen.add(tok)
+  <circle cx="1030" cy="110" r="170" fill="{style['accent']}" opacity="0.18" filter="url(#blur)"/>
+  <circle cx="180" cy="560" r="150" fill="{style['accent']}" opacity="0.16" filter="url(#blur)"/>
 
-    for tok in summary_tokens:
-        if tok not in seen:
-            ranked.append(tok)
-            seen.add(tok)
-        if len(ranked) >= 6:
-            break
+  <rect x="56" y="52" rx="18" ry="18" width="240" height="54" fill="rgba(255,255,255,0.08)"/>
+  <text x="84" y="87" font-family="Arial, Helvetica, sans-serif" font-size="28" fill="#e5e7eb">{safe_journal}</text>
 
-    # soften terms that are often too abstract for image search
-    replacements = {
-        "tcell": "t cell",
-        "bcell": "b cell",
-        "neuronal": "neuron",
-        "immune": "immunology",
-    }
+  <text x="68" y="205" font-family="Arial, Helvetica, sans-serif" font-size="44" font-weight="700" fill="#f9fafb">
+    {safe_title}
+  </text>
 
-    ranked = [replacements.get(x, x) for x in ranked]
+  <rect x="68" y="468" rx="18" ry="18" width="220" height="64" fill="rgba(255,255,255,0.08)"/>
+  <text x="102" y="510" font-family="Arial, Helvetica, sans-serif" font-size="32" fill="{style['accent']}">
+    {safe_topic}
+  </text>
 
-    query = " ".join(ranked[:4]).strip()
+  <text x="1010" y="560" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="160" fill="{style['accent']}" opacity="0.85">
+    {style['icon']}
+  </text>
+</svg>
+"""
+    return "data:image/svg+xml;charset=utf-8," + urllib.parse.quote(svg)
 
-    if not query:
-        if "neuro" in journal.lower() or "neuron" in journal.lower():
-            query = "neuron neuroscience"
-        elif "immun" in journal.lower():
-            query = "immune cell immunology"
-        else:
-            query = "biology"
-
-    return query
-
-
-def search_wikimedia_image(query: str) -> str:
-    """
-    Search Wikimedia Commons and return a thumbnail URL for the first likely match.
-    Preference is given to titles that look scientific/biological rather than generic.
-    """
-    try:
-        search_url = "https://commons.wikimedia.org/w/api.php"
-        params = {
-            "action": "query",
-            "generator": "search",
-            "gsrsearch": query,
-            "gsrnamespace": 6,  # File namespace
-            "gsrlimit": 8,
-            "prop": "imageinfo",
-            "iiprop": "url",
-            "iiurlwidth": 1200,
-            "format": "json",
-            "origin": "*",
-        }
-
-        r = SESSION.get(search_url, params=params, timeout=20)
-        r.raise_for_status()
-        data = r.json()
-
-        pages = data.get("query", {}).get("pages", {})
-        if not pages:
-            return ""
-
-        candidates = []
-        for page in pages.values():
-            title = page.get("title", "")
-            imageinfo = page.get("imageinfo", [])
-            if not imageinfo:
-                continue
-
-            thumb = imageinfo[0].get("thumburl") or imageinfo[0].get("url")
-            if not thumb:
-                continue
-
-            score = score_wikimedia_candidate(title, query)
-            candidates.append((score, thumb, title))
-
-        if not candidates:
-            return ""
-
-        candidates.sort(key=lambda x: x[0], reverse=True)
-        best_score, best_thumb, best_title = candidates[0]
-        print(f"Wikimedia match for '{query}': {best_title} (score={best_score})")
-        return best_thumb
-
-    except Exception as e:
-        print(f"Wikimedia search failed for '{query}': {e}")
-        return ""
-
-
-def score_wikimedia_candidate(title: str, query: str) -> int:
-    """
-    Score Commons file titles to bias toward useful scientific imagery.
-    """
-    title_l = title.lower()
-    query_tokens = set(tokenize(query))
-    score = 0
-
-    # reward overlap with query
-    for tok in query_tokens:
-        if tok in title_l:
-            score += 3
-
-    # reward likely science illustration / microscopy / anatomy terms
-    positives = [
-        "neuron", "brain", "retina", "microglia", "macrophage", "t cell",
-        "b cell", "astrocyte", "glia", "hippocampus", "cortex", "synapse",
-        "microscopy", "histology", "anatomy", "diagram", "cell", "immune",
-        "lymphocyte", "immun", "axon", "dendrite",
-    ]
-    for p in positives:
-        if p in title_l:
-            score += 2
-
-    # penalize likely irrelevant or low-value file types
-    negatives = [
-        "logo", "icon", "banner", "flag", "map", "coat of arms", "seal",
-        "portrait", "building", "conference", "university", "chart",
-        "graph", "news", "screenshot",
-    ]
-    for n in negatives:
-        if n in title_l:
-            score -= 4
-
-    # prefer images over other filetypes if obvious from title
-    if title_l.endswith((".svg", ".png", ".jpg", ".jpeg", ".tif", ".tiff", ".webp")):
-        score += 1
-
-    return score
-
-
-def choose_image(entry, journal: str) -> str:
+def choose_image(entry, journal: str) -> tuple[str, str]:
     link = entry.get("link", "")
     title = entry.get("title", "")
     summary = entry.get("summary", "")
+    topic = choose_topic(title, summary, journal)
 
     image = extract_image(entry)
     if image:
-        return image
+        return image, topic
 
     if link and can_scrape_image(link):
         image = extract_og_image(link)
         if image:
-            return image
+            return image, topic
 
-    query = build_wikimedia_query(title, summary, journal)
-    image = search_wikimedia_image(query)
-    if image:
-        return image
-
-    return JOURNAL_FALLBACKS.get(journal, "")
-
+    return svg_cover(title, journal, topic), topic
 
 def normalize_date(entry) -> str:
     return (
@@ -313,37 +217,35 @@ def normalize_date(entry) -> str:
         or ""
     )
 
-
 def main():
     items = []
 
     for journal, url in FEEDS.items():
-        print(f"Fetching {journal} from {url}")
-        d = feedparser.parse(url)
-        print(f"Entries found: {len(d.entries)}")
+      print(f"Fetching {journal} from {url}")
+      d = feedparser.parse(url)
+      print(f"Entries found: {len(d.entries)}")
 
-        for entry in d.entries[:10]:
-            image = choose_image(entry, journal)
+      for entry in d.entries[:10]:
+          image, topic = choose_image(entry, journal)
 
-            items.append(
-                {
-                    "title": entry.get("title", ""),
-                    "link": entry.get("link", ""),
-                    "journal": journal,
-                    "date": normalize_date(entry),
-                    "summary": entry.get("summary", ""),
-                    "image": image,
-                }
-            )
+          items.append(
+              {
+                  "title": entry.get("title", ""),
+                  "link": entry.get("link", ""),
+                  "journal": journal,
+                  "date": normalize_date(entry),
+                  "summary": entry.get("summary", ""),
+                  "image": image,
+                  "topic": topic,
+              }
+          )
 
-    # simple newest-ish ordering by available date string
     items = sorted(items, key=lambda x: x.get("date", ""), reverse=True)
 
     with open("data/feed.json", "w", encoding="utf-8") as f:
         json.dump(items[:100], f, indent=2, ensure_ascii=False)
 
     print(f"Wrote {min(len(items), 100)} items to data/feed.json")
-
 
 if __name__ == "__main__":
     main()
