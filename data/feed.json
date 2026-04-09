@@ -48,12 +48,44 @@
     "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-00550-8/d41586-026-00550-8_52079490.jpg"
   },
   {
+    "title": "Comparing primate cerebellums",
+    "link": "https://www.nature.com/articles/s41593-026-02276-2",
+    "journal": "Nature Neuroscience",
+    "date": "2026-04-09",
+    "summary": "<p>Nature Neuroscience, Published online: 09 April 2026; <a href=\"https://www.nature.com/articles/s41593-026-02276-2\">doi:10.1038/s41593-026-02276-2</a></p>Comparing primate cerebellums",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Neural_anticipation_of_virtual_infection_triggers_an_immune_response.pdf/page1-960px-Neural_anticipation_of_virtual_infection_triggers_an_immune_response.pdf.jpg"
+  },
+  {
+    "title": "Microglia RANK as fertility regulators",
+    "link": "https://www.nature.com/articles/s41593-026-02274-4",
+    "journal": "Nature Neuroscience",
+    "date": "2026-04-09",
+    "summary": "<p>Nature Neuroscience, Published online: 09 April 2026; <a href=\"https://www.nature.com/articles/s41593-026-02274-4\">doi:10.1038/s41593-026-02274-4</a></p>Microglia RANK as fertility regulators",
+    "image": "./images/nature-neuro.jpg"
+  },
+  {
+    "title": "Not so unorganized behavior",
+    "link": "https://www.nature.com/articles/s41593-026-02275-3",
+    "journal": "Nature Neuroscience",
+    "date": "2026-04-09",
+    "summary": "<p>Nature Neuroscience, Published online: 09 April 2026; <a href=\"https://www.nature.com/articles/s41593-026-02275-3\">doi:10.1038/s41593-026-02275-3</a></p>Not so unorganized behavior",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Application_of_Game_Theory_to_Neuronal_Networks.pdf/page1-960px-Application_of_Game_Theory_to_Neuronal_Networks.pdf.jpg"
+  },
+  {
+    "title": "A network signature of Parkinson’s disease",
+    "link": "https://www.nature.com/articles/s41593-026-02273-5",
+    "journal": "Nature Neuroscience",
+    "date": "2026-04-09",
+    "summary": "<p>Nature Neuroscience, Published online: 09 April 2026; <a href=\"https://www.nature.com/articles/s41593-026-02273-5\">doi:10.1038/s41593-026-02273-5</a></p>A network signature of Parkinson’s disease",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/UNLOCKING_THE_CURES_FOR_AMERICA%27S_MOST_DEADLY_DISEASES_%28IA_gov.gpo.fdsys.CHRG-114shrg97384%29.pdf/page1-960px-UNLOCKING_THE_CURES_FOR_AMERICA%27S_MOST_DEADLY_DISEASES_%28IA_gov.gpo.fdsys.CHRG-114shrg97384%29.pdf.jpg"
+  },
+  {
     "title": "Pesticides may wreak havoc on the gut microbiome",
     "link": "https://www.science.org/content/article/pesticides-may-wreak-havoc-gut-microbiome",
     "journal": "Science",
     "date": "2026-04-08T11:00:00Z",
     "summary": "Disruption of intestinal ecosystem could contribute to diabetes and other health issues, scientists say",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Agricultural_research_%28IA_CAT90891937290%29.pdf/page1-960px-Agricultural_research_%28IA_CAT90891937290%29.pdf.jpg"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Agricultural_research_%28IA_CAT90891937405%29.pdf/page1-960px-Agricultural_research_%28IA_CAT90891937405%29.pdf.jpg"
   },
   {
     "title": "Author Correction: Foundation model of neural activity predicts response to new stimulus types",
@@ -254,37 +286,5 @@
     "date": "2026-03-31",
     "summary": "<p>Nature Neuroscience, Published online: 31 March 2026; <a href=\"https://www.nature.com/articles/s41593-026-02270-8\">doi:10.1038/s41593-026-02270-8</a></p>Author Correction: Dopamine projections to the basolateral amygdala drive the encoding of identity-specific reward memories",
     "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41593-026-02270-8/MediaObjects/41593_2026_2270_Fig1_HTML.png"
-  },
-  {
-    "title": "Neuropeptide Y co-opts neuronal ensembles for memory lability and stability",
-    "link": "https://www.nature.com/articles/s41593-026-02235-x",
-    "journal": "Nature Neuroscience",
-    "date": "2026-03-31",
-    "summary": "<p>Nature Neuroscience, Published online: 31 March 2026; <a href=\"https://www.nature.com/articles/s41593-026-02235-x\">doi:10.1038/s41593-026-02235-x</a></p>This study from Wei-Guang Li, Tian-Le Xu and colleagues shows that neuropeptide Y released by specific hippocampal inhibitory neurons can switch fear memories into extinction memories by acting on two distinct receptor-defined neuron populations.",
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41593-026-02235-x/MediaObjects/41593_2026_2235_Fig1_HTML.png"
-  },
-  {
-    "title": "Neuroimmune interferon signals sustain arthritis pain",
-    "link": "https://www.nature.com/articles/s41593-026-02251-x",
-    "journal": "Nature Neuroscience",
-    "date": "2026-03-30",
-    "summary": "<p>Nature Neuroscience, Published online: 30 March 2026; <a href=\"https://www.nature.com/articles/s41593-026-02251-x\">doi:10.1038/s41593-026-02251-x</a></p>Pain in rheumatoid arthritis often persists independently of joint inflammation. In this issue, Su et al. demonstrate that sustained non-canonical type 1 interferon signaling within peripheral sensory neurons maintains hypersensitivity long after inflammation subsides, revealing a potential therapeutic avenue for chronic arthritic pain.",
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41593-026-02251-x/MediaObjects/41593_2026_2251_Fig1_HTML.png"
-  },
-  {
-    "title": "Null models for lesion network mapping",
-    "link": "https://www.nature.com/articles/s41593-026-02259-3",
-    "journal": "Nature Neuroscience",
-    "date": "2026-03-30",
-    "summary": "<p>Nature Neuroscience, Published online: 30 March 2026; <a href=\"https://www.nature.com/articles/s41593-026-02259-3\">doi:10.1038/s41593-026-02259-3</a></p>Van den Heuvel et al. show that lesion-network mapping (LNM)-derived circuits converge across disorders and argue that this convergence reflects a fundamental methodological limitation of LNM. We evaluate ways forward for future LNM studies, including robust null models, in light of these concerns. We view recapitulation of connectome modularity and high-order network properties by LNM as clinically informative and biologically meaningful.",
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41593-026-02259-3/MediaObjects/41593_2026_2259_Fig1_HTML.png"
-  },
-  {
-    "title": "UBQLN2 links proteotoxicity with lipid metabolism in neurodegeneration",
-    "link": "https://www.nature.com/articles/s41593-026-02226-y",
-    "journal": "Nature Neuroscience",
-    "date": "2026-03-30",
-    "summary": "<p>Nature Neuroscience, Published online: 30 March 2026; <a href=\"https://www.nature.com/articles/s41593-026-02226-y\">doi:10.1038/s41593-026-02226-y</a></p>ALS/FTD-linked mutations in UBQLN2, a protein quality control factor, impair degradation of enzymes essential for mitochondrial lipid catabolism, leading to metabolic dysfunction and neurodegeneration.",
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41593-026-02226-y/MediaObjects/41593_2026_2226_Fig1_HTML.png"
   }
 ]
