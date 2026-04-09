@@ -43,44 +43,6 @@
       "limit": 12
     }
   ],
-  "topics": [
-    {
-      "name": "Choroid Plexus",
-      "enabled": true,
-      "priority": 60,
-      "keywords": ["choroid plexus"]
-    },
-    {
-      "name": "microglia",
-      "enabled": true,
-      "priority": 50,
-      "keywords": ["microglia", "microglial"]
-    },
-    {
-      "name": "macrophage",
-      "enabled": true,
-      "priority": 40,
-      "keywords": ["macrophage", "macrophages"]
-    },
-    {
-      "name": "retina",
-      "enabled": true,
-      "priority": 35,
-      "keywords": ["retina", "retinal", "rpe", "photoreceptor"]
-    },
-    {
-      "name": "neurodegeneration",
-      "enabled": true,
-      "priority": 30,
-      "keywords": ["neurodegeneration", "parkinson", "alzheimer", "degeneration"]
-    },
-    {
-      "name": "inflammation",
-      "enabled": true,
-      "priority": 25,
-      "keywords": ["inflammation", "inflammatory", "cytokine"]
-    }
-  ],
   "defaults": {
     "source_limit": 8,
     "max_items": 100
