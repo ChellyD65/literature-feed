@@ -52,6 +52,32 @@
     "priority_score": 45
   },
   {
+    "title": "Polyclonal selection of immune checkpoint mutations in thyroid autoimmunity",
+    "link": "https://www.nature.com/articles/s41586-026-10493-9",
+    "journal": "Nature",
+    "source_type": "journal",
+    "date": "2026-04-14",
+    "summary": "Nature, Published online: 14 April 2026; doi:10.1038/s41586-026-10493-9 Polyclonal selection of immune checkpoint mutations in thyroid autoimmunity",
+    "abstract": "Our immune system contains multiple checkpoints to prevent the activation of self-reactive lymphocytes. How some lymphocytes escape these constraints to cause autoimmune disease remains poorly understood. A long-standing hypothesis posits that somatic mutations in immune-regulatory genes may enable self-reactive lymphocytes to bypass tolerance checkpoints1–3, but testing this has been challenging due to technical limitations. Here, we use whole-exome and targeted NanoSeq4,5, an accurate single-molecule DNA sequencing protocol, to comprehensively search for driver mutations in autoimmune thyroid disease. This revealed many B cell clones convergently acquiring loss-of-function mutations in the key immune checkpoint genes TNFRSF14 (HVEM) and CD274 (PD-L1), as well as less frequent mutations in other immune genes. In highly inflamed biopsies, we detected tens to hundreds of independent immune checkpoint mutant clones. Laser microdissection, methylation sequencing, spatial transcriptomics, immunostaining, single-nucleus DNA sequencing, and antibody synthesis localised these mutations to B cells, confirmed some to be self-reactive, and identified clones carrying multiple hits. We found widespread TNFRSF14 biallelic loss, and clones with as many as 4-6 driver mutations. Whilst each clone accounts for a small fraction of cells (typically <1%), the myriad mutant clones in each donor amounted to a substantial fraction of B cells harbouring driver mutations. Our results support the hypothesis that somatic mutations in autoimmune lymphocytes may allow them to escape tolerance constraints through a polyclonal cascade of somatic evolution, providing new insights into the molecular basis of autoimmune disease.",
+    "image": "data:image/svg+xml;charset=utf-8,%0A%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23111827%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23374151%22/%3E%0A%20%20%20%20%3C/linearGradient%3E%0A%20%20%20%20%3Cfilter%20id%3D%22blur%22%3E%0A%20%20%20%20%20%20%3CfeGaussianBlur%20stdDeviation%3D%2230%22/%3E%0A%20%20%20%20%3C/filter%3E%0A%20%20%3C/defs%3E%0A%0A%20%20%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22url%28%23bg%29%22/%3E%0A%0A%20%20%3Ccircle%20cx%3D%221030%22%20cy%3D%22110%22%20r%3D%22170%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.18%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%20%20%3Ccircle%20cx%3D%22180%22%20cy%3D%22560%22%20r%3D%22150%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.16%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%0A%20%20%3Crect%20x%3D%2256%22%20y%3D%2252%22%20rx%3D%2218%22%20ry%3D%2218%22%20width%3D%22260%22%20height%3D%2254%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.08%29%22/%3E%0A%20%20%3Ctext%20x%3D%2284%22%20y%3D%2287%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2228%22%20fill%3D%22%23e5e7eb%22%3ENature%3C/text%3E%0A%0A%20%20%3Ctext%20x%3D%221010%22%20y%3D%22560%22%0A%20%20%20%20%20%20%20%20text-anchor%3D%22middle%22%0A%20%20%20%20%20%20%20%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%0A%20%20%20%20%20%20%20%20font-size%3D%22160%22%0A%20%20%20%20%20%20%20%20fill%3D%22%2360a5fa%22%0A%20%20%20%20%20%20%20%20opacity%3D%220.85%22%3E%0A%20%20%20%20%E2%80%A2%0A%20%20%3C/text%3E%0A%3C/svg%3E%0A",
+    "topic": "default",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
+    "title": "Autonomous closed-loop framework for reproducible perovskite solar cells",
+    "link": "https://www.nature.com/articles/s41586-026-10482-y",
+    "journal": "Nature",
+    "source_type": "journal",
+    "date": "2026-04-14",
+    "summary": "Nature, Published online: 14 April 2026; doi:10.1038/s41586-026-10482-y Autonomous closed-loop framework for reproducible perovskite solar cells",
+    "abstract": "The commercialization of perovskite solar cells is bottlenecked by inefficient, trial-and-error approaches reliant on human expertise in both material discovery and device fabrication (1-3). Here, we introduce an autonomous closed-loop framework that integrates machine learning (ML)-driven material discovery with an automated manufacturing platform. The system employs active learning and quantum modeling to rapidly identify high-performance molecules, while the platform uses Bayesian optimization and symbolic regression in a feedback loop to continuously refine the fabrication process. This integrated approach enabled the discovery of a passivation molecule, 5-(aminomethyl)nicotinonitrile hydroiodide (5ANI), which yielded 0.05 cm² solar cells with a power conversion efficiency (PCE) of 27.22% (certified maximum power point tracking (MPPT) efficiency of 27.18%) and 21.4 cm² mini-modules with a PCE of 23.49%. Moreover, the devices exhibited long-term operational stability, retaining 98.7% of their initial efficiency after 1,200 hours of continuous operation under the ISOS-L-1I protocol. Crucially, the automated platform achieved an efficiency reproducibility nearly 5 times that of manual fabrication. This work establishes an automated closed-loop system that synergizes ML-powered discovery with the high-fidelity data from automated manufacturing, setting a benchmark for autonomous discovery and manufacturing in photovoltaics and materials.",
+    "image": "data:image/svg+xml;charset=utf-8,%0A%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23111827%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23374151%22/%3E%0A%20%20%20%20%3C/linearGradient%3E%0A%20%20%20%20%3Cfilter%20id%3D%22blur%22%3E%0A%20%20%20%20%20%20%3CfeGaussianBlur%20stdDeviation%3D%2230%22/%3E%0A%20%20%20%20%3C/filter%3E%0A%20%20%3C/defs%3E%0A%0A%20%20%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22url%28%23bg%29%22/%3E%0A%0A%20%20%3Ccircle%20cx%3D%221030%22%20cy%3D%22110%22%20r%3D%22170%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.18%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%20%20%3Ccircle%20cx%3D%22180%22%20cy%3D%22560%22%20r%3D%22150%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.16%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%0A%20%20%3Crect%20x%3D%2256%22%20y%3D%2252%22%20rx%3D%2218%22%20ry%3D%2218%22%20width%3D%22260%22%20height%3D%2254%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.08%29%22/%3E%0A%20%20%3Ctext%20x%3D%2284%22%20y%3D%2287%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2228%22%20fill%3D%22%23e5e7eb%22%3ENature%3C/text%3E%0A%0A%20%20%3Ctext%20x%3D%221010%22%20y%3D%22560%22%0A%20%20%20%20%20%20%20%20text-anchor%3D%22middle%22%0A%20%20%20%20%20%20%20%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%0A%20%20%20%20%20%20%20%20font-size%3D%22160%22%0A%20%20%20%20%20%20%20%20fill%3D%22%2360a5fa%22%0A%20%20%20%20%20%20%20%20opacity%3D%220.85%22%3E%0A%20%20%20%20%E2%80%A2%0A%20%20%3C/text%3E%0A%3C/svg%3E%0A",
+    "topic": "default",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
     "title": "The striking history of safety matches",
     "link": "https://www.nature.com/articles/d41586-026-00914-0",
     "journal": "Nature",
@@ -182,19 +208,6 @@
     "priority_score": 0
   },
   {
-    "title": "Boycott of major AI conference exposes a growing US–China divide",
-    "link": "https://www.nature.com/articles/d41586-026-01058-x",
-    "journal": "Nature",
-    "source_type": "journal",
-    "date": "2026-04-14",
-    "summary": "Nature, Published online: 14 April 2026; doi:10.1038/d41586-026-01058-x China-based researchers make up more than half of all lead authors at NeurIPS.",
-    "abstract": "Nature, Published online: 14 April 2026; doi:10.1038/d41586-026-01058-x China-based researchers make up more than half of all lead authors at NeurIPS.",
-    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-01058-x/d41586-026-01058-x_52289434.jpg",
-    "topic": "default",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
     "title": "Editorial Expression of Concern: Isolated small intestinal segments support auxiliary livers with maintenance of hepatic functions",
     "link": "https://www.nature.com/articles/s41591-026-04390-x",
     "journal": "Nature Medicine",
@@ -320,19 +333,6 @@
     "summary": "White House’s 2027 budget request includes $900 million for NSF to upgrade U.S. academic fleet",
     "abstract": "White House’s 2027 budget request includes $900 million for NSF to upgrade U.S. academic fleet",
     "image": "data:image/svg+xml;charset=utf-8,%0A%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23111827%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23374151%22/%3E%0A%20%20%20%20%3C/linearGradient%3E%0A%20%20%20%20%3Cfilter%20id%3D%22blur%22%3E%0A%20%20%20%20%20%20%3CfeGaussianBlur%20stdDeviation%3D%2230%22/%3E%0A%20%20%20%20%3C/filter%3E%0A%20%20%3C/defs%3E%0A%0A%20%20%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22url%28%23bg%29%22/%3E%0A%0A%20%20%3Ccircle%20cx%3D%221030%22%20cy%3D%22110%22%20r%3D%22170%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.18%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%20%20%3Ccircle%20cx%3D%22180%22%20cy%3D%22560%22%20r%3D%22150%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.16%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%0A%20%20%3Crect%20x%3D%2256%22%20y%3D%2252%22%20rx%3D%2218%22%20ry%3D%2218%22%20width%3D%22260%22%20height%3D%2254%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.08%29%22/%3E%0A%20%20%3Ctext%20x%3D%2284%22%20y%3D%2287%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2228%22%20fill%3D%22%23e5e7eb%22%3EScience%3C/text%3E%0A%0A%20%20%3Ctext%20x%3D%221010%22%20y%3D%22560%22%0A%20%20%20%20%20%20%20%20text-anchor%3D%22middle%22%0A%20%20%20%20%20%20%20%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%0A%20%20%20%20%20%20%20%20font-size%3D%22160%22%0A%20%20%20%20%20%20%20%20fill%3D%22%2360a5fa%22%0A%20%20%20%20%20%20%20%20opacity%3D%220.85%22%3E%0A%20%20%20%20%E2%80%A2%0A%20%20%3C/text%3E%0A%3C/svg%3E%0A",
-    "topic": "default",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
-    "title": "Viruses allegedly stolen from high-security lab cause stir in Brazil",
-    "link": "https://www.nature.com/articles/d41586-026-01211-6",
-    "journal": "Nature",
-    "source_type": "journal",
-    "date": "2026-04-13",
-    "summary": "Nature, Published online: 13 April 2026; doi:10.1038/d41586-026-01211-6 The missing samples — reported to include chikungunya and dengue viruses — have been recovered, but questions linger over motive.",
-    "abstract": "The missing samples — reported to include chikungunya and dengue viruses — have been recovered, but questions linger over motive. The missing samples — reported to include chikungunya and dengue viruses — have been recovered, but questions linger over motive.",
-    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-01211-6/d41586-026-01211-6_52283706.jpg",
     "topic": "default",
     "topic_color": "#60a5fa",
     "priority_score": 0
