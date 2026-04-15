@@ -65,6 +65,32 @@
     "priority_score": 40
   },
   {
+    "title": "Imaging interface-controlled bulk oxygen spillover",
+    "link": "https://www.nature.com/articles/s41586-026-10324-x",
+    "journal": "Nature",
+    "source_type": "journal",
+    "date": "2026-04-15",
+    "summary": "Nature, Published online: 15 April 2026; doi:10.1038/s41586-026-10324-x In situ microscopic single-particle imaging demonstrates the significance of rationally engineered metal–support interfaces for activating the oxygen in bulk catalyst, helping elucidate reaction pathways in catalytic conversions.",
+    "abstract": "Nature, Published online: 15 April 2026; doi:10.1038/s41586-026-10324-x In situ microscopic single-particle imaging demonstrates the significance of rationally engineered metal–support interfaces for activating the oxygen in bulk catalyst, helping elucidate reaction pathways in catalytic conversions.",
+    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-10324-x/MediaObjects/41586_2026_10324_Fig1_HTML.png",
+    "topic": "default",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
+    "title": "Dozens of AI disease-prediction models were trained on dubious data",
+    "link": "https://www.nature.com/articles/d41586-026-00697-4",
+    "journal": "Nature",
+    "source_type": "journal",
+    "date": "2026-04-15",
+    "summary": "Nature, Published online: 15 April 2026; doi:10.1038/d41586-026-00697-4 The models are designed to predict someone’s risk of diabetes or stroke. A few might already have been used on patients.",
+    "abstract": "Nature, Published online: 15 April 2026; doi:10.1038/d41586-026-00697-4 The models are designed to predict someone’s risk of diabetes or stroke. A few might already have been used on patients.",
+    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-00697-4/d41586-026-00697-4_52143418.jpg",
+    "topic": "default",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
     "title": "Fog is a vital water resource. Could it disappear in a warming world?",
     "link": "https://www.science.org/content/article/fog-vital-water-resource-could-it-disappear-warming-world",
     "journal": "Science",
@@ -229,32 +255,6 @@
     "summary": "Nature, Published online: 14 April 2026; doi:10.1038/d41586-026-01099-2 Airborne genetic material can be used to paint a picture of ecosystem health, watch for invasive species and even identify humans.",
     "abstract": "Airborne genetic material can be used to paint a picture of ecosystem health, watch for invasive species and even identify humans. Airborne genetic material can be used to paint a picture of ecosystem health, watch for invasive species and even identify humans.",
     "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-01099-2/d41586-026-01099-2_52265640.jpg",
-    "topic": "default",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
-    "title": "AI needs solid botanical data more than ever",
-    "link": "https://www.nature.com/articles/d41586-026-01196-2",
-    "journal": "Nature",
-    "source_type": "journal",
-    "date": "2026-04-14",
-    "summary": "Nature, Published online: 14 April 2026; doi:10.1038/d41586-026-01196-2 An artificial-intelligence revolution in biotechnology won’t get far without human taxonomic expertise — and that’s under threat.",
-    "abstract": "An artificial-intelligence revolution in biotechnology won’t get far without human taxonomic expertise — and that’s under threat. An artificial-intelligence revolution in biotechnology won’t get far without human taxonomic expertise — and that’s under threat.",
-    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-01196-2/d41586-026-01196-2_52266108.jpg",
-    "topic": "default",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
-    "title": "Stop the ‘space race’: space exploration must be a shared human endeavour",
-    "link": "https://www.nature.com/articles/d41586-026-01194-4",
-    "journal": "Nature",
-    "source_type": "journal",
-    "date": "2026-04-14",
-    "summary": "Nature, Published online: 14 April 2026; doi:10.1038/d41586-026-01194-4 Although led by NASA, Artemis II wasn’t just a US achievement; the mission was a collaborative effort. Long may such cooperation continue.",
-    "abstract": "Although led by NASA, Artemis II wasn’t just a US achievement; the mission was a collaborative effort. Long may such cooperation continue. Although led by NASA, Artemis II wasn’t just a US achievement; the mission was a collaborative effort. Long may such cooperation continue.",
-    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-01194-4/d41586-026-01194-4_52273018.jpg",
     "topic": "default",
     "topic_color": "#60a5fa",
     "priority_score": 0
