@@ -65,6 +65,19 @@
     "priority_score": 0
   },
   {
+    "title": "Immune cells have a surprising role in exercise endurance",
+    "link": "https://www.nature.com/articles/d41586-026-01245-w",
+    "journal": "Nature",
+    "source_type": "journal",
+    "date": "2026-04-17",
+    "summary": "Nature, Published online: 17 April 2026; doi:10.1038/d41586-026-01245-w Study in mice suggests that B cells help regulate muscle performance.",
+    "abstract": "Nature, Published online: 17 April 2026; doi:10.1038/d41586-026-01245-w Study in mice suggests that B cells help regulate muscle performance.",
+    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-01245-w/d41586-026-01245-w_52296580.jpg",
+    "topic": "default",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
     "title": "New year, old me",
     "link": "https://www.nature.com/articles/d41586-026-01067-w",
     "journal": "Nature",
@@ -384,19 +397,6 @@
     "date": "2026-04-15",
     "summary": "Nature, Published online: 15 April 2026; doi:10.1038/s41586-026-10513-8 Cytoplasmic lattices are megadalton storage complexes in mammalian oocytes",
     "abstract": "Mammalian oocytes store proteins for embryonic development on abundant structures known as cytoplasmic lattices (CPLs)1; however, the mechanisms by which they achieve this are unclear, largely because the molecular composition of the lattices themselves is unknown. Here, we use cryo-electron microscopy and artificial intelligence-based modeling to elucidate the molecular architecture and protein composition of native CPLs from mouse oocytes. We find that CPLs are formed by at least 13 different proteins assembling into a megadalton-scale complex, including multiple copies of maternal effect factors such as PADI6 and the subcortical maternal complex (SCMC). We show that proteins essential for early embryonic development are in fact structural components of the CPLs, including the cytoskeletal proteins α- and β-tubulin, which are incorporated into CPLs as unpolymerized dimers; and an array of ubiquitination factors such as the epigenetic regulator and E3 ligase UHRF1, ubiquitin-conjugating E2 enzymes, and ubiquitin ligase substrate adaptors. This represents an elegant molecular mechanism by which oocytes stockpile vital proteins through direct incorporation into highly stable supramolecular assemblies. Our structures solve the decades-long mystery of the CPLs, thereby providing a structural framework for understanding how disrupting stored maternal factors leads to infertility and developmental defects.",
-    "image": "data:image/svg+xml;charset=utf-8,%0A%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23111827%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23374151%22/%3E%0A%20%20%20%20%3C/linearGradient%3E%0A%20%20%20%20%3Cfilter%20id%3D%22blur%22%3E%0A%20%20%20%20%20%20%3CfeGaussianBlur%20stdDeviation%3D%2230%22/%3E%0A%20%20%20%20%3C/filter%3E%0A%20%20%3C/defs%3E%0A%0A%20%20%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22url%28%23bg%29%22/%3E%0A%0A%20%20%3Ccircle%20cx%3D%221030%22%20cy%3D%22110%22%20r%3D%22170%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.18%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%20%20%3Ccircle%20cx%3D%22180%22%20cy%3D%22560%22%20r%3D%22150%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.16%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%0A%20%20%3Crect%20x%3D%2256%22%20y%3D%2252%22%20rx%3D%2218%22%20ry%3D%2218%22%20width%3D%22260%22%20height%3D%2254%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.08%29%22/%3E%0A%20%20%3Ctext%20x%3D%2284%22%20y%3D%2287%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2228%22%20fill%3D%22%23e5e7eb%22%3ENature%3C/text%3E%0A%0A%20%20%3Ctext%20x%3D%221010%22%20y%3D%22560%22%0A%20%20%20%20%20%20%20%20text-anchor%3D%22middle%22%0A%20%20%20%20%20%20%20%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%0A%20%20%20%20%20%20%20%20font-size%3D%22160%22%0A%20%20%20%20%20%20%20%20fill%3D%22%2360a5fa%22%0A%20%20%20%20%20%20%20%20opacity%3D%220.85%22%3E%0A%20%20%20%20%E2%80%A2%0A%20%20%3C/text%3E%0A%3C/svg%3E%0A",
-    "topic": "default",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
-    "title": "Retraction Note: The hidden fitness of the male zebra finch courtship song",
-    "link": "https://www.nature.com/articles/s41586-026-10483-x",
-    "journal": "Nature",
-    "source_type": "journal",
-    "date": "2026-04-15",
-    "summary": "Nature, Published online: 15 April 2026; doi:10.1038/s41586-026-10483-x Retraction Note: The hidden fitness of the male zebra finch courtship song",
-    "abstract": "Nature, Published online: 15 April 2026; doi:10.1038/s41586-026-10483-x Retraction Note: The hidden fitness of the male zebra finch courtship song",
     "image": "data:image/svg+xml;charset=utf-8,%0A%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23111827%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23374151%22/%3E%0A%20%20%20%20%3C/linearGradient%3E%0A%20%20%20%20%3Cfilter%20id%3D%22blur%22%3E%0A%20%20%20%20%20%20%3CfeGaussianBlur%20stdDeviation%3D%2230%22/%3E%0A%20%20%20%20%3C/filter%3E%0A%20%20%3C/defs%3E%0A%0A%20%20%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22url%28%23bg%29%22/%3E%0A%0A%20%20%3Ccircle%20cx%3D%221030%22%20cy%3D%22110%22%20r%3D%22170%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.18%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%20%20%3Ccircle%20cx%3D%22180%22%20cy%3D%22560%22%20r%3D%22150%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.16%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%0A%20%20%3Crect%20x%3D%2256%22%20y%3D%2252%22%20rx%3D%2218%22%20ry%3D%2218%22%20width%3D%22260%22%20height%3D%2254%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.08%29%22/%3E%0A%20%20%3Ctext%20x%3D%2284%22%20y%3D%2287%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2228%22%20fill%3D%22%23e5e7eb%22%3ENature%3C/text%3E%0A%0A%20%20%3Ctext%20x%3D%221010%22%20y%3D%22560%22%0A%20%20%20%20%20%20%20%20text-anchor%3D%22middle%22%0A%20%20%20%20%20%20%20%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%0A%20%20%20%20%20%20%20%20font-size%3D%22160%22%0A%20%20%20%20%20%20%20%20fill%3D%22%2360a5fa%22%0A%20%20%20%20%20%20%20%20opacity%3D%220.85%22%3E%0A%20%20%20%20%E2%80%A2%0A%20%20%3C/text%3E%0A%3C/svg%3E%0A",
     "topic": "default",
     "topic_color": "#60a5fa",
