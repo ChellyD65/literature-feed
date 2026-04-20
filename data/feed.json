@@ -13,19 +13,6 @@
     "priority_score": 92
   },
   {
-    "title": "Microbiome signature of Parkinson’s disease in healthy and genetically at-risk individuals",
-    "link": "https://www.nature.com/articles/s41591-026-04318-5",
-    "journal": "Nature Medicine",
-    "source_type": "journal",
-    "date": "2026-04-20",
-    "summary": "Nature Medicine, Published online: 20 April 2026; doi:10.1038/s41591-026-04318-5 Microbiome analysis suggests that gut microbial changes in Parkinson’s disease evolve progressively from healthy individuals to genetically at-risk individuals to clinically affected patients, with the degree of dysbiosis correlating with disease progression.",
-    "abstract": "Nature Medicine, Published online: 20 April 2026; doi:10.1038/s41591-026-04318-5 Microbiome analysis suggests that gut microbial changes in Parkinson’s disease evolve progressively from healthy individuals to genetically at-risk individuals to clinically affected patients, with the degree of dysbiosis correlating with disease progression.",
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41591-026-04318-5/MediaObjects/41591_2026_4318_Fig1_HTML.png",
-    "topic": "neurodegeneration",
-    "topic_color": "#fda4af",
-    "priority_score": 50
-  },
-  {
     "title": "Amyloid-β-driven glymphatic dysfunction in Alzheimer’s disease model mice is driven by Ca<sup>2+</sup>-mediated increases in astrocytic cholesterol",
     "link": "https://www.nature.com/articles/s41593-026-02261-9",
     "journal": "Nature Neuroscience",
@@ -112,6 +99,19 @@
     "summary": "Nature, Published online: 20 April 2026; doi:10.1038/d41586-026-01261-w Computer scientists share their advice for ensuring that your scientific software does what it’s supposed to do.",
     "abstract": "Nature, Published online: 20 April 2026; doi:10.1038/d41586-026-01261-w Computer scientists share their advice for ensuring that your scientific software does what it’s supposed to do.",
     "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-01261-w/d41586-026-01261-w_52303200.jpg",
+    "topic": "default",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
+    "title": "A step-by-step guide to nailing your tenure promotion package",
+    "link": "https://www.nature.com/articles/d41586-026-00990-2",
+    "journal": "Nature",
+    "source_type": "journal",
+    "date": "2026-04-20",
+    "summary": "Nature, Published online: 20 April 2026; doi:10.1038/d41586-026-00990-2 It’s an important milestone in many academic careers, yet the tenure process is surprisingly nebulous. Here’s what it takes to succeed.",
+    "abstract": "It’s an important milestone in many academic careers, yet the tenure process is surprisingly nebulous. Here’s what it takes to succeed. It’s an important milestone in many academic careers, yet the tenure process is surprisingly nebulous. Here’s what it takes to succeed.",
+    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-00990-2/d41586-026-00990-2_52303058.png",
     "topic": "default",
     "topic_color": "#60a5fa",
     "priority_score": 0
@@ -312,19 +312,6 @@
     "priority_score": 0
   },
   {
-    "title": "US lawmakers intensify scrutiny of scientific-publishing practices",
-    "link": "https://www.nature.com/articles/d41586-026-01251-y",
-    "journal": "Nature",
-    "source_type": "journal",
-    "date": "2026-04-17",
-    "summary": "Nature, Published online: 17 April 2026; doi:10.1038/d41586-026-01251-y A congressional hearing covered the rise of paper mills and the costs of open-access publishing — but there was little agreement on what reform would entail.",
-    "abstract": "A congressional hearing covered the rise of paper mills and the costs of open-access publishing — but there was little agreement on what reform would entail. A congressional hearing covered the rise of paper mills and the costs of open-access publishing — but there was little agreement on what reform would entail.",
-    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-01251-y/d41586-026-01251-y_52297006.jpg",
-    "topic": "default",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
     "title": "Publisher Correction: Reliability of LLMs as medical assistants for the general public: a randomized preregistered study",
     "link": "https://www.nature.com/articles/s41591-026-04404-8",
     "journal": "Nature Medicine",
@@ -489,6 +476,19 @@
     "summary": "Nature Medicine, Published online: 15 April 2026; doi:10.1038/s41591-026-04334-5 Drug-resistant fungal disease must be addressed in the 2026 update to the Global Action Plan on Antimicrobial Resistance",
     "abstract": "Nature Medicine, Published online: 15 April 2026; doi:10.1038/s41591-026-04334-5 Drug-resistant fungal disease must be addressed in the 2026 update to the Global Action Plan on Antimicrobial Resistance",
     "image": "data:image/svg+xml;charset=utf-8,%0A%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23111827%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23374151%22/%3E%0A%20%20%20%20%3C/linearGradient%3E%0A%20%20%20%20%3Cfilter%20id%3D%22blur%22%3E%0A%20%20%20%20%20%20%3CfeGaussianBlur%20stdDeviation%3D%2230%22/%3E%0A%20%20%20%20%3C/filter%3E%0A%20%20%3C/defs%3E%0A%0A%20%20%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22url%28%23bg%29%22/%3E%0A%0A%20%20%3Ccircle%20cx%3D%221030%22%20cy%3D%22110%22%20r%3D%22170%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.18%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%20%20%3Ccircle%20cx%3D%22180%22%20cy%3D%22560%22%20r%3D%22150%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.16%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%0A%20%20%3Crect%20x%3D%2256%22%20y%3D%2252%22%20rx%3D%2218%22%20ry%3D%2218%22%20width%3D%22260%22%20height%3D%2254%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.08%29%22/%3E%0A%20%20%3Ctext%20x%3D%2284%22%20y%3D%2287%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2228%22%20fill%3D%22%23e5e7eb%22%3ENature%20Medicine%3C/text%3E%0A%0A%20%20%3Ctext%20x%3D%221010%22%20y%3D%22560%22%0A%20%20%20%20%20%20%20%20text-anchor%3D%22middle%22%0A%20%20%20%20%20%20%20%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%0A%20%20%20%20%20%20%20%20font-size%3D%22160%22%0A%20%20%20%20%20%20%20%20fill%3D%22%2360a5fa%22%0A%20%20%20%20%20%20%20%20opacity%3D%220.85%22%3E%0A%20%20%20%20%E2%80%A2%0A%20%20%3C/text%3E%0A%3C/svg%3E%0A",
+    "topic": "default",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
+    "title": "Rapid expansion of genotype D1.1 A(H5N1) influenza viruses in wild birds across North America during the 2024 migratory season",
+    "link": "https://www.nature.com/articles/s41591-026-04300-1",
+    "journal": "Nature Medicine",
+    "source_type": "journal",
+    "date": "2026-04-15",
+    "summary": "Nature Medicine, Published online: 15 April 2026; doi:10.1038/s41591-026-04300-1 Using active and passive genomic surveillance, researchers observed the rapid spread of high pathogenicity avian influenza H5N1 D1.1 viruses in wild birds during the 2024 migratory season, which coincided with detection in humans, but did not identify mammalian adaptive markers in viruses from wild birds.",
+    "abstract": "Nature Medicine, Published online: 15 April 2026; doi:10.1038/s41591-026-04300-1 Using active and passive genomic surveillance, researchers observed the rapid spread of high pathogenicity avian influenza H5N1 D1.1 viruses in wild birds during the 2024 migratory season, which coincided with detection in humans, but did not identify mammalian adaptive markers in viruses from wild birds.",
+    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41591-026-04300-1/MediaObjects/41591_2026_4300_Fig1_HTML.png",
     "topic": "default",
     "topic_color": "#60a5fa",
     "priority_score": 0
