@@ -13,17 +13,17 @@
     "priority_score": 92
   },
   {
-    "title": "Newly found macrophages stand guard inside blood vessels",
-    "link": "https://www.nature.com/articles/s41590-026-02503-9",
-    "journal": "Nature Immunology",
+    "title": "Microbiome signature of Parkinson’s disease in healthy and genetically at-risk individuals",
+    "link": "https://www.nature.com/articles/s41591-026-04318-5",
+    "journal": "Nature Medicine",
     "source_type": "journal",
-    "date": "2026-04-03",
-    "summary": "Nature Immunology, Published online: 03 April 2026; doi:10.1038/s41590-026-02503-9 Using high-resolution live imaging in zebrafish, we discovered a population of macrophages residing within blood vessels, termed blood vessel-resident macrophages. These cells clear foreign particles and unfit cells from the circulation and rapidly respond to endothelial injury. Blood vessel-resident macrophages therefore constitute a dedicated immune population that safeguards blood and vascular integrity.",
-    "abstract": "Nature Immunology, Published online: 03 April 2026; doi:10.1038/s41590-026-02503-9 Using high-resolution live imaging in zebrafish, we discovered a population of macrophages residing within blood vessels, termed blood vessel-resident macrophages. These cells clear foreign particles and unfit cells from the circulation and rapidly respond to endothelial injury. Blood vessel-resident macrophages therefore constitute a dedicated immune population that safeguards blood and vascular integrity.",
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41590-026-02503-9/MediaObjects/41590_2026_2503_Fig1_HTML.png",
-    "topic": "macrophage",
-    "topic_color": "#f59e0b",
-    "priority_score": 92
+    "date": "2026-04-20",
+    "summary": "Nature Medicine, Published online: 20 April 2026; doi:10.1038/s41591-026-04318-5 Microbiome analysis suggests that gut microbial changes in Parkinson’s disease evolve progressively from healthy individuals to genetically at-risk individuals to clinically affected patients, with the degree of dysbiosis correlating with disease progression.",
+    "abstract": "Nature Medicine, Published online: 20 April 2026; doi:10.1038/s41591-026-04318-5 Microbiome analysis suggests that gut microbial changes in Parkinson’s disease evolve progressively from healthy individuals to genetically at-risk individuals to clinically affected patients, with the degree of dysbiosis correlating with disease progression.",
+    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41591-026-04318-5/MediaObjects/41591_2026_4318_Fig1_HTML.png",
+    "topic": "neurodegeneration",
+    "topic_color": "#fda4af",
+    "priority_score": 50
   },
   {
     "title": "Amyloid-β-driven glymphatic dysfunction in Alzheimer’s disease model mice is driven by Ca<sup>2+</sup>-mediated increases in astrocytic cholesterol",
@@ -50,6 +50,32 @@
     "topic": "retina",
     "topic_color": "#f472b6",
     "priority_score": 40
+  },
+  {
+    "title": "This disabled parrot has become king by learning to ‘joust’",
+    "link": "https://www.science.org/content/article/disabled-parrot-has-become-king-learning-joust",
+    "journal": "Science",
+    "source_type": "journal",
+    "date": "2026-04-20T11:00:00Z",
+    "summary": "Despite missing his entire upper beak, Bruce the kea is winning at life",
+    "abstract": "Despite missing his entire upper beak, Bruce the kea is winning at life",
+    "image": "data:image/svg+xml;charset=utf-8,%0A%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23111827%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23374151%22/%3E%0A%20%20%20%20%3C/linearGradient%3E%0A%20%20%20%20%3Cfilter%20id%3D%22blur%22%3E%0A%20%20%20%20%20%20%3CfeGaussianBlur%20stdDeviation%3D%2230%22/%3E%0A%20%20%20%20%3C/filter%3E%0A%20%20%3C/defs%3E%0A%0A%20%20%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22url%28%23bg%29%22/%3E%0A%0A%20%20%3Ccircle%20cx%3D%221030%22%20cy%3D%22110%22%20r%3D%22170%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.18%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%20%20%3Ccircle%20cx%3D%22180%22%20cy%3D%22560%22%20r%3D%22150%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.16%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%0A%20%20%3Crect%20x%3D%2256%22%20y%3D%2252%22%20rx%3D%2218%22%20ry%3D%2218%22%20width%3D%22260%22%20height%3D%2254%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.08%29%22/%3E%0A%20%20%3Ctext%20x%3D%2284%22%20y%3D%2287%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2228%22%20fill%3D%22%23e5e7eb%22%3EScience%3C/text%3E%0A%0A%20%20%3Ctext%20x%3D%221010%22%20y%3D%22560%22%0A%20%20%20%20%20%20%20%20text-anchor%3D%22middle%22%0A%20%20%20%20%20%20%20%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%0A%20%20%20%20%20%20%20%20font-size%3D%22160%22%0A%20%20%20%20%20%20%20%20fill%3D%22%2360a5fa%22%0A%20%20%20%20%20%20%20%20opacity%3D%220.85%22%3E%0A%20%20%20%20%E2%80%A2%0A%20%20%3C/text%3E%0A%3C/svg%3E%0A",
+    "topic": "default",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
+    "title": "‘Bat feast’ animal videos at African cave offer clues to how deadly viruses spread",
+    "link": "https://www.nature.com/articles/d41586-026-01259-4",
+    "journal": "Nature",
+    "source_type": "journal",
+    "date": "2026-04-20",
+    "summary": "Nature, Published online: 20 April 2026; doi:10.1038/d41586-026-01259-4 Researchers filmed 10 species eating or scavenging bats at known Marburg-virus hotspot — and caught hundreds of humans visiting.",
+    "abstract": "Researchers filmed 10 species eating or scavenging bats at known Marburg-virus hotspot — and caught hundreds of humans visiting. Researchers filmed 10 species eating or scavenging bats at known Marburg-virus hotspot — and caught hundreds of humans visiting.",
+    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-01259-4/d41586-026-01259-4_52310228.jpg",
+    "topic": "default",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
   },
   {
     "title": "Got bugs? Here’s how to catch the errors in your scientific software",
@@ -100,6 +126,45 @@
     "abstract": "Nature, Published online: 20 April 2026; doi:10.1038/d41586-026-01260-x The people who work behind the scenes to keep research moving say that there should be more recognition for their roles.",
     "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-01260-x/d41586-026-01260-x_52303204.jpg",
     "topic": "default",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
+    "title": "Developing a vaccine strategy to prevent the progression of pulmonary fibrosis",
+    "link": "https://www.nature.com/articles/s41590-026-02487-6",
+    "journal": "Nature Immunology",
+    "source_type": "journal",
+    "date": "2026-04-20",
+    "summary": "Nature Immunology, Published online: 20 April 2026; doi:10.1038/s41590-026-02487-6 Pulmonary fibrosis is an incurable chronic, progressive disease characterized by the emergence of fibrosis-specific cells, including a subset of fibroblasts. Proof-of-concept experiments in mice now show that the immune system can be mobilized by vaccination to target these cells and limit the development of fibrosis.",
+    "abstract": "Nature Immunology, Published online: 20 April 2026; doi:10.1038/s41590-026-02487-6 Pulmonary fibrosis is an incurable chronic, progressive disease characterized by the emergence of fibrosis-specific cells, including a subset of fibroblasts. Proof-of-concept experiments in mice now show that the immune system can be mobilized by vaccination to target these cells and limit the development of fibrosis.",
+    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41590-026-02487-6/MediaObjects/41590_2026_2487_Fig1_HTML.png",
+    "topic": "immunology",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
+    "title": "Immunopeptidome profiling in pulmonary fibrosis provides a platform for identifying therapeutic targets",
+    "link": "https://www.nature.com/articles/s41590-026-02501-x",
+    "journal": "Nature Immunology",
+    "source_type": "journal",
+    "date": "2026-04-20",
+    "summary": "Nature Immunology, Published online: 20 April 2026; doi:10.1038/s41590-026-02501-x Wei and colleagues characterized the MHC class I immunopeptidome in mice and humans with lung fibrosis and identified immunogenic peptides specifically expressed in fibrosis-associated lung cell subsets that blocked the progression of fibrosis in mice treated with bleomycin.",
+    "abstract": "Nature Immunology, Published online: 20 April 2026; doi:10.1038/s41590-026-02501-x Wei and colleagues characterized the MHC class I immunopeptidome in mice and humans with lung fibrosis and identified immunogenic peptides specifically expressed in fibrosis-associated lung cell subsets that blocked the progression of fibrosis in mice treated with bleomycin.",
+    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41590-026-02501-x/MediaObjects/41590_2026_2501_Fig1_HTML.png",
+    "topic": "immunology",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
+    "title": "BLIMP1 shapes germinal center B cell clonal diversity by gating chromatin accessibility during light-to-dark zone transition",
+    "link": "https://www.nature.com/articles/s41590-026-02495-6",
+    "journal": "Nature Immunology",
+    "source_type": "journal",
+    "date": "2026-04-20",
+    "summary": "Nature Immunology, Published online: 20 April 2026; doi:10.1038/s41590-026-02495-6 Singh and colleagues identify a role for the transcription factor BLIMP1, encoded by Prdm1, in the regulation of germinal center responses. They show that BLIMP1 acts as a negative feedback regulator of B cell affinity maturation and clonal dominance.",
+    "abstract": "Nature Immunology, Published online: 20 April 2026; doi:10.1038/s41590-026-02495-6 Singh and colleagues identify a role for the transcription factor BLIMP1, encoded by Prdm1, in the regulation of germinal center responses. They show that BLIMP1 acts as a negative feedback regulator of B cell affinity maturation and clonal dominance.",
+    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41590-026-02495-6/MediaObjects/41590_2026_2495_Fig1_HTML.png",
+    "topic": "immunology",
     "topic_color": "#60a5fa",
     "priority_score": 0
   },
@@ -187,8 +252,8 @@
     "journal": "Nature",
     "source_type": "journal",
     "date": "2026-04-17",
-    "summary": "Nature, Published online: 17 April 2026; doi:10.1038/d41586-026-01245-w Study in mice suggests that B cells help regulate muscle performance.",
-    "abstract": "Nature, Published online: 17 April 2026; doi:10.1038/d41586-026-01245-w Study in mice suggests that B cells help regulate muscle performance.",
+    "summary": "Nature, Published online: 17 April 2026; doi:10.1038/d41586-026-01245-w Study in mice suggests that B cells help to regulate muscle performance.",
+    "abstract": "Nature, Published online: 17 April 2026; doi:10.1038/d41586-026-01245-w Study in mice suggests that B cells help to regulate muscle performance.",
     "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-01245-w/d41586-026-01245-w_52296580.jpg",
     "topic": "default",
     "topic_color": "#60a5fa",
@@ -338,19 +403,6 @@
     "priority_score": 0
   },
   {
-    "title": "Graves reveal plague’s inequitable toll",
-    "link": "https://www.nature.com/articles/d41586-026-01210-7",
-    "journal": "Nature",
-    "source_type": "journal",
-    "date": "2026-04-16",
-    "summary": "Nature, Published online: 16 April 2026; doi:10.1038/d41586-026-01210-7 Most of the individuals in a seventeenth-century-Switzerland burial site had performed strenuous manual labour and died before the age of 20.",
-    "abstract": "Most of the individuals in a seventeenth-century-Switzerland burial site had performed strenuous manual labour and died before the age of 20. Most of the individuals in a seventeenth-century-Switzerland burial site had performed strenuous manual labour and died before the age of 20.",
-    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-01210-7/d41586-026-01210-7_52296494.jpg",
-    "topic": "default",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
     "title": "Spatial and single-cell characterization of human glioblastoma tumor microenvironment reveals malignant cellular communities",
     "link": "https://www.nature.com/articles/s41593-026-02265-5",
     "journal": "Nature Neuroscience",
@@ -429,19 +481,6 @@
     "priority_score": 0
   },
   {
-    "title": "Astronomers complete largest 3D map of the universe ever made",
-    "link": "https://www.science.org/content/article/astronomers-complete-largest-3d-map-universe-ever-made",
-    "journal": "Science",
-    "source_type": "journal",
-    "date": "2026-04-15T10:00:00Z",
-    "summary": "Five-year quest to chart 47 million galaxies yields insights into mysterious “dark energy”",
-    "abstract": "Five-year quest to chart 47 million galaxies yields insights into mysterious “dark energy”",
-    "image": "data:image/svg+xml;charset=utf-8,%0A%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23111827%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23374151%22/%3E%0A%20%20%20%20%3C/linearGradient%3E%0A%20%20%20%20%3Cfilter%20id%3D%22blur%22%3E%0A%20%20%20%20%20%20%3CfeGaussianBlur%20stdDeviation%3D%2230%22/%3E%0A%20%20%20%20%3C/filter%3E%0A%20%20%3C/defs%3E%0A%0A%20%20%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22url%28%23bg%29%22/%3E%0A%0A%20%20%3Ccircle%20cx%3D%221030%22%20cy%3D%22110%22%20r%3D%22170%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.18%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%20%20%3Ccircle%20cx%3D%22180%22%20cy%3D%22560%22%20r%3D%22150%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.16%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%0A%20%20%3Crect%20x%3D%2256%22%20y%3D%2252%22%20rx%3D%2218%22%20ry%3D%2218%22%20width%3D%22260%22%20height%3D%2254%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.08%29%22/%3E%0A%20%20%3Ctext%20x%3D%2284%22%20y%3D%2287%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2228%22%20fill%3D%22%23e5e7eb%22%3EScience%3C/text%3E%0A%0A%20%20%3Ctext%20x%3D%221010%22%20y%3D%22560%22%0A%20%20%20%20%20%20%20%20text-anchor%3D%22middle%22%0A%20%20%20%20%20%20%20%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%0A%20%20%20%20%20%20%20%20font-size%3D%22160%22%0A%20%20%20%20%20%20%20%20fill%3D%22%2360a5fa%22%0A%20%20%20%20%20%20%20%20opacity%3D%220.85%22%3E%0A%20%20%20%20%E2%80%A2%0A%20%20%3C/text%3E%0A%3C/svg%3E%0A",
-    "topic": "default",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
     "title": "Closing the gap on antifungal resistance",
     "link": "https://www.nature.com/articles/s41591-026-04334-5",
     "journal": "Nature Medicine",
@@ -450,19 +489,6 @@
     "summary": "Nature Medicine, Published online: 15 April 2026; doi:10.1038/s41591-026-04334-5 Drug-resistant fungal disease must be addressed in the 2026 update to the Global Action Plan on Antimicrobial Resistance",
     "abstract": "Nature Medicine, Published online: 15 April 2026; doi:10.1038/s41591-026-04334-5 Drug-resistant fungal disease must be addressed in the 2026 update to the Global Action Plan on Antimicrobial Resistance",
     "image": "data:image/svg+xml;charset=utf-8,%0A%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23111827%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23374151%22/%3E%0A%20%20%20%20%3C/linearGradient%3E%0A%20%20%20%20%3Cfilter%20id%3D%22blur%22%3E%0A%20%20%20%20%20%20%3CfeGaussianBlur%20stdDeviation%3D%2230%22/%3E%0A%20%20%20%20%3C/filter%3E%0A%20%20%3C/defs%3E%0A%0A%20%20%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22url%28%23bg%29%22/%3E%0A%0A%20%20%3Ccircle%20cx%3D%221030%22%20cy%3D%22110%22%20r%3D%22170%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.18%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%20%20%3Ccircle%20cx%3D%22180%22%20cy%3D%22560%22%20r%3D%22150%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.16%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%0A%20%20%3Crect%20x%3D%2256%22%20y%3D%2252%22%20rx%3D%2218%22%20ry%3D%2218%22%20width%3D%22260%22%20height%3D%2254%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.08%29%22/%3E%0A%20%20%3Ctext%20x%3D%2284%22%20y%3D%2287%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2228%22%20fill%3D%22%23e5e7eb%22%3ENature%20Medicine%3C/text%3E%0A%0A%20%20%3Ctext%20x%3D%221010%22%20y%3D%22560%22%0A%20%20%20%20%20%20%20%20text-anchor%3D%22middle%22%0A%20%20%20%20%20%20%20%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%0A%20%20%20%20%20%20%20%20font-size%3D%22160%22%0A%20%20%20%20%20%20%20%20fill%3D%22%2360a5fa%22%0A%20%20%20%20%20%20%20%20opacity%3D%220.85%22%3E%0A%20%20%20%20%E2%80%A2%0A%20%20%3C/text%3E%0A%3C/svg%3E%0A",
-    "topic": "default",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
-    "title": "Rapid expansion of genotype D1.1 A(H5N1) influenza viruses in wild birds across North America during the 2024 migratory season",
-    "link": "https://www.nature.com/articles/s41591-026-04300-1",
-    "journal": "Nature Medicine",
-    "source_type": "journal",
-    "date": "2026-04-15",
-    "summary": "Nature Medicine, Published online: 15 April 2026; doi:10.1038/s41591-026-04300-1 Using active and passive genomic surveillance, researchers observed the rapid spread of high pathogenicity avian influenza H5N1 D1.1 viruses in wild birds during the 2024 migratory season, which coincided with detection in humans, but did not identify mammalian adaptive markers in viruses from wild birds.",
-    "abstract": "Nature Medicine, Published online: 15 April 2026; doi:10.1038/s41591-026-04300-1 Using active and passive genomic surveillance, researchers observed the rapid spread of high pathogenicity avian influenza H5N1 D1.1 viruses in wild birds during the 2024 migratory season, which coincided with detection in humans, but did not identify mammalian adaptive markers in viruses from wild birds.",
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41591-026-04300-1/MediaObjects/41591_2026_4300_Fig1_HTML.png",
     "topic": "default",
     "topic_color": "#60a5fa",
     "priority_score": 0
@@ -724,32 +750,6 @@
     "abstract": "Proceedings of the National Academy of Sciences, Volume 123, Issue 15, April 2026. SignificanceRNA molecules frequently assemble into clusters inside cells. In organisms including fruit flies, zebrafish, and nematodes, certain RNA clusters are found to be homotypic, comprising multiple copies of the same RNA sequence. Homotypic ...",
     "image": "data:image/svg+xml;charset=utf-8,%0A%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23111827%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23374151%22/%3E%0A%20%20%20%20%3C/linearGradient%3E%0A%20%20%20%20%3Cfilter%20id%3D%22blur%22%3E%0A%20%20%20%20%20%20%3CfeGaussianBlur%20stdDeviation%3D%2230%22/%3E%0A%20%20%20%20%3C/filter%3E%0A%20%20%3C/defs%3E%0A%0A%20%20%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22url%28%23bg%29%22/%3E%0A%0A%20%20%3Ccircle%20cx%3D%221030%22%20cy%3D%22110%22%20r%3D%22170%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.18%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%20%20%3Ccircle%20cx%3D%22180%22%20cy%3D%22560%22%20r%3D%22150%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.16%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%0A%20%20%3Crect%20x%3D%2256%22%20y%3D%2252%22%20rx%3D%2218%22%20ry%3D%2218%22%20width%3D%22260%22%20height%3D%2254%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.08%29%22/%3E%0A%20%20%3Ctext%20x%3D%2284%22%20y%3D%2287%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2228%22%20fill%3D%22%23e5e7eb%22%3EPNAS%3C/text%3E%0A%0A%20%20%3Ctext%20x%3D%221010%22%20y%3D%22560%22%0A%20%20%20%20%20%20%20%20text-anchor%3D%22middle%22%0A%20%20%20%20%20%20%20%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%0A%20%20%20%20%20%20%20%20font-size%3D%22160%22%0A%20%20%20%20%20%20%20%20fill%3D%22%2360a5fa%22%0A%20%20%20%20%20%20%20%20opacity%3D%220.85%22%3E%0A%20%20%20%20%E2%80%A2%0A%20%20%3C/text%3E%0A%3C/svg%3E%0A",
     "topic": "default",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
-    "title": "Engineering metabolite-sensing NK and T cells to target solid tumors",
-    "link": "https://www.nature.com/articles/s41590-026-02500-y",
-    "journal": "Nature Immunology",
-    "source_type": "journal",
-    "date": "2026-04-03",
-    "summary": "Nature Immunology, Published online: 03 April 2026; doi:10.1038/s41590-026-02500-y Through CRISPR activation screens, we discovered that metabolite-sensing receptors can be used to mobilize natural killer cells and T cells toward solid tumors. Aberrant tumor metabolism is routinely used for diagnosis. Our work now shows that tumor metabolism can be leveraged for therapeutics through the design of tumor-targeted metabolite-sensing effector immune cells.",
-    "abstract": "Nature Immunology, Published online: 03 April 2026; doi:10.1038/s41590-026-02500-y Through CRISPR activation screens, we discovered that metabolite-sensing receptors can be used to mobilize natural killer cells and T cells toward solid tumors. Aberrant tumor metabolism is routinely used for diagnosis. Our work now shows that tumor metabolism can be leveraged for therapeutics through the design of tumor-targeted metabolite-sensing effector immune cells.",
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41590-026-02500-y/MediaObjects/41590_2026_2500_Fig1_HTML.png",
-    "topic": "immunology",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
-    "title": "Multimerizing transcription factors FOXP3 and AIRE as chromatin architectural regulators",
-    "link": "https://www.nature.com/articles/s41590-026-02483-w",
-    "journal": "Nature Immunology",
-    "source_type": "journal",
-    "date": "2026-04-03",
-    "summary": "Nature Immunology, Published online: 03 April 2026; doi:10.1038/s41590-026-02483-w Hur and colleagues review recent developments to provide insights into the molecular mechanisms and regulatory functions of the transcriptional regulators FOXP3 and AIRE.",
-    "abstract": "Nature Immunology, Published online: 03 April 2026; doi:10.1038/s41590-026-02483-w Hur and colleagues review recent developments to provide insights into the molecular mechanisms and regulatory functions of the transcriptional regulators FOXP3 and AIRE.",
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41590-026-02483-w/MediaObjects/41590_2026_2483_Fig1_HTML.png",
-    "topic": "immunology",
     "topic_color": "#60a5fa",
     "priority_score": 0
   }
