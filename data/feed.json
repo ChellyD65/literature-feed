@@ -52,6 +52,19 @@
     "priority_score": 40
   },
   {
+    "title": "‘Staggering’ number of people believe unproven claims about vaccines, raw milk and more",
+    "link": "https://www.nature.com/articles/d41586-026-01285-2",
+    "journal": "Nature",
+    "source_type": "journal",
+    "date": "2026-04-22",
+    "summary": "Nature, Published online: 22 April 2026; doi:10.1038/d41586-026-01285-2 Survey results suggest a rise in questioning of scientific evidence.",
+    "abstract": "Nature, Published online: 22 April 2026; doi:10.1038/d41586-026-01285-2 Survey results suggest a rise in questioning of scientific evidence.",
+    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-01285-2/d41586-026-01285-2_52322332.jpg",
+    "topic": "default",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
     "title": "The misunderstood sex chromosome: how X affects your health",
     "link": "https://www.nature.com/articles/d41586-026-01256-7",
     "journal": "Nature",
@@ -189,7 +202,7 @@
     "date": "2026-04-21",
     "summary": "Nature, Published online: 21 April 2026; doi:10.1038/d41586-026-01255-8 Civil nuclear technology comes with unlikely but dangerous risks that shouldn’t be overlooked.",
     "abstract": "Nature, Published online: 21 April 2026; doi:10.1038/d41586-026-01255-8 Civil nuclear technology comes with unlikely but dangerous risks that shouldn’t be overlooked.",
-    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-01255-8/d41586-026-01255-8_52297072.jpg",
+    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-01255-8/d41586-026-01255-8_52318514.jpg",
     "topic": "default",
     "topic_color": "#60a5fa",
     "priority_score": 0
@@ -216,6 +229,19 @@
     "summary": "Nature, Published online: 21 April 2026; doi:10.1038/d41586-026-01284-3 Physicists have spent the past decade trying to pin down the elusive fundamental constant, to no avail.",
     "abstract": "Nature, Published online: 21 April 2026; doi:10.1038/d41586-026-01284-3 Physicists have spent the past decade trying to pin down the elusive fundamental constant, to no avail.",
     "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-01284-3/d41586-026-01284-3_52310488.jpg",
+    "topic": "default",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
+    "title": "Daily briefing: Should we worry about AI doomsday?",
+    "link": "https://www.nature.com/articles/d41586-026-01331-z",
+    "journal": "Nature",
+    "source_type": "journal",
+    "date": "2026-04-21",
+    "summary": "Nature, Published online: 21 April 2026; doi:10.1038/d41586-026-01331-z What researchers think about the validity, and risk, of AI doomsday scenarios. Plus, a social network for agentic AI bots and how personalized CRISPR therapies could reach more people who need them.",
+    "abstract": "Nature, Published online: 21 April 2026; doi:10.1038/d41586-026-01331-z What researchers think about the validity, and risk, of AI doomsday scenarios. Plus, a social network for agentic AI bots and how personalized CRISPR therapies could reach more people who need them.",
+    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-01331-z/d41586-026-01331-z_52322392.png",
     "topic": "default",
     "topic_color": "#60a5fa",
     "priority_score": 0
@@ -411,32 +437,6 @@
     "summary": "Nature, Published online: 20 April 2026; doi:10.1038/d41586-026-01259-4 Researchers filmed 10 species eating or scavenging bats at known Marburg-virus hotspot — and caught hundreds of humans visiting.",
     "abstract": "Researchers filmed 10 species eating or scavenging bats at known Marburg-virus hotspot — and caught hundreds of humans visiting. Researchers filmed 10 species eating or scavenging bats at known Marburg-virus hotspot — and caught hundreds of humans visiting.",
     "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-01259-4/d41586-026-01259-4_52310228.jpg",
-    "topic": "default",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
-    "title": "No humans allowed: scientific AI agents get their own social network",
-    "link": "https://www.nature.com/articles/d41586-026-01278-1",
-    "journal": "Nature",
-    "source_type": "journal",
-    "date": "2026-04-20",
-    "summary": "Nature, Published online: 20 April 2026; doi:10.1038/d41586-026-01278-1 Autonomous agents aren’t just creating their own research — on the Reddit-style website Agent4Science, they’re chatting about it, too.",
-    "abstract": "Autonomous agents aren’t just creating their own research — on the Reddit-style website Agent4Science, they’re chatting about it, too. Autonomous agents aren’t just creating their own research — on the Reddit-style website Agent4Science, they’re chatting about it, too.",
-    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-01278-1/d41586-026-01278-1_52310298.jpg",
-    "topic": "default",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
-    "title": "Got bugs? Here’s how to catch the errors in your scientific software",
-    "link": "https://www.nature.com/articles/d41586-026-01261-w",
-    "journal": "Nature",
-    "source_type": "journal",
-    "date": "2026-04-20",
-    "summary": "Nature, Published online: 20 April 2026; doi:10.1038/d41586-026-01261-w Computer scientists share their advice for ensuring that your scientific software does what it’s supposed to do.",
-    "abstract": "Nature, Published online: 20 April 2026; doi:10.1038/d41586-026-01261-w Computer scientists share their advice for ensuring that your scientific software does what it’s supposed to do.",
-    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-01261-w/d41586-026-01261-w_52303200.jpg",
     "topic": "default",
     "topic_color": "#60a5fa",
     "priority_score": 0
