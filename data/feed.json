@@ -39,6 +39,19 @@
     "priority_score": 66
   },
   {
+    "title": "Early dopamine disruption in the entorhinal cortex of a knock-in model of Alzheimer’s disease",
+    "link": "https://www.nature.com/articles/s41593-026-02260-w",
+    "journal": "Nature Neuroscience",
+    "source_type": "journal",
+    "date": "2026-04-23",
+    "summary": "Nature Neuroscience, Published online: 23 April 2026; doi:10.1038/s41593-026-02260-w The authors reveal entorhinal cortex dopaminergic and behavioral dysfunction in Alzheimer’s model mice, suggesting the possibility that entorhinal dopamine loss may contribute to aspects of Alzheimer’s disease.",
+    "abstract": "Nature Neuroscience, Published online: 23 April 2026; doi:10.1038/s41593-026-02260-w The authors reveal entorhinal cortex dopaminergic and behavioral dysfunction in Alzheimer’s model mice, suggesting the possibility that entorhinal dopamine loss may contribute to aspects of Alzheimer’s disease.",
+    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41593-026-02260-w/MediaObjects/41593_2026_2260_Fig1_HTML.png",
+    "topic": "neurodegeneration",
+    "topic_color": "#fda4af",
+    "priority_score": 50
+  },
+  {
     "title": "Amyloid-β-driven glymphatic dysfunction in Alzheimer’s disease model mice is driven by Ca<sup>2+</sup>-mediated increases in astrocytic cholesterol",
     "link": "https://www.nature.com/articles/s41593-026-02261-9",
     "journal": "Nature Neuroscience",
@@ -52,17 +65,69 @@
     "priority_score": 50
   },
   {
-    "title": "HSV-1 strain H129 co-opts neuronal synaptic transmission machinery for its transsynaptic spread",
-    "link": "https://www.nature.com/articles/s41593-026-02254-8",
+    "title": "BOLD fMRI reflects both vascular and metabolic signals",
+    "link": "https://www.nature.com/articles/s41593-026-02288-y",
     "journal": "Nature Neuroscience",
     "source_type": "journal",
-    "date": "2026-04-14",
-    "summary": "Nature Neuroscience, Published online: 14 April 2026; doi:10.1038/s41593-026-02254-8 By assembling into ‘virion vesicles’, the H129 strain of herpes simplex virus-1 hijacks synaptic machinery for its anterograde spread, co-opting voltage-gated Ca2+ channels, Syt7 and SNAREs for presynaptic exit, then nectin-1/CME for postsynaptic entry.",
-    "abstract": "Nature Neuroscience, Published online: 14 April 2026; doi:10.1038/s41593-026-02254-8 By assembling into ‘virion vesicles’, the H129 strain of herpes simplex virus-1 hijacks synaptic machinery for its anterograde spread, co-opting voltage-gated Ca2+ channels, Syt7 and SNAREs for presynaptic exit, then nectin-1/CME for postsynaptic entry.",
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41593-026-02254-8/MediaObjects/41593_2026_2254_Fig1_HTML.png",
-    "topic": "retina",
-    "topic_color": "#f472b6",
-    "priority_score": 40
+    "date": "2026-04-23",
+    "summary": "Nature Neuroscience, Published online: 23 April 2026; doi:10.1038/s41593-026-02288-y A recent study by Epp et al. uses advanced, quantitative functional MRI measures to demonstrate that the ‘canonical’ interpretation of blood-oxygenation-level-dependent (BOLD) functional MRI (fMRI) — that increases and decreases in brain activation are accompanied by corresponding changes in blood flow and oxygen metabolism — does not strictly hold across the human brain. Although the authors provided a balanced interpretation, this has been viewed by others as undermining fMRI. We discuss whether the findings bring into question the validity of fMRI-based measures of brain function.",
+    "abstract": "Nature Neuroscience, Published online: 23 April 2026; doi:10.1038/s41593-026-02288-y A recent study by Epp et al. uses advanced, quantitative functional MRI measures to demonstrate that the ‘canonical’ interpretation of blood-oxygenation-level-dependent (BOLD) functional MRI (fMRI) — that increases and decreases in brain activation are accompanied by corresponding changes in blood flow and oxygen metabolism — does not strictly hold across the human brain. Although the authors provided a balanced interpretation, this has been viewed by others as undermining fMRI. We discuss whether the findings bring into question the validity of fMRI-based measures of brain function.",
+    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41593-026-02288-y/MediaObjects/41593_2026_2288_Fig1_HTML.png",
+    "topic": "neuroscience",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
+    "title": "BLIMP1 tunes germinal center B cell responses to limit clonal dominance",
+    "link": "https://www.nature.com/articles/s41590-026-02508-4",
+    "journal": "Nature Immunology",
+    "source_type": "journal",
+    "date": "2026-04-23",
+    "summary": "Nature Immunology, Published online: 23 April 2026; doi:10.1038/s41590-026-02508-4 The plasma cell transcription factor BLIMP1 unexpectedly functions in germinal center B cells as a signaling-induced gatekeeper, restraining B cell receptor signaling and positive selection to limit clonal dominance. Acting as a molecular brake, BLIMP1 helps to maintain the balance between affinity maturation and antibody repertoire diversity.",
+    "abstract": "Nature Immunology, Published online: 23 April 2026; doi:10.1038/s41590-026-02508-4 The plasma cell transcription factor BLIMP1 unexpectedly functions in germinal center B cells as a signaling-induced gatekeeper, restraining B cell receptor signaling and positive selection to limit clonal dominance. Acting as a molecular brake, BLIMP1 helps to maintain the balance between affinity maturation and antibody repertoire diversity.",
+    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41590-026-02508-4/MediaObjects/41590_2026_2508_Fig1_HTML.png",
+    "topic": "immunology",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
+    "title": "Astrocyte-driven immunosuppression in the brain tumor microenvironment",
+    "link": "https://www.nature.com/articles/s41590-026-02488-5",
+    "journal": "Nature Immunology",
+    "source_type": "journal",
+    "date": "2026-04-23",
+    "summary": "Nature Immunology, Published online: 23 April 2026; doi:10.1038/s41590-026-02488-5 In this Review, the authors look at the function of astrocytes in immunotherapy and the immune response to glioblastoma and brain metastases.",
+    "abstract": "Brain tumors are among the most lethal cancers, with limited success from emerging immunotherapies, largely due to the reshaping of the surrounding tumor microenvironment to promote tumor growth, invasion and immune evasion. Astrocytes are abundant glial cells of the central nervous system (CNS) that can activate distinct molecular programs to support glioblastoma and brain metastases. Although astrocytes are central regulators of the immune response in the CNS, their role in shaping tumor immunity remains relatively underexplored. Emerging evidence indicates that reactive astrocytes are important drivers of local immunosuppression, which constitutes a major barrier to the development of efficacious immunotherapies for brain tumors. In this Review, we examine astrocyte reprogramming by tumor-derived signals, its effect on tumor immunity, and emerging strategies to modulate astrocyte responses and immunotherapy outcomes. In this Review, the authors look at the function of astrocytes in immunotherapy and the immune response to glioblastoma and brain metastases.",
+    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41590-026-02488-5/MediaObjects/41590_2026_2488_Fig1_HTML.png",
+    "topic": "immunology",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
+    "title": "Africa’s moment for health security",
+    "link": "https://www.nature.com/articles/s41591-026-04330-9",
+    "journal": "Nature Medicine",
+    "source_type": "journal",
+    "date": "2026-04-23",
+    "summary": "Nature Medicine, Published online: 23 April 2026; doi:10.1038/s41591-026-04330-9 Advancing pandemic readiness to secure Africa’s health sovereignty.",
+    "abstract": "Nature Medicine, Published online: 23 April 2026; doi:10.1038/s41591-026-04330-9 Advancing pandemic readiness to secure Africa’s health sovereignty.",
+    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41591-026-04330-9/MediaObjects/41591_2026_4330_Figa_HTML.png",
+    "topic": "default",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
+    "title": "How to meaningfully evaluate AI in clinical medicine",
+    "link": "https://www.nature.com/articles/s41591-026-04350-5",
+    "journal": "Nature Medicine",
+    "source_type": "journal",
+    "date": "2026-04-23",
+    "summary": "Nature Medicine, Published online: 23 April 2026; doi:10.1038/s41591-026-04350-5 How to meaningfully evaluate AI in clinical medicine",
+    "abstract": "Nature Medicine, Published online: 23 April 2026; doi:10.1038/s41591-026-04350-5 How to meaningfully evaluate AI in clinical medicine",
+    "image": "data:image/svg+xml;charset=utf-8,%0A%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23111827%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23374151%22/%3E%0A%20%20%20%20%3C/linearGradient%3E%0A%20%20%20%20%3Cfilter%20id%3D%22blur%22%3E%0A%20%20%20%20%20%20%3CfeGaussianBlur%20stdDeviation%3D%2230%22/%3E%0A%20%20%20%20%3C/filter%3E%0A%20%20%3C/defs%3E%0A%0A%20%20%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22url%28%23bg%29%22/%3E%0A%0A%20%20%3Ccircle%20cx%3D%221030%22%20cy%3D%22110%22%20r%3D%22170%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.18%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%20%20%3Ccircle%20cx%3D%22180%22%20cy%3D%22560%22%20r%3D%22150%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.16%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%0A%20%20%3Crect%20x%3D%2256%22%20y%3D%2252%22%20rx%3D%2218%22%20ry%3D%2218%22%20width%3D%22260%22%20height%3D%2254%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.08%29%22/%3E%0A%20%20%3Ctext%20x%3D%2284%22%20y%3D%2287%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2228%22%20fill%3D%22%23e5e7eb%22%3ENature%20Medicine%3C/text%3E%0A%0A%20%20%3Ctext%20x%3D%221010%22%20y%3D%22560%22%0A%20%20%20%20%20%20%20%20text-anchor%3D%22middle%22%0A%20%20%20%20%20%20%20%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%0A%20%20%20%20%20%20%20%20font-size%3D%22160%22%0A%20%20%20%20%20%20%20%20fill%3D%22%2360a5fa%22%0A%20%20%20%20%20%20%20%20opacity%3D%220.85%22%3E%0A%20%20%20%20%E2%80%A2%0A%20%20%3C/text%3E%0A%3C/svg%3E%0A",
+    "topic": "default",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
   },
   {
     "title": "South America—the last continent to be settled—was peopled in surprisingly complex way",
@@ -403,32 +468,6 @@
     "priority_score": 0
   },
   {
-    "title": "Modifying exposure to plastic-associated chemicals in daily living",
-    "link": "https://www.nature.com/articles/s41591-026-04349-y",
-    "journal": "Nature Medicine",
-    "source_type": "journal",
-    "date": "2026-04-21",
-    "summary": "Nature Medicine, Published online: 21 April 2026; doi:10.1038/s41591-026-04349-y A study shows that extensively limiting plastic use in food systems, diet and daily life can reduce exposure to plastic-associated chemicals such as phthalates and bisphenols, indicating that large-scale regulatory actions are needed for true public health impact.",
-    "abstract": "Nature Medicine, Published online: 21 April 2026; doi:10.1038/s41591-026-04349-y A study shows that extensively limiting plastic use in food systems, diet and daily life can reduce exposure to plastic-associated chemicals such as phthalates and bisphenols, indicating that large-scale regulatory actions are needed for true public health impact.",
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41591-026-04349-y/MediaObjects/41591_2026_4349_Fig1_HTML.png",
-    "topic": "default",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
-    "title": "The patient is now in the room",
-    "link": "https://www.nature.com/articles/s41591-026-04335-4",
-    "journal": "Nature Medicine",
-    "source_type": "journal",
-    "date": "2026-04-21",
-    "summary": "Nature Medicine, Published online: 21 April 2026; doi:10.1038/s41591-026-04335-4 A trial built around one baby is showing how patient-driven research can go mainstream.",
-    "abstract": "Nature Medicine, Published online: 21 April 2026; doi:10.1038/s41591-026-04335-4 A trial built around one baby is showing how patient-driven research can go mainstream.",
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41591-026-04335-4/MediaObjects/41591_2026_4335_Figa_HTML.png",
-    "topic": "default",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
     "title": "Cocaine pollution gives salmon wanderlust",
     "link": "https://www.science.org/content/article/cocaine-pollution-gives-salmon-wanderlust",
     "journal": "Science",
@@ -637,19 +676,6 @@
     "priority_score": 0
   },
   {
-    "title": "Rapid temporal processing in the olfactory bulb underlies concentration-invariant odor identification and signal decorrelation",
-    "link": "https://www.nature.com/articles/s41593-026-02250-y",
-    "journal": "Nature Neuroscience",
-    "source_type": "journal",
-    "date": "2026-04-14",
-    "summary": "Nature Neuroscience, Published online: 14 April 2026; doi:10.1038/s41593-026-02250-y This study shows that the brain’s smell center uses precise timing and inhibition to read out early odor signals, enabling reliable odor identity across concentrations while rapidly separating (decorrelating) similar smell patterns for better discrimination.",
-    "abstract": "Nature Neuroscience, Published online: 14 April 2026; doi:10.1038/s41593-026-02250-y This study shows that the brain’s smell center uses precise timing and inhibition to read out early odor signals, enabling reliable odor identity across concentrations while rapidly separating (decorrelating) similar smell patterns for better discrimination.",
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41593-026-02250-y/MediaObjects/41593_2026_2250_Fig1_HTML.png",
-    "topic": "neuroscience",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
     "title": "Profile of Helen M. Piwnica-Worms",
     "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2609807123?af=R",
     "journal": "PNAS",
@@ -685,32 +711,6 @@
     "abstract": "Proceedings of the National Academy of Sciences, Volume 123, Issue 16, April 2026. SignificanceMycobacterium aviumcan switch between two primary colony morphologies—smooth transparent (SmT) and smooth opaque (SmO)—where SmT is associated with human disease while the avirulent SmO morphotype might represent an environmental form of the ...",
     "image": "data:image/svg+xml;charset=utf-8,%0A%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23111827%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23374151%22/%3E%0A%20%20%20%20%3C/linearGradient%3E%0A%20%20%20%20%3Cfilter%20id%3D%22blur%22%3E%0A%20%20%20%20%20%20%3CfeGaussianBlur%20stdDeviation%3D%2230%22/%3E%0A%20%20%20%20%3C/filter%3E%0A%20%20%3C/defs%3E%0A%0A%20%20%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22url%28%23bg%29%22/%3E%0A%0A%20%20%3Ccircle%20cx%3D%221030%22%20cy%3D%22110%22%20r%3D%22170%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.18%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%20%20%3Ccircle%20cx%3D%22180%22%20cy%3D%22560%22%20r%3D%22150%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.16%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%0A%20%20%3Crect%20x%3D%2256%22%20y%3D%2252%22%20rx%3D%2218%22%20ry%3D%2218%22%20width%3D%22260%22%20height%3D%2254%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.08%29%22/%3E%0A%20%20%3Ctext%20x%3D%2284%22%20y%3D%2287%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2228%22%20fill%3D%22%23e5e7eb%22%3EPNAS%3C/text%3E%0A%0A%20%20%3Ctext%20x%3D%221010%22%20y%3D%22560%22%0A%20%20%20%20%20%20%20%20text-anchor%3D%22middle%22%0A%20%20%20%20%20%20%20%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%0A%20%20%20%20%20%20%20%20font-size%3D%22160%22%0A%20%20%20%20%20%20%20%20fill%3D%22%2360a5fa%22%0A%20%20%20%20%20%20%20%20opacity%3D%220.85%22%3E%0A%20%20%20%20%E2%80%A2%0A%20%20%3C/text%3E%0A%3C/svg%3E%0A",
     "topic": "default",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
-    "title": "The dual role of TOX in regulating T<sub>H</sub>1 and CD8<sup>+</sup> T cell fate",
-    "link": "https://www.nature.com/articles/s41590-026-02494-7",
-    "journal": "Nature Immunology",
-    "source_type": "journal",
-    "date": "2026-04-13",
-    "summary": "Nature Immunology, Published online: 13 April 2026; doi:10.1038/s41590-026-02494-7 Chronic antigen exposure drives TOX expression in CD8+ T cells and is associated with an exhausted hypofunctional T cell state. By contrast, data now show that the function of TOX in CD4+ T cells defines the TH1 lineage and supports the effector function of these cells.",
-    "abstract": "Nature Immunology, Published online: 13 April 2026; doi:10.1038/s41590-026-02494-7 Chronic antigen exposure drives TOX expression in CD8+ T cells and is associated with an exhausted hypofunctional T cell state. By contrast, data now show that the function of TOX in CD4+ T cells defines the TH1 lineage and supports the effector function of these cells.",
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41590-026-02494-7/MediaObjects/41590_2026_2494_Fig1_HTML.png",
-    "topic": "immunology",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
-    "title": "Diet-induced metabolic memory shapes CD8<sup>+</sup> T cell ferroptosis susceptibility",
-    "link": "https://www.nature.com/articles/s41590-026-02493-8",
-    "journal": "Nature Immunology",
-    "source_type": "journal",
-    "date": "2026-04-13",
-    "summary": "Nature Immunology, Published online: 13 April 2026; doi:10.1038/s41590-026-02493-8 Metabolic stress is associated with impaired immunity, yet underlying mechanisms remain unclear. Description of a xanthine-dependent antioxidant program that shields CD8+ T cells from ferroptosis reveals a metabolically actionable axis that control anti-tumor responses.",
-    "abstract": "Nature Immunology, Published online: 13 April 2026; doi:10.1038/s41590-026-02493-8 Metabolic stress is associated with impaired immunity, yet underlying mechanisms remain unclear. Description of a xanthine-dependent antioxidant program that shields CD8+ T cells from ferroptosis reveals a metabolically actionable axis that control anti-tumor responses.",
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41590-026-02493-8/MediaObjects/41590_2026_2493_Fig1_HTML.png",
-    "topic": "immunology",
     "topic_color": "#60a5fa",
     "priority_score": 0
   },
