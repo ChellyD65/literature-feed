@@ -65,6 +65,32 @@
     "priority_score": 50
   },
   {
+    "title": "Author Correction: Rewiring an E3 ligase enhances cold resilience and phosphate use in maize",
+    "link": "https://www.nature.com/articles/s41586-026-10560-1",
+    "journal": "Nature",
+    "source_type": "journal",
+    "date": "2026-04-23",
+    "summary": "Nature, Published online: 23 April 2026; doi:10.1038/s41586-026-10560-1 Author Correction: Rewiring an E3 ligase enhances cold resilience and phosphate use in maize",
+    "abstract": "Nature, Published online: 23 April 2026; doi:10.1038/s41586-026-10560-1 Author Correction: Rewiring an E3 ligase enhances cold resilience and phosphate use in maize",
+    "image": "data:image/svg+xml;charset=utf-8,%0A%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23111827%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23374151%22/%3E%0A%20%20%20%20%3C/linearGradient%3E%0A%20%20%20%20%3Cfilter%20id%3D%22blur%22%3E%0A%20%20%20%20%20%20%3CfeGaussianBlur%20stdDeviation%3D%2230%22/%3E%0A%20%20%20%20%3C/filter%3E%0A%20%20%3C/defs%3E%0A%0A%20%20%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22url%28%23bg%29%22/%3E%0A%0A%20%20%3Ccircle%20cx%3D%221030%22%20cy%3D%22110%22%20r%3D%22170%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.18%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%20%20%3Ccircle%20cx%3D%22180%22%20cy%3D%22560%22%20r%3D%22150%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.16%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%0A%20%20%3Crect%20x%3D%2256%22%20y%3D%2252%22%20rx%3D%2218%22%20ry%3D%2218%22%20width%3D%22260%22%20height%3D%2254%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.08%29%22/%3E%0A%20%20%3Ctext%20x%3D%2284%22%20y%3D%2287%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2228%22%20fill%3D%22%23e5e7eb%22%3ENature%3C/text%3E%0A%0A%20%20%3Ctext%20x%3D%221010%22%20y%3D%22560%22%0A%20%20%20%20%20%20%20%20text-anchor%3D%22middle%22%0A%20%20%20%20%20%20%20%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%0A%20%20%20%20%20%20%20%20font-size%3D%22160%22%0A%20%20%20%20%20%20%20%20fill%3D%22%2360a5fa%22%0A%20%20%20%20%20%20%20%20opacity%3D%220.85%22%3E%0A%20%20%20%20%E2%80%A2%0A%20%20%3C/text%3E%0A%3C/svg%3E%0A",
+    "topic": "default",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
+    "title": "What 6,000 researchers think about the future of science",
+    "link": "https://www.nature.com/articles/d41586-026-01061-2",
+    "journal": "Nature",
+    "source_type": "journal",
+    "date": "2026-04-23",
+    "summary": "Nature, Published online: 23 April 2026; doi:10.1038/d41586-026-01061-2 Funding worries and publishing trends loom large in the minds of scientists surveyed by Nature Index.",
+    "abstract": "Nature, Published online: 23 April 2026; doi:10.1038/d41586-026-01061-2 Funding worries and publishing trends loom large in the minds of scientists surveyed by Nature Index.",
+    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-01061-2/d41586-026-01061-2_52302646.jpg",
+    "topic": "default",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
     "title": "BOLD fMRI reflects both vascular and metabolic signals",
     "link": "https://www.nature.com/articles/s41593-026-02288-y",
     "journal": "Nature Neuroscience",
@@ -281,32 +307,6 @@
     "summary": "Nature, Published online: 22 April 2026; doi:10.1038/s41586-026-10426-6 Communication between distant brain regions is mediated by plastic networks of gap junction-coupled astrocytes.",
     "abstract": "Neuronal axons have traditionally been considered to be the primary mediators of functional connectivity among brain regions. However, the role of astrocyte-mediated communication has been largely underappreciated. Astrocytes communicate with one another through gap junctions, but the extent and specificity of this communication remain poorly understood. Astrocyte gap junctions are necessary for memory formation1,2, synaptic plasticity3–5, coordination of neuronal signalling6, and closing the visual and motor critical periods7,8. These findings indicate that this form of communication is essential for proper central nervous system development and function. Despite the importance of astrocyte gap junctional networks, studying them has been challenging. Current methods such as slice electrophysiology disrupt network connectivity and introduce artefacts due to tissue damage. Here, we developed a vector-based approach that labels molecules as they are fluxed by astrocyte gap junctions in awake, behaving animals to overcome these limitations. We then used whole-brain tissue clearing9,10 to image these intact, three-dimensional astrocyte networks. We show that multiple astrocyte networks traverse the mouse brain. These networks selectively connect specific regions, rather than diffusing indiscriminately, and vary in size and organization. We observe local networks that are confined to single brain regions and long-range networks that robustly interconnect multiple regions across hemispheres, often exhibiting patterns distinct from known neuronal networks. We also demonstrate that astrocyte networks undergo structural reorganization in the adult brain after sensory deprivation. These findings reveal a mode of communication between distant brain regions that is mediated by plastic networks of gap junction-coupled astrocytes. Communication between distant brain regions is mediated by plastic networks of gap junction-coupled astrocytes.",
     "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-10426-6/MediaObjects/41586_2026_10426_Fig1_HTML.png",
-    "topic": "default",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
-    "title": "Multicentre gene therapy for <i>OTOF</i>-related deafness followed up to 2.5 years",
-    "link": "https://www.nature.com/articles/s41586-026-10393-y",
-    "journal": "Nature",
-    "source_type": "journal",
-    "date": "2026-04-22",
-    "summary": "Nature, Published online: 22 April 2026; doi:10.1038/s41586-026-10393-y In a multicentre trial of AAV1-hOTOF gene therapy involving 42 participants aged 0.8–32.3 years with autosomal recessive deafness 9, treatment demonstrated safety, tolerability, and improved hearing and speech perception, with age and distortion product otoacoustic emissions associated with treatment outcomes.",
-    "abstract": "Nature, Published online: 22 April 2026; doi:10.1038/s41586-026-10393-y In a multicentre trial of AAV1-hOTOF gene therapy involving 42 participants aged 0.8–32.3 years with autosomal recessive deafness 9, treatment demonstrated safety, tolerability, and improved hearing and speech perception, with age and distortion product otoacoustic emissions associated with treatment outcomes.",
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-10393-y/MediaObjects/41586_2026_10393_Fig1_HTML.png",
-    "topic": "default",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
-    "title": "Efficiency-optimized relativistic plasma harmonics for extreme fields",
-    "link": "https://www.nature.com/articles/s41586-026-10400-2",
-    "journal": "Nature",
-    "source_type": "journal",
-    "date": "2026-04-22",
-    "summary": "Nature, Published online: 22 April 2026; doi:10.1038/s41586-026-10400-2 Tailoring relativistic laser–plasma interactions on femtosecond timescales unlocks a direct route to extreme field generation using a coherent harmonic focus.",
-    "abstract": "Bright harmonic radiation from relativistically oscillating laser plasmas offers a direct route for generating extreme electromagnetic fields. Theory predicts that under optimized conditions, the plasma medium can support strong spatiotemporal compression of laser energy in a coherent harmonic focus (CHF), delivering intensity boosts many orders of magnitude greater than the incident driving laser pulse1–4. Although diffraction-limited performance5 (spatial compression) and attosecond phase locking6–8 (temporal compression) have been demonstrated experimentally, efficient coupling of relativistically intense laser pulse energy into the emitted harmonic cone has not been realized so far. Here we demonstrate that this highly nonlinear interaction can be tailored to deliver the maximum conversion efficiencies predicted from simulations. By fine-tuning the temporal profile of the driving laser on sub-picosecond (<10−12 s) timescales, energies >9 mJ between the 12th and 47th harmonics are observed. These results are in agreement with the theoretically expected efficiency dependence on harmonic order, verifying that optimal conditions have been achieved in the generation process. This is the important final element required to achieve the expected intensity boosts from a CHF in experiments. Although obtaining spatiotemporal compression and optimal efficiency simultaneously remains challenging, the path to realizing extreme optical field strengths approaching the critical field of quantum electrodynamics (the Schwinger limit at >1016 V cm−1 or >1029 W cm−2) is now open, permitting all-optical studies of the quantum vacuum and new frontiers for intense attosecond science. Tailoring relativistic laser–plasma interactions on femtosecond timescales unlocks a direct route to extreme field generation using a coherent harmonic focus.",
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-10400-2/MediaObjects/41586_2026_10400_Fig1_HTML.png",
     "topic": "default",
     "topic_color": "#60a5fa",
     "priority_score": 0
