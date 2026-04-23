@@ -26,6 +26,19 @@
     "priority_score": 66
   },
   {
+    "title": "Early dopamine disruption in the entorhinal cortex of a knock-in model of Alzheimer’s disease",
+    "link": "https://www.nature.com/articles/s41593-026-02260-w",
+    "journal": "Nature Neuroscience",
+    "source_type": "journal",
+    "date": "2026-04-23",
+    "summary": "Nature Neuroscience, Published online: 23 April 2026; doi:10.1038/s41593-026-02260-w The authors reveal entorhinal cortex dopaminergic and behavioral dysfunction in Alzheimer’s model mice, suggesting the possibility that entorhinal dopamine loss may contribute to aspects of Alzheimer’s disease.",
+    "abstract": "Nature Neuroscience, Published online: 23 April 2026; doi:10.1038/s41593-026-02260-w The authors reveal entorhinal cortex dopaminergic and behavioral dysfunction in Alzheimer’s model mice, suggesting the possibility that entorhinal dopamine loss may contribute to aspects of Alzheimer’s disease.",
+    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41593-026-02260-w/MediaObjects/41593_2026_2260_Fig1_HTML.png",
+    "topic": "neurodegeneration",
+    "topic_color": "#fda4af",
+    "priority_score": 50
+  },
+  {
     "title": "Amyloid-β-driven glymphatic dysfunction in Alzheimer’s disease model mice is driven by Ca<sup>2+</sup>-mediated increases in astrocytic cholesterol",
     "link": "https://www.nature.com/articles/s41593-026-02261-9",
     "journal": "Nature Neuroscience",
@@ -39,17 +52,30 @@
     "priority_score": 50
   },
   {
-    "title": "HSV-1 strain H129 co-opts neuronal synaptic transmission machinery for its transsynaptic spread",
-    "link": "https://www.nature.com/articles/s41593-026-02254-8",
-    "journal": "Nature Neuroscience",
+    "title": "Octopus ‘krakens’ as large as semi-trucks stalked ancient seas",
+    "link": "https://www.science.org/content/article/octopus-krakens-large-semi-trucks-stalked-ancient-seas",
+    "journal": "Science",
     "source_type": "journal",
-    "date": "2026-04-14",
-    "summary": "Nature Neuroscience, Published online: 14 April 2026; doi:10.1038/s41593-026-02254-8 By assembling into ‘virion vesicles’, the H129 strain of herpes simplex virus-1 hijacks synaptic machinery for its anterograde spread, co-opting voltage-gated Ca2+ channels, Syt7 and SNAREs for presynaptic exit, then nectin-1/CME for postsynaptic entry.",
-    "abstract": "Nature Neuroscience, Published online: 14 April 2026; doi:10.1038/s41593-026-02254-8 By assembling into ‘virion vesicles’, the H129 strain of herpes simplex virus-1 hijacks synaptic machinery for its anterograde spread, co-opting voltage-gated Ca2+ channels, Syt7 and SNAREs for presynaptic exit, then nectin-1/CME for postsynaptic entry.",
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41593-026-02254-8/MediaObjects/41593_2026_2254_Fig1_HTML.png",
-    "topic": "retina",
-    "topic_color": "#f472b6",
-    "priority_score": 40
+    "date": "2026-04-23T02:00:00Z",
+    "summary": "Giant cephalopods may have rivaled marine reptiles as apex predators during the age of the dinosaurs",
+    "abstract": "Giant cephalopods may have rivaled marine reptiles as apex predators during the age of the dinosaurs",
+    "image": "data:image/svg+xml;charset=utf-8,%0A%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23111827%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23374151%22/%3E%0A%20%20%20%20%3C/linearGradient%3E%0A%20%20%20%20%3Cfilter%20id%3D%22blur%22%3E%0A%20%20%20%20%20%20%3CfeGaussianBlur%20stdDeviation%3D%2230%22/%3E%0A%20%20%20%20%3C/filter%3E%0A%20%20%3C/defs%3E%0A%0A%20%20%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22url%28%23bg%29%22/%3E%0A%0A%20%20%3Ccircle%20cx%3D%221030%22%20cy%3D%22110%22%20r%3D%22170%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.18%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%20%20%3Ccircle%20cx%3D%22180%22%20cy%3D%22560%22%20r%3D%22150%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.16%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%0A%20%20%3Crect%20x%3D%2256%22%20y%3D%2252%22%20rx%3D%2218%22%20ry%3D%2218%22%20width%3D%22260%22%20height%3D%2254%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.08%29%22/%3E%0A%20%20%3Ctext%20x%3D%2284%22%20y%3D%2287%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2228%22%20fill%3D%22%23e5e7eb%22%3EScience%3C/text%3E%0A%0A%20%20%3Ctext%20x%3D%221010%22%20y%3D%22560%22%0A%20%20%20%20%20%20%20%20text-anchor%3D%22middle%22%0A%20%20%20%20%20%20%20%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%0A%20%20%20%20%20%20%20%20font-size%3D%22160%22%0A%20%20%20%20%20%20%20%20fill%3D%22%2360a5fa%22%0A%20%20%20%20%20%20%20%20opacity%3D%220.85%22%3E%0A%20%20%20%20%E2%80%A2%0A%20%20%3C/text%3E%0A%3C/svg%3E%0A",
+    "topic": "default",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
+    "title": "As U.S. pushes to expand uranium mines, opponents warn of ‘ticking time bomb’",
+    "link": "https://www.science.org/content/article/u-s-pushes-expand-uranium-mines-opponents-warn-ticking-time-bomb",
+    "journal": "Science",
+    "source_type": "journal",
+    "date": "2026-04-23T02:00:00Z",
+    "summary": "Method that leaches radioactive metal from aquifers can leave groundwater contaminated, researchers say",
+    "abstract": "Method that leaches radioactive metal from aquifers can leave groundwater contaminated, researchers say",
+    "image": "data:image/svg+xml;charset=utf-8,%0A%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23111827%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23374151%22/%3E%0A%20%20%20%20%3C/linearGradient%3E%0A%20%20%20%20%3Cfilter%20id%3D%22blur%22%3E%0A%20%20%20%20%20%20%3CfeGaussianBlur%20stdDeviation%3D%2230%22/%3E%0A%20%20%20%20%3C/filter%3E%0A%20%20%3C/defs%3E%0A%0A%20%20%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22url%28%23bg%29%22/%3E%0A%0A%20%20%3Ccircle%20cx%3D%221030%22%20cy%3D%22110%22%20r%3D%22170%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.18%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%20%20%3Ccircle%20cx%3D%22180%22%20cy%3D%22560%22%20r%3D%22150%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.16%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%0A%20%20%3Crect%20x%3D%2256%22%20y%3D%2252%22%20rx%3D%2218%22%20ry%3D%2218%22%20width%3D%22260%22%20height%3D%2254%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.08%29%22/%3E%0A%20%20%3Ctext%20x%3D%2284%22%20y%3D%2287%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2228%22%20fill%3D%22%23e5e7eb%22%3EScience%3C/text%3E%0A%0A%20%20%3Ctext%20x%3D%221010%22%20y%3D%22560%22%0A%20%20%20%20%20%20%20%20text-anchor%3D%22middle%22%0A%20%20%20%20%20%20%20%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%0A%20%20%20%20%20%20%20%20font-size%3D%22160%22%0A%20%20%20%20%20%20%20%20fill%3D%22%2360a5fa%22%0A%20%20%20%20%20%20%20%20opacity%3D%220.85%22%3E%0A%20%20%20%20%E2%80%A2%0A%20%20%3C/text%3E%0A%3C/svg%3E%0A",
+    "topic": "default",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
   },
   {
     "title": "Author Correction: Rewiring an E3 ligase enhances cold resilience and phosphate use in maize",
@@ -73,6 +99,19 @@
     "summary": "Nature, Published online: 23 April 2026; doi:10.1038/s41586-026-10547-y Field re-entrant superconductivity in Eu-doped infinite-layer nickelates",
     "abstract": "Intertwined superconducting and magnetic orders may give rise to exotic quantum phases1–7, including field-induced and re-entrant superconductivity8–10. However, such magnetism-enhanced superconductivity has remained elusive in superconductors with higher transition temperatures1–3. While infinite-layer nickelates represent a new class of unconventional superconductors11–20, the impact of rare-earth magnetism on superconducting properties remains largely unexplored. Here, we show that Eu-doped infinite-layer nickelate Sm0.95−xCa0.05EuxNiO2 exhibits a magnetic-field-induced re-entrant superconducting phase in the Eu-rich over-doped regime. Zero-resistance transport and high-field diamagnetic screening confirm the superconducting nature of this phase, which emerges after the initial suppression of low-field superconductivity and remains robust across a broad range of temperatures, fields and field orientations. In the same doping range, we observe nonlinear Hall transport and hysteretic magnetoresistance, indicating the unconventional nature of the re-entrant behaviour. While partially consistent with a compensation mechanism between the Eu-derived exchange field and the applied field, our data reveal pronounced deviations from this model at the highest-doping levels. Our findings establish infinite-layer nickelates as a fertile platform for exploring magnetically driven high-field superconductivity in strongly correlated oxides.",
     "image": "data:image/svg+xml;charset=utf-8,%0A%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23111827%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23374151%22/%3E%0A%20%20%20%20%3C/linearGradient%3E%0A%20%20%20%20%3Cfilter%20id%3D%22blur%22%3E%0A%20%20%20%20%20%20%3CfeGaussianBlur%20stdDeviation%3D%2230%22/%3E%0A%20%20%20%20%3C/filter%3E%0A%20%20%3C/defs%3E%0A%0A%20%20%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22url%28%23bg%29%22/%3E%0A%0A%20%20%3Ccircle%20cx%3D%221030%22%20cy%3D%22110%22%20r%3D%22170%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.18%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%20%20%3Ccircle%20cx%3D%22180%22%20cy%3D%22560%22%20r%3D%22150%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.16%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%0A%20%20%3Crect%20x%3D%2256%22%20y%3D%2252%22%20rx%3D%2218%22%20ry%3D%2218%22%20width%3D%22260%22%20height%3D%2254%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.08%29%22/%3E%0A%20%20%3Ctext%20x%3D%2284%22%20y%3D%2287%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2228%22%20fill%3D%22%23e5e7eb%22%3ENature%3C/text%3E%0A%0A%20%20%3Ctext%20x%3D%221010%22%20y%3D%22560%22%0A%20%20%20%20%20%20%20%20text-anchor%3D%22middle%22%0A%20%20%20%20%20%20%20%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%0A%20%20%20%20%20%20%20%20font-size%3D%22160%22%0A%20%20%20%20%20%20%20%20fill%3D%22%2360a5fa%22%0A%20%20%20%20%20%20%20%20opacity%3D%220.85%22%3E%0A%20%20%20%20%E2%80%A2%0A%20%20%3C/text%3E%0A%3C/svg%3E%0A",
+    "topic": "default",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
+    "title": "Why is heart cancer so rare? The pumping muscle ‘beats’ it",
+    "link": "https://www.nature.com/articles/d41586-026-01296-z",
+    "journal": "Nature",
+    "source_type": "journal",
+    "date": "2026-04-23",
+    "summary": "Nature, Published online: 23 April 2026; doi:10.1038/d41586-026-01296-z Pressure on the heart as it pumps blood stops cancer cells from multiplying in mouse hearts.",
+    "abstract": "Nature, Published online: 23 April 2026; doi:10.1038/d41586-026-01296-z Pressure on the heart as it pumps blood stops cancer cells from multiplying in mouse hearts.",
+    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-01296-z/d41586-026-01296-z_52322538.jpg",
     "topic": "default",
     "topic_color": "#60a5fa",
     "priority_score": 0
@@ -156,6 +195,32 @@
     "priority_score": 0
   },
   {
+    "title": "Thousands of Harvard graduate students strike — bringing research to a halt",
+    "link": "https://www.nature.com/articles/d41586-026-01344-8",
+    "journal": "Nature",
+    "source_type": "journal",
+    "date": "2026-04-23",
+    "summary": "Nature, Published online: 23 April 2026; doi:10.1038/d41586-026-01344-8 Workers at the elite US university want higher pay, and ask for better protection for students at risk of deportation.",
+    "abstract": "Nature, Published online: 23 April 2026; doi:10.1038/d41586-026-01344-8 Workers at the elite US university want higher pay, and ask for better protection for students at risk of deportation.",
+    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-01344-8/d41586-026-01344-8_52323154.jpg",
+    "topic": "default",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
+    "title": "Did kraken-like octopuses rule Cretaceous seas? Massive jaw fossils offer clues",
+    "link": "https://www.nature.com/articles/d41586-026-01342-w",
+    "journal": "Nature",
+    "source_type": "journal",
+    "date": "2026-04-23",
+    "summary": "Nature, Published online: 23 April 2026; doi:10.1038/d41586-026-01342-w Extinct cephalopods might have been up to 19 metres in length and probably dined high up the food chain in ancient oceans.",
+    "abstract": "Nature, Published online: 23 April 2026; doi:10.1038/d41586-026-01342-w Extinct cephalopods might have been up to 19 metres in length and probably dined high up the food chain in ancient oceans.",
+    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-01342-w/d41586-026-01342-w_52326814.jpg",
+    "topic": "default",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
     "title": "Delays have kept new NSF grants to a trickle — that could be about to change",
     "link": "https://www.nature.com/articles/d41586-026-01287-0",
     "journal": "Nature",
@@ -165,6 +230,19 @@
     "abstract": "The agency is finally ready to distribute a spate of new grants, but it is also preparing substantial cuts to areas such as biological and social sciences. The agency is finally ready to distribute a spate of new grants, but it is also preparing substantial cuts to areas such as biological and social sciences.",
     "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-01287-0/d41586-026-01287-0_52323026.jpg",
     "topic": "default",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
+    "title": "BOLD fMRI reflects both vascular and metabolic signals",
+    "link": "https://www.nature.com/articles/s41593-026-02288-y",
+    "journal": "Nature Neuroscience",
+    "source_type": "journal",
+    "date": "2026-04-23",
+    "summary": "Nature Neuroscience, Published online: 23 April 2026; doi:10.1038/s41593-026-02288-y A recent study by Epp et al. uses advanced, quantitative functional MRI measures to demonstrate that the ‘canonical’ interpretation of blood-oxygenation-level-dependent (BOLD) functional MRI (fMRI) — that increases and decreases in brain activation are accompanied by corresponding changes in blood flow and oxygen metabolism — does not strictly hold across the human brain. Although the authors provided a balanced interpretation, this has been viewed by others as undermining fMRI. We discuss whether the findings bring into question the validity of fMRI-based measures of brain function.",
+    "abstract": "Nature Neuroscience, Published online: 23 April 2026; doi:10.1038/s41593-026-02288-y A recent study by Epp et al. uses advanced, quantitative functional MRI measures to demonstrate that the ‘canonical’ interpretation of blood-oxygenation-level-dependent (BOLD) functional MRI (fMRI) — that increases and decreases in brain activation are accompanied by corresponding changes in blood flow and oxygen metabolism — does not strictly hold across the human brain. Although the authors provided a balanced interpretation, this has been viewed by others as undermining fMRI. We discuss whether the findings bring into question the validity of fMRI-based measures of brain function.",
+    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41593-026-02288-y/MediaObjects/41593_2026_2288_Fig1_HTML.png",
+    "topic": "neuroscience",
     "topic_color": "#60a5fa",
     "priority_score": 0
   },
@@ -281,45 +359,6 @@
     "summary": "A lipid synthesized on skin may promote brain development—and a swabbing with vaginal fluid can provide it to C-section babies, study finds",
     "abstract": "A lipid synthesized on skin may promote brain development—and a swabbing with vaginal fluid can provide it to C-section babies, study finds",
     "image": "data:image/svg+xml;charset=utf-8,%0A%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23111827%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23374151%22/%3E%0A%20%20%20%20%3C/linearGradient%3E%0A%20%20%20%20%3Cfilter%20id%3D%22blur%22%3E%0A%20%20%20%20%20%20%3CfeGaussianBlur%20stdDeviation%3D%2230%22/%3E%0A%20%20%20%20%3C/filter%3E%0A%20%20%3C/defs%3E%0A%0A%20%20%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22url%28%23bg%29%22/%3E%0A%0A%20%20%3Ccircle%20cx%3D%221030%22%20cy%3D%22110%22%20r%3D%22170%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.18%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%20%20%3Ccircle%20cx%3D%22180%22%20cy%3D%22560%22%20r%3D%22150%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.16%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%0A%20%20%3Crect%20x%3D%2256%22%20y%3D%2252%22%20rx%3D%2218%22%20ry%3D%2218%22%20width%3D%22260%22%20height%3D%2254%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.08%29%22/%3E%0A%20%20%3Ctext%20x%3D%2284%22%20y%3D%2287%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2228%22%20fill%3D%22%23e5e7eb%22%3EScience%3C/text%3E%0A%0A%20%20%3Ctext%20x%3D%221010%22%20y%3D%22560%22%0A%20%20%20%20%20%20%20%20text-anchor%3D%22middle%22%0A%20%20%20%20%20%20%20%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%0A%20%20%20%20%20%20%20%20font-size%3D%22160%22%0A%20%20%20%20%20%20%20%20fill%3D%22%2360a5fa%22%0A%20%20%20%20%20%20%20%20opacity%3D%220.85%22%3E%0A%20%20%20%20%E2%80%A2%0A%20%20%3C/text%3E%0A%3C/svg%3E%0A",
-    "topic": "default",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
-    "title": "Evaluating large language models for accuracy incentivizes hallucinations",
-    "link": "https://www.nature.com/articles/s41586-026-10549-w",
-    "journal": "Nature",
-    "source_type": "journal",
-    "date": "2026-04-22",
-    "summary": "Nature, Published online: 22 April 2026; doi:10.1038/s41586-026-10549-w Evaluating large language models for accuracy incentivizes hallucinations",
-    "abstract": "Large language models sometimes produce confident, plausible falsehoods (“hallucinations”), limiting their reliability1,2. Prior work has offered numerous explanations and effective mitigations such as retrieval and tool use3, consistency-based self-verification4, and reinforcement learning from human feedback5. Nonetheless, the problem persists even in state-of-the-art language models6,7. Here we show how next-word prediction and accuracy-based evaluations inadvertently reward unwarranted guessing. Initially, next-word pretraining creates statistical pressure toward hallucination even with idealized error-free data: using learning theory8,9, we show that facts lacking repeated support in training data (such as one-off details) yield unavoidable errors, while recurring regularities (such as grammar) do not. Subsequent training stages aim to correct such errors. However, dominant headline metrics like accuracy systematically reward guessing over admitting uncertainty. To align incentives, we suggest two additions to the classic approach of adding error penalties to evaluations to control abstention10,11. First, we propose “open-rubric” evaluations that explicitly state how errors are penalized (if at all), which test whether a model modulates its abstentions to stated stakes while optimizing accuracy. Second, since hallucination-specific benchmarks rarely make leaderboards12, we suggest using open-rubric variants of existing evaluations, to reverse their guessing incentives. Reframing hallucination as an incentive problem opens a practical path toward more reliable language models.",
-    "image": "data:image/svg+xml;charset=utf-8,%0A%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23111827%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23374151%22/%3E%0A%20%20%20%20%3C/linearGradient%3E%0A%20%20%20%20%3Cfilter%20id%3D%22blur%22%3E%0A%20%20%20%20%20%20%3CfeGaussianBlur%20stdDeviation%3D%2230%22/%3E%0A%20%20%20%20%3C/filter%3E%0A%20%20%3C/defs%3E%0A%0A%20%20%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22url%28%23bg%29%22/%3E%0A%0A%20%20%3Ccircle%20cx%3D%221030%22%20cy%3D%22110%22%20r%3D%22170%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.18%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%20%20%3Ccircle%20cx%3D%22180%22%20cy%3D%22560%22%20r%3D%22150%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.16%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%0A%20%20%3Crect%20x%3D%2256%22%20y%3D%2252%22%20rx%3D%2218%22%20ry%3D%2218%22%20width%3D%22260%22%20height%3D%2254%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.08%29%22/%3E%0A%20%20%3Ctext%20x%3D%2284%22%20y%3D%2287%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2228%22%20fill%3D%22%23e5e7eb%22%3ENature%3C/text%3E%0A%0A%20%20%3Ctext%20x%3D%221010%22%20y%3D%22560%22%0A%20%20%20%20%20%20%20%20text-anchor%3D%22middle%22%0A%20%20%20%20%20%20%20%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%0A%20%20%20%20%20%20%20%20font-size%3D%22160%22%0A%20%20%20%20%20%20%20%20fill%3D%22%2360a5fa%22%0A%20%20%20%20%20%20%20%20opacity%3D%220.85%22%3E%0A%20%20%20%20%E2%80%A2%0A%20%20%3C/text%3E%0A%3C/svg%3E%0A",
-    "topic": "default",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
-    "title": "Ubiquitination of glycogen and metabolites in cells and tissues",
-    "link": "https://www.nature.com/articles/s41586-026-10548-x",
-    "journal": "Nature",
-    "source_type": "journal",
-    "date": "2026-04-22",
-    "summary": "Nature, Published online: 22 April 2026; doi:10.1038/s41586-026-10548-x Ubiquitination of glycogen and metabolites in cells and tissues",
-    "abstract": "Ubiquitin signalling covers a vast realm of protein modifications, yet may still be underestimated due to non-proteinaceous substrates, such as sugars, lipids, and nucleotides1 . The breadth of ubiquitinated non-protein substrates, their abundance, and cellular roles are currently unclear, since current ubiquitinomic and proteomic techniques are blind to non-proteinaceous modifications. We report Non-Protein Ub-clipping (NoPro-clipping) as a mass-spectrometry-based technique that combines ubiquitin clippases with sortase labelling. Targeted and untargeted workflows unveil a vast new canvas of ubiquitin modifications in mammalian cells, and in mouse and human tissues. We find ubiquitinated glycogen in any glycogen-containing tissue in mice, with highest abundance in liver and skeletal muscle. Ubiquitination can deliver glycogen to lysosomes, and leads to reduced glycogen levels. Glycogen ubiquitination is modulated in glycogen storage diseases and regulated by the Met1-polyubiquitin machinery. Strikingly, glycogen depletion in the liver during fasting coincides with elevated glycogen ubiquitination, suggesting that ubiquitin is a previously unknown component of physiological glycogen catabolism. We also reveal ubiquitination of endogenous glycerol and spermine in cells and tissues. NoPro-clipping hence unveils unexpected endogenous non-proteinaceous targets of ubiquitination, broadening the role of ubiquitin from a protein modifier to a general modifier of biomolecules.",
-    "image": "data:image/svg+xml;charset=utf-8,%0A%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23111827%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23374151%22/%3E%0A%20%20%20%20%3C/linearGradient%3E%0A%20%20%20%20%3Cfilter%20id%3D%22blur%22%3E%0A%20%20%20%20%20%20%3CfeGaussianBlur%20stdDeviation%3D%2230%22/%3E%0A%20%20%20%20%3C/filter%3E%0A%20%20%3C/defs%3E%0A%0A%20%20%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22url%28%23bg%29%22/%3E%0A%0A%20%20%3Ccircle%20cx%3D%221030%22%20cy%3D%22110%22%20r%3D%22170%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.18%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%20%20%3Ccircle%20cx%3D%22180%22%20cy%3D%22560%22%20r%3D%22150%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.16%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%0A%20%20%3Crect%20x%3D%2256%22%20y%3D%2252%22%20rx%3D%2218%22%20ry%3D%2218%22%20width%3D%22260%22%20height%3D%2254%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.08%29%22/%3E%0A%20%20%3Ctext%20x%3D%2284%22%20y%3D%2287%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2228%22%20fill%3D%22%23e5e7eb%22%3ENature%3C/text%3E%0A%0A%20%20%3Ctext%20x%3D%221010%22%20y%3D%22560%22%0A%20%20%20%20%20%20%20%20text-anchor%3D%22middle%22%0A%20%20%20%20%20%20%20%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%0A%20%20%20%20%20%20%20%20font-size%3D%22160%22%0A%20%20%20%20%20%20%20%20fill%3D%22%2360a5fa%22%0A%20%20%20%20%20%20%20%20opacity%3D%220.85%22%3E%0A%20%20%20%20%E2%80%A2%0A%20%20%3C/text%3E%0A%3C/svg%3E%0A",
-    "topic": "default",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
-    "title": "Author Correction: Robust cytoplasmic partitioning by solving a cytoskeletal instability",
-    "link": "https://www.nature.com/articles/s41586-026-10390-1",
-    "journal": "Nature",
-    "source_type": "journal",
-    "date": "2026-04-22",
-    "summary": "Nature, Published online: 22 April 2026; doi:10.1038/s41586-026-10390-1 Author Correction: Robust cytoplasmic partitioning by solving a cytoskeletal instability",
-    "abstract": "Nature, Published online: 22 April 2026; doi:10.1038/s41586-026-10390-1 Author Correction: Robust cytoplasmic partitioning by solving a cytoskeletal instability",
-    "image": "data:image/svg+xml;charset=utf-8,%0A%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23111827%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23374151%22/%3E%0A%20%20%20%20%3C/linearGradient%3E%0A%20%20%20%20%3Cfilter%20id%3D%22blur%22%3E%0A%20%20%20%20%20%20%3CfeGaussianBlur%20stdDeviation%3D%2230%22/%3E%0A%20%20%20%20%3C/filter%3E%0A%20%20%3C/defs%3E%0A%0A%20%20%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22url%28%23bg%29%22/%3E%0A%0A%20%20%3Ccircle%20cx%3D%221030%22%20cy%3D%22110%22%20r%3D%22170%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.18%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%20%20%3Ccircle%20cx%3D%22180%22%20cy%3D%22560%22%20r%3D%22150%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.16%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%0A%20%20%3Crect%20x%3D%2256%22%20y%3D%2252%22%20rx%3D%2218%22%20ry%3D%2218%22%20width%3D%22260%22%20height%3D%2254%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.08%29%22/%3E%0A%20%20%3Ctext%20x%3D%2284%22%20y%3D%2287%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2228%22%20fill%3D%22%23e5e7eb%22%3ENature%3C/text%3E%0A%0A%20%20%3Ctext%20x%3D%221010%22%20y%3D%22560%22%0A%20%20%20%20%20%20%20%20text-anchor%3D%22middle%22%0A%20%20%20%20%20%20%20%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%0A%20%20%20%20%20%20%20%20font-size%3D%22160%22%0A%20%20%20%20%20%20%20%20fill%3D%22%2360a5fa%22%0A%20%20%20%20%20%20%20%20opacity%3D%220.85%22%3E%0A%20%20%20%20%E2%80%A2%0A%20%20%3C/text%3E%0A%3C/svg%3E%0A",
     "topic": "default",
     "topic_color": "#60a5fa",
     "priority_score": 0
@@ -533,32 +572,6 @@
     "priority_score": 0
   },
   {
-    "title": "Severe malaria may affect children’s cognitive abilities more than a decade later",
-    "link": "https://www.science.org/content/article/severe-malaria-may-affect-children-s-cognitive-abilities-more-decade-later",
-    "journal": "Science",
-    "source_type": "journal",
-    "date": "2026-04-18T07:30:00Z",
-    "summary": "Children who had cerebral malaria or severe malaria anemia have lower scores on tests measuring general cognition and math achievement",
-    "abstract": "Children who had cerebral malaria or severe malaria anemia have lower scores on tests measuring general cognition and math achievement",
-    "image": "data:image/svg+xml;charset=utf-8,%0A%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23111827%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23374151%22/%3E%0A%20%20%20%20%3C/linearGradient%3E%0A%20%20%20%20%3Cfilter%20id%3D%22blur%22%3E%0A%20%20%20%20%20%20%3CfeGaussianBlur%20stdDeviation%3D%2230%22/%3E%0A%20%20%20%20%3C/filter%3E%0A%20%20%3C/defs%3E%0A%0A%20%20%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22url%28%23bg%29%22/%3E%0A%0A%20%20%3Ccircle%20cx%3D%221030%22%20cy%3D%22110%22%20r%3D%22170%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.18%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%20%20%3Ccircle%20cx%3D%22180%22%20cy%3D%22560%22%20r%3D%22150%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.16%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%0A%20%20%3Crect%20x%3D%2256%22%20y%3D%2252%22%20rx%3D%2218%22%20ry%3D%2218%22%20width%3D%22260%22%20height%3D%2254%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.08%29%22/%3E%0A%20%20%3Ctext%20x%3D%2284%22%20y%3D%2287%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2228%22%20fill%3D%22%23e5e7eb%22%3EScience%3C/text%3E%0A%0A%20%20%3Ctext%20x%3D%221010%22%20y%3D%22560%22%0A%20%20%20%20%20%20%20%20text-anchor%3D%22middle%22%0A%20%20%20%20%20%20%20%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%0A%20%20%20%20%20%20%20%20font-size%3D%22160%22%0A%20%20%20%20%20%20%20%20fill%3D%22%2360a5fa%22%0A%20%20%20%20%20%20%20%20opacity%3D%220.85%22%3E%0A%20%20%20%20%E2%80%A2%0A%20%20%3C/text%3E%0A%3C/svg%3E%0A",
-    "topic": "default",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
-    "title": "After long wait, Trump nominates a CDC director",
-    "link": "https://www.science.org/content/article/after-long-wait-trump-nominates-cdc-director",
-    "journal": "Science",
-    "source_type": "journal",
-    "date": "2026-04-17T03:20:00Z",
-    "summary": "White House taps physician and lawyer Erica Schwartz to lead struggling health agency",
-    "abstract": "White House taps physician and lawyer Erica Schwartz to lead struggling health agency",
-    "image": "data:image/svg+xml;charset=utf-8,%0A%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23111827%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23374151%22/%3E%0A%20%20%20%20%3C/linearGradient%3E%0A%20%20%20%20%3Cfilter%20id%3D%22blur%22%3E%0A%20%20%20%20%20%20%3CfeGaussianBlur%20stdDeviation%3D%2230%22/%3E%0A%20%20%20%20%3C/filter%3E%0A%20%20%3C/defs%3E%0A%0A%20%20%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22url%28%23bg%29%22/%3E%0A%0A%20%20%3Ccircle%20cx%3D%221030%22%20cy%3D%22110%22%20r%3D%22170%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.18%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%20%20%3Ccircle%20cx%3D%22180%22%20cy%3D%22560%22%20r%3D%22150%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.16%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%0A%20%20%3Crect%20x%3D%2256%22%20y%3D%2252%22%20rx%3D%2218%22%20ry%3D%2218%22%20width%3D%22260%22%20height%3D%2254%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.08%29%22/%3E%0A%20%20%3Ctext%20x%3D%2284%22%20y%3D%2287%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2228%22%20fill%3D%22%23e5e7eb%22%3EScience%3C/text%3E%0A%0A%20%20%3Ctext%20x%3D%221010%22%20y%3D%22560%22%0A%20%20%20%20%20%20%20%20text-anchor%3D%22middle%22%0A%20%20%20%20%20%20%20%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%0A%20%20%20%20%20%20%20%20font-size%3D%22160%22%0A%20%20%20%20%20%20%20%20fill%3D%22%2360a5fa%22%0A%20%20%20%20%20%20%20%20opacity%3D%220.85%22%3E%0A%20%20%20%20%E2%80%A2%0A%20%20%3C/text%3E%0A%3C/svg%3E%0A",
-    "topic": "default",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
     "title": "Spatial and single-cell characterization of human glioblastoma tumor microenvironment reveals malignant cellular communities",
     "link": "https://www.nature.com/articles/s41593-026-02265-5",
     "journal": "Nature Neuroscience",
@@ -658,19 +671,6 @@
     "summary": "Nature Neuroscience, Published online: 14 April 2026; doi:10.1038/s41593-026-02248-6 Seguin et al. show that the efficacy of transcranial magnetic stimulation for depression depends on how stimulation spreads through the brain’s wiring. Patients with shorter communication pathways between stimulated sites and mood-related regions had better clinical outcomes.",
     "abstract": "Nature Neuroscience, Published online: 14 April 2026; doi:10.1038/s41593-026-02248-6 Seguin et al. show that the efficacy of transcranial magnetic stimulation for depression depends on how stimulation spreads through the brain’s wiring. Patients with shorter communication pathways between stimulated sites and mood-related regions had better clinical outcomes.",
     "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41593-026-02248-6/MediaObjects/41593_2026_2248_Fig1_HTML.png",
-    "topic": "neuroscience",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
-    "title": "Rapid temporal processing in the olfactory bulb underlies concentration-invariant odor identification and signal decorrelation",
-    "link": "https://www.nature.com/articles/s41593-026-02250-y",
-    "journal": "Nature Neuroscience",
-    "source_type": "journal",
-    "date": "2026-04-14",
-    "summary": "Nature Neuroscience, Published online: 14 April 2026; doi:10.1038/s41593-026-02250-y This study shows that the brain’s smell center uses precise timing and inhibition to read out early odor signals, enabling reliable odor identity across concentrations while rapidly separating (decorrelating) similar smell patterns for better discrimination.",
-    "abstract": "Nature Neuroscience, Published online: 14 April 2026; doi:10.1038/s41593-026-02250-y This study shows that the brain’s smell center uses precise timing and inhibition to read out early odor signals, enabling reliable odor identity across concentrations while rapidly separating (decorrelating) similar smell patterns for better discrimination.",
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41593-026-02250-y/MediaObjects/41593_2026_2250_Fig1_HTML.png",
     "topic": "neuroscience",
     "topic_color": "#60a5fa",
     "priority_score": 0
