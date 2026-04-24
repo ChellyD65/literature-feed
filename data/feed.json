@@ -1,18 +1,5 @@
 [
   {
-    "title": "Tumor-derived branched-chain α-keto acids activate Notch signaling in tumor-associated macrophages to limit immunity",
-    "link": "https://www.nature.com/articles/s41590-026-02484-9",
-    "journal": "Nature Immunology",
-    "source_type": "journal",
-    "date": "2026-04-14",
-    "summary": "Nature Immunology, Published online: 14 April 2026; doi:10.1038/s41590-026-02484-9 Here the authors identify a tumor immunoevasion mechanism in which tumor cells release branched-chain amino acid metabolites that can bind and activate Notch on tumor-associated macrophages, reprogramming these cells to be immunosuppressive.",
-    "abstract": "Nature Immunology, Published online: 14 April 2026; doi:10.1038/s41590-026-02484-9 Here the authors identify a tumor immunoevasion mechanism in which tumor cells release branched-chain amino acid metabolites that can bind and activate Notch on tumor-associated macrophages, reprogramming these cells to be immunosuppressive.",
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41590-026-02484-9/MediaObjects/41590_2026_2484_Fig1_HTML.png",
-    "topic": "macrophage",
-    "topic_color": "#f59e0b",
-    "priority_score": 92
-  },
-  {
     "title": "Author Correction: Chemokine-defined macrophage niches establish spatial organization of tumor immunity",
     "link": "https://www.nature.com/articles/s41590-026-02525-3",
     "journal": "Nature Immunology",
@@ -39,6 +26,19 @@
     "priority_score": 50
   },
   {
+    "title": "A spatially coordinated keratinocyte–fibroblast circuit recruits MMP9⁺ myeloid cells to drive type I interferon-driven inflammation in photosensitive autoimmunity",
+    "link": "https://www.nature.com/articles/s41590-026-02502-w",
+    "journal": "Nature Immunology",
+    "source_type": "journal",
+    "date": "2026-04-24",
+    "summary": "Nature Immunology, Published online: 24 April 2026; doi:10.1038/s41590-026-02502-w Wang, Afshari, Haddadi and colleagues compare UVB-sensitive and insensitive human skin diseases and show that photosensitive conditions, including cutaneous lupus erythematosus and dermatomyositis, have increased type I interferon activity and an expanded MMP9⁺CD14⁺ myeloid population that drives inflammation.",
+    "abstract": "Nature Immunology, Published online: 24 April 2026; doi:10.1038/s41590-026-02502-w Wang, Afshari, Haddadi and colleagues compare UVB-sensitive and insensitive human skin diseases and show that photosensitive conditions, including cutaneous lupus erythematosus and dermatomyositis, have increased type I interferon activity and an expanded MMP9⁺CD14⁺ myeloid population that drives inflammation.",
+    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41590-026-02502-w/MediaObjects/41590_2026_2502_Fig1_HTML.png",
+    "topic": "inflammation",
+    "topic_color": "#fb7185",
+    "priority_score": 41
+  },
+  {
     "title": "Author Correction: Commensal yeast promotes <i>Salmonella</i> Typhimurium virulence",
     "link": "https://www.nature.com/articles/s41586-026-10518-3",
     "journal": "Nature",
@@ -46,6 +46,19 @@
     "date": "2026-04-24",
     "summary": "Nature, Published online: 24 April 2026; doi:10.1038/s41586-026-10518-3 Author Correction: Commensal yeast promotes Salmonella Typhimurium virulence",
     "abstract": "Nature, Published online: 24 April 2026; doi:10.1038/s41586-026-10518-3 Author Correction: Commensal yeast promotes Salmonella Typhimurium virulence",
+    "image": "data:image/svg+xml;charset=utf-8,%0A%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23111827%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23374151%22/%3E%0A%20%20%20%20%3C/linearGradient%3E%0A%20%20%20%20%3Cfilter%20id%3D%22blur%22%3E%0A%20%20%20%20%20%20%3CfeGaussianBlur%20stdDeviation%3D%2230%22/%3E%0A%20%20%20%20%3C/filter%3E%0A%20%20%3C/defs%3E%0A%0A%20%20%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22url%28%23bg%29%22/%3E%0A%0A%20%20%3Ccircle%20cx%3D%221030%22%20cy%3D%22110%22%20r%3D%22170%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.18%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%20%20%3Ccircle%20cx%3D%22180%22%20cy%3D%22560%22%20r%3D%22150%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.16%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%0A%20%20%3Crect%20x%3D%2256%22%20y%3D%2252%22%20rx%3D%2218%22%20ry%3D%2218%22%20width%3D%22260%22%20height%3D%2254%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.08%29%22/%3E%0A%20%20%3Ctext%20x%3D%2284%22%20y%3D%2287%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2228%22%20fill%3D%22%23e5e7eb%22%3ENature%3C/text%3E%0A%0A%20%20%3Ctext%20x%3D%221010%22%20y%3D%22560%22%0A%20%20%20%20%20%20%20%20text-anchor%3D%22middle%22%0A%20%20%20%20%20%20%20%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%0A%20%20%20%20%20%20%20%20font-size%3D%22160%22%0A%20%20%20%20%20%20%20%20fill%3D%22%2360a5fa%22%0A%20%20%20%20%20%20%20%20opacity%3D%220.85%22%3E%0A%20%20%20%20%E2%80%A2%0A%20%20%3C/text%3E%0A%3C/svg%3E%0A",
+    "topic": "default",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
+    "title": "Author Correction: A µ-opioid receptor superagonist analgesic with minimal adverse effects",
+    "link": "https://www.nature.com/articles/s41586-026-10552-1",
+    "journal": "Nature",
+    "source_type": "journal",
+    "date": "2026-04-24",
+    "summary": "Nature, Published online: 24 April 2026; doi:10.1038/s41586-026-10552-1 Author Correction: A µ-opioid receptor superagonist analgesic with minimal adverse effects",
+    "abstract": "Nature, Published online: 24 April 2026; doi:10.1038/s41586-026-10552-1 Author Correction: A µ-opioid receptor superagonist analgesic with minimal adverse effects",
     "image": "data:image/svg+xml;charset=utf-8,%0A%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23111827%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23374151%22/%3E%0A%20%20%20%20%3C/linearGradient%3E%0A%20%20%20%20%3Cfilter%20id%3D%22blur%22%3E%0A%20%20%20%20%20%20%3CfeGaussianBlur%20stdDeviation%3D%2230%22/%3E%0A%20%20%20%20%3C/filter%3E%0A%20%20%3C/defs%3E%0A%0A%20%20%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22url%28%23bg%29%22/%3E%0A%0A%20%20%3Ccircle%20cx%3D%221030%22%20cy%3D%22110%22%20r%3D%22170%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.18%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%20%20%3Ccircle%20cx%3D%22180%22%20cy%3D%22560%22%20r%3D%22150%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.16%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%0A%20%20%3Crect%20x%3D%2256%22%20y%3D%2252%22%20rx%3D%2218%22%20ry%3D%2218%22%20width%3D%22260%22%20height%3D%2254%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.08%29%22/%3E%0A%20%20%3Ctext%20x%3D%2284%22%20y%3D%2287%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2228%22%20fill%3D%22%23e5e7eb%22%3ENature%3C/text%3E%0A%0A%20%20%3Ctext%20x%3D%221010%22%20y%3D%22560%22%0A%20%20%20%20%20%20%20%20text-anchor%3D%22middle%22%0A%20%20%20%20%20%20%20%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%0A%20%20%20%20%20%20%20%20font-size%3D%22160%22%0A%20%20%20%20%20%20%20%20fill%3D%22%2360a5fa%22%0A%20%20%20%20%20%20%20%20opacity%3D%220.85%22%3E%0A%20%20%20%20%E2%80%A2%0A%20%20%3C/text%3E%0A%3C/svg%3E%0A",
     "topic": "default",
     "topic_color": "#60a5fa",
@@ -117,6 +130,19 @@
     "priority_score": 0
   },
   {
+    "title": "How much for a fake authorship? Ad database reveals secrets of scientific fraud",
+    "link": "https://www.nature.com/articles/d41586-026-01340-y",
+    "journal": "Nature",
+    "source_type": "journal",
+    "date": "2026-04-24",
+    "summary": "Nature, Published online: 24 April 2026; doi:10.1038/d41586-026-01340-y An analysis of thousands of paper-mill adverts could help journals to crack down on misconduct.",
+    "abstract": "Nature, Published online: 24 April 2026; doi:10.1038/d41586-026-01340-y An analysis of thousands of paper-mill adverts could help journals to crack down on misconduct.",
+    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-01340-y/d41586-026-01340-y_52326280.jpg",
+    "topic": "default",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
     "title": "Addendum: Neural anticipation of virtual infection triggers an immune response",
     "link": "https://www.nature.com/articles/s41593-026-02284-2",
     "journal": "Nature Neuroscience",
@@ -139,6 +165,19 @@
     "abstract": "Nature Neuroscience, Published online: 24 April 2026; doi:10.1038/s41593-026-02247-7 By studying 23 neurodevelopmental disorder genes across model systems and brain cell types, the authors uncovered shared downstream effects that converge on synaptic biology, epigenetic regulation and mitochondrial function.",
     "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41593-026-02247-7/MediaObjects/41593_2026_2247_Fig1_HTML.png",
     "topic": "neuroscience",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
+    "title": "IL-9 and Blimp-1 protect the transcriptional identity of group 2 innate lymphocytes in allergic asthma",
+    "link": "https://www.nature.com/articles/s41590-026-02509-3",
+    "journal": "Nature Immunology",
+    "source_type": "journal",
+    "date": "2026-04-24",
+    "summary": "Nature Immunology, Published online: 24 April 2026; doi:10.1038/s41590-026-02509-3 Poholek and colleagues show that allergic alarmin-induced IL-9 increases expression of the transcriptional repressor Blimp-1 in ILC2 cells, sustaining their cellular identity and type 2 immune responses.",
+    "abstract": "Nature Immunology, Published online: 24 April 2026; doi:10.1038/s41590-026-02509-3 Poholek and colleagues show that allergic alarmin-induced IL-9 increases expression of the transcriptional repressor Blimp-1 in ILC2 cells, sustaining their cellular identity and type 2 immune responses.",
+    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41590-026-02509-3/MediaObjects/41590_2026_2509_Fig1_HTML.png",
+    "topic": "immunology",
     "topic_color": "#60a5fa",
     "priority_score": 0
   },
@@ -320,32 +359,6 @@
     "summary": "Nature, Published online: 23 April 2026; doi:10.1038/s41586-026-10503-w Publisher Correction: Reproducibility and robustness of economics and political science research",
     "abstract": "Nature, Published online: 23 April 2026; doi:10.1038/s41586-026-10503-w Publisher Correction: Reproducibility and robustness of economics and political science research",
     "image": "data:image/svg+xml;charset=utf-8,%0A%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23111827%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23374151%22/%3E%0A%20%20%20%20%3C/linearGradient%3E%0A%20%20%20%20%3Cfilter%20id%3D%22blur%22%3E%0A%20%20%20%20%20%20%3CfeGaussianBlur%20stdDeviation%3D%2230%22/%3E%0A%20%20%20%20%3C/filter%3E%0A%20%20%3C/defs%3E%0A%0A%20%20%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22url%28%23bg%29%22/%3E%0A%0A%20%20%3Ccircle%20cx%3D%221030%22%20cy%3D%22110%22%20r%3D%22170%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.18%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%20%20%3Ccircle%20cx%3D%22180%22%20cy%3D%22560%22%20r%3D%22150%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.16%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%0A%20%20%3Crect%20x%3D%2256%22%20y%3D%2252%22%20rx%3D%2218%22%20ry%3D%2218%22%20width%3D%22260%22%20height%3D%2254%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.08%29%22/%3E%0A%20%20%3Ctext%20x%3D%2284%22%20y%3D%2287%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2228%22%20fill%3D%22%23e5e7eb%22%3ENature%3C/text%3E%0A%0A%20%20%3Ctext%20x%3D%221010%22%20y%3D%22560%22%0A%20%20%20%20%20%20%20%20text-anchor%3D%22middle%22%0A%20%20%20%20%20%20%20%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%0A%20%20%20%20%20%20%20%20font-size%3D%22160%22%0A%20%20%20%20%20%20%20%20fill%3D%22%2360a5fa%22%0A%20%20%20%20%20%20%20%20opacity%3D%220.85%22%3E%0A%20%20%20%20%E2%80%A2%0A%20%20%3C/text%3E%0A%3C/svg%3E%0A",
-    "topic": "default",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
-    "title": "What elite sport prepared me for in the lab — and what it didn’t",
-    "link": "https://www.nature.com/articles/d41586-026-01131-5",
-    "journal": "Nature",
-    "source_type": "journal",
-    "date": "2026-04-23",
-    "summary": "Nature, Published online: 23 April 2026; doi:10.1038/d41586-026-01131-5 My career as a goalkeeper taught me how to handle failure during my PhD. Or so I thought.",
-    "abstract": "Nature, Published online: 23 April 2026; doi:10.1038/d41586-026-01131-5 My career as a goalkeeper taught me how to handle failure during my PhD. Or so I thought.",
-    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-01131-5/d41586-026-01131-5_52322614.jpg",
-    "topic": "default",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
-    "title": "Wikipedia-based AI model reveals the 100 technologies to watch",
-    "link": "https://www.nature.com/articles/d41586-026-00980-4",
-    "journal": "Nature",
-    "source_type": "journal",
-    "date": "2026-04-23",
-    "summary": "Nature, Published online: 23 April 2026; doi:10.1038/d41586-026-00980-4 Researchers mined the online encyclopedia to find the innovations that are gaining momentum fastest in science and industry.",
-    "abstract": "Nature, Published online: 23 April 2026; doi:10.1038/d41586-026-00980-4 Researchers mined the online encyclopedia to find the innovations that are gaining momentum fastest in science and industry.",
-    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-00980-4/d41586-026-00980-4_52232366.jpg",
     "topic": "default",
     "topic_color": "#60a5fa",
     "priority_score": 0
@@ -567,19 +580,6 @@
     "summary": "Nature Immunology, Published online: 20 April 2026; doi:10.1038/s41590-026-02501-x Wei and colleagues characterized the MHC class I immunopeptidome in mice and humans with lung fibrosis and identified immunogenic peptides specifically expressed in fibrosis-associated lung cell subsets that blocked the progression of fibrosis in mice treated with bleomycin.",
     "abstract": "Nature Immunology, Published online: 20 April 2026; doi:10.1038/s41590-026-02501-x Wei and colleagues characterized the MHC class I immunopeptidome in mice and humans with lung fibrosis and identified immunogenic peptides specifically expressed in fibrosis-associated lung cell subsets that blocked the progression of fibrosis in mice treated with bleomycin.",
     "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41590-026-02501-x/MediaObjects/41590_2026_2501_Fig1_HTML.png",
-    "topic": "immunology",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
-    "title": "BLIMP1 shapes germinal center B cell clonal diversity by gating chromatin accessibility during light-to-dark zone transition",
-    "link": "https://www.nature.com/articles/s41590-026-02495-6",
-    "journal": "Nature Immunology",
-    "source_type": "journal",
-    "date": "2026-04-20",
-    "summary": "Nature Immunology, Published online: 20 April 2026; doi:10.1038/s41590-026-02495-6 Singh and colleagues identify a role for the transcription factor BLIMP1, encoded by Prdm1, in the regulation of germinal center responses. They show that BLIMP1 acts as a negative feedback regulator of B cell affinity maturation and clonal dominance.",
-    "abstract": "Nature Immunology, Published online: 20 April 2026; doi:10.1038/s41590-026-02495-6 Singh and colleagues identify a role for the transcription factor BLIMP1, encoded by Prdm1, in the regulation of germinal center responses. They show that BLIMP1 acts as a negative feedback regulator of B cell affinity maturation and clonal dominance.",
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41590-026-02495-6/MediaObjects/41590_2026_2495_Fig1_HTML.png",
     "topic": "immunology",
     "topic_color": "#60a5fa",
     "priority_score": 0
