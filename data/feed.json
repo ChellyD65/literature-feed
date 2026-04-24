@@ -1,5 +1,18 @@
 [
   {
+    "title": "Tumor-derived branched-chain α-keto acids activate Notch signaling in tumor-associated macrophages to limit immunity",
+    "link": "https://www.nature.com/articles/s41590-026-02484-9",
+    "journal": "Nature Immunology",
+    "source_type": "journal",
+    "date": "2026-04-14",
+    "summary": "Nature Immunology, Published online: 14 April 2026; doi:10.1038/s41590-026-02484-9 Here the authors identify a tumor immunoevasion mechanism in which tumor cells release branched-chain amino acid metabolites that can bind and activate Notch on tumor-associated macrophages, reprogramming these cells to be immunosuppressive.",
+    "abstract": "Nature Immunology, Published online: 14 April 2026; doi:10.1038/s41590-026-02484-9 Here the authors identify a tumor immunoevasion mechanism in which tumor cells release branched-chain amino acid metabolites that can bind and activate Notch on tumor-associated macrophages, reprogramming these cells to be immunosuppressive.",
+    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41590-026-02484-9/MediaObjects/41590_2026_2484_Fig1_HTML.png",
+    "topic": "macrophage",
+    "topic_color": "#f59e0b",
+    "priority_score": 92
+  },
+  {
     "title": "Author Correction: Chemokine-defined macrophage niches establish spatial organization of tumor immunity",
     "link": "https://www.nature.com/articles/s41590-026-02525-3",
     "journal": "Nature Immunology",
@@ -26,30 +39,17 @@
     "priority_score": 50
   },
   {
-    "title": "Amyloid-β-driven glymphatic dysfunction in Alzheimer’s disease model mice is driven by Ca<sup>2+</sup>-mediated increases in astrocytic cholesterol",
-    "link": "https://www.nature.com/articles/s41593-026-02261-9",
-    "journal": "Nature Neuroscience",
-    "source_type": "journal",
-    "date": "2026-04-15",
-    "summary": "Nature Neuroscience, Published online: 15 April 2026; doi:10.1038/s41593-026-02261-9 This study uncovers how amyloid-β boosts astrocyte calcium activity, increasing cholesterol and disrupting brain waste clearance in an Alzheimer’s disease mouse model. Targeting astrocyte calcium or cholesterol restores clearance and improves cognition.",
-    "abstract": "Nature Neuroscience, Published online: 15 April 2026; doi:10.1038/s41593-026-02261-9 This study uncovers how amyloid-β boosts astrocyte calcium activity, increasing cholesterol and disrupting brain waste clearance in an Alzheimer’s disease mouse model. Targeting astrocyte calcium or cholesterol restores clearance and improves cognition.",
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41593-026-02261-9/MediaObjects/41593_2026_2261_Fig1_HTML.png",
-    "topic": "neurodegeneration",
-    "topic_color": "#fda4af",
-    "priority_score": 50
-  },
-  {
-    "title": "A spatially coordinated keratinocyte–fibroblast circuit recruits MMP9⁺ myeloid cells to drive type I interferon-driven inflammation in photosensitive autoimmunity",
-    "link": "https://www.nature.com/articles/s41590-026-02502-w",
-    "journal": "Nature Immunology",
+    "title": "Author Correction: Commensal yeast promotes <i>Salmonella</i> Typhimurium virulence",
+    "link": "https://www.nature.com/articles/s41586-026-10518-3",
+    "journal": "Nature",
     "source_type": "journal",
     "date": "2026-04-24",
-    "summary": "Nature Immunology, Published online: 24 April 2026; doi:10.1038/s41590-026-02502-w Wang, Afshari, Haddadi and colleagues compare UVB-sensitive and insensitive human skin diseases and show that photosensitive conditions, including cutaneous lupus erythematosus and dermatomyositis, have increased type I interferon activity and an expanded MMP9⁺CD14⁺ myeloid population that drives inflammation.",
-    "abstract": "Nature Immunology, Published online: 24 April 2026; doi:10.1038/s41590-026-02502-w Wang, Afshari, Haddadi and colleagues compare UVB-sensitive and insensitive human skin diseases and show that photosensitive conditions, including cutaneous lupus erythematosus and dermatomyositis, have increased type I interferon activity and an expanded MMP9⁺CD14⁺ myeloid population that drives inflammation.",
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41590-026-02502-w/MediaObjects/41590_2026_2502_Fig1_HTML.png",
-    "topic": "inflammation",
-    "topic_color": "#fb7185",
-    "priority_score": 41
+    "summary": "Nature, Published online: 24 April 2026; doi:10.1038/s41586-026-10518-3 Author Correction: Commensal yeast promotes Salmonella Typhimurium virulence",
+    "abstract": "Nature, Published online: 24 April 2026; doi:10.1038/s41586-026-10518-3 Author Correction: Commensal yeast promotes Salmonella Typhimurium virulence",
+    "image": "data:image/svg+xml;charset=utf-8,%0A%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23111827%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23374151%22/%3E%0A%20%20%20%20%3C/linearGradient%3E%0A%20%20%20%20%3Cfilter%20id%3D%22blur%22%3E%0A%20%20%20%20%20%20%3CfeGaussianBlur%20stdDeviation%3D%2230%22/%3E%0A%20%20%20%20%3C/filter%3E%0A%20%20%3C/defs%3E%0A%0A%20%20%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22url%28%23bg%29%22/%3E%0A%0A%20%20%3Ccircle%20cx%3D%221030%22%20cy%3D%22110%22%20r%3D%22170%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.18%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%20%20%3Ccircle%20cx%3D%22180%22%20cy%3D%22560%22%20r%3D%22150%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.16%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%0A%20%20%3Crect%20x%3D%2256%22%20y%3D%2252%22%20rx%3D%2218%22%20ry%3D%2218%22%20width%3D%22260%22%20height%3D%2254%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.08%29%22/%3E%0A%20%20%3Ctext%20x%3D%2284%22%20y%3D%2287%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2228%22%20fill%3D%22%23e5e7eb%22%3ENature%3C/text%3E%0A%0A%20%20%3Ctext%20x%3D%221010%22%20y%3D%22560%22%0A%20%20%20%20%20%20%20%20text-anchor%3D%22middle%22%0A%20%20%20%20%20%20%20%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%0A%20%20%20%20%20%20%20%20font-size%3D%22160%22%0A%20%20%20%20%20%20%20%20fill%3D%22%2360a5fa%22%0A%20%20%20%20%20%20%20%20opacity%3D%220.85%22%3E%0A%20%20%20%20%E2%80%A2%0A%20%20%3C/text%3E%0A%3C/svg%3E%0A",
+    "topic": "default",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
   },
   {
     "title": "From bats at dusk to asteroid quests: Books in brief",
@@ -60,6 +60,19 @@
     "summary": "Nature, Published online: 24 April 2026; doi:10.1038/d41586-026-01304-2 Andrew Robinson reviews five of the best science picks.",
     "abstract": "Nature, Published online: 24 April 2026; doi:10.1038/d41586-026-01304-2 Andrew Robinson reviews five of the best science picks.",
     "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-01304-2/d41586-026-01304-2_52326848.jpg",
+    "topic": "default",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
+    "title": "Brain tissue near tumours is loaded with plastic",
+    "link": "https://www.nature.com/articles/d41586-026-01281-6",
+    "journal": "Nature",
+    "source_type": "journal",
+    "date": "2026-04-24",
+    "summary": "Nature, Published online: 24 April 2026; doi:10.1038/d41586-026-01281-6 Relatively high levels of micro- and nanoplastics around brain tumours might indicate breakdown of the blood–brain barrier.",
+    "abstract": "Nature, Published online: 24 April 2026; doi:10.1038/d41586-026-01281-6 Relatively high levels of micro- and nanoplastics around brain tumours might indicate breakdown of the blood–brain barrier.",
+    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-01281-6/d41586-026-01281-6_52318126.jpg",
     "topic": "default",
     "topic_color": "#60a5fa",
     "priority_score": 0
@@ -104,6 +117,19 @@
     "priority_score": 0
   },
   {
+    "title": "Addendum: Neural anticipation of virtual infection triggers an immune response",
+    "link": "https://www.nature.com/articles/s41593-026-02284-2",
+    "journal": "Nature Neuroscience",
+    "source_type": "journal",
+    "date": "2026-04-24",
+    "summary": "Nature Neuroscience, Published online: 24 April 2026; doi:10.1038/s41593-026-02284-2 Addendum: Neural anticipation of virtual infection triggers an immune response",
+    "abstract": "Nature Neuroscience, Published online: 24 April 2026; doi:10.1038/s41593-026-02284-2 Addendum: Neural anticipation of virtual infection triggers an immune response",
+    "image": "data:image/svg+xml;charset=utf-8,%0A%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23111827%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23374151%22/%3E%0A%20%20%20%20%3C/linearGradient%3E%0A%20%20%20%20%3Cfilter%20id%3D%22blur%22%3E%0A%20%20%20%20%20%20%3CfeGaussianBlur%20stdDeviation%3D%2230%22/%3E%0A%20%20%20%20%3C/filter%3E%0A%20%20%3C/defs%3E%0A%0A%20%20%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22url%28%23bg%29%22/%3E%0A%0A%20%20%3Ccircle%20cx%3D%221030%22%20cy%3D%22110%22%20r%3D%22170%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.18%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%20%20%3Ccircle%20cx%3D%22180%22%20cy%3D%22560%22%20r%3D%22150%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.16%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%0A%20%20%3Crect%20x%3D%2256%22%20y%3D%2252%22%20rx%3D%2218%22%20ry%3D%2218%22%20width%3D%22260%22%20height%3D%2254%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.08%29%22/%3E%0A%20%20%3Ctext%20x%3D%2284%22%20y%3D%2287%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2228%22%20fill%3D%22%23e5e7eb%22%3ENature%20Neuroscience%3C/text%3E%0A%0A%20%20%3Ctext%20x%3D%221010%22%20y%3D%22560%22%0A%20%20%20%20%20%20%20%20text-anchor%3D%22middle%22%0A%20%20%20%20%20%20%20%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%0A%20%20%20%20%20%20%20%20font-size%3D%22160%22%0A%20%20%20%20%20%20%20%20fill%3D%22%2360a5fa%22%0A%20%20%20%20%20%20%20%20opacity%3D%220.85%22%3E%0A%20%20%20%20%E2%80%A2%0A%20%20%3C/text%3E%0A%3C/svg%3E%0A",
+    "topic": "neuroscience",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
     "title": "Transcriptomic and phenotypic convergence of neurodevelopmental disorder risk genes in vitro and in vivo",
     "link": "https://www.nature.com/articles/s41593-026-02247-7",
     "journal": "Nature Neuroscience",
@@ -117,19 +143,6 @@
     "priority_score": 0
   },
   {
-    "title": "IL-9 and Blimp-1 protect the transcriptional identity of group 2 innate lymphocytes in allergic asthma",
-    "link": "https://www.nature.com/articles/s41590-026-02509-3",
-    "journal": "Nature Immunology",
-    "source_type": "journal",
-    "date": "2026-04-24",
-    "summary": "Nature Immunology, Published online: 24 April 2026; doi:10.1038/s41590-026-02509-3 Poholek and colleagues show that allergic alarmin-induced IL-9 increases expression of the transcriptional repressor Blimp-1 in ILC2 cells, sustaining their cellular identity and type 2 immune responses.",
-    "abstract": "Nature Immunology, Published online: 24 April 2026; doi:10.1038/s41590-026-02509-3 Poholek and colleagues show that allergic alarmin-induced IL-9 increases expression of the transcriptional repressor Blimp-1 in ILC2 cells, sustaining their cellular identity and type 2 immune responses.",
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41590-026-02509-3/MediaObjects/41590_2026_2509_Fig1_HTML.png",
-    "topic": "immunology",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
     "title": "The value of patient-focused drug development",
     "link": "https://www.nature.com/articles/s41591-026-04364-z",
     "journal": "Nature Medicine",
@@ -138,6 +151,19 @@
     "summary": "Nature Medicine, Published online: 24 April 2026; doi:10.1038/s41591-026-04364-z The value of patient-focused drug development",
     "abstract": "Nature Medicine, Published online: 24 April 2026; doi:10.1038/s41591-026-04364-z The value of patient-focused drug development",
     "image": "data:image/svg+xml;charset=utf-8,%0A%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23111827%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23374151%22/%3E%0A%20%20%20%20%3C/linearGradient%3E%0A%20%20%20%20%3Cfilter%20id%3D%22blur%22%3E%0A%20%20%20%20%20%20%3CfeGaussianBlur%20stdDeviation%3D%2230%22/%3E%0A%20%20%20%20%3C/filter%3E%0A%20%20%3C/defs%3E%0A%0A%20%20%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22url%28%23bg%29%22/%3E%0A%0A%20%20%3Ccircle%20cx%3D%221030%22%20cy%3D%22110%22%20r%3D%22170%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.18%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%20%20%3Ccircle%20cx%3D%22180%22%20cy%3D%22560%22%20r%3D%22150%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.16%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%0A%20%20%3Crect%20x%3D%2256%22%20y%3D%2252%22%20rx%3D%2218%22%20ry%3D%2218%22%20width%3D%22260%22%20height%3D%2254%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.08%29%22/%3E%0A%20%20%3Ctext%20x%3D%2284%22%20y%3D%2287%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2228%22%20fill%3D%22%23e5e7eb%22%3ENature%20Medicine%3C/text%3E%0A%0A%20%20%3Ctext%20x%3D%221010%22%20y%3D%22560%22%0A%20%20%20%20%20%20%20%20text-anchor%3D%22middle%22%0A%20%20%20%20%20%20%20%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%0A%20%20%20%20%20%20%20%20font-size%3D%22160%22%0A%20%20%20%20%20%20%20%20fill%3D%22%2360a5fa%22%0A%20%20%20%20%20%20%20%20opacity%3D%220.85%22%3E%0A%20%20%20%20%E2%80%A2%0A%20%20%3C/text%3E%0A%3C/svg%3E%0A",
+    "topic": "default",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
+    "title": "Who owns my health data?",
+    "link": "https://www.nature.com/articles/s41591-026-04378-7",
+    "journal": "Nature Medicine",
+    "source_type": "journal",
+    "date": "2026-04-24",
+    "summary": "Nature Medicine, Published online: 24 April 2026; doi:10.1038/s41591-026-04378-7 The geopolitics driving artificial intelligence superpowers is reshaping biomedical datasets, and who has access to them.",
+    "abstract": "Nature Medicine, Published online: 24 April 2026; doi:10.1038/s41591-026-04378-7 The geopolitics driving artificial intelligence superpowers is reshaping biomedical datasets, and who has access to them.",
+    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41591-026-04378-7/MediaObjects/41591_2026_4378_Figa_HTML.png",
     "topic": "default",
     "topic_color": "#60a5fa",
     "priority_score": 0
@@ -273,7 +299,7 @@
     "priority_score": 0
   },
   {
-    "title": "Why is heart cancer so rare? The pumping muscle ‘beats’ it",
+    "title": "How your heartbeat could keep cancer at bay",
     "link": "https://www.nature.com/articles/d41586-026-01296-z",
     "journal": "Nature",
     "source_type": "journal",
@@ -320,32 +346,6 @@
     "summary": "Nature, Published online: 23 April 2026; doi:10.1038/d41586-026-00980-4 Researchers mined the online encyclopedia to find the innovations that are gaining momentum fastest in science and industry.",
     "abstract": "Nature, Published online: 23 April 2026; doi:10.1038/d41586-026-00980-4 Researchers mined the online encyclopedia to find the innovations that are gaining momentum fastest in science and industry.",
     "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-00980-4/d41586-026-00980-4_52232366.jpg",
-    "topic": "default",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
-    "title": "We need to talk about failure in science",
-    "link": "https://www.nature.com/articles/d41586-026-01254-9",
-    "journal": "Nature",
-    "source_type": "journal",
-    "date": "2026-04-23",
-    "summary": "Nature, Published online: 23 April 2026; doi:10.1038/d41586-026-01254-9 Failure is part and parcel of research, but discussing it sometimes seems to be taboo in science. It doesn’t need to be.",
-    "abstract": "Nature, Published online: 23 April 2026; doi:10.1038/d41586-026-01254-9 Failure is part and parcel of research, but discussing it sometimes seems to be taboo in science. It doesn’t need to be.",
-    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-01254-9/d41586-026-01254-9_52323074.jpg",
-    "topic": "default",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
-    "title": "What 6,000 researchers think about the future of science",
-    "link": "https://www.nature.com/articles/d41586-026-01061-2",
-    "journal": "Nature",
-    "source_type": "journal",
-    "date": "2026-04-23",
-    "summary": "Nature, Published online: 23 April 2026; doi:10.1038/d41586-026-01061-2 Funding worries and publishing trends loom large in the minds of scientists surveyed by Nature Index.",
-    "abstract": "Nature, Published online: 23 April 2026; doi:10.1038/d41586-026-01061-2 Funding worries and publishing trends loom large in the minds of scientists surveyed by Nature Index.",
-    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-01061-2/d41586-026-01061-2_52302646.jpg",
     "topic": "default",
     "topic_color": "#60a5fa",
     "priority_score": 0
@@ -437,19 +437,6 @@
     "summary": "Nature Medicine, Published online: 23 April 2026; doi:10.1038/s41591-026-04332-7 We integrated large-scale epidemiological and genomic data from patients with esophageal adenocarcinoma to compare cancers with and without Barrett’s esophagus (BE). We found shared risk factors, molecular features, evolutionary trajectories and BE lineage markers in both cancer phenotypes. Our findings support a single intestinal metaplasia-mediated pathway and have direct implications for early detection and prevention strategies.",
     "abstract": "Nature Medicine, Published online: 23 April 2026; doi:10.1038/s41591-026-04332-7 We integrated large-scale epidemiological and genomic data from patients with esophageal adenocarcinoma to compare cancers with and without Barrett’s esophagus (BE). We found shared risk factors, molecular features, evolutionary trajectories and BE lineage markers in both cancer phenotypes. Our findings support a single intestinal metaplasia-mediated pathway and have direct implications for early detection and prevention strategies.",
     "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41591-026-04332-7/MediaObjects/41591_2026_4332_Fig1_HTML.png",
-    "topic": "default",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
-    "title": "<b>Genetics and GLP-1 drug responses</b>",
-    "link": "https://www.nature.com/articles/d41591-026-00022-6",
-    "journal": "Nature Medicine",
-    "source_type": "journal",
-    "date": "2026-04-23",
-    "summary": "Nature Medicine, Published online: 23 April 2026; doi:10.1038/d41591-026-00022-6 A study identifies gene variants that help explain why some people respond better to GLP-1 medications than others, paving the way for precision approaches to treating obesity.",
-    "abstract": "Nature Medicine, Published online: 23 April 2026; doi:10.1038/d41591-026-00022-6 A study identifies gene variants that help explain why some people respond better to GLP-1 medications than others, paving the way for precision approaches to treating obesity.",
-    "image": "https://media.nature.com/lw1200/magazine-assets/d41591-026-00022-6/d41591-026-00022-6_52326748.jpg",
     "topic": "default",
     "topic_color": "#60a5fa",
     "priority_score": 0
@@ -580,6 +567,19 @@
     "summary": "Nature Immunology, Published online: 20 April 2026; doi:10.1038/s41590-026-02501-x Wei and colleagues characterized the MHC class I immunopeptidome in mice and humans with lung fibrosis and identified immunogenic peptides specifically expressed in fibrosis-associated lung cell subsets that blocked the progression of fibrosis in mice treated with bleomycin.",
     "abstract": "Nature Immunology, Published online: 20 April 2026; doi:10.1038/s41590-026-02501-x Wei and colleagues characterized the MHC class I immunopeptidome in mice and humans with lung fibrosis and identified immunogenic peptides specifically expressed in fibrosis-associated lung cell subsets that blocked the progression of fibrosis in mice treated with bleomycin.",
     "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41590-026-02501-x/MediaObjects/41590_2026_2501_Fig1_HTML.png",
+    "topic": "immunology",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
+    "title": "BLIMP1 shapes germinal center B cell clonal diversity by gating chromatin accessibility during light-to-dark zone transition",
+    "link": "https://www.nature.com/articles/s41590-026-02495-6",
+    "journal": "Nature Immunology",
+    "source_type": "journal",
+    "date": "2026-04-20",
+    "summary": "Nature Immunology, Published online: 20 April 2026; doi:10.1038/s41590-026-02495-6 Singh and colleagues identify a role for the transcription factor BLIMP1, encoded by Prdm1, in the regulation of germinal center responses. They show that BLIMP1 acts as a negative feedback regulator of B cell affinity maturation and clonal dominance.",
+    "abstract": "Nature Immunology, Published online: 20 April 2026; doi:10.1038/s41590-026-02495-6 Singh and colleagues identify a role for the transcription factor BLIMP1, encoded by Prdm1, in the regulation of germinal center responses. They show that BLIMP1 acts as a negative feedback regulator of B cell affinity maturation and clonal dominance.",
+    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41590-026-02495-6/MediaObjects/41590_2026_2495_Fig1_HTML.png",
     "topic": "immunology",
     "topic_color": "#60a5fa",
     "priority_score": 0
