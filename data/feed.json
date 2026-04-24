@@ -26,6 +26,19 @@
     "priority_score": 66
   },
   {
+    "title": "Early dopamine disruption in the entorhinal cortex of a knock-in model of Alzheimer’s disease",
+    "link": "https://www.nature.com/articles/s41593-026-02260-w",
+    "journal": "Nature Neuroscience",
+    "source_type": "journal",
+    "date": "2026-04-23",
+    "summary": "Nature Neuroscience, Published online: 23 April 2026; doi:10.1038/s41593-026-02260-w The authors reveal entorhinal cortex dopaminergic and behavioral dysfunction in Alzheimer’s model mice, suggesting the possibility that entorhinal dopamine loss may contribute to aspects of Alzheimer’s disease.",
+    "abstract": "Nature Neuroscience, Published online: 23 April 2026; doi:10.1038/s41593-026-02260-w The authors reveal entorhinal cortex dopaminergic and behavioral dysfunction in Alzheimer’s model mice, suggesting the possibility that entorhinal dopamine loss may contribute to aspects of Alzheimer’s disease.",
+    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41593-026-02260-w/MediaObjects/41593_2026_2260_Fig1_HTML.png",
+    "topic": "neurodegeneration",
+    "topic_color": "#fda4af",
+    "priority_score": 50
+  },
+  {
     "title": "Amyloid-β-driven glymphatic dysfunction in Alzheimer’s disease model mice is driven by Ca<sup>2+</sup>-mediated increases in astrocytic cholesterol",
     "link": "https://www.nature.com/articles/s41593-026-02261-9",
     "journal": "Nature Neuroscience",
@@ -37,19 +50,6 @@
     "topic": "neurodegeneration",
     "topic_color": "#fda4af",
     "priority_score": 50
-  },
-  {
-    "title": "HSV-1 strain H129 co-opts neuronal synaptic transmission machinery for its transsynaptic spread",
-    "link": "https://www.nature.com/articles/s41593-026-02254-8",
-    "journal": "Nature Neuroscience",
-    "source_type": "journal",
-    "date": "2026-04-14",
-    "summary": "Nature Neuroscience, Published online: 14 April 2026; doi:10.1038/s41593-026-02254-8 By assembling into ‘virion vesicles’, the H129 strain of herpes simplex virus-1 hijacks synaptic machinery for its anterograde spread, co-opting voltage-gated Ca2+ channels, Syt7 and SNAREs for presynaptic exit, then nectin-1/CME for postsynaptic entry.",
-    "abstract": "Nature Neuroscience, Published online: 14 April 2026; doi:10.1038/s41593-026-02254-8 By assembling into ‘virion vesicles’, the H129 strain of herpes simplex virus-1 hijacks synaptic machinery for its anterograde spread, co-opting voltage-gated Ca2+ channels, Syt7 and SNAREs for presynaptic exit, then nectin-1/CME for postsynaptic entry.",
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41593-026-02254-8/MediaObjects/41593_2026_2254_Fig1_HTML.png",
-    "topic": "retina",
-    "topic_color": "#f472b6",
-    "priority_score": 40
   },
   {
     "title": "U.S. moves to reclassify some types of marijuana as lower risk",
@@ -282,6 +282,19 @@
     "abstract": "The agency is finally ready to distribute a spate of new grants, but it is also preparing substantial cuts to areas such as biological and social sciences. The agency is finally ready to distribute a spate of new grants, but it is also preparing substantial cuts to areas such as biological and social sciences.",
     "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-01287-0/d41586-026-01287-0_52323026.jpg",
     "topic": "default",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
+    "title": "BOLD fMRI reflects both vascular and metabolic signals",
+    "link": "https://www.nature.com/articles/s41593-026-02288-y",
+    "journal": "Nature Neuroscience",
+    "source_type": "journal",
+    "date": "2026-04-23",
+    "summary": "Nature Neuroscience, Published online: 23 April 2026; doi:10.1038/s41593-026-02288-y A recent study by Epp et al. uses advanced, quantitative functional MRI measures to demonstrate that the ‘canonical’ interpretation of blood-oxygenation-level-dependent (BOLD) functional MRI (fMRI) — that increases and decreases in brain activation are accompanied by corresponding changes in blood flow and oxygen metabolism — does not strictly hold across the human brain. Although the authors provided a balanced interpretation, this has been viewed by others as undermining fMRI. We discuss whether the findings bring into question the validity of fMRI-based measures of brain function.",
+    "abstract": "Nature Neuroscience, Published online: 23 April 2026; doi:10.1038/s41593-026-02288-y A recent study by Epp et al. uses advanced, quantitative functional MRI measures to demonstrate that the ‘canonical’ interpretation of blood-oxygenation-level-dependent (BOLD) functional MRI (fMRI) — that increases and decreases in brain activation are accompanied by corresponding changes in blood flow and oxygen metabolism — does not strictly hold across the human brain. Although the authors provided a balanced interpretation, this has been viewed by others as undermining fMRI. We discuss whether the findings bring into question the validity of fMRI-based measures of brain function.",
+    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41593-026-02288-y/MediaObjects/41593_2026_2288_Fig1_HTML.png",
+    "topic": "neuroscience",
     "topic_color": "#60a5fa",
     "priority_score": 0
   },
@@ -658,19 +671,6 @@
     "summary": "Nature Neuroscience, Published online: 14 April 2026; doi:10.1038/s41593-026-02248-6 Seguin et al. show that the efficacy of transcranial magnetic stimulation for depression depends on how stimulation spreads through the brain’s wiring. Patients with shorter communication pathways between stimulated sites and mood-related regions had better clinical outcomes.",
     "abstract": "Nature Neuroscience, Published online: 14 April 2026; doi:10.1038/s41593-026-02248-6 Seguin et al. show that the efficacy of transcranial magnetic stimulation for depression depends on how stimulation spreads through the brain’s wiring. Patients with shorter communication pathways between stimulated sites and mood-related regions had better clinical outcomes.",
     "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41593-026-02248-6/MediaObjects/41593_2026_2248_Fig1_HTML.png",
-    "topic": "neuroscience",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
-    "title": "Rapid temporal processing in the olfactory bulb underlies concentration-invariant odor identification and signal decorrelation",
-    "link": "https://www.nature.com/articles/s41593-026-02250-y",
-    "journal": "Nature Neuroscience",
-    "source_type": "journal",
-    "date": "2026-04-14",
-    "summary": "Nature Neuroscience, Published online: 14 April 2026; doi:10.1038/s41593-026-02250-y This study shows that the brain’s smell center uses precise timing and inhibition to read out early odor signals, enabling reliable odor identity across concentrations while rapidly separating (decorrelating) similar smell patterns for better discrimination.",
-    "abstract": "Nature Neuroscience, Published online: 14 April 2026; doi:10.1038/s41593-026-02250-y This study shows that the brain’s smell center uses precise timing and inhibition to read out early odor signals, enabling reliable odor identity across concentrations while rapidly separating (decorrelating) similar smell patterns for better discrimination.",
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41593-026-02250-y/MediaObjects/41593_2026_2250_Fig1_HTML.png",
     "topic": "neuroscience",
     "topic_color": "#60a5fa",
     "priority_score": 0
