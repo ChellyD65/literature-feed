@@ -1,18 +1,5 @@
 [
   {
-    "title": "Tumor-derived branched-chain α-keto acids activate Notch signaling in tumor-associated macrophages to limit immunity",
-    "link": "https://www.nature.com/articles/s41590-026-02484-9",
-    "journal": "Nature Immunology",
-    "source_type": "journal",
-    "date": "2026-04-14",
-    "summary": "Nature Immunology, Published online: 14 April 2026; doi:10.1038/s41590-026-02484-9 Here the authors identify a tumor immunoevasion mechanism in which tumor cells release branched-chain amino acid metabolites that can bind and activate Notch on tumor-associated macrophages, reprogramming these cells to be immunosuppressive.",
-    "abstract": "Nature Immunology, Published online: 14 April 2026; doi:10.1038/s41590-026-02484-9 Here the authors identify a tumor immunoevasion mechanism in which tumor cells release branched-chain amino acid metabolites that can bind and activate Notch on tumor-associated macrophages, reprogramming these cells to be immunosuppressive.",
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41590-026-02484-9/MediaObjects/41590_2026_2484_Fig1_HTML.png",
-    "topic": "macrophage",
-    "topic_color": "#f59e0b",
-    "priority_score": 92
-  },
-  {
     "title": "Author Correction: Chemokine-defined macrophage niches establish spatial organization of tumor immunity",
     "link": "https://www.nature.com/articles/s41590-026-02525-3",
     "journal": "Nature Immunology",
@@ -52,6 +39,45 @@
     "priority_score": 50
   },
   {
+    "title": "A spatially coordinated keratinocyte–fibroblast circuit recruits MMP9⁺ myeloid cells to drive type I interferon-driven inflammation in photosensitive autoimmunity",
+    "link": "https://www.nature.com/articles/s41590-026-02502-w",
+    "journal": "Nature Immunology",
+    "source_type": "journal",
+    "date": "2026-04-24",
+    "summary": "Nature Immunology, Published online: 24 April 2026; doi:10.1038/s41590-026-02502-w Wang, Afshari, Haddadi and colleagues compare UVB-sensitive and insensitive human skin diseases and show that photosensitive conditions, including cutaneous lupus erythematosus and dermatomyositis, have increased type I interferon activity and an expanded MMP9⁺CD14⁺ myeloid population that drives inflammation.",
+    "abstract": "Nature Immunology, Published online: 24 April 2026; doi:10.1038/s41590-026-02502-w Wang, Afshari, Haddadi and colleagues compare UVB-sensitive and insensitive human skin diseases and show that photosensitive conditions, including cutaneous lupus erythematosus and dermatomyositis, have increased type I interferon activity and an expanded MMP9⁺CD14⁺ myeloid population that drives inflammation.",
+    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41590-026-02502-w/MediaObjects/41590_2026_2502_Fig1_HTML.png",
+    "topic": "inflammation",
+    "topic_color": "#fb7185",
+    "priority_score": 41
+  },
+  {
+    "title": "From bats at dusk to asteroid quests: Books in brief",
+    "link": "https://www.nature.com/articles/d41586-026-01304-2",
+    "journal": "Nature",
+    "source_type": "journal",
+    "date": "2026-04-24",
+    "summary": "Nature, Published online: 24 April 2026; doi:10.1038/d41586-026-01304-2 Andrew Robinson reviews five of the best science picks.",
+    "abstract": "Nature, Published online: 24 April 2026; doi:10.1038/d41586-026-01304-2 Andrew Robinson reviews five of the best science picks.",
+    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-01304-2/d41586-026-01304-2_52326848.jpg",
+    "topic": "default",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
+    "title": "Hit a glitch in your research? Some ‘night science’ thinking could move it forward",
+    "link": "https://www.nature.com/articles/d41586-026-01294-1",
+    "journal": "Nature",
+    "source_type": "journal",
+    "date": "2026-04-24",
+    "summary": "Nature, Published online: 24 April 2026; doi:10.1038/d41586-026-01294-1 Itai Yanai and Martin Lercher outline a creative thinking strategy to liberate you from the daily grind of the lab.",
+    "abstract": "Nature, Published online: 24 April 2026; doi:10.1038/d41586-026-01294-1 Itai Yanai and Martin Lercher outline a creative thinking strategy to liberate you from the daily grind of the lab.",
+    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-01294-1/d41586-026-01294-1_52283538.jpg",
+    "topic": "default",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
     "title": "Closure of China’s influential journal ranking leaves academics reeling — what will take its place?",
     "link": "https://www.nature.com/articles/d41586-026-01277-2",
     "journal": "Nature",
@@ -60,6 +86,71 @@
     "summary": "Nature, Published online: 24 April 2026; doi:10.1038/d41586-026-01277-2 Several other lists have been launched in the past year, but some scholars want research evaluation to take new forms.",
     "abstract": "Nature, Published online: 24 April 2026; doi:10.1038/d41586-026-01277-2 Several other lists have been launched in the past year, but some scholars want research evaluation to take new forms.",
     "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-01277-2/d41586-026-01277-2_52318050.jpg",
+    "topic": "default",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
+    "title": "Transcriptomic and phenotypic convergence of neurodevelopmental disorder risk genes in vitro and in vivo",
+    "link": "https://www.nature.com/articles/s41593-026-02247-7",
+    "journal": "Nature Neuroscience",
+    "source_type": "journal",
+    "date": "2026-04-24",
+    "summary": "Nature Neuroscience, Published online: 24 April 2026; doi:10.1038/s41593-026-02247-7 By studying 23 neurodevelopmental disorder genes across model systems and brain cell types, the authors uncovered shared downstream effects that converge on synaptic biology, epigenetic regulation and mitochondrial function.",
+    "abstract": "Nature Neuroscience, Published online: 24 April 2026; doi:10.1038/s41593-026-02247-7 By studying 23 neurodevelopmental disorder genes across model systems and brain cell types, the authors uncovered shared downstream effects that converge on synaptic biology, epigenetic regulation and mitochondrial function.",
+    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41593-026-02247-7/MediaObjects/41593_2026_2247_Fig1_HTML.png",
+    "topic": "neuroscience",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
+    "title": "IL-9 and Blimp-1 protect the transcriptional identity of group 2 innate lymphocytes in allergic asthma",
+    "link": "https://www.nature.com/articles/s41590-026-02509-3",
+    "journal": "Nature Immunology",
+    "source_type": "journal",
+    "date": "2026-04-24",
+    "summary": "Nature Immunology, Published online: 24 April 2026; doi:10.1038/s41590-026-02509-3 Poholek and colleagues show that allergic alarmin-induced IL-9 increases expression of the transcriptional repressor Blimp-1 in ILC2 cells, sustaining their cellular identity and type 2 immune responses.",
+    "abstract": "Nature Immunology, Published online: 24 April 2026; doi:10.1038/s41590-026-02509-3 Poholek and colleagues show that allergic alarmin-induced IL-9 increases expression of the transcriptional repressor Blimp-1 in ILC2 cells, sustaining their cellular identity and type 2 immune responses.",
+    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41590-026-02509-3/MediaObjects/41590_2026_2509_Fig1_HTML.png",
+    "topic": "immunology",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
+    "title": "The value of patient-focused drug development",
+    "link": "https://www.nature.com/articles/s41591-026-04364-z",
+    "journal": "Nature Medicine",
+    "source_type": "journal",
+    "date": "2026-04-24",
+    "summary": "Nature Medicine, Published online: 24 April 2026; doi:10.1038/s41591-026-04364-z The value of patient-focused drug development",
+    "abstract": "Nature Medicine, Published online: 24 April 2026; doi:10.1038/s41591-026-04364-z The value of patient-focused drug development",
+    "image": "data:image/svg+xml;charset=utf-8,%0A%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23111827%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23374151%22/%3E%0A%20%20%20%20%3C/linearGradient%3E%0A%20%20%20%20%3Cfilter%20id%3D%22blur%22%3E%0A%20%20%20%20%20%20%3CfeGaussianBlur%20stdDeviation%3D%2230%22/%3E%0A%20%20%20%20%3C/filter%3E%0A%20%20%3C/defs%3E%0A%0A%20%20%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22url%28%23bg%29%22/%3E%0A%0A%20%20%3Ccircle%20cx%3D%221030%22%20cy%3D%22110%22%20r%3D%22170%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.18%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%20%20%3Ccircle%20cx%3D%22180%22%20cy%3D%22560%22%20r%3D%22150%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.16%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%0A%20%20%3Crect%20x%3D%2256%22%20y%3D%2252%22%20rx%3D%2218%22%20ry%3D%2218%22%20width%3D%22260%22%20height%3D%2254%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.08%29%22/%3E%0A%20%20%3Ctext%20x%3D%2284%22%20y%3D%2287%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2228%22%20fill%3D%22%23e5e7eb%22%3ENature%20Medicine%3C/text%3E%0A%0A%20%20%3Ctext%20x%3D%221010%22%20y%3D%22560%22%0A%20%20%20%20%20%20%20%20text-anchor%3D%22middle%22%0A%20%20%20%20%20%20%20%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%0A%20%20%20%20%20%20%20%20font-size%3D%22160%22%0A%20%20%20%20%20%20%20%20fill%3D%22%2360a5fa%22%0A%20%20%20%20%20%20%20%20opacity%3D%220.85%22%3E%0A%20%20%20%20%E2%80%A2%0A%20%20%3C/text%3E%0A%3C/svg%3E%0A",
+    "topic": "default",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
+    "title": "Targeted therapies plus radiotherapy for diffuse intrinsic pontine glioma: the randomized phase 2 BIOMEDE trial",
+    "link": "https://www.nature.com/articles/s41591-026-04354-1",
+    "journal": "Nature Medicine",
+    "source_type": "journal",
+    "date": "2026-04-24",
+    "summary": "Nature Medicine, Published online: 24 April 2026; doi:10.1038/s41591-026-04354-1 In a biomarker-driven trial evaluating radiotherapy with erlotinib, everolimus or dasatinib in patients with newly diagnosed diffuse intrinsic pontine glioma, the primary endpoint of overall survival was not met, but features associated with long-term survival were defined, and everolimus emerged as a potential candidate for further testing.",
+    "abstract": "Nature Medicine, Published online: 24 April 2026; doi:10.1038/s41591-026-04354-1 In a biomarker-driven trial evaluating radiotherapy with erlotinib, everolimus or dasatinib in patients with newly diagnosed diffuse intrinsic pontine glioma, the primary endpoint of overall survival was not met, but features associated with long-term survival were defined, and everolimus emerged as a potential candidate for further testing.",
+    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41591-026-04354-1/MediaObjects/41591_2026_4354_Fig1_HTML.png",
+    "topic": "default",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
+    "title": "Cross-reactive anti-prophage antibodies and bacterial heteroresistance implicated in phage therapeutic failure",
+    "link": "https://www.nature.com/articles/s41591-026-04301-0",
+    "journal": "Nature Medicine",
+    "source_type": "journal",
+    "date": "2026-04-24",
+    "summary": "Nature Medicine, Published online: 24 April 2026; doi:10.1038/s41591-026-04301-0 A 22-year-old patient with cystic fibrosis and chronic, drug-resistant Bordetella bronchialis infection received compassionate-use phage therapy. Serum samples revealed that pre-existing antiphage immunity existed before treatment, indicating that future studies must evaluate antiphage immunity across the entire treatment regimen.",
+    "abstract": "Nature Medicine, Published online: 24 April 2026; doi:10.1038/s41591-026-04301-0 A 22-year-old patient with cystic fibrosis and chronic, drug-resistant Bordetella bronchialis infection received compassionate-use phage therapy. Serum samples revealed that pre-existing antiphage immunity existed before treatment, indicating that future studies must evaluate antiphage immunity across the entire treatment regimen.",
+    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41591-026-04301-0/MediaObjects/41591_2026_4301_Fig1_HTML.png",
     "topic": "default",
     "topic_color": "#60a5fa",
     "priority_score": 0
@@ -260,32 +351,6 @@
     "priority_score": 0
   },
   {
-    "title": "Thousands of Harvard graduate students strike — bringing research to a halt",
-    "link": "https://www.nature.com/articles/d41586-026-01344-8",
-    "journal": "Nature",
-    "source_type": "journal",
-    "date": "2026-04-23",
-    "summary": "Nature, Published online: 23 April 2026; doi:10.1038/d41586-026-01344-8 Workers at the elite US university want higher pay, and ask for better protection for students at risk of deportation.",
-    "abstract": "Nature, Published online: 23 April 2026; doi:10.1038/d41586-026-01344-8 Workers at the elite US university want higher pay, and ask for better protection for students at risk of deportation.",
-    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-01344-8/d41586-026-01344-8_52323154.jpg",
-    "topic": "default",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
-    "title": "Did kraken-like octopuses rule Cretaceous seas? Massive jaw fossils offer clues",
-    "link": "https://www.nature.com/articles/d41586-026-01342-w",
-    "journal": "Nature",
-    "source_type": "journal",
-    "date": "2026-04-23",
-    "summary": "Nature, Published online: 23 April 2026; doi:10.1038/d41586-026-01342-w Extinct cephalopods might have been up to 19 metres in length and probably dined high up the food chain in ancient oceans.",
-    "abstract": "Nature, Published online: 23 April 2026; doi:10.1038/d41586-026-01342-w Extinct cephalopods might have been up to 19 metres in length and probably dined high up the food chain in ancient oceans.",
-    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-01342-w/d41586-026-01342-w_52326814.jpg",
-    "topic": "default",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
     "title": "BOLD fMRI reflects both vascular and metabolic signals",
     "link": "https://www.nature.com/articles/s41593-026-02288-y",
     "journal": "Nature Neuroscience",
@@ -416,32 +481,6 @@
     "priority_score": 0
   },
   {
-    "title": "The ghost of tuberculosis past",
-    "link": "https://www.nature.com/articles/s41591-026-04356-z",
-    "journal": "Nature Medicine",
-    "source_type": "journal",
-    "date": "2026-04-22",
-    "summary": "Nature Medicine, Published online: 22 April 2026; doi:10.1038/s41591-026-04356-z The analysis of the 100 Million Brazilian database reveals that a past tuberculosis diagnosis increases the risk of death up to 14 years later regardless of treatment outcome, which should prompt urgent prioritization of global prevention efforts.",
-    "abstract": "Nature Medicine, Published online: 22 April 2026; doi:10.1038/s41591-026-04356-z The analysis of the 100 Million Brazilian database reveals that a past tuberculosis diagnosis increases the risk of death up to 14 years later regardless of treatment outcome, which should prompt urgent prioritization of global prevention efforts.",
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41591-026-04356-z/MediaObjects/41591_2026_4356_Figa_HTML.png",
-    "topic": "default",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
-    "title": "The future of diagnostics in Africa",
-    "link": "https://www.nature.com/articles/s41591-026-04308-7",
-    "journal": "Nature Medicine",
-    "source_type": "journal",
-    "date": "2026-04-22",
-    "summary": "Nature Medicine, Published online: 22 April 2026; doi:10.1038/s41591-026-04308-7 The authors propose five high-priority areas to close the current gaps in diagnostic testing, providing a path to self-reliance in health security and universal healthcare in Africa.",
-    "abstract": "Nature Medicine, Published online: 22 April 2026; doi:10.1038/s41591-026-04308-7 The authors propose five high-priority areas to close the current gaps in diagnostic testing, providing a path to self-reliance in health security and universal healthcare in Africa.",
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41591-026-04308-7/MediaObjects/41591_2026_4308_Fig1_HTML.png",
-    "topic": "default",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
     "title": "In This Issue",
     "link": "https://www.pnas.org/doi/abs/10.1073/iti1626123?af=R",
     "journal": "PNAS",
@@ -520,19 +559,6 @@
     "priority_score": 0
   },
   {
-    "title": "Is AI actually improving healthcare?",
-    "link": "https://www.nature.com/articles/s41591-026-04329-2",
-    "journal": "Nature Medicine",
-    "source_type": "journal",
-    "date": "2026-04-21",
-    "summary": "Nature Medicine, Published online: 21 April 2026; doi:10.1038/s41591-026-04329-2 Is AI actually improving healthcare?",
-    "abstract": "Nature Medicine, Published online: 21 April 2026; doi:10.1038/s41591-026-04329-2 Is AI actually improving healthcare?",
-    "image": "data:image/svg+xml;charset=utf-8,%0A%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23111827%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23374151%22/%3E%0A%20%20%20%20%3C/linearGradient%3E%0A%20%20%20%20%3Cfilter%20id%3D%22blur%22%3E%0A%20%20%20%20%20%20%3CfeGaussianBlur%20stdDeviation%3D%2230%22/%3E%0A%20%20%20%20%3C/filter%3E%0A%20%20%3C/defs%3E%0A%0A%20%20%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22url%28%23bg%29%22/%3E%0A%0A%20%20%3Ccircle%20cx%3D%221030%22%20cy%3D%22110%22%20r%3D%22170%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.18%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%20%20%3Ccircle%20cx%3D%22180%22%20cy%3D%22560%22%20r%3D%22150%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.16%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%0A%20%20%3Crect%20x%3D%2256%22%20y%3D%2252%22%20rx%3D%2218%22%20ry%3D%2218%22%20width%3D%22260%22%20height%3D%2254%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.08%29%22/%3E%0A%20%20%3Ctext%20x%3D%2284%22%20y%3D%2287%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2228%22%20fill%3D%22%23e5e7eb%22%3ENature%20Medicine%3C/text%3E%0A%0A%20%20%3Ctext%20x%3D%221010%22%20y%3D%22560%22%0A%20%20%20%20%20%20%20%20text-anchor%3D%22middle%22%0A%20%20%20%20%20%20%20%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%0A%20%20%20%20%20%20%20%20font-size%3D%22160%22%0A%20%20%20%20%20%20%20%20fill%3D%22%2360a5fa%22%0A%20%20%20%20%20%20%20%20opacity%3D%220.85%22%3E%0A%20%20%20%20%E2%80%A2%0A%20%20%3C/text%3E%0A%3C/svg%3E%0A",
-    "topic": "default",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
     "title": "Developing a vaccine strategy to prevent the progression of pulmonary fibrosis",
     "link": "https://www.nature.com/articles/s41590-026-02487-6",
     "journal": "Nature Immunology",
@@ -554,19 +580,6 @@
     "summary": "Nature Immunology, Published online: 20 April 2026; doi:10.1038/s41590-026-02501-x Wei and colleagues characterized the MHC class I immunopeptidome in mice and humans with lung fibrosis and identified immunogenic peptides specifically expressed in fibrosis-associated lung cell subsets that blocked the progression of fibrosis in mice treated with bleomycin.",
     "abstract": "Nature Immunology, Published online: 20 April 2026; doi:10.1038/s41590-026-02501-x Wei and colleagues characterized the MHC class I immunopeptidome in mice and humans with lung fibrosis and identified immunogenic peptides specifically expressed in fibrosis-associated lung cell subsets that blocked the progression of fibrosis in mice treated with bleomycin.",
     "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41590-026-02501-x/MediaObjects/41590_2026_2501_Fig1_HTML.png",
-    "topic": "immunology",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
-    "title": "BLIMP1 shapes germinal center B cell clonal diversity by gating chromatin accessibility during light-to-dark zone transition",
-    "link": "https://www.nature.com/articles/s41590-026-02495-6",
-    "journal": "Nature Immunology",
-    "source_type": "journal",
-    "date": "2026-04-20",
-    "summary": "Nature Immunology, Published online: 20 April 2026; doi:10.1038/s41590-026-02495-6 Singh and colleagues identify a role for the transcription factor BLIMP1, encoded by Prdm1, in the regulation of germinal center responses. They show that BLIMP1 acts as a negative feedback regulator of B cell affinity maturation and clonal dominance.",
-    "abstract": "Nature Immunology, Published online: 20 April 2026; doi:10.1038/s41590-026-02495-6 Singh and colleagues identify a role for the transcription factor BLIMP1, encoded by Prdm1, in the regulation of germinal center responses. They show that BLIMP1 acts as a negative feedback regulator of B cell affinity maturation and clonal dominance.",
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41590-026-02495-6/MediaObjects/41590_2026_2495_Fig1_HTML.png",
     "topic": "immunology",
     "topic_color": "#60a5fa",
     "priority_score": 0
@@ -659,19 +672,6 @@
     "abstract": "Proceedings of the National Academy of Sciences, Volume 123, Issue 16, April 2026. SignificanceThe Southern Ocean is home to vast seabird populations and threatened species. To understand the wider impact of the catastrophic decline in many seabird populations over recent decades, we need knowledge of their long-term population dynamics ...",
     "image": "data:image/svg+xml;charset=utf-8,%0A%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23111827%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23374151%22/%3E%0A%20%20%20%20%3C/linearGradient%3E%0A%20%20%20%20%3Cfilter%20id%3D%22blur%22%3E%0A%20%20%20%20%20%20%3CfeGaussianBlur%20stdDeviation%3D%2230%22/%3E%0A%20%20%20%20%3C/filter%3E%0A%20%20%3C/defs%3E%0A%0A%20%20%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22url%28%23bg%29%22/%3E%0A%0A%20%20%3Ccircle%20cx%3D%221030%22%20cy%3D%22110%22%20r%3D%22170%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.18%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%20%20%3Ccircle%20cx%3D%22180%22%20cy%3D%22560%22%20r%3D%22150%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.16%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%0A%20%20%3Crect%20x%3D%2256%22%20y%3D%2252%22%20rx%3D%2218%22%20ry%3D%2218%22%20width%3D%22260%22%20height%3D%2254%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.08%29%22/%3E%0A%20%20%3Ctext%20x%3D%2284%22%20y%3D%2287%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2228%22%20fill%3D%22%23e5e7eb%22%3EPNAS%3C/text%3E%0A%0A%20%20%3Ctext%20x%3D%221010%22%20y%3D%22560%22%0A%20%20%20%20%20%20%20%20text-anchor%3D%22middle%22%0A%20%20%20%20%20%20%20%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%0A%20%20%20%20%20%20%20%20font-size%3D%22160%22%0A%20%20%20%20%20%20%20%20fill%3D%22%2360a5fa%22%0A%20%20%20%20%20%20%20%20opacity%3D%220.85%22%3E%0A%20%20%20%20%E2%80%A2%0A%20%20%3C/text%3E%0A%3C/svg%3E%0A",
     "topic": "default",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
-    "title": "White matter pathways mediating dorsolateral prefrontal TMS therapy for depression",
-    "link": "https://www.nature.com/articles/s41593-026-02248-6",
-    "journal": "Nature Neuroscience",
-    "source_type": "journal",
-    "date": "2026-04-14",
-    "summary": "Nature Neuroscience, Published online: 14 April 2026; doi:10.1038/s41593-026-02248-6 Seguin et al. show that the efficacy of transcranial magnetic stimulation for depression depends on how stimulation spreads through the brain’s wiring. Patients with shorter communication pathways between stimulated sites and mood-related regions had better clinical outcomes.",
-    "abstract": "Nature Neuroscience, Published online: 14 April 2026; doi:10.1038/s41593-026-02248-6 Seguin et al. show that the efficacy of transcranial magnetic stimulation for depression depends on how stimulation spreads through the brain’s wiring. Patients with shorter communication pathways between stimulated sites and mood-related regions had better clinical outcomes.",
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41593-026-02248-6/MediaObjects/41593_2026_2248_Fig1_HTML.png",
-    "topic": "neuroscience",
     "topic_color": "#60a5fa",
     "priority_score": 0
   },
