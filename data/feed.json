@@ -13,19 +13,6 @@
     "priority_score": 66
   },
   {
-    "title": "Author Correction: Astrocytic Sox9 overexpression in Alzheimer’s disease mouse models promotes Aβ plaque phagocytosis and preserves cognitive function",
-    "link": "https://www.nature.com/articles/s41593-026-02312-1",
-    "journal": "Nature Neuroscience",
-    "source_type": "journal",
-    "date": "2026-04-24",
-    "summary": "Nature Neuroscience, Published online: 24 April 2026; doi:10.1038/s41593-026-02312-1 Author Correction: Astrocytic Sox9 overexpression in Alzheimer’s disease mouse models promotes Aβ plaque phagocytosis and preserves cognitive function",
-    "abstract": "Nature Neuroscience, Published online: 24 April 2026; doi:10.1038/s41593-026-02312-1 Author Correction: Astrocytic Sox9 overexpression in Alzheimer’s disease mouse models promotes Aβ plaque phagocytosis and preserves cognitive function",
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41593-026-02312-1/MediaObjects/41593_2026_2312_Fig1_HTML.png",
-    "topic": "neurodegeneration",
-    "topic_color": "#fda4af",
-    "priority_score": 50
-  },
-  {
     "title": "Early dopamine disruption in the entorhinal cortex of a knock-in model of Alzheimer’s disease",
     "link": "https://www.nature.com/articles/s41593-026-02260-w",
     "journal": "Nature Neuroscience",
@@ -34,6 +21,19 @@
     "summary": "Nature Neuroscience, Published online: 23 April 2026; doi:10.1038/s41593-026-02260-w The authors reveal entorhinal cortex dopaminergic and behavioral dysfunction in Alzheimer’s model mice, suggesting the possibility that entorhinal dopamine loss may contribute to aspects of Alzheimer’s disease.",
     "abstract": "Nature Neuroscience, Published online: 23 April 2026; doi:10.1038/s41593-026-02260-w The authors reveal entorhinal cortex dopaminergic and behavioral dysfunction in Alzheimer’s model mice, suggesting the possibility that entorhinal dopamine loss may contribute to aspects of Alzheimer’s disease.",
     "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41593-026-02260-w/MediaObjects/41593_2026_2260_Fig1_HTML.png",
+    "topic": "neurodegeneration",
+    "topic_color": "#fda4af",
+    "priority_score": 50
+  },
+  {
+    "title": "Amyloid-β-driven glymphatic dysfunction in Alzheimer’s disease model mice is driven by Ca<sup>2+</sup>-mediated increases in astrocytic cholesterol",
+    "link": "https://www.nature.com/articles/s41593-026-02261-9",
+    "journal": "Nature Neuroscience",
+    "source_type": "journal",
+    "date": "2026-04-15",
+    "summary": "Nature Neuroscience, Published online: 15 April 2026; doi:10.1038/s41593-026-02261-9 This study uncovers how amyloid-β boosts astrocyte calcium activity, increasing cholesterol and disrupting brain waste clearance in an Alzheimer’s disease mouse model. Targeting astrocyte calcium or cholesterol restores clearance and improves cognition.",
+    "abstract": "Nature Neuroscience, Published online: 15 April 2026; doi:10.1038/s41593-026-02261-9 This study uncovers how amyloid-β boosts astrocyte calcium activity, increasing cholesterol and disrupting brain waste clearance in an Alzheimer’s disease mouse model. Targeting astrocyte calcium or cholesterol restores clearance and improves cognition.",
+    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41593-026-02261-9/MediaObjects/41593_2026_2261_Fig1_HTML.png",
     "topic": "neurodegeneration",
     "topic_color": "#fda4af",
     "priority_score": 50
@@ -230,32 +230,6 @@
     "abstract": "Nature, Published online: 24 April 2026; doi:10.1038/d41586-026-01340-y An analysis of thousands of paper-mill adverts could help journals to crack down on misconduct.",
     "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-01340-y/d41586-026-01340-y_52326280.jpg",
     "topic": "default",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
-    "title": "Addendum: Neural anticipation of virtual infection triggers an immune response",
-    "link": "https://www.nature.com/articles/s41593-026-02284-2",
-    "journal": "Nature Neuroscience",
-    "source_type": "journal",
-    "date": "2026-04-24",
-    "summary": "Nature Neuroscience, Published online: 24 April 2026; doi:10.1038/s41593-026-02284-2 Addendum: Neural anticipation of virtual infection triggers an immune response",
-    "abstract": "Nature Neuroscience, Published online: 24 April 2026; doi:10.1038/s41593-026-02284-2 Addendum: Neural anticipation of virtual infection triggers an immune response",
-    "image": "data:image/svg+xml;charset=utf-8,%0A%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23111827%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23374151%22/%3E%0A%20%20%20%20%3C/linearGradient%3E%0A%20%20%20%20%3Cfilter%20id%3D%22blur%22%3E%0A%20%20%20%20%20%20%3CfeGaussianBlur%20stdDeviation%3D%2230%22/%3E%0A%20%20%20%20%3C/filter%3E%0A%20%20%3C/defs%3E%0A%0A%20%20%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22url%28%23bg%29%22/%3E%0A%0A%20%20%3Ccircle%20cx%3D%221030%22%20cy%3D%22110%22%20r%3D%22170%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.18%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%20%20%3Ccircle%20cx%3D%22180%22%20cy%3D%22560%22%20r%3D%22150%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.16%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%0A%20%20%3Crect%20x%3D%2256%22%20y%3D%2252%22%20rx%3D%2218%22%20ry%3D%2218%22%20width%3D%22260%22%20height%3D%2254%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.08%29%22/%3E%0A%20%20%3Ctext%20x%3D%2284%22%20y%3D%2287%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2228%22%20fill%3D%22%23e5e7eb%22%3ENature%20Neuroscience%3C/text%3E%0A%0A%20%20%3Ctext%20x%3D%221010%22%20y%3D%22560%22%0A%20%20%20%20%20%20%20%20text-anchor%3D%22middle%22%0A%20%20%20%20%20%20%20%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%0A%20%20%20%20%20%20%20%20font-size%3D%22160%22%0A%20%20%20%20%20%20%20%20fill%3D%22%2360a5fa%22%0A%20%20%20%20%20%20%20%20opacity%3D%220.85%22%3E%0A%20%20%20%20%E2%80%A2%0A%20%20%3C/text%3E%0A%3C/svg%3E%0A",
-    "topic": "neuroscience",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
-    "title": "Transcriptomic and phenotypic convergence of neurodevelopmental disorder risk genes in vitro and in vivo",
-    "link": "https://www.nature.com/articles/s41593-026-02247-7",
-    "journal": "Nature Neuroscience",
-    "source_type": "journal",
-    "date": "2026-04-24",
-    "summary": "Nature Neuroscience, Published online: 24 April 2026; doi:10.1038/s41593-026-02247-7 By studying 23 neurodevelopmental disorder genes across model systems and brain cell types, the authors uncovered shared downstream effects that converge on synaptic biology, epigenetic regulation and mitochondrial function.",
-    "abstract": "Nature Neuroscience, Published online: 24 April 2026; doi:10.1038/s41593-026-02247-7 By studying 23 neurodevelopmental disorder genes across model systems and brain cell types, the authors uncovered shared downstream effects that converge on synaptic biology, epigenetic regulation and mitochondrial function.",
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41593-026-02247-7/MediaObjects/41593_2026_2247_Fig1_HTML.png",
-    "topic": "neuroscience",
     "topic_color": "#60a5fa",
     "priority_score": 0
   },
@@ -611,6 +585,19 @@
     "priority_score": 0
   },
   {
+    "title": "Spatial, temporal and Notch determination of terminal selector expression controls neuronal cell fate in the <i>Drosophila</i> optic lobe",
+    "link": "https://www.nature.com/articles/s41593-026-02256-6",
+    "journal": "Nature Neuroscience",
+    "source_type": "journal",
+    "date": "2026-04-16",
+    "summary": "Nature Neuroscience, Published online: 16 April 2026; doi:10.1038/s41593-026-02256-6 The authors characterized the spatial origin of Drosophila medulla neurons, completing their previous characterization of the temporal and Notch origins of these neurons and allowing them to correlate patterning of progenitors and neuronal type-specific features.",
+    "abstract": "Nature Neuroscience, Published online: 16 April 2026; doi:10.1038/s41593-026-02256-6 The authors characterized the spatial origin of Drosophila medulla neurons, completing their previous characterization of the temporal and Notch origins of these neurons and allowing them to correlate patterning of progenitors and neuronal type-specific features.",
+    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41593-026-02256-6/MediaObjects/41593_2026_2256_Fig1_HTML.png",
+    "topic": "neuroscience",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
     "title": "How to destroy “forever chemicals” for good",
     "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2610430123?af=R",
     "journal": "PNAS",
@@ -672,6 +659,19 @@
     "abstract": "Proceedings of the National Academy of Sciences, Volume 123, Issue 16, April 2026. SignificanceThe Southern Ocean is home to vast seabird populations and threatened species. To understand the wider impact of the catastrophic decline in many seabird populations over recent decades, we need knowledge of their long-term population dynamics ...",
     "image": "data:image/svg+xml;charset=utf-8,%0A%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23111827%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23374151%22/%3E%0A%20%20%20%20%3C/linearGradient%3E%0A%20%20%20%20%3Cfilter%20id%3D%22blur%22%3E%0A%20%20%20%20%20%20%3CfeGaussianBlur%20stdDeviation%3D%2230%22/%3E%0A%20%20%20%20%3C/filter%3E%0A%20%20%3C/defs%3E%0A%0A%20%20%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22url%28%23bg%29%22/%3E%0A%0A%20%20%3Ccircle%20cx%3D%221030%22%20cy%3D%22110%22%20r%3D%22170%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.18%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%20%20%3Ccircle%20cx%3D%22180%22%20cy%3D%22560%22%20r%3D%22150%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.16%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%0A%20%20%3Crect%20x%3D%2256%22%20y%3D%2252%22%20rx%3D%2218%22%20ry%3D%2218%22%20width%3D%22260%22%20height%3D%2254%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.08%29%22/%3E%0A%20%20%3Ctext%20x%3D%2284%22%20y%3D%2287%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2228%22%20fill%3D%22%23e5e7eb%22%3EPNAS%3C/text%3E%0A%0A%20%20%3Ctext%20x%3D%221010%22%20y%3D%22560%22%0A%20%20%20%20%20%20%20%20text-anchor%3D%22middle%22%0A%20%20%20%20%20%20%20%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%0A%20%20%20%20%20%20%20%20font-size%3D%22160%22%0A%20%20%20%20%20%20%20%20fill%3D%22%2360a5fa%22%0A%20%20%20%20%20%20%20%20opacity%3D%220.85%22%3E%0A%20%20%20%20%E2%80%A2%0A%20%20%3C/text%3E%0A%3C/svg%3E%0A",
     "topic": "default",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
+    "title": "White matter pathways mediating dorsolateral prefrontal TMS therapy for depression",
+    "link": "https://www.nature.com/articles/s41593-026-02248-6",
+    "journal": "Nature Neuroscience",
+    "source_type": "journal",
+    "date": "2026-04-14",
+    "summary": "Nature Neuroscience, Published online: 14 April 2026; doi:10.1038/s41593-026-02248-6 Seguin et al. show that the efficacy of transcranial magnetic stimulation for depression depends on how stimulation spreads through the brain’s wiring. Patients with shorter communication pathways between stimulated sites and mood-related regions had better clinical outcomes.",
+    "abstract": "Nature Neuroscience, Published online: 14 April 2026; doi:10.1038/s41593-026-02248-6 Seguin et al. show that the efficacy of transcranial magnetic stimulation for depression depends on how stimulation spreads through the brain’s wiring. Patients with shorter communication pathways between stimulated sites and mood-related regions had better clinical outcomes.",
+    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41593-026-02248-6/MediaObjects/41593_2026_2248_Fig1_HTML.png",
+    "topic": "neuroscience",
     "topic_color": "#60a5fa",
     "priority_score": 0
   },
