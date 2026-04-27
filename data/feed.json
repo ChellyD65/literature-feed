@@ -52,6 +52,19 @@
     "priority_score": 41
   },
   {
+    "title": "Telomere-to-Telomere Assembly Using HERRO-Corrected Simplex Nanopore Reads",
+    "link": "https://www.nature.com/articles/s41586-026-10563-y",
+    "journal": "Nature",
+    "source_type": "journal",
+    "date": "2026-04-27",
+    "summary": "Nature, Published online: 27 April 2026; doi:10.1038/s41586-026-10563-y Telomere-to-Telomere Assembly Using HERRO-Corrected Simplex Nanopore Reads",
+    "abstract": "Telomere-to-telomere (T2T) phased assemblies are emerging as a benchmark for reference-quality genomes1,17, though they remain technically and financially demanding, particularly at scale. Generating such assemblies for diploid and polyploid genomes typically involves combining high-accuracy long reads, such as PacBio HiFi16 or the now-deprecated ONT Duplex2 reads, with ultra-long ONT Simplex reads. Using multiple platforms or methods increases the cost and the required amount of genomic DNA. Here, we show that comparable results are possible using error correction of ultra-long ONT Simplex reads and then assembling them using state-of-the-art de novo assembly methods. To achieve this, we have developed the deep learning-based HERRO (Haplotype-aware ERRor cOrrection) framework, which corrects ONT Simplex reads while carefully preserving differences in related genomic sequences. Taking into account informative positions that differentiate the haplotypes or genomic repeat copies, HERRO achieves an increase of read accuracy of up to 100-fold for diploid human genomes. By combining HERRO with the Verkko17 assembler, we reconstruct up to 32 chromosomes telomere-to-telomere, including chromosomes X and Y, and consistently achieve NGA50 values of 100 Mb or higher across several human genomes. HERRO supports both R9.4.1 and R10.4.1 ONT Simplex reads and generalizes well to other species. These results show that error-corrected ONT reads can lower sequencing costs and improve the quality of genomic analyses.",
+    "image": "data:image/svg+xml;charset=utf-8,%0A%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23111827%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23374151%22/%3E%0A%20%20%20%20%3C/linearGradient%3E%0A%20%20%20%20%3Cfilter%20id%3D%22blur%22%3E%0A%20%20%20%20%20%20%3CfeGaussianBlur%20stdDeviation%3D%2230%22/%3E%0A%20%20%20%20%3C/filter%3E%0A%20%20%3C/defs%3E%0A%0A%20%20%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22url%28%23bg%29%22/%3E%0A%0A%20%20%3Ccircle%20cx%3D%221030%22%20cy%3D%22110%22%20r%3D%22170%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.18%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%20%20%3Ccircle%20cx%3D%22180%22%20cy%3D%22560%22%20r%3D%22150%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.16%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%0A%20%20%3Crect%20x%3D%2256%22%20y%3D%2252%22%20rx%3D%2218%22%20ry%3D%2218%22%20width%3D%22260%22%20height%3D%2254%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.08%29%22/%3E%0A%20%20%3Ctext%20x%3D%2284%22%20y%3D%2287%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2228%22%20fill%3D%22%23e5e7eb%22%3ENature%3C/text%3E%0A%0A%20%20%3Ctext%20x%3D%221010%22%20y%3D%22560%22%0A%20%20%20%20%20%20%20%20text-anchor%3D%22middle%22%0A%20%20%20%20%20%20%20%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%0A%20%20%20%20%20%20%20%20font-size%3D%22160%22%0A%20%20%20%20%20%20%20%20fill%3D%22%2360a5fa%22%0A%20%20%20%20%20%20%20%20opacity%3D%220.85%22%3E%0A%20%20%20%20%E2%80%A2%0A%20%20%3C/text%3E%0A%3C/svg%3E%0A",
+    "topic": "default",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
     "title": "#ScientistAtWork 2026: <i>Nature</i> seeks striking photographs that capture researchers at work",
     "link": "https://www.nature.com/articles/d41586-026-01266-5",
     "journal": "Nature",
@@ -86,6 +99,19 @@
     "summary": "Nature, Published online: 27 April 2026; doi:10.1038/d41586-026-01297-y Funders must take action before an increase in submission of high-quality proposals written using AI models makes it impossible to sort the wheat from the chaff.",
     "abstract": "Funders must take action before an increase in submission of high-quality proposals written using AI models makes it impossible to sort the wheat from the chaff. Funders must take action before an increase in submission of high-quality proposals written using AI models makes it impossible to sort the wheat from the chaff.",
     "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-01297-y/d41586-026-01297-y_52326488.jpg",
+    "topic": "default",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
+    "title": "‘The job description is changing’: mathematician Terence Tao on the rise of AI",
+    "link": "https://www.nature.com/articles/d41586-026-01246-9",
+    "journal": "Nature",
+    "source_type": "journal",
+    "date": "2026-04-27",
+    "summary": "Nature, Published online: 27 April 2026; doi:10.1038/d41586-026-01246-9 The Fields medallist discusses how ever-evolving technology is transforming mathematicians’ work.",
+    "abstract": "Nature, Published online: 27 April 2026; doi:10.1038/d41586-026-01246-9 The Fields medallist discusses how ever-evolving technology is transforming mathematicians’ work.",
+    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-01246-9/d41586-026-01246-9_52331616.jpg",
     "topic": "default",
     "topic_color": "#60a5fa",
     "priority_score": 0
@@ -169,6 +195,19 @@
     "priority_score": 0
   },
   {
+    "title": "Targeted removal of soluble Fms-like tyrosine kinase 1 in very preterm preeclampsia: a pilot trial",
+    "link": "https://www.nature.com/articles/s41591-026-04333-6",
+    "journal": "Nature Medicine",
+    "source_type": "journal",
+    "date": "2026-04-27",
+    "summary": "Nature Medicine, Published online: 27 April 2026; doi:10.1038/s41591-026-04333-6 Selective removal of the placental protein sFlt-1 via antibody-based apheresis was safe and was associated with modest reductions in blood pressure and prolongation of pregnancy in women with very preterm preeclampsia. The treatment supports conducting controlled trials to evaluate its safety and efficacy at a larger scale.",
+    "abstract": "Nature Medicine, Published online: 27 April 2026; doi:10.1038/s41591-026-04333-6 Selective removal of the placental protein sFlt-1 via antibody-based apheresis was safe and was associated with modest reductions in blood pressure and prolongation of pregnancy in women with very preterm preeclampsia. The treatment supports conducting controlled trials to evaluate its safety and efficacy at a larger scale.",
+    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41591-026-04333-6/MediaObjects/41591_2026_4333_Fig1_HTML.png",
+    "topic": "default",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
     "title": "The All of Us Research Program’s wearables dataset",
     "link": "https://www.nature.com/articles/s41591-026-04352-3",
     "journal": "Nature Medicine",
@@ -195,7 +234,7 @@
     "priority_score": 0
   },
   {
-    "title": "Trump fires NSF's oversight board",
+    "title": "Trump fires all 24 members of the U.S. National Science Foundation’s governing body",
     "link": "https://www.science.org/content/article/trump-fires-nsf-s-oversight-board",
     "journal": "Science",
     "source_type": "journal",
@@ -325,32 +364,6 @@
     "priority_score": 0
   },
   {
-    "title": "Brain tissue near tumours is loaded with plastic",
-    "link": "https://www.nature.com/articles/d41586-026-01281-6",
-    "journal": "Nature",
-    "source_type": "journal",
-    "date": "2026-04-24",
-    "summary": "Nature, Published online: 24 April 2026; doi:10.1038/d41586-026-01281-6 Relatively high levels of micro- and nanoplastics around brain tumours might indicate breakdown of the blood–brain barrier.",
-    "abstract": "Nature, Published online: 24 April 2026; doi:10.1038/d41586-026-01281-6 Relatively high levels of micro- and nanoplastics around brain tumours might indicate breakdown of the blood–brain barrier.",
-    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-01281-6/d41586-026-01281-6_52318126.jpg",
-    "topic": "default",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
-    "title": "Hit a glitch in your research? Some ‘night science’ thinking could move it forward",
-    "link": "https://www.nature.com/articles/d41586-026-01294-1",
-    "journal": "Nature",
-    "source_type": "journal",
-    "date": "2026-04-24",
-    "summary": "Nature, Published online: 24 April 2026; doi:10.1038/d41586-026-01294-1 Itai Yanai and Martin Lercher outline a creative thinking strategy to liberate you from the daily grind of the lab.",
-    "abstract": "Nature, Published online: 24 April 2026; doi:10.1038/d41586-026-01294-1 Itai Yanai and Martin Lercher outline a creative thinking strategy to liberate you from the daily grind of the lab.",
-    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-01294-1/d41586-026-01294-1_52283538.jpg",
-    "topic": "default",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
     "title": "Addendum: Neural anticipation of virtual infection triggers an immune response",
     "link": "https://www.nature.com/articles/s41593-026-02284-2",
     "journal": "Nature Neuroscience",
@@ -424,19 +437,6 @@
     "summary": "Nature Medicine, Published online: 24 April 2026; doi:10.1038/s41591-026-04354-1 In a biomarker-driven trial evaluating radiotherapy with erlotinib, everolimus or dasatinib in patients with newly diagnosed diffuse intrinsic pontine glioma, the primary endpoint of overall survival was not met, but features associated with long-term survival were defined, and everolimus emerged as a potential candidate for further testing.",
     "abstract": "Nature Medicine, Published online: 24 April 2026; doi:10.1038/s41591-026-04354-1 In a biomarker-driven trial evaluating radiotherapy with erlotinib, everolimus or dasatinib in patients with newly diagnosed diffuse intrinsic pontine glioma, the primary endpoint of overall survival was not met, but features associated with long-term survival were defined, and everolimus emerged as a potential candidate for further testing.",
     "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41591-026-04354-1/MediaObjects/41591_2026_4354_Fig1_HTML.png",
-    "topic": "default",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
-    "title": "Cross-reactive anti-prophage antibodies and bacterial heteroresistance implicated in phage therapeutic failure",
-    "link": "https://www.nature.com/articles/s41591-026-04301-0",
-    "journal": "Nature Medicine",
-    "source_type": "journal",
-    "date": "2026-04-24",
-    "summary": "Nature Medicine, Published online: 24 April 2026; doi:10.1038/s41591-026-04301-0 A 22-year-old patient with cystic fibrosis and chronic, drug-resistant Bordetella bronchialis infection received compassionate-use phage therapy. Serum samples revealed that pre-existing antiphage immunity existed before treatment, indicating that future studies must evaluate antiphage immunity across the entire treatment regimen.",
-    "abstract": "Nature Medicine, Published online: 24 April 2026; doi:10.1038/s41591-026-04301-0 A 22-year-old patient with cystic fibrosis and chronic, drug-resistant Bordetella bronchialis infection received compassionate-use phage therapy. Serum samples revealed that pre-existing antiphage immunity existed before treatment, indicating that future studies must evaluate antiphage immunity across the entire treatment regimen.",
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41591-026-04301-0/MediaObjects/41591_2026_4301_Fig1_HTML.png",
     "topic": "default",
     "topic_color": "#60a5fa",
     "priority_score": 0
