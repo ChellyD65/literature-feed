@@ -104,6 +104,32 @@
     "priority_score": 0
   },
   {
+    "title": "Brain motion is driven by mechanical coupling with the abdomen",
+    "link": "https://www.nature.com/articles/s41593-026-02279-z",
+    "journal": "Nature Neuroscience",
+    "source_type": "journal",
+    "date": "2026-04-27",
+    "summary": "Nature Neuroscience, Published online: 27 April 2026; doi:10.1038/s41593-026-02279-z Using two-photon imaging in mice, Garborg et al. show that brain movement within the skull is driven by abdominal muscle contractions through mechanical coupling with the abdomen. Simulations suggest that this brain motion could contribute to cerebrospinal fluid circulation.",
+    "abstract": "Nature Neuroscience, Published online: 27 April 2026; doi:10.1038/s41593-026-02279-z Using two-photon imaging in mice, Garborg et al. show that brain movement within the skull is driven by abdominal muscle contractions through mechanical coupling with the abdomen. Simulations suggest that this brain motion could contribute to cerebrospinal fluid circulation.",
+    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41593-026-02279-z/MediaObjects/41593_2026_2279_Fig1_HTML.png",
+    "topic": "neuroscience",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
+    "title": "Cheese3D enables sensitive detection and analysis of whole-face movement in mice",
+    "link": "https://www.nature.com/articles/s41593-026-02262-8",
+    "journal": "Nature Neuroscience",
+    "source_type": "journal",
+    "date": "2026-04-27",
+    "summary": "Nature Neuroscience, Published online: 27 April 2026; doi:10.1038/s41593-026-02262-8 The authors developed Cheese3D, a hardware–software framework for precise and sensitive measurement of whole-face movements in mice that enables quantitative inference of neural and physiological processes.",
+    "abstract": "Nature Neuroscience, Published online: 27 April 2026; doi:10.1038/s41593-026-02262-8 The authors developed Cheese3D, a hardware–software framework for precise and sensitive measurement of whole-face movements in mice that enables quantitative inference of neural and physiological processes.",
+    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41593-026-02262-8/MediaObjects/41593_2026_2262_Fig1_HTML.png",
+    "topic": "neuroscience",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
     "title": "Ten lessons from a decade of scientific translation at the Crick",
     "link": "https://www.nature.com/articles/s41591-026-04355-0",
     "journal": "Nature Medicine",
@@ -173,7 +199,7 @@
     "link": "https://www.science.org/content/article/trump-fires-nsf-s-oversight-board",
     "journal": "Science",
     "source_type": "journal",
-    "date": "2026-04-25T06:00:52Z",
+    "date": "2026-04-25T12:00:52Z",
     "summary": "Dismissal of the National Science Board is widely seen as latest move to erase NSF’s independence",
     "abstract": "Dismissal of the National Science Board is widely seen as latest move to erase NSF’s independence",
     "image": "data:image/svg+xml;charset=utf-8,%0A%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23111827%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23374151%22/%3E%0A%20%20%20%20%3C/linearGradient%3E%0A%20%20%20%20%3Cfilter%20id%3D%22blur%22%3E%0A%20%20%20%20%20%20%3CfeGaussianBlur%20stdDeviation%3D%2230%22/%3E%0A%20%20%20%20%3C/filter%3E%0A%20%20%3C/defs%3E%0A%0A%20%20%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22url%28%23bg%29%22/%3E%0A%0A%20%20%3Ccircle%20cx%3D%221030%22%20cy%3D%22110%22%20r%3D%22170%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.18%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%20%20%3Ccircle%20cx%3D%22180%22%20cy%3D%22560%22%20r%3D%22150%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.16%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%0A%20%20%3Crect%20x%3D%2256%22%20y%3D%2252%22%20rx%3D%2218%22%20ry%3D%2218%22%20width%3D%22260%22%20height%3D%2254%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.08%29%22/%3E%0A%20%20%3Ctext%20x%3D%2284%22%20y%3D%2287%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2228%22%20fill%3D%22%23e5e7eb%22%3EScience%3C/text%3E%0A%0A%20%20%3Ctext%20x%3D%221010%22%20y%3D%22560%22%0A%20%20%20%20%20%20%20%20text-anchor%3D%22middle%22%0A%20%20%20%20%20%20%20%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%0A%20%20%20%20%20%20%20%20font-size%3D%22160%22%0A%20%20%20%20%20%20%20%20fill%3D%22%2360a5fa%22%0A%20%20%20%20%20%20%20%20opacity%3D%220.85%22%3E%0A%20%20%20%20%E2%80%A2%0A%20%20%3C/text%3E%0A%3C/svg%3E%0A",
@@ -546,19 +572,6 @@
     "priority_score": 0
   },
   {
-    "title": "Constituent-constrained word prediction during language comprehension",
-    "link": "https://www.nature.com/articles/s41593-026-02272-6",
-    "journal": "Nature Neuroscience",
-    "source_type": "journal",
-    "date": "2026-04-21",
-    "summary": "Nature Neuroscience, Published online: 21 April 2026; doi:10.1038/s41593-026-02272-6 Zou et al. reveal a key difference between human brains and large language models (LLMs). While LLMs are optimized to predict the next word, the human brain modulates prediction efficiency by strategically grouping words into phrases.",
-    "abstract": "Nature Neuroscience, Published online: 21 April 2026; doi:10.1038/s41593-026-02272-6 Zou et al. reveal a key difference between human brains and large language models (LLMs). While LLMs are optimized to predict the next word, the human brain modulates prediction efficiency by strategically grouping words into phrases.",
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41593-026-02272-6/MediaObjects/41593_2026_2272_Fig1_HTML.png",
-    "topic": "neuroscience",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
     "title": "ROS breaks the cofilin lock on NLRP3",
     "link": "https://www.nature.com/articles/s41590-026-02490-x",
     "journal": "Nature Immunology",
@@ -594,19 +607,6 @@
     "abstract": "Nature Immunology, Published online: 20 April 2026; doi:10.1038/s41590-026-02501-x Wei and colleagues characterized the MHC class I immunopeptidome in mice and humans with lung fibrosis and identified immunogenic peptides specifically expressed in fibrosis-associated lung cell subsets that blocked the progression of fibrosis in mice treated with bleomycin.",
     "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41590-026-02501-x/MediaObjects/41590_2026_2501_Fig1_HTML.png",
     "topic": "immunology",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
-    "title": "Spatial and single-cell characterization of human glioblastoma tumor microenvironment reveals malignant cellular communities",
-    "link": "https://www.nature.com/articles/s41593-026-02265-5",
-    "journal": "Nature Neuroscience",
-    "source_type": "journal",
-    "date": "2026-04-16",
-    "summary": "Nature Neuroscience, Published online: 16 April 2026; doi:10.1038/s41593-026-02265-5 Integrating spatial and single-cell data from 100 patients, the authors define conserved cellular communities and communications in glioblastoma, revealing distinct mesenchymal-like tumor subtypes and predominant neurogliomal synapses that shape tumor progression.",
-    "abstract": "Nature Neuroscience, Published online: 16 April 2026; doi:10.1038/s41593-026-02265-5 Integrating spatial and single-cell data from 100 patients, the authors define conserved cellular communities and communications in glioblastoma, revealing distinct mesenchymal-like tumor subtypes and predominant neurogliomal synapses that shape tumor progression.",
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41593-026-02265-5/MediaObjects/41593_2026_2265_Fig1_HTML.png",
-    "topic": "neuroscience",
     "topic_color": "#60a5fa",
     "priority_score": 0
   },
