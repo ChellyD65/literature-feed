@@ -52,6 +52,19 @@
     "priority_score": 41
   },
   {
+    "title": "#ScientistAtWork 2026: <i>Nature</i> seeks striking photographs that capture researchers at work",
+    "link": "https://www.nature.com/articles/d41586-026-01266-5",
+    "journal": "Nature",
+    "source_type": "journal",
+    "date": "2026-04-27",
+    "summary": "Nature, Published online: 27 April 2026; doi:10.1038/d41586-026-01266-5 Competition winners receive a cash prize and will see their images featured in Nature.",
+    "abstract": "Nature, Published online: 27 April 2026; doi:10.1038/d41586-026-01266-5 Competition winners receive a cash prize and will see their images featured in Nature.",
+    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-01266-5/d41586-026-01266-5_52310290.jpg",
+    "topic": "default",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
     "title": "A chemistry lab that runs itself to find the perfect reaction",
     "link": "https://www.nature.com/articles/d41586-026-01283-4",
     "journal": "Nature",
@@ -87,32 +100,6 @@
     "abstract": "Nature, Published online: 27 April 2026; doi:10.1038/d41586-026-01303-3 A philosophical take on the history of the Universe that is inspiring but incomplete.",
     "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-01303-3/d41586-026-01303-3_52326804.jpg",
     "topic": "default",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
-    "title": "Brain motion is driven by mechanical coupling with the abdomen",
-    "link": "https://www.nature.com/articles/s41593-026-02279-z",
-    "journal": "Nature Neuroscience",
-    "source_type": "journal",
-    "date": "2026-04-27",
-    "summary": "Nature Neuroscience, Published online: 27 April 2026; doi:10.1038/s41593-026-02279-z Using two-photon imaging in mice, Garborg et al. show that brain movement within the skull is driven by abdominal muscle contractions through mechanical coupling with the abdomen. Simulations suggest that this brain motion could contribute to cerebrospinal fluid circulation.",
-    "abstract": "Nature Neuroscience, Published online: 27 April 2026; doi:10.1038/s41593-026-02279-z Using two-photon imaging in mice, Garborg et al. show that brain movement within the skull is driven by abdominal muscle contractions through mechanical coupling with the abdomen. Simulations suggest that this brain motion could contribute to cerebrospinal fluid circulation.",
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41593-026-02279-z/MediaObjects/41593_2026_2279_Fig1_HTML.png",
-    "topic": "neuroscience",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
-    "title": "Cheese3D enables sensitive detection and analysis of whole-face movement in mice",
-    "link": "https://www.nature.com/articles/s41593-026-02262-8",
-    "journal": "Nature Neuroscience",
-    "source_type": "journal",
-    "date": "2026-04-27",
-    "summary": "Nature Neuroscience, Published online: 27 April 2026; doi:10.1038/s41593-026-02262-8 The authors developed Cheese3D, a hardware–software framework for precise and sensitive measurement of whole-face movements in mice that enables quantitative inference of neural and physiological processes.",
-    "abstract": "Nature Neuroscience, Published online: 27 April 2026; doi:10.1038/s41593-026-02262-8 The authors developed Cheese3D, a hardware–software framework for precise and sensitive measurement of whole-face movements in mice that enables quantitative inference of neural and physiological processes.",
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41593-026-02262-8/MediaObjects/41593_2026_2262_Fig1_HTML.png",
-    "topic": "neuroscience",
     "topic_color": "#60a5fa",
     "priority_score": 0
   },
@@ -333,19 +320,6 @@
     "summary": "Nature, Published online: 24 April 2026; doi:10.1038/d41586-026-01294-1 Itai Yanai and Martin Lercher outline a creative thinking strategy to liberate you from the daily grind of the lab.",
     "abstract": "Nature, Published online: 24 April 2026; doi:10.1038/d41586-026-01294-1 Itai Yanai and Martin Lercher outline a creative thinking strategy to liberate you from the daily grind of the lab.",
     "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-01294-1/d41586-026-01294-1_52283538.jpg",
-    "topic": "default",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
-    "title": "Daily briefing: The heart’s pumping motion seems to keep cancer at bay",
-    "link": "https://www.nature.com/articles/d41586-026-01363-5",
-    "journal": "Nature",
-    "source_type": "journal",
-    "date": "2026-04-24",
-    "summary": "Nature, Published online: 24 April 2026; doi:10.1038/d41586-026-01363-5 Hearts that didn’t beat were quickly overtaken by cancer cells in mice. Plus, huge octopuses might have ruled the ancient seas and how geopolitics is affecting huge health data sets.",
-    "abstract": "Nature, Published online: 24 April 2026; doi:10.1038/d41586-026-01363-5 Hearts that didn’t beat were quickly overtaken by cancer cells in mice. Plus, huge octopuses might have ruled the ancient seas and how geopolitics is affecting huge health data sets.",
-    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-01363-5/d41586-026-01363-5_52339180.png",
     "topic": "default",
     "topic_color": "#60a5fa",
     "priority_score": 0
@@ -572,6 +546,19 @@
     "priority_score": 0
   },
   {
+    "title": "Constituent-constrained word prediction during language comprehension",
+    "link": "https://www.nature.com/articles/s41593-026-02272-6",
+    "journal": "Nature Neuroscience",
+    "source_type": "journal",
+    "date": "2026-04-21",
+    "summary": "Nature Neuroscience, Published online: 21 April 2026; doi:10.1038/s41593-026-02272-6 Zou et al. reveal a key difference between human brains and large language models (LLMs). While LLMs are optimized to predict the next word, the human brain modulates prediction efficiency by strategically grouping words into phrases.",
+    "abstract": "Nature Neuroscience, Published online: 21 April 2026; doi:10.1038/s41593-026-02272-6 Zou et al. reveal a key difference between human brains and large language models (LLMs). While LLMs are optimized to predict the next word, the human brain modulates prediction efficiency by strategically grouping words into phrases.",
+    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41593-026-02272-6/MediaObjects/41593_2026_2272_Fig1_HTML.png",
+    "topic": "neuroscience",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
     "title": "ROS breaks the cofilin lock on NLRP3",
     "link": "https://www.nature.com/articles/s41590-026-02490-x",
     "journal": "Nature Immunology",
@@ -607,6 +594,19 @@
     "abstract": "Nature Immunology, Published online: 20 April 2026; doi:10.1038/s41590-026-02501-x Wei and colleagues characterized the MHC class I immunopeptidome in mice and humans with lung fibrosis and identified immunogenic peptides specifically expressed in fibrosis-associated lung cell subsets that blocked the progression of fibrosis in mice treated with bleomycin.",
     "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41590-026-02501-x/MediaObjects/41590_2026_2501_Fig1_HTML.png",
     "topic": "immunology",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
+    "title": "Spatial and single-cell characterization of human glioblastoma tumor microenvironment reveals malignant cellular communities",
+    "link": "https://www.nature.com/articles/s41593-026-02265-5",
+    "journal": "Nature Neuroscience",
+    "source_type": "journal",
+    "date": "2026-04-16",
+    "summary": "Nature Neuroscience, Published online: 16 April 2026; doi:10.1038/s41593-026-02265-5 Integrating spatial and single-cell data from 100 patients, the authors define conserved cellular communities and communications in glioblastoma, revealing distinct mesenchymal-like tumor subtypes and predominant neurogliomal synapses that shape tumor progression.",
+    "abstract": "Nature Neuroscience, Published online: 16 April 2026; doi:10.1038/s41593-026-02265-5 Integrating spatial and single-cell data from 100 patients, the authors define conserved cellular communities and communications in glioblastoma, revealing distinct mesenchymal-like tumor subtypes and predominant neurogliomal synapses that shape tumor progression.",
+    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41593-026-02265-5/MediaObjects/41593_2026_2265_Fig1_HTML.png",
+    "topic": "neuroscience",
     "topic_color": "#60a5fa",
     "priority_score": 0
   },
