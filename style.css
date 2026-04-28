@@ -264,7 +264,14 @@ a:hover {
   }
 }
 
+
 @media (max-width: 700px) {
+  body::after {
+    content: "";
+    display: block;
+    height: calc(120px + env(safe-area-inset-bottom));
+  }
+  
   .card {
     padding: 10px;
   }
