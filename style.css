@@ -26,6 +26,7 @@ body.snap-locked {
   height: 100vh;
   box-sizing: border-box;
   padding: 16px;
+  padding-bottom: calc(24px + env(safe-area-inset-bottom));
   scroll-snap-align: start;
   scroll-snap-stop: always;
 
