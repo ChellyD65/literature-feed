@@ -72,6 +72,102 @@
     }
   },
   {
+    "name": "Neuroimmunology",
+    "priority": 10,
+    "keywords": [
+      "neuroinflammation",
+      "microglia",
+      "CNS immunity",
+      "blood-brain barrier",
+      "choroid plexus",
+      "meningeal immunity",
+      "neurovascular unit",
+      "complement brain",
+      "interferon brain",
+      "immune surveillance CNS"
+    ]
+  },
+  {
+    "name": "Retina & AMD",
+    "priority": 10,
+    "keywords": [
+      "age-related macular degeneration",
+      "AMD",
+      "retinal degeneration",
+      "retina inflammation",
+      "RPE",
+      "retinal pigment epithelium",
+      "Muller glia",
+      "retinal microglia",
+      "VEGFA retina",
+      "subretinal inflammation",
+      "complement AMD"
+    ]
+  },
+  {
+    "name": "Spatial & Single Cell",
+    "priority": 9,
+    "keywords": [
+      "single-cell RNA-seq",
+      "single nucleus RNA-seq",
+      "snRNA-seq",
+      "scRNA-seq",
+      "spatial transcriptomics",
+      "spatial omics",
+      "cell atlas",
+      "human tissue atlas",
+      "cell-cell communication",
+      "ligand receptor",
+      "multimodal omics"
+    ]
+  },
+  {
+    "name": "Immunology Core",
+    "priority": 8,
+    "keywords": [
+      "innate immunity",
+      "adaptive immunity",
+      "T cell",
+      "CD8 T cell",
+      "macrophage",
+      "cytokine",
+      "chemokine",
+      "antigen presentation",
+      "interferon signaling",
+      "immune cell trafficking"
+    ]
+  },
+  {
+    "name": "Aging & Senescence",
+    "priority": 9,
+    "keywords": [
+      "cellular senescence",
+      "SASP",
+      "inflammaging",
+      "aging immune system",
+      "neurodegeneration",
+      "oxidative stress",
+      "mitochondrial dysfunction",
+      "proteostasis",
+      "autophagy"
+    ]
+  },
+  {
+    "name": "High-Signal Discovery",
+    "priority": 10,
+    "keywords": [
+      "spatially resolved",
+      "multiomic",
+      "multi-omic",
+      "perturb-seq",
+      "CRISPR screen",
+      "systems immunology",
+      "disease microenvironment",
+      "cell state transition",
+      "immune niche"
+    ]
+  },
+  {
     "name": "default",
     "enabled": true,
     "priority": 0,
