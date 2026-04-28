@@ -267,7 +267,12 @@ a:hover {
 }
 
 
+
 @media (max-width: 700px) {
+  html, body {
+    min-height: 100dvh;
+  }
+  
   body::after {
     content: "";
     display: block;
