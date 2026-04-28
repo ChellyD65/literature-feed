@@ -73,7 +73,7 @@
   },
   {
     "name": "Neuroimmunology",
-    "priority": 10,
+    "priority": 85,
     "keywords": [
       "neuroinflammation",
       "microglia",
@@ -89,7 +89,7 @@
   },
   {
     "name": "Retina & AMD",
-    "priority": 10,
+    "priority": 75,
     "keywords": [
       "age-related macular degeneration",
       "AMD",
@@ -106,7 +106,7 @@
   },
   {
     "name": "Spatial & Single Cell",
-    "priority": 9,
+    "priority": 80,
     "keywords": [
       "single-cell RNA-seq",
       "single nucleus RNA-seq",
@@ -122,8 +122,8 @@
     ]
   },
   {
-    "name": "Immunology Core",
-    "priority": 8,
+    "name": "Immunology",
+    "priority": 80,
     "keywords": [
       "innate immunity",
       "adaptive immunity",
@@ -139,7 +139,7 @@
   },
   {
     "name": "Aging & Senescence",
-    "priority": 9,
+    "priority": 70,
     "keywords": [
       "cellular senescence",
       "SASP",
@@ -154,7 +154,7 @@
   },
   {
     "name": "High-Signal Discovery",
-    "priority": 10,
+    "priority": 70,
     "keywords": [
       "spatially resolved",
       "multiomic",
