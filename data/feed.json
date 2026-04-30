@@ -117,6 +117,19 @@
     "priority_score": 0
   },
   {
+    "title": "Why preprint servers are increasing moderation — and what that means for researchers",
+    "link": "https://www.nature.com/articles/d41586-026-01203-6",
+    "journal": "Nature",
+    "source_type": "journal",
+    "date": "2026-04-30",
+    "summary": "Nature, Published online: 30 April 2026; doi:10.1038/d41586-026-01203-6 Repositories are adapting in response to AI-generated content and junk science, leading some people to question how much moderation is too much.",
+    "abstract": "Repositories are adapting in response to AI-generated content and junk science, leading some people to question how much moderation is too much. Repositories are adapting in response to AI-generated content and junk science, leading some people to question how much moderation is too much.",
+    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-01203-6/d41586-026-01203-6_52331632.jpg",
+    "topic": "default",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
     "title": "Laminar organization of cellular microcircuits modulating human interictal epileptiform discharges",
     "link": "https://www.nature.com/articles/s41593-026-02258-4",
     "journal": "Nature Neuroscience",
@@ -411,19 +424,6 @@
     "summary": "Nature, Published online: 29 April 2026; doi:10.1038/s41586-026-10471-1 The experimental observation of a fundamentally new type of anomalous Hall effect that couples both in-plane and out-of-plane orbital magnetizations in multilayer rhombohedral graphene is reported.",
     "abstract": "Nature, Published online: 29 April 2026; doi:10.1038/s41586-026-10471-1 The experimental observation of a fundamentally new type of anomalous Hall effect that couples both in-plane and out-of-plane orbital magnetizations in multilayer rhombohedral graphene is reported.",
     "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-10471-1/MediaObjects/41586_2026_10471_Fig1_HTML.png",
-    "topic": "default",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
-    "title": "Vaccination generates broadly cross-neutralizing antibodies to the HIV Env apex",
-    "link": "https://www.nature.com/articles/s41586-026-10429-3",
-    "journal": "Nature",
-    "source_type": "journal",
-    "date": "2026-04-29",
-    "summary": "Nature, Published online: 29 April 2026; doi:10.1038/s41586-026-10429-3 A vaccination strategy using heterologous HIV Env trimers covalently coupled to liposomes for multivalent display generates cross-neutralizing HIV serum antibody responses in non-human primates, mimicking infection-elicited apex-targeting broadly neutralizing antibodies.",
-    "abstract": "Nature, Published online: 29 April 2026; doi:10.1038/s41586-026-10429-3 A vaccination strategy using heterologous HIV Env trimers covalently coupled to liposomes for multivalent display generates cross-neutralizing HIV serum antibody responses in non-human primates, mimicking infection-elicited apex-targeting broadly neutralizing antibodies.",
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-10429-3/MediaObjects/41586_2026_10429_Fig1_HTML.png",
     "topic": "default",
     "topic_color": "#60a5fa",
     "priority_score": 0
