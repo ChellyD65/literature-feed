@@ -26,14 +26,14 @@
     "priority_score": 133
   },
   {
-    "title": "Immunity gets a boost from a surprising place — breakfast",
-    "link": "https://www.nature.com/articles/d41586-026-01406-x",
+    "title": "Long-lived immune cells show promise against cancer in world-first trial",
+    "link": "https://www.nature.com/articles/d41586-026-01398-8",
     "journal": "Nature",
     "source_type": "journal",
-    "date": "2026-04-29",
-    "summary": "Nature, Published online: 29 April 2026; doi:10.1038/d41586-026-01406-x Eating a meal could lead to T cells springing into action more quickly— plus, 40 years after Chornobyl, how future nuclear calamities can be avoided.",
-    "abstract": "Nature, Published online: 29 April 2026; doi:10.1038/d41586-026-01406-x Eating a meal could lead to T cells springing into action more quickly— plus, 40 years after Chornobyl, how future nuclear calamities can be avoided.",
-    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-01406-x/d41586-026-01406-x_52350798.jpg",
+    "date": "2026-04-30",
+    "summary": "Nature, Published online: 30 April 2026; doi:10.1038/d41586-026-01398-8 Blood cancer goes into remission for some people treated with a type of T cell that acts like stem cells.",
+    "abstract": "Nature, Published online: 30 April 2026; doi:10.1038/d41586-026-01398-8 Blood cancer goes into remission for some people treated with a type of T cell that acts like stem cells.",
+    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-01398-8/d41586-026-01398-8_52351468.jpg",
     "topic": "Immunology",
     "topic_color": "#60a5fa",
     "priority_score": 93
@@ -91,6 +91,32 @@
     "priority_score": 41
   },
   {
+    "title": "The long noncoding RNA lnc13 restrains inflammatory responses to maintain oral tolerance to gluten",
+    "link": "https://www.nature.com/articles/s41590-026-02506-6",
+    "journal": "Nature Immunology",
+    "source_type": "journal",
+    "date": "2026-04-30",
+    "summary": "Nature Immunology, Published online: 30 April 2026; doi:10.1038/s41590-026-02506-6 Ghosh and colleagues examine the mechanism underlying the long-noncoding RNA lnc13-mediated regulation to gluten tolerance. The authors show lnc13 restrains CD8αβ+ inter-epithelial lymphocyte responsiveness to IL-15 signaling.",
+    "abstract": "Nature Immunology, Published online: 30 April 2026; doi:10.1038/s41590-026-02506-6 Ghosh and colleagues examine the mechanism underlying the long-noncoding RNA lnc13-mediated regulation to gluten tolerance. The authors show lnc13 restrains CD8αβ+ inter-epithelial lymphocyte responsiveness to IL-15 signaling.",
+    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41590-026-02506-6/MediaObjects/41590_2026_2506_Fig1_HTML.png",
+    "topic": "inflammation",
+    "topic_color": "#fb7185",
+    "priority_score": 37
+  },
+  {
+    "title": "Continuously graded-doped SnO<sub>2</sub> for efficient n–i–p perovskite solar cells",
+    "link": "https://www.nature.com/articles/s41586-026-10587-4",
+    "journal": "Nature",
+    "source_type": "journal",
+    "date": "2026-04-30",
+    "summary": "Nature, Published online: 30 April 2026; doi:10.1038/s41586-026-10587-4 Continuously graded-doped SnO 2 for efficient n–i–p perovskite solar cells",
+    "abstract": "Conventional n–i–p architecture remains a robust platform for scalable perovskite photovoltaics1,2, yet its steady-state efficiency has stagnated at ~26% (ref.3), lagging behind p–i–n counterparts4. This performance gap arises from persistent non-radiative recombination at textured electron transport layer (ETL)/perovskite interfaces, yet the underlying physical origin remains unclear. Here, we uncover that these losses originate from the synergistic combination of band misalignment and electron accumulation at the buried interface. To address this dual challenge, we develop a continuously graded n+/n-doped SnO2 ETL through a ligand-competitive binding strategy, which enables spatially defined doping that creates a built-in electric field. This graded architecture simultaneously minimizes band offset and accelerates electron extraction, thereby effectively suppressing the cross-interface recombination. The resulting n–i–p perovskite solar cells (PSCs) achieve a certified steady-state power conversion efficiency (PCE) of 27.17% (27.50% in reverse scan), the highest for n–i–p PSCs reported to date. The scalability of this strategy is further demonstrated by achieving a PCE of 25.79% for a 1 cm2 device and 23.33% for a perovskite module with a 16.02 cm2 aperture area. This work establishes a generalized paradigm for energy-band engineering in metal-oxide transport layers, overcoming a fundamental efficiency bottleneck in conventional perovskite photovoltaics.",
+    "image": "data:image/svg+xml;charset=utf-8,%0A%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23111827%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23374151%22/%3E%0A%20%20%20%20%3C/linearGradient%3E%0A%20%20%20%20%3Cfilter%20id%3D%22blur%22%3E%0A%20%20%20%20%20%20%3CfeGaussianBlur%20stdDeviation%3D%2230%22/%3E%0A%20%20%20%20%3C/filter%3E%0A%20%20%3C/defs%3E%0A%0A%20%20%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22url%28%23bg%29%22/%3E%0A%0A%20%20%3Ccircle%20cx%3D%221030%22%20cy%3D%22110%22%20r%3D%22170%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.18%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%20%20%3Ccircle%20cx%3D%22180%22%20cy%3D%22560%22%20r%3D%22150%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.16%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%0A%20%20%3Crect%20x%3D%2256%22%20y%3D%2252%22%20rx%3D%2218%22%20ry%3D%2218%22%20width%3D%22260%22%20height%3D%2254%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.08%29%22/%3E%0A%20%20%3Ctext%20x%3D%2284%22%20y%3D%2287%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2228%22%20fill%3D%22%23e5e7eb%22%3ENature%3C/text%3E%0A%0A%20%20%3Ctext%20x%3D%221010%22%20y%3D%22560%22%0A%20%20%20%20%20%20%20%20text-anchor%3D%22middle%22%0A%20%20%20%20%20%20%20%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%0A%20%20%20%20%20%20%20%20font-size%3D%22160%22%0A%20%20%20%20%20%20%20%20fill%3D%22%2360a5fa%22%0A%20%20%20%20%20%20%20%20opacity%3D%220.85%22%3E%0A%20%20%20%20%E2%80%A2%0A%20%20%3C/text%3E%0A%3C/svg%3E%0A",
+    "topic": "default",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
     "title": "An electrifying test to find a good coffee",
     "link": "https://www.nature.com/articles/d41586-026-01289-y",
     "journal": "Nature",
@@ -99,6 +125,32 @@
     "summary": "Nature, Published online: 30 April 2026; doi:10.1038/d41586-026-01289-y Technique determines roast level and strength by applying voltage to the brew.",
     "abstract": "Nature, Published online: 30 April 2026; doi:10.1038/d41586-026-01289-y Technique determines roast level and strength by applying voltage to the brew.",
     "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-01289-y/d41586-026-01289-y_52339316.jpg",
+    "topic": "default",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
+    "title": "Wild-meat consumption estimated across Central Africa",
+    "link": "https://www.nature.com/articles/d41586-026-01306-0",
+    "journal": "Nature",
+    "source_type": "journal",
+    "date": "2026-04-30",
+    "summary": "Nature, Published online: 30 April 2026; doi:10.1038/d41586-026-01306-0 A regional analysis brought together data on wild-animal consumption by more than 12,000 households, to investigate trends and drivers of wild-meat use across Central Africa. The study found that consumption has increased over the past two decades, and that the increase was driven by demand from growing towns and cities.",
+    "abstract": "Nature, Published online: 30 April 2026; doi:10.1038/d41586-026-01306-0 A regional analysis brought together data on wild-animal consumption by more than 12,000 households, to investigate trends and drivers of wild-meat use across Central Africa. The study found that consumption has increased over the past two decades, and that the increase was driven by demand from growing towns and cities.",
+    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-01306-0/d41586-026-01306-0_52355612.png",
+    "topic": "default",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
+    "title": "‘Make Pluto a planet again’? NASA chief revives debate that divides astronomers",
+    "link": "https://www.nature.com/articles/d41586-026-01421-y",
+    "journal": "Nature",
+    "source_type": "journal",
+    "date": "2026-04-30",
+    "summary": "Nature, Published online: 30 April 2026; doi:10.1038/d41586-026-01421-y Researchers respond to NASA head’s claim to be ready to “escalate” the issue of whether Pluto is a planet.",
+    "abstract": "Nature, Published online: 30 April 2026; doi:10.1038/d41586-026-01421-y Researchers respond to NASA head’s claim to be ready to “escalate” the issue of whether Pluto is a planet.",
+    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-01421-y/d41586-026-01421-y_52355668.jpg",
     "topic": "default",
     "topic_color": "#60a5fa",
     "priority_score": 0
@@ -143,6 +195,19 @@
     "priority_score": 0
   },
   {
+    "title": "How sewing can set you up for failure and success in science",
+    "link": "https://www.nature.com/articles/d41586-026-01388-w",
+    "journal": "Nature",
+    "source_type": "journal",
+    "date": "2026-04-30",
+    "summary": "Nature, Published online: 30 April 2026; doi:10.1038/d41586-026-01388-w Making a garment and designing an experiment require similar skills and creative thinking. Time to try a new hobby?",
+    "abstract": "Nature, Published online: 30 April 2026; doi:10.1038/d41586-026-01388-w Making a garment and designing an experiment require similar skills and creative thinking. Time to try a new hobby?",
+    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-01388-w/d41586-026-01388-w_52283544.jpg",
+    "topic": "default",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
     "title": "Saving sharks and rays, one catch at a time — in photos",
     "link": "https://www.nature.com/articles/d41586-026-01145-z",
     "journal": "Nature",
@@ -182,6 +247,19 @@
     "priority_score": 0
   },
   {
+    "title": "Cytosolic CTH senses bacterial lipoproteins and drives noncanonical inflammasome activation",
+    "link": "https://www.nature.com/articles/s41590-026-02511-9",
+    "journal": "Nature Immunology",
+    "source_type": "journal",
+    "date": "2026-04-30",
+    "summary": "Nature Immunology, Published online: 30 April 2026; doi:10.1038/s41590-026-02511-9 Xia and colleagues show that CTH, an enzyme involved in the metabolism of sulfur-containing amino acids, hydrolyzes cytoplasmic bacterial lipoproteins and triggers the formation of molecular structures that can activate caspase-11.",
+    "abstract": "Nature Immunology, Published online: 30 April 2026; doi:10.1038/s41590-026-02511-9 Xia and colleagues show that CTH, an enzyme involved in the metabolism of sulfur-containing amino acids, hydrolyzes cytoplasmic bacterial lipoproteins and triggers the formation of molecular structures that can activate caspase-11.",
+    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41590-026-02511-9/MediaObjects/41590_2026_2511_Fig1_HTML.png",
+    "topic": "immunology",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
     "title": "Uncovering risk factors in the exposome for early-onset colorectal cancer",
     "link": "https://www.nature.com/articles/s41591-026-04369-8",
     "journal": "Nature Medicine",
@@ -203,6 +281,19 @@
     "summary": "Nature Medicine, Published online: 30 April 2026; doi:10.1038/s41591-026-04370-1 To inform precision management of obesity, this study developed and externally validated a parsimonious model (OBSCORE) that accurately predicts the risk of 18 obesity-related complications. This was achieved by integrating thousands of clinical, molecular and other health-related characteristics assessed in 200,000 individuals with overweight or obesity within a machine-learning framework.",
     "abstract": "Nature Medicine, Published online: 30 April 2026; doi:10.1038/s41591-026-04370-1 To inform precision management of obesity, this study developed and externally validated a parsimonious model (OBSCORE) that accurately predicts the risk of 18 obesity-related complications. This was achieved by integrating thousands of clinical, molecular and other health-related characteristics assessed in 200,000 individuals with overweight or obesity within a machine-learning framework.",
     "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41591-026-04370-1/MediaObjects/41591_2026_4370_Fig1_HTML.png",
+    "topic": "default",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
+    "title": "<b>Indoor air purifiers mitigate health impacts of wildfire smoke</b>",
+    "link": "https://www.nature.com/articles/d41591-026-00024-4",
+    "journal": "Nature Medicine",
+    "source_type": "journal",
+    "date": "2026-04-30",
+    "summary": "Nature Medicine, Published online: 30 April 2026; doi:10.1038/d41591-026-00024-4 Indoor air purifiers can substantially reduce the global health burden of wildfire smoke, but innovative solutions are needed to overcome financial barriers.",
+    "abstract": "Indoor air purifiers can substantially reduce the global health burden of wildfire smoke, but innovative solutions are needed to overcome financial barriers. Indoor air purifiers can substantially reduce the global health burden of wildfire smoke, but innovative solutions are needed to overcome financial barriers.",
+    "image": "https://media.nature.com/lw1200/magazine-assets/d41591-026-00024-4/d41591-026-00024-4_52355874.jpg",
     "topic": "default",
     "topic_color": "#60a5fa",
     "priority_score": 0
@@ -264,7 +355,7 @@
     "link": "https://www.science.org/content/article/guns-and-bulletproof-vests-how-federal-agents-arrested-fauci-aide",
     "journal": "Science",
     "source_type": "journal",
-    "date": "2026-04-29T08:40:24Z",
+    "date": "2026-04-29T08:40:00Z",
     "summary": "David Morens, 78, was stripped and handcuffed for email violations",
     "abstract": "David Morens, 78, was stripped and handcuffed for email violations",
     "image": "data:image/svg+xml;charset=utf-8,%0A%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23111827%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23374151%22/%3E%0A%20%20%20%20%3C/linearGradient%3E%0A%20%20%20%20%3Cfilter%20id%3D%22blur%22%3E%0A%20%20%20%20%20%20%3CfeGaussianBlur%20stdDeviation%3D%2230%22/%3E%0A%20%20%20%20%3C/filter%3E%0A%20%20%3C/defs%3E%0A%0A%20%20%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22url%28%23bg%29%22/%3E%0A%0A%20%20%3Ccircle%20cx%3D%221030%22%20cy%3D%22110%22%20r%3D%22170%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.18%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%20%20%3Ccircle%20cx%3D%22180%22%20cy%3D%22560%22%20r%3D%22150%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.16%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%0A%20%20%3Crect%20x%3D%2256%22%20y%3D%2252%22%20rx%3D%2218%22%20ry%3D%2218%22%20width%3D%22260%22%20height%3D%2254%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.08%29%22/%3E%0A%20%20%3Ctext%20x%3D%2284%22%20y%3D%2287%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2228%22%20fill%3D%22%23e5e7eb%22%3EScience%3C/text%3E%0A%0A%20%20%3Ctext%20x%3D%221010%22%20y%3D%22560%22%0A%20%20%20%20%20%20%20%20text-anchor%3D%22middle%22%0A%20%20%20%20%20%20%20%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%0A%20%20%20%20%20%20%20%20font-size%3D%22160%22%0A%20%20%20%20%20%20%20%20fill%3D%22%2360a5fa%22%0A%20%20%20%20%20%20%20%20opacity%3D%220.85%22%3E%0A%20%20%20%20%E2%80%A2%0A%20%20%3C/text%3E%0A%3C/svg%3E%0A",
@@ -346,58 +437,6 @@
     "summary": "Nature, Published online: 29 April 2026; doi:10.1038/s41586-026-10370-5 Overestimating outsourced biodiversity loss may misguide policy",
     "abstract": "Nature, Published online: 29 April 2026; doi:10.1038/s41586-026-10370-5 Overestimating outsourced biodiversity loss may misguide policy",
     "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-10370-5/MediaObjects/41586_2026_10370_Fig1_HTML.png",
-    "topic": "default",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
-    "title": "Reply to: Overestimating outsourced biodiversity loss may misguide policy",
-    "link": "https://www.nature.com/articles/s41586-026-10371-4",
-    "journal": "Nature",
-    "source_type": "journal",
-    "date": "2026-04-29",
-    "summary": "Nature, Published online: 29 April 2026; doi:10.1038/s41586-026-10371-4 Reply to: Overestimating outsourced biodiversity loss may misguide policy",
-    "abstract": "Nature, Published online: 29 April 2026; doi:10.1038/s41586-026-10371-4 Reply to: Overestimating outsourced biodiversity loss may misguide policy",
-    "image": "data:image/svg+xml;charset=utf-8,%0A%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23111827%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23374151%22/%3E%0A%20%20%20%20%3C/linearGradient%3E%0A%20%20%20%20%3Cfilter%20id%3D%22blur%22%3E%0A%20%20%20%20%20%20%3CfeGaussianBlur%20stdDeviation%3D%2230%22/%3E%0A%20%20%20%20%3C/filter%3E%0A%20%20%3C/defs%3E%0A%0A%20%20%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22url%28%23bg%29%22/%3E%0A%0A%20%20%3Ccircle%20cx%3D%221030%22%20cy%3D%22110%22%20r%3D%22170%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.18%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%20%20%3Ccircle%20cx%3D%22180%22%20cy%3D%22560%22%20r%3D%22150%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.16%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%0A%20%20%3Crect%20x%3D%2256%22%20y%3D%2252%22%20rx%3D%2218%22%20ry%3D%2218%22%20width%3D%22260%22%20height%3D%2254%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.08%29%22/%3E%0A%20%20%3Ctext%20x%3D%2284%22%20y%3D%2287%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2228%22%20fill%3D%22%23e5e7eb%22%3ENature%3C/text%3E%0A%0A%20%20%3Ctext%20x%3D%221010%22%20y%3D%22560%22%0A%20%20%20%20%20%20%20%20text-anchor%3D%22middle%22%0A%20%20%20%20%20%20%20%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%0A%20%20%20%20%20%20%20%20font-size%3D%22160%22%0A%20%20%20%20%20%20%20%20fill%3D%22%2360a5fa%22%0A%20%20%20%20%20%20%20%20opacity%3D%220.85%22%3E%0A%20%20%20%20%E2%80%A2%0A%20%20%3C/text%3E%0A%3C/svg%3E%0A",
-    "topic": "default",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
-    "title": "Decarboxylative alkylation of alkenes",
-    "link": "https://www.nature.com/articles/s41586-026-10463-1",
-    "journal": "Nature",
-    "source_type": "journal",
-    "date": "2026-04-29",
-    "summary": "Nature, Published online: 29 April 2026; doi:10.1038/s41586-026-10463-1 A Pd-catalysed method enables regio- and diastereoselective C–H alkylation of diverse alkenes using carboxylic acids, expanding synthetic access to complex substituted alkenes.",
-    "abstract": "Alkenes are widely used functional groups in synthetic chemistry, important for producing polymers, detergents, agrochemicals and pharmaceuticals. When treated with electrophiles, alkenes typically undergo addition, not substitution, reactions1. As a consequence, the intuitive retrosynthetic disconnection to form a substituted alkene from the parent alkene does not exist in the toolbox of the chemist. For example, conversion of tri-substituted into tetra-substituted alkenes, or late-stage alkylation of complex alkenes, would provide access to molecules that are currently difficult to construct. Alkene cross-metathesis can formally alkylate appropriately substituted alkenes, but diastereoselectivity and alkene–alkyl combinations are restricted to specific cases2, and several classes of alkenes, such as internal or cyclic alkenes, cannot be readily alkylated with known methods3. Here we report a formal regio- and diastereoselective C−H alkylation of alkenes with carboxylic acids as alkyl source, readily available in large diversity. Key to the development is a polar decarboxylative alkylation that deviates from the current model of radical-mediated C−C bond formation from carboxylic acid derivatives, enabled by a previously unappreciated access to persistent alkylzinc intermediates from redox-active esters. A Pd-catalysed cross-coupling of the alkylzinc species with alkenyl thianthrenium salts accessed from alkenes affords the substituted alkenes in high diastereoselectivity. The transformation offers alkylation of cyclic, acyclic, terminal, internal, mono-substituted, di-substituted and tri-substituted alkenes with diverse alkyl groups. A Pd-catalysed method enables regio- and diastereoselective C–H alkylation of diverse alkenes using carboxylic acids, expanding synthetic access to complex substituted alkenes.",
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-10463-1/MediaObjects/41586_2026_10463_Fig1_HTML.png",
-    "topic": "default",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
-    "title": "Recycling of spin-triplet excitons in organic photovoltaics",
-    "link": "https://www.nature.com/articles/s41586-026-10419-5",
-    "journal": "Nature",
-    "source_type": "journal",
-    "date": "2026-04-29",
-    "summary": "Nature, Published online: 29 April 2026; doi:10.1038/s41586-026-10419-5 Triplet excitons in OPVs can redissociate via the charge-transfer state into free carriers, reducing losses and improving efficiency, enabled by molecular design controlling singlet–triplet energetics through exciton delocalization.",
-    "abstract": "Nature, Published online: 29 April 2026; doi:10.1038/s41586-026-10419-5 Triplet excitons in OPVs can redissociate via the charge-transfer state into free carriers, reducing losses and improving efficiency, enabled by molecular design controlling singlet–triplet energetics through exciton delocalization.",
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-10419-5/MediaObjects/41586_2026_10419_Fig1_HTML.png",
-    "topic": "default",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
-    "title": "Safety and efficacy of intratumoural anti-CTLA4 with intravenous anti-PD1",
-    "link": "https://www.nature.com/articles/s41586-026-10341-w",
-    "journal": "Nature",
-    "source_type": "journal",
-    "date": "2026-04-29",
-    "summary": "Nature, Published online: 29 April 2026; doi:10.1038/s41586-026-10341-w The phase 1b NIVIPIT trial shows that in combined therapy with intravenous nivolumab (anti-PD1), intratumoural administration of ipilimumab (anti-CTLA4) offers improved safety and greater efficacy compared with intravenous delivery.",
-    "abstract": "Nature, Published online: 29 April 2026; doi:10.1038/s41586-026-10341-w The phase 1b NIVIPIT trial shows that in combined therapy with intravenous nivolumab (anti-PD1), intratumoural administration of ipilimumab (anti-CTLA4) offers improved safety and greater efficacy compared with intravenous delivery.",
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-10341-w/MediaObjects/41586_2026_10341_Fig1_HTML.png",
     "topic": "default",
     "topic_color": "#60a5fa",
     "priority_score": 0
@@ -533,19 +572,6 @@
     "priority_score": 0
   },
   {
-    "title": "Australia legislates against genetic discrimination in life insurance",
-    "link": "https://www.nature.com/articles/s41591-026-04372-z",
-    "journal": "Nature Medicine",
-    "source_type": "journal",
-    "date": "2026-04-28",
-    "summary": "Nature Medicine, Published online: 28 April 2026; doi:10.1038/s41591-026-04372-z Genomic screening is increasing rapidly, but insurance protections globally are outdated. Australia’s new law offers the clearest model yet for safeguarding public trust while supporting population genomics.",
-    "abstract": "Nature Medicine, Published online: 28 April 2026; doi:10.1038/s41591-026-04372-z Genomic screening is increasing rapidly, but insurance protections globally are outdated. Australia’s new law offers the clearest model yet for safeguarding public trust while supporting population genomics.",
-    "image": "data:image/svg+xml;charset=utf-8,%0A%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23111827%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23374151%22/%3E%0A%20%20%20%20%3C/linearGradient%3E%0A%20%20%20%20%3Cfilter%20id%3D%22blur%22%3E%0A%20%20%20%20%20%20%3CfeGaussianBlur%20stdDeviation%3D%2230%22/%3E%0A%20%20%20%20%3C/filter%3E%0A%20%20%3C/defs%3E%0A%0A%20%20%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22url%28%23bg%29%22/%3E%0A%0A%20%20%3Ccircle%20cx%3D%221030%22%20cy%3D%22110%22%20r%3D%22170%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.18%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%20%20%3Ccircle%20cx%3D%22180%22%20cy%3D%22560%22%20r%3D%22150%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.16%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%0A%20%20%3Crect%20x%3D%2256%22%20y%3D%2252%22%20rx%3D%2218%22%20ry%3D%2218%22%20width%3D%22260%22%20height%3D%2254%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.08%29%22/%3E%0A%20%20%3Ctext%20x%3D%2284%22%20y%3D%2287%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2228%22%20fill%3D%22%23e5e7eb%22%3ENature%20Medicine%3C/text%3E%0A%0A%20%20%3Ctext%20x%3D%221010%22%20y%3D%22560%22%0A%20%20%20%20%20%20%20%20text-anchor%3D%22middle%22%0A%20%20%20%20%20%20%20%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%0A%20%20%20%20%20%20%20%20font-size%3D%22160%22%0A%20%20%20%20%20%20%20%20fill%3D%22%2360a5fa%22%0A%20%20%20%20%20%20%20%20opacity%3D%220.85%22%3E%0A%20%20%20%20%E2%80%A2%0A%20%20%3C/text%3E%0A%3C/svg%3E%0A",
-    "topic": "default",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
     "title": "Brain motion is driven by mechanical coupling with the abdomen",
     "link": "https://www.nature.com/articles/s41593-026-02279-z",
     "journal": "Nature Neuroscience",
@@ -637,19 +663,6 @@
     "priority_score": 0
   },
   {
-    "title": "ROS breaks the cofilin lock on NLRP3",
-    "link": "https://www.nature.com/articles/s41590-026-02490-x",
-    "journal": "Nature Immunology",
-    "source_type": "journal",
-    "date": "2026-04-21",
-    "summary": "Nature Immunology, Published online: 21 April 2026; doi:10.1038/s41590-026-02490-x How reactive oxygen species (ROS) contribute to NLRP3 inflammasome activity has been debated. Findings now show that cofilin-1 binds and inhibits NLRP3 activation — an interaction that ROS can disrupt to enable inflammasome assembly.",
-    "abstract": "Nature Immunology, Published online: 21 April 2026; doi:10.1038/s41590-026-02490-x How reactive oxygen species (ROS) contribute to NLRP3 inflammasome activity has been debated. Findings now show that cofilin-1 binds and inhibits NLRP3 activation — an interaction that ROS can disrupt to enable inflammasome assembly.",
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41590-026-02490-x/MediaObjects/41590_2026_2490_Fig1_HTML.png",
-    "topic": "immunology",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
     "title": "Evolvable AI: Threats of a new major transition in evolution",
     "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2527700123?af=R",
     "journal": "PNAS",
@@ -698,19 +711,6 @@
     "abstract": "Proceedings of the National Academy of Sciences, Volume 123, Issue 17, April 2026. SignificanceThe extent to which human adaptations have persisted despite strong eroding forces such as admixture, drift, or fluctuations in selection pressures remains unknown. Understanding which loci are particularly resilient to such forces may shed ...",
     "image": "data:image/svg+xml;charset=utf-8,%0A%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23111827%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23374151%22/%3E%0A%20%20%20%20%3C/linearGradient%3E%0A%20%20%20%20%3Cfilter%20id%3D%22blur%22%3E%0A%20%20%20%20%20%20%3CfeGaussianBlur%20stdDeviation%3D%2230%22/%3E%0A%20%20%20%20%3C/filter%3E%0A%20%20%3C/defs%3E%0A%0A%20%20%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22url%28%23bg%29%22/%3E%0A%0A%20%20%3Ccircle%20cx%3D%221030%22%20cy%3D%22110%22%20r%3D%22170%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.18%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%20%20%3Ccircle%20cx%3D%22180%22%20cy%3D%22560%22%20r%3D%22150%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.16%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%0A%20%20%3Crect%20x%3D%2256%22%20y%3D%2252%22%20rx%3D%2218%22%20ry%3D%2218%22%20width%3D%22260%22%20height%3D%2254%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.08%29%22/%3E%0A%20%20%3Ctext%20x%3D%2284%22%20y%3D%2287%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2228%22%20fill%3D%22%23e5e7eb%22%3EPNAS%3C/text%3E%0A%0A%20%20%3Ctext%20x%3D%221010%22%20y%3D%22560%22%0A%20%20%20%20%20%20%20%20text-anchor%3D%22middle%22%0A%20%20%20%20%20%20%20%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%0A%20%20%20%20%20%20%20%20font-size%3D%22160%22%0A%20%20%20%20%20%20%20%20fill%3D%22%2360a5fa%22%0A%20%20%20%20%20%20%20%20opacity%3D%220.85%22%3E%0A%20%20%20%20%E2%80%A2%0A%20%20%3C/text%3E%0A%3C/svg%3E%0A",
     "topic": "default",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
-    "title": "Developing a vaccine strategy to prevent the progression of pulmonary fibrosis",
-    "link": "https://www.nature.com/articles/s41590-026-02487-6",
-    "journal": "Nature Immunology",
-    "source_type": "journal",
-    "date": "2026-04-20",
-    "summary": "Nature Immunology, Published online: 20 April 2026; doi:10.1038/s41590-026-02487-6 Pulmonary fibrosis is an incurable chronic, progressive disease characterized by the emergence of fibrosis-specific cells, including a subset of fibroblasts. Proof-of-concept experiments in mice now show that the immune system can be mobilized by vaccination to target these cells and limit the development of fibrosis.",
-    "abstract": "Nature Immunology, Published online: 20 April 2026; doi:10.1038/s41590-026-02487-6 Pulmonary fibrosis is an incurable chronic, progressive disease characterized by the emergence of fibrosis-specific cells, including a subset of fibroblasts. Proof-of-concept experiments in mice now show that the immune system can be mobilized by vaccination to target these cells and limit the development of fibrosis.",
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41590-026-02487-6/MediaObjects/41590_2026_2487_Fig1_HTML.png",
-    "topic": "immunology",
     "topic_color": "#60a5fa",
     "priority_score": 0
   },
