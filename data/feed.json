@@ -1,18 +1,5 @@
 [
   {
-    "title": "Author Correction: Chemokine-defined macrophage niches establish spatial organization of tumor immunity",
-    "link": "https://www.nature.com/articles/s41590-026-02525-3",
-    "journal": "Nature Immunology",
-    "source_type": "journal",
-    "date": "2026-04-21",
-    "summary": "Nature Immunology, Published online: 21 April 2026; doi:10.1038/s41590-026-02525-3 Author Correction: Chemokine-defined macrophage niches establish spatial organization of tumor immunity",
-    "abstract": "Nature Immunology, Published online: 21 April 2026; doi:10.1038/s41590-026-02525-3 Author Correction: Chemokine-defined macrophage niches establish spatial organization of tumor immunity",
-    "image": "data:image/svg+xml;charset=utf-8,%0A%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%231f2937%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%234b5563%22/%3E%0A%20%20%20%20%3C/linearGradient%3E%0A%20%20%20%20%3Cfilter%20id%3D%22blur%22%3E%0A%20%20%20%20%20%20%3CfeGaussianBlur%20stdDeviation%3D%2230%22/%3E%0A%20%20%20%20%3C/filter%3E%0A%20%20%3C/defs%3E%0A%0A%20%20%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22url%28%23bg%29%22/%3E%0A%0A%20%20%3Ccircle%20cx%3D%221030%22%20cy%3D%22110%22%20r%3D%22170%22%20fill%3D%22%23f59e0b%22%20opacity%3D%220.18%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%20%20%3Ccircle%20cx%3D%22180%22%20cy%3D%22560%22%20r%3D%22150%22%20fill%3D%22%23f59e0b%22%20opacity%3D%220.16%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%0A%20%20%3Crect%20x%3D%2256%22%20y%3D%2252%22%20rx%3D%2218%22%20ry%3D%2218%22%20width%3D%22260%22%20height%3D%2254%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.08%29%22/%3E%0A%20%20%3Ctext%20x%3D%2284%22%20y%3D%2287%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2228%22%20fill%3D%22%23e5e7eb%22%3ENature%20Immunology%3C/text%3E%0A%0A%20%20%3Ctext%20x%3D%221010%22%20y%3D%22560%22%0A%20%20%20%20%20%20%20%20text-anchor%3D%22middle%22%0A%20%20%20%20%20%20%20%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%0A%20%20%20%20%20%20%20%20font-size%3D%22160%22%0A%20%20%20%20%20%20%20%20fill%3D%22%23f59e0b%22%0A%20%20%20%20%20%20%20%20opacity%3D%220.85%22%3E%0A%20%20%20%20%E2%AC%A2%0A%20%20%3C/text%3E%0A%3C/svg%3E%0A",
-    "topic": "macrophage",
-    "topic_color": "#f59e0b",
-    "priority_score": 172
-  },
-  {
     "title": "Kupffer cell calibration of T cell responses via VSIG4–CD5 interaction promotes tumor evasion",
     "link": "https://www.nature.com/articles/s41590-026-02510-w",
     "journal": "Nature Immunology",
@@ -52,6 +39,19 @@
     "priority_score": 81
   },
   {
+    "title": "Sex differences in Alzheimer’s",
+    "link": "https://www.nature.com/articles/s41590-026-02519-1",
+    "journal": "Nature Immunology",
+    "source_type": "journal",
+    "date": "2026-04-30",
+    "summary": "Nature Immunology, Published online: 30 April 2026; doi:10.1038/s41590-026-02519-1 Sex differences in Alzheimer’s",
+    "abstract": "Nature Immunology, Published online: 30 April 2026; doi:10.1038/s41590-026-02519-1 Sex differences in Alzheimer’s",
+    "image": "data:image/svg+xml;charset=utf-8,%0A%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%2327272a%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2352525b%22/%3E%0A%20%20%20%20%3C/linearGradient%3E%0A%20%20%20%20%3Cfilter%20id%3D%22blur%22%3E%0A%20%20%20%20%20%20%3CfeGaussianBlur%20stdDeviation%3D%2230%22/%3E%0A%20%20%20%20%3C/filter%3E%0A%20%20%3C/defs%3E%0A%0A%20%20%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22url%28%23bg%29%22/%3E%0A%0A%20%20%3Ccircle%20cx%3D%221030%22%20cy%3D%22110%22%20r%3D%22170%22%20fill%3D%22%23fda4af%22%20opacity%3D%220.18%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%20%20%3Ccircle%20cx%3D%22180%22%20cy%3D%22560%22%20r%3D%22150%22%20fill%3D%22%23fda4af%22%20opacity%3D%220.16%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%0A%20%20%3Crect%20x%3D%2256%22%20y%3D%2252%22%20rx%3D%2218%22%20ry%3D%2218%22%20width%3D%22260%22%20height%3D%2254%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.08%29%22/%3E%0A%20%20%3Ctext%20x%3D%2284%22%20y%3D%2287%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2228%22%20fill%3D%22%23e5e7eb%22%3ENature%20Immunology%3C/text%3E%0A%0A%20%20%3Ctext%20x%3D%221010%22%20y%3D%22560%22%0A%20%20%20%20%20%20%20%20text-anchor%3D%22middle%22%0A%20%20%20%20%20%20%20%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%0A%20%20%20%20%20%20%20%20font-size%3D%22160%22%0A%20%20%20%20%20%20%20%20fill%3D%22%23fda4af%22%0A%20%20%20%20%20%20%20%20opacity%3D%220.85%22%3E%0A%20%20%20%20%E2%97%88%0A%20%20%3C/text%3E%0A%3C/svg%3E%0A",
+    "topic": "neurodegeneration",
+    "topic_color": "#fda4af",
+    "priority_score": 50
+  },
+  {
     "title": "Author Correction: Astrocytic Sox9 overexpression in Alzheimer’s disease mouse models promotes Aβ plaque phagocytosis and preserves cognitive function",
     "link": "https://www.nature.com/articles/s41593-026-02312-1",
     "journal": "Nature Neuroscience",
@@ -78,19 +78,6 @@
     "priority_score": 45
   },
   {
-    "title": "A spatially coordinated keratinocyte–fibroblast circuit recruits MMP9⁺ myeloid cells to drive type I interferon-driven inflammation in photosensitive autoimmunity",
-    "link": "https://www.nature.com/articles/s41590-026-02502-w",
-    "journal": "Nature Immunology",
-    "source_type": "journal",
-    "date": "2026-04-24",
-    "summary": "Nature Immunology, Published online: 24 April 2026; doi:10.1038/s41590-026-02502-w Wang, Afshari, Haddadi and colleagues compare UVB-sensitive and insensitive human skin diseases and show that photosensitive conditions, including cutaneous lupus erythematosus and dermatomyositis, have increased type I interferon activity and an expanded MMP9⁺CD14⁺ myeloid population that drives inflammation.",
-    "abstract": "Nature Immunology, Published online: 24 April 2026; doi:10.1038/s41590-026-02502-w Wang, Afshari, Haddadi and colleagues compare UVB-sensitive and insensitive human skin diseases and show that photosensitive conditions, including cutaneous lupus erythematosus and dermatomyositis, have increased type I interferon activity and an expanded MMP9⁺CD14⁺ myeloid population that drives inflammation.",
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41590-026-02502-w/MediaObjects/41590_2026_2502_Fig1_HTML.png",
-    "topic": "inflammation",
-    "topic_color": "#fb7185",
-    "priority_score": 41
-  },
-  {
     "title": "The long noncoding RNA lnc13 restrains inflammatory responses to maintain oral tolerance to gluten",
     "link": "https://www.nature.com/articles/s41590-026-02506-6",
     "journal": "Nature Immunology",
@@ -102,6 +89,19 @@
     "topic": "inflammation",
     "topic_color": "#fb7185",
     "priority_score": 37
+  },
+  {
+    "title": "This organoid can menstruate — and shows how tissue can repair itself",
+    "link": "https://www.nature.com/articles/d41586-026-01428-5",
+    "journal": "Nature",
+    "source_type": "journal",
+    "date": "2026-05-01",
+    "summary": "Nature, Published online: 01 May 2026; doi:10.1038/d41586-026-01428-5 Mini models of the uterus lining give insight into mystery of how it is shed without scarring.",
+    "abstract": "Nature, Published online: 01 May 2026; doi:10.1038/d41586-026-01428-5 Mini models of the uterus lining give insight into mystery of how it is shed without scarring.",
+    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-01428-5/d41586-026-01428-5_52345950.jpg",
+    "topic": "default",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
   },
   {
     "title": "Measles explodes in Bangladesh after vaccination breakdown, killing hundreds of children",
@@ -312,19 +312,6 @@
     "priority_score": 0
   },
   {
-    "title": "‘Beyond COP’ climate summit puts scientists at the centre of the action",
-    "link": "https://www.nature.com/articles/d41586-026-01399-7",
-    "journal": "Nature",
-    "source_type": "journal",
-    "date": "2026-04-30",
-    "summary": "Nature, Published online: 30 April 2026; doi:10.1038/d41586-026-01399-7 Researchers presented ways for nations to phase out fossil fuels at an international meeting of countries ready to take action.",
-    "abstract": "Researchers presented ways for nations to phase out fossil fuels at an international meeting of countries ready to take action. Researchers presented ways for nations to phase out fossil fuels at an international meeting of countries ready to take action.",
-    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-01399-7/d41586-026-01399-7_52351460.jpg",
-    "topic": "default",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
     "title": "Laminar organization of cellular microcircuits modulating human interictal epileptiform discharges",
     "link": "https://www.nature.com/articles/s41593-026-02258-4",
     "journal": "Nature Neuroscience",
@@ -347,6 +334,45 @@
     "abstract": "Nature Neuroscience, Published online: 30 April 2026; doi:10.1038/s41593-026-02263-7 The authors identify glucose-derived conversion of citrate to acetyl-CoA upstream of histone acetylation as modulating the regional dynamics of oligodendrocyte progenitors, with extranuclear acetyl-CoA from other sources being used for myelination.",
     "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41593-026-02263-7/MediaObjects/41593_2026_2263_Fig1_HTML.png",
     "topic": "neuroscience",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
+    "title": "Whole mouse profiling",
+    "link": "https://www.nature.com/articles/s41590-026-02518-2",
+    "journal": "Nature Immunology",
+    "source_type": "journal",
+    "date": "2026-04-30",
+    "summary": "Nature Immunology, Published online: 30 April 2026; doi:10.1038/s41590-026-02518-2 Whole mouse profiling",
+    "abstract": "Nature Immunology, Published online: 30 April 2026; doi:10.1038/s41590-026-02518-2 Whole mouse profiling",
+    "image": "data:image/svg+xml;charset=utf-8,%0A%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23111827%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23374151%22/%3E%0A%20%20%20%20%3C/linearGradient%3E%0A%20%20%20%20%3Cfilter%20id%3D%22blur%22%3E%0A%20%20%20%20%20%20%3CfeGaussianBlur%20stdDeviation%3D%2230%22/%3E%0A%20%20%20%20%3C/filter%3E%0A%20%20%3C/defs%3E%0A%0A%20%20%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22url%28%23bg%29%22/%3E%0A%0A%20%20%3Ccircle%20cx%3D%221030%22%20cy%3D%22110%22%20r%3D%22170%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.18%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%20%20%3Ccircle%20cx%3D%22180%22%20cy%3D%22560%22%20r%3D%22150%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.16%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%0A%20%20%3Crect%20x%3D%2256%22%20y%3D%2252%22%20rx%3D%2218%22%20ry%3D%2218%22%20width%3D%22260%22%20height%3D%2254%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.08%29%22/%3E%0A%20%20%3Ctext%20x%3D%2284%22%20y%3D%2287%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2228%22%20fill%3D%22%23e5e7eb%22%3ENature%20Immunology%3C/text%3E%0A%0A%20%20%3Ctext%20x%3D%221010%22%20y%3D%22560%22%0A%20%20%20%20%20%20%20%20text-anchor%3D%22middle%22%0A%20%20%20%20%20%20%20%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%0A%20%20%20%20%20%20%20%20font-size%3D%22160%22%0A%20%20%20%20%20%20%20%20fill%3D%22%2360a5fa%22%0A%20%20%20%20%20%20%20%20opacity%3D%220.85%22%3E%0A%20%20%20%20%E2%80%A2%0A%20%20%3C/text%3E%0A%3C/svg%3E%0A",
+    "topic": "immunology",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
+    "title": "Irisin supports ST2<sup>+</sup> T<sub>reg</sub> cells",
+    "link": "https://www.nature.com/articles/s41590-026-02520-8",
+    "journal": "Nature Immunology",
+    "source_type": "journal",
+    "date": "2026-04-30",
+    "summary": "Nature Immunology, Published online: 30 April 2026; doi:10.1038/s41590-026-02520-8 Irisin supports ST2 + T reg cells",
+    "abstract": "Nature Immunology, Published online: 30 April 2026; doi:10.1038/s41590-026-02520-8 Irisin supports ST2 + T reg cells",
+    "image": "data:image/svg+xml;charset=utf-8,%0A%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23111827%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23374151%22/%3E%0A%20%20%20%20%3C/linearGradient%3E%0A%20%20%20%20%3Cfilter%20id%3D%22blur%22%3E%0A%20%20%20%20%20%20%3CfeGaussianBlur%20stdDeviation%3D%2230%22/%3E%0A%20%20%20%20%3C/filter%3E%0A%20%20%3C/defs%3E%0A%0A%20%20%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22url%28%23bg%29%22/%3E%0A%0A%20%20%3Ccircle%20cx%3D%221030%22%20cy%3D%22110%22%20r%3D%22170%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.18%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%20%20%3Ccircle%20cx%3D%22180%22%20cy%3D%22560%22%20r%3D%22150%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.16%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%0A%20%20%3Crect%20x%3D%2256%22%20y%3D%2252%22%20rx%3D%2218%22%20ry%3D%2218%22%20width%3D%22260%22%20height%3D%2254%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.08%29%22/%3E%0A%20%20%3Ctext%20x%3D%2284%22%20y%3D%2287%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2228%22%20fill%3D%22%23e5e7eb%22%3ENature%20Immunology%3C/text%3E%0A%0A%20%20%3Ctext%20x%3D%221010%22%20y%3D%22560%22%0A%20%20%20%20%20%20%20%20text-anchor%3D%22middle%22%0A%20%20%20%20%20%20%20%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%0A%20%20%20%20%20%20%20%20font-size%3D%22160%22%0A%20%20%20%20%20%20%20%20fill%3D%22%2360a5fa%22%0A%20%20%20%20%20%20%20%20opacity%3D%220.85%22%3E%0A%20%20%20%20%E2%80%A2%0A%20%20%3C/text%3E%0A%3C/svg%3E%0A",
+    "topic": "immunology",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
+    "title": "The mechanics of LPS recognition",
+    "link": "https://www.nature.com/articles/s41590-026-02521-7",
+    "journal": "Nature Immunology",
+    "source_type": "journal",
+    "date": "2026-04-30",
+    "summary": "Nature Immunology, Published online: 30 April 2026; doi:10.1038/s41590-026-02521-7 The mechanics of LPS recognition",
+    "abstract": "Nature Immunology, Published online: 30 April 2026; doi:10.1038/s41590-026-02521-7 The mechanics of LPS recognition",
+    "image": "data:image/svg+xml;charset=utf-8,%0A%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23111827%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23374151%22/%3E%0A%20%20%20%20%3C/linearGradient%3E%0A%20%20%20%20%3Cfilter%20id%3D%22blur%22%3E%0A%20%20%20%20%20%20%3CfeGaussianBlur%20stdDeviation%3D%2230%22/%3E%0A%20%20%20%20%3C/filter%3E%0A%20%20%3C/defs%3E%0A%0A%20%20%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22url%28%23bg%29%22/%3E%0A%0A%20%20%3Ccircle%20cx%3D%221030%22%20cy%3D%22110%22%20r%3D%22170%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.18%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%20%20%3Ccircle%20cx%3D%22180%22%20cy%3D%22560%22%20r%3D%22150%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.16%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%0A%20%20%3Crect%20x%3D%2256%22%20y%3D%2252%22%20rx%3D%2218%22%20ry%3D%2218%22%20width%3D%22260%22%20height%3D%2254%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.08%29%22/%3E%0A%20%20%3Ctext%20x%3D%2284%22%20y%3D%2287%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2228%22%20fill%3D%22%23e5e7eb%22%3ENature%20Immunology%3C/text%3E%0A%0A%20%20%3Ctext%20x%3D%221010%22%20y%3D%22560%22%0A%20%20%20%20%20%20%20%20text-anchor%3D%22middle%22%0A%20%20%20%20%20%20%20%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%0A%20%20%20%20%20%20%20%20font-size%3D%22160%22%0A%20%20%20%20%20%20%20%20fill%3D%22%2360a5fa%22%0A%20%20%20%20%20%20%20%20opacity%3D%220.85%22%3E%0A%20%20%20%20%E2%80%A2%0A%20%20%3C/text%3E%0A%3C/svg%3E%0A",
+    "topic": "immunology",
     "topic_color": "#60a5fa",
     "priority_score": 0
   },
@@ -619,32 +645,6 @@
     "summary": "Nature Immunology, Published online: 24 April 2026; doi:10.1038/s41590-026-02509-3 Poholek and colleagues show that allergic alarmin-induced IL-9 increases expression of the transcriptional repressor Blimp-1 in ILC2 cells, sustaining their cellular identity and type 2 immune responses.",
     "abstract": "Nature Immunology, Published online: 24 April 2026; doi:10.1038/s41590-026-02509-3 Poholek and colleagues show that allergic alarmin-induced IL-9 increases expression of the transcriptional repressor Blimp-1 in ILC2 cells, sustaining their cellular identity and type 2 immune responses.",
     "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41590-026-02509-3/MediaObjects/41590_2026_2509_Fig1_HTML.png",
-    "topic": "immunology",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
-    "title": "BLIMP1 tunes germinal center B cell responses to limit clonal dominance",
-    "link": "https://www.nature.com/articles/s41590-026-02508-4",
-    "journal": "Nature Immunology",
-    "source_type": "journal",
-    "date": "2026-04-23",
-    "summary": "Nature Immunology, Published online: 23 April 2026; doi:10.1038/s41590-026-02508-4 The plasma cell transcription factor BLIMP1 unexpectedly functions in germinal center B cells as a signaling-induced gatekeeper, restraining B cell receptor signaling and positive selection to limit clonal dominance. Acting as a molecular brake, BLIMP1 helps to maintain the balance between affinity maturation and antibody repertoire diversity.",
-    "abstract": "Nature Immunology, Published online: 23 April 2026; doi:10.1038/s41590-026-02508-4 The plasma cell transcription factor BLIMP1 unexpectedly functions in germinal center B cells as a signaling-induced gatekeeper, restraining B cell receptor signaling and positive selection to limit clonal dominance. Acting as a molecular brake, BLIMP1 helps to maintain the balance between affinity maturation and antibody repertoire diversity.",
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41590-026-02508-4/MediaObjects/41590_2026_2508_Fig1_HTML.png",
-    "topic": "immunology",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
-    "title": "Astrocyte-driven immunosuppression in the brain tumor microenvironment",
-    "link": "https://www.nature.com/articles/s41590-026-02488-5",
-    "journal": "Nature Immunology",
-    "source_type": "journal",
-    "date": "2026-04-23",
-    "summary": "Nature Immunology, Published online: 23 April 2026; doi:10.1038/s41590-026-02488-5 In this Review, the authors look at the function of astrocytes in immunotherapy and the immune response to glioblastoma and brain metastases.",
-    "abstract": "Brain tumors are among the most lethal cancers, with limited success from emerging immunotherapies, largely due to the reshaping of the surrounding tumor microenvironment to promote tumor growth, invasion and immune evasion. Astrocytes are abundant glial cells of the central nervous system (CNS) that can activate distinct molecular programs to support glioblastoma and brain metastases. Although astrocytes are central regulators of the immune response in the CNS, their role in shaping tumor immunity remains relatively underexplored. Emerging evidence indicates that reactive astrocytes are important drivers of local immunosuppression, which constitutes a major barrier to the development of efficacious immunotherapies for brain tumors. In this Review, we examine astrocyte reprogramming by tumor-derived signals, its effect on tumor immunity, and emerging strategies to modulate astrocyte responses and immunotherapy outcomes. In this Review, the authors look at the function of astrocytes in immunotherapy and the immune response to glioblastoma and brain metastases.",
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41590-026-02488-5/MediaObjects/41590_2026_2488_Fig1_HTML.png",
     "topic": "immunology",
     "topic_color": "#60a5fa",
     "priority_score": 0
