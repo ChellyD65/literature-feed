@@ -13,19 +13,6 @@
     "priority_score": 133
   },
   {
-    "title": "Long-lived immune cells show promise against cancer in world-first trial",
-    "link": "https://www.nature.com/articles/d41586-026-01398-8",
-    "journal": "Nature",
-    "source_type": "journal",
-    "date": "2026-04-30",
-    "summary": "Nature, Published online: 30 April 2026; doi:10.1038/d41586-026-01398-8 Blood cancer goes into remission for some people treated with a type of T cell that acts like stem cells.",
-    "abstract": "Nature, Published online: 30 April 2026; doi:10.1038/d41586-026-01398-8 Blood cancer goes into remission for some people treated with a type of T cell that acts like stem cells.",
-    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-01398-8/d41586-026-01398-8_52351468.jpg",
-    "topic": "Immunology",
-    "topic_color": "#60a5fa",
-    "priority_score": 93
-  },
-  {
     "title": "The health and economic repercussions of declining MMR coverage in the United States",
     "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2605971123?af=R",
     "journal": "PNAS",
@@ -91,6 +78,19 @@
     "priority_score": 37
   },
   {
+    "title": "Briefing Chat: Stressed mitochondria spawn new 'organelles' in cells",
+    "link": "https://www.nature.com/articles/d41586-026-01439-2",
+    "journal": "Nature",
+    "source_type": "journal",
+    "date": "2026-05-01",
+    "summary": "Nature, Published online: 01 May 2026; doi:10.1038/d41586-026-01439-2 Nature staff discuss some of the week's top science news.",
+    "abstract": "Nature, Published online: 01 May 2026; doi:10.1038/d41586-026-01439-2 Nature staff discuss some of the week's top science news.",
+    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-01439-2/d41586-026-01439-2_52359112.jpg",
+    "topic": "default",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
     "title": "The imperfect legacy",
     "link": "https://www.nature.com/articles/d41586-026-01075-w",
     "journal": "Nature",
@@ -143,6 +143,19 @@
     "priority_score": 0
   },
   {
+    "title": "European funder must increase capacity to meet the ambition of scientists",
+    "link": "https://www.nature.com/articles/d41586-026-01411-0",
+    "journal": "Nature",
+    "source_type": "journal",
+    "date": "2026-05-01",
+    "summary": "Nature, Published online: 01 May 2026; doi:10.1038/d41586-026-01411-0 To avoid sabotaging science, the European Research Council needs more funding and structural change.",
+    "abstract": "Nature, Published online: 01 May 2026; doi:10.1038/d41586-026-01411-0 To avoid sabotaging science, the European Research Council needs more funding and structural change.",
+    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-01411-0/d41586-026-01411-0_52339654.jpg",
+    "topic": "default",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
     "title": "This organoid can menstruate — and shows how tissue can repair itself",
     "link": "https://www.nature.com/articles/d41586-026-01428-5",
     "journal": "Nature",
@@ -151,6 +164,19 @@
     "summary": "Nature, Published online: 01 May 2026; doi:10.1038/d41586-026-01428-5 Mini models of the uterus lining give insight into mystery of how it is shed without scarring.",
     "abstract": "Nature, Published online: 01 May 2026; doi:10.1038/d41586-026-01428-5 Mini models of the uterus lining give insight into mystery of how it is shed without scarring.",
     "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-01428-5/d41586-026-01428-5_52345950.jpg",
+    "topic": "default",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
+    "title": "Prestigious European science funder scraps stricter rules after researcher backlash",
+    "link": "https://www.nature.com/articles/d41586-026-01435-6",
+    "journal": "Nature",
+    "source_type": "journal",
+    "date": "2026-05-01",
+    "summary": "Nature, Published online: 01 May 2026; doi:10.1038/d41586-026-01435-6 The tough new policy was introduced to curb submissions, but drew criticism from researchers.",
+    "abstract": "Nature, Published online: 01 May 2026; doi:10.1038/d41586-026-01435-6 The tough new policy was introduced to curb submissions, but drew criticism from researchers.",
+    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-01435-6/d41586-026-01435-6_52359046.jpg",
     "topic": "default",
     "topic_color": "#60a5fa",
     "priority_score": 0
@@ -320,32 +346,6 @@
     "summary": "Nature, Published online: 30 April 2026; doi:10.1038/d41586-026-01289-y Technique determines roast level and strength by applying voltage to the brew.",
     "abstract": "Nature, Published online: 30 April 2026; doi:10.1038/d41586-026-01289-y Technique determines roast level and strength by applying voltage to the brew.",
     "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-01289-y/d41586-026-01289-y_52339316.jpg",
-    "topic": "default",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
-    "title": "Wild-meat consumption estimated across Central Africa",
-    "link": "https://www.nature.com/articles/d41586-026-01306-0",
-    "journal": "Nature",
-    "source_type": "journal",
-    "date": "2026-04-30",
-    "summary": "Nature, Published online: 30 April 2026; doi:10.1038/d41586-026-01306-0 A regional analysis brought together data on wild-animal consumption by more than 12,000 households, to investigate trends and drivers of wild-meat use across Central Africa. The study found that consumption has increased over the past two decades, and that the increase was driven by demand from growing towns and cities.",
-    "abstract": "Nature, Published online: 30 April 2026; doi:10.1038/d41586-026-01306-0 A regional analysis brought together data on wild-animal consumption by more than 12,000 households, to investigate trends and drivers of wild-meat use across Central Africa. The study found that consumption has increased over the past two decades, and that the increase was driven by demand from growing towns and cities.",
-    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-01306-0/d41586-026-01306-0_52355612.png",
-    "topic": "default",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
-    "title": "‘Make Pluto a planet again’? NASA chief revives debate that divides astronomers",
-    "link": "https://www.nature.com/articles/d41586-026-01421-y",
-    "journal": "Nature",
-    "source_type": "journal",
-    "date": "2026-04-30",
-    "summary": "Nature, Published online: 30 April 2026; doi:10.1038/d41586-026-01421-y Researchers respond to NASA head’s claim to be ready to “escalate” the issue of whether Pluto is a planet.",
-    "abstract": "Nature, Published online: 30 April 2026; doi:10.1038/d41586-026-01421-y Researchers respond to NASA head’s claim to be ready to “escalate” the issue of whether Pluto is a planet.",
-    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-01421-y/d41586-026-01421-y_52355668.jpg",
     "topic": "default",
     "topic_color": "#60a5fa",
     "priority_score": 0
