@@ -39,19 +39,6 @@
     "priority_score": 50
   },
   {
-    "title": "Author Correction: Astrocytic Sox9 overexpression in Alzheimer’s disease mouse models promotes Aβ plaque phagocytosis and preserves cognitive function",
-    "link": "https://www.nature.com/articles/s41593-026-02312-1",
-    "journal": "Nature Neuroscience",
-    "source_type": "journal",
-    "date": "2026-04-24",
-    "summary": "Nature Neuroscience, Published online: 24 April 2026; doi:10.1038/s41593-026-02312-1 Author Correction: Astrocytic Sox9 overexpression in Alzheimer’s disease mouse models promotes Aβ plaque phagocytosis and preserves cognitive function",
-    "abstract": "Nature Neuroscience, Published online: 24 April 2026; doi:10.1038/s41593-026-02312-1 Author Correction: Astrocytic Sox9 overexpression in Alzheimer’s disease mouse models promotes Aβ plaque phagocytosis and preserves cognitive function",
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41593-026-02312-1/MediaObjects/41593_2026_2312_Fig1_HTML.png",
-    "topic": "neurodegeneration",
-    "topic_color": "#fda4af",
-    "priority_score": 50
-  },
-  {
     "title": "Distinct system-level computations underlie perceptual variation across the visual field",
     "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2533752123?af=R",
     "journal": "PNAS",
@@ -230,6 +217,19 @@
     "abstract": "Nature, Published online: 01 May 2026; doi:10.1038/d41586-026-01435-6 The tough new policy was introduced to curb submissions, but drew criticism from researchers.",
     "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-01435-6/d41586-026-01435-6_52359046.jpg",
     "topic": "default",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
+    "title": "A communication subspace relays context-dependent actions from human prefrontal to motor cortex",
+    "link": "https://www.nature.com/articles/s41593-026-02290-4",
+    "journal": "Nature Neuroscience",
+    "source_type": "journal",
+    "date": "2026-05-01",
+    "summary": "Nature Neuroscience, Published online: 01 May 2026; doi:10.1038/s41593-026-02290-4 Context-dependent behavior selects actions according to task demands. Using direct brain recordings in humans, Binish et al. uncover how coordinated population activity efficiently channels information from prefrontal to motor cortex.",
+    "abstract": "Nature Neuroscience, Published online: 01 May 2026; doi:10.1038/s41593-026-02290-4 Context-dependent behavior selects actions according to task demands. Using direct brain recordings in humans, Binish et al. uncover how coordinated population activity efficiently channels information from prefrontal to motor cortex.",
+    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41593-026-02290-4/MediaObjects/41593_2026_2290_Fig1_HTML.png",
+    "topic": "neuroscience",
     "topic_color": "#60a5fa",
     "priority_score": 0
   },
