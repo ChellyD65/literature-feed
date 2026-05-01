@@ -78,6 +78,32 @@
     "priority_score": 37
   },
   {
+    "title": "The imperfect legacy",
+    "link": "https://www.nature.com/articles/d41586-026-01075-w",
+    "journal": "Nature",
+    "source_type": "journal",
+    "date": "2026-05-01",
+    "summary": "Nature, Published online: 01 May 2026; doi:10.1038/d41586-026-01075-w Not a bug, but a feature.",
+    "abstract": "Nature, Published online: 01 May 2026; doi:10.1038/d41586-026-01075-w Not a bug, but a feature.",
+    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-01075-w/d41586-026-01075-w_52203940.jpg",
+    "topic": "default",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
+    "title": "US faculty members report high levels of anxiety",
+    "link": "https://www.nature.com/articles/d41586-026-01252-x",
+    "journal": "Nature",
+    "source_type": "journal",
+    "date": "2026-05-01",
+    "summary": "Nature, Published online: 01 May 2026; doi:10.1038/d41586-026-01252-x Surveys show the importance of social, familial and structural support in lowering anxiety, particularly for people in health professions.",
+    "abstract": "Surveys show the importance of social, familial and structural support in lowering anxiety, particularly for people in health professions. Surveys show the importance of social, familial and structural support in lowering anxiety, particularly for people in health professions.",
+    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-01252-x/d41586-026-01252-x_52355564.png",
+    "topic": "default",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
     "title": "The exotic particles that could finally break the Standard Model",
     "link": "https://www.nature.com/articles/d41586-026-01387-x",
     "journal": "Nature",
@@ -281,32 +307,6 @@
     "summary": "Nature, Published online: 30 April 2026; doi:10.1038/d41586-026-01226-z Venter redrew the boundaries of biology — sequencing DNA at unprecedented speed, engineering synthetic life and charting ocean microbes.",
     "abstract": "Venter redrew the boundaries of biology — sequencing DNA at unprecedented speed, engineering synthetic life and charting ocean microbes. Venter redrew the boundaries of biology — sequencing DNA at unprecedented speed, engineering synthetic life and charting ocean microbes.",
     "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-01226-z/d41586-026-01226-z_52355780.jpg",
-    "topic": "default",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
-    "title": "All life runs on 20 amino acids. These cells run key machinery on just 19",
-    "link": "https://www.nature.com/articles/d41586-026-01396-w",
-    "journal": "Nature",
-    "source_type": "journal",
-    "date": "2026-04-30",
-    "summary": "Nature, Published online: 30 April 2026; doi:10.1038/d41586-026-01396-w AI-guided redesign of protein alphabet in bacteria could unlock new ways to build synthetic organisms.",
-    "abstract": "Nature, Published online: 30 April 2026; doi:10.1038/d41586-026-01396-w AI-guided redesign of protein alphabet in bacteria could unlock new ways to build synthetic organisms.",
-    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-01396-w/d41586-026-01396-w_52346204.jpg",
-    "topic": "default",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
-    "title": "US lawmakers vote to reduce science spending — but reject Trump’s massive cuts",
-    "link": "https://www.nature.com/articles/d41586-026-01427-6",
-    "journal": "Nature",
-    "source_type": "journal",
-    "date": "2026-04-30",
-    "summary": "Nature, Published online: 30 April 2026; doi:10.1038/d41586-026-01427-6 A draft bill would preserve NASA’s overall funding but downsize the National Science Foundation’s budget by 20%.",
-    "abstract": "Nature, Published online: 30 April 2026; doi:10.1038/d41586-026-01427-6 A draft bill would preserve NASA’s overall funding but downsize the National Science Foundation’s budget by 20%.",
-    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-01427-6/d41586-026-01427-6_52355922.jpg",
     "topic": "default",
     "topic_color": "#60a5fa",
     "priority_score": 0
