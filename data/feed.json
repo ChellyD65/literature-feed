@@ -91,6 +91,19 @@
     "priority_score": 0
   },
   {
+    "title": "'Heartbreaking': Iranian scientists on losing labs, libraries and liberty",
+    "link": "https://www.nature.com/articles/d41586-026-01394-y",
+    "journal": "Nature",
+    "source_type": "journal",
+    "date": "2026-05-04",
+    "summary": "Nature, Published online: 04 May 2026; doi:10.1038/d41586-026-01394-y Bombing of Iran's civilian infrastructure has damaged universities, destroyed thousands of books and manuscripts, amid a government-imposed Internet blackout, some of the country's researchers have told Nature.",
+    "abstract": "Nature, Published online: 04 May 2026; doi:10.1038/d41586-026-01394-y Bombing of Iran's civilian infrastructure has damaged universities, destroyed thousands of books and manuscripts, amid a government-imposed Internet blackout, some of the country's researchers have told Nature.",
+    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-01394-y/d41586-026-01394-y_52355606.jpg",
+    "topic": "default",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
     "title": "Phasing out animal research prematurely will maintain gender inequities in medicine",
     "link": "https://www.nature.com/articles/s41593-026-02309-w",
     "journal": "Nature Neuroscience",
@@ -424,19 +437,6 @@
     "summary": "Nature, Published online: 30 April 2026; doi:10.1038/s41586-026-10587-4 Continuously graded-doped SnO 2 for efficient n–i–p perovskite solar cells",
     "abstract": "Conventional n–i–p architecture remains a robust platform for scalable perovskite photovoltaics1,2, yet its steady-state efficiency has stagnated at ~26% (ref.3), lagging behind p–i–n counterparts4. This performance gap arises from persistent non-radiative recombination at textured electron transport layer (ETL)/perovskite interfaces, yet the underlying physical origin remains unclear. Here, we uncover that these losses originate from the synergistic combination of band misalignment and electron accumulation at the buried interface. To address this dual challenge, we develop a continuously graded n+/n-doped SnO2 ETL through a ligand-competitive binding strategy, which enables spatially defined doping that creates a built-in electric field. This graded architecture simultaneously minimizes band offset and accelerates electron extraction, thereby effectively suppressing the cross-interface recombination. The resulting n–i–p perovskite solar cells (PSCs) achieve a certified steady-state power conversion efficiency (PCE) of 27.17% (27.50% in reverse scan), the highest for n–i–p PSCs reported to date. The scalability of this strategy is further demonstrated by achieving a PCE of 25.79% for a 1 cm2 device and 23.33% for a perovskite module with a 16.02 cm2 aperture area. This work establishes a generalized paradigm for energy-band engineering in metal-oxide transport layers, overcoming a fundamental efficiency bottleneck in conventional perovskite photovoltaics.",
     "image": "data:image/svg+xml;charset=utf-8,%0A%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23111827%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23374151%22/%3E%0A%20%20%20%20%3C/linearGradient%3E%0A%20%20%20%20%3Cfilter%20id%3D%22blur%22%3E%0A%20%20%20%20%20%20%3CfeGaussianBlur%20stdDeviation%3D%2230%22/%3E%0A%20%20%20%20%3C/filter%3E%0A%20%20%3C/defs%3E%0A%0A%20%20%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22url%28%23bg%29%22/%3E%0A%0A%20%20%3Ccircle%20cx%3D%221030%22%20cy%3D%22110%22%20r%3D%22170%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.18%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%20%20%3Ccircle%20cx%3D%22180%22%20cy%3D%22560%22%20r%3D%22150%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.16%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%0A%20%20%3Crect%20x%3D%2256%22%20y%3D%2252%22%20rx%3D%2218%22%20ry%3D%2218%22%20width%3D%22260%22%20height%3D%2254%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.08%29%22/%3E%0A%20%20%3Ctext%20x%3D%2284%22%20y%3D%2287%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2228%22%20fill%3D%22%23e5e7eb%22%3ENature%3C/text%3E%0A%0A%20%20%3Ctext%20x%3D%221010%22%20y%3D%22560%22%0A%20%20%20%20%20%20%20%20text-anchor%3D%22middle%22%0A%20%20%20%20%20%20%20%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%0A%20%20%20%20%20%20%20%20font-size%3D%22160%22%0A%20%20%20%20%20%20%20%20fill%3D%22%2360a5fa%22%0A%20%20%20%20%20%20%20%20opacity%3D%220.85%22%3E%0A%20%20%20%20%E2%80%A2%0A%20%20%3C/text%3E%0A%3C/svg%3E%0A",
-    "topic": "default",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
-    "title": "Blood test hints at breast-tumour response to treatment",
-    "link": "https://www.nature.com/articles/d41586-026-01353-7",
-    "journal": "Nature",
-    "source_type": "journal",
-    "date": "2026-04-30",
-    "summary": "Nature, Published online: 30 April 2026; doi:10.1038/d41586-026-01353-7 A biomarker shows which people with certain types of breast cancer are more likely to respond to an immune-based therapy.",
-    "abstract": "Nature, Published online: 30 April 2026; doi:10.1038/d41586-026-01353-7 A biomarker shows which people with certain types of breast cancer are more likely to respond to an immune-based therapy.",
-    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-01353-7/d41586-026-01353-7_52339336.jpg",
     "topic": "default",
     "topic_color": "#60a5fa",
     "priority_score": 0
