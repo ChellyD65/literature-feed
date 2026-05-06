@@ -1,18 +1,5 @@
 [
   {
-    "title": "Microglia-dependent regulation of fear memory extinction",
-    "link": "https://www.nature.com/articles/s41593-026-02286-0",
-    "journal": "Nature Neuroscience",
-    "source_type": "journal",
-    "date": "2026-05-04",
-    "summary": "Nature Neuroscience, Published online: 04 May 2026; doi:10.1038/s41593-026-02286-0 Liu et al. show in mice that microglia are recruited to the soma and dendritic processes of fear engram neurons during extinction learning and that they weaken fear memories by temporarily silencing and remodeling the engram neurons.",
-    "abstract": "Nature Neuroscience, Published online: 04 May 2026; doi:10.1038/s41593-026-02286-0 Liu et al. show in mice that microglia are recruited to the soma and dendritic processes of fear engram neurons during extinction learning and that they weaken fear memories by temporarily silencing and remodeling the engram neurons.",
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41593-026-02286-0/MediaObjects/41593_2026_2286_Fig1_HTML.png",
-    "topic": "microglia",
-    "topic_color": "#38bdf8",
-    "priority_score": 139
-  },
-  {
     "title": "Kupffer cell calibration of T cell responses via VSIG4–CD5 interaction promotes tumor evasion",
     "link": "https://www.nature.com/articles/s41590-026-02510-w",
     "journal": "Nature Immunology",
@@ -76,19 +63,6 @@
     "topic": "inflammation",
     "topic_color": "#fb7185",
     "priority_score": 37
-  },
-  {
-    "title": "Astrocytic cholesterol jams brain clearance in AD",
-    "link": "https://www.nature.com/articles/s41593-026-02310-3",
-    "journal": "Nature Neuroscience",
-    "source_type": "journal",
-    "date": "2026-05-05",
-    "summary": "Nature Neuroscience, Published online: 05 May 2026; doi:10.1038/s41593-026-02310-3 Zhang and colleagues identify astrocytic calcium–cholesterol–AQP4 signaling that drives glymphatic dysfunction in early Alzheimer’s disease (AD). Attenuating this signaling restored glymphatic flow, reduced amyloid burden and improved cognition in young 5xFAD mice only when glymphatic perfusion and lymphatic drainage were intact. These findings position astrocytic metabolic state as a determinant of brain waste clearance and a potential therapeutic target in early AD.",
-    "abstract": "Nature Neuroscience, Published online: 05 May 2026; doi:10.1038/s41593-026-02310-3 Zhang and colleagues identify astrocytic calcium–cholesterol–AQP4 signaling that drives glymphatic dysfunction in early Alzheimer’s disease (AD). Attenuating this signaling restored glymphatic flow, reduced amyloid burden and improved cognition in young 5xFAD mice only when glymphatic perfusion and lymphatic drainage were intact. These findings position astrocytic metabolic state as a determinant of brain waste clearance and a potential therapeutic target in early AD.",
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41593-026-02310-3/MediaObjects/41593_2026_2310_Fig1_HTML.png",
-    "topic": "neurodegeneration",
-    "topic_color": "#fda4af",
-    "priority_score": 35
   },
   {
     "title": "Cruise ship’s hantavirus outbreak puts researchers in uncharted territory",
@@ -273,19 +247,6 @@
     "priority_score": 0
   },
   {
-    "title": "Molecular mechanism of calcium permeability and magnesium block in NMDA receptors",
-    "link": "https://www.nature.com/articles/s41593-026-02283-3",
-    "journal": "Nature Neuroscience",
-    "source_type": "journal",
-    "date": "2026-05-05",
-    "summary": "Nature Neuroscience, Published online: 05 May 2026; doi:10.1038/s41593-026-02283-3 Using cryo-electron microscopy and electrophysiology, this study explains the structural basis for Ca2+ permeation and Mg2+ block in NMDA receptors and identifies a surrounding lipid network that may tune Mg2+-dependent voltage sensitivity.",
-    "abstract": "Nature Neuroscience, Published online: 05 May 2026; doi:10.1038/s41593-026-02283-3 Using cryo-electron microscopy and electrophysiology, this study explains the structural basis for Ca2+ permeation and Mg2+ block in NMDA receptors and identifies a surrounding lipid network that may tune Mg2+-dependent voltage sensitivity.",
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41593-026-02283-3/MediaObjects/41593_2026_2283_Fig1_HTML.png",
-    "topic": "neuroscience",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
     "title": "Autonomous pathology research using agentic AI shows potential in oncology",
     "link": "https://www.nature.com/articles/s41591-026-04403-9",
     "journal": "Nature Medicine",
@@ -351,32 +312,6 @@
     "priority_score": 0
   },
   {
-    "title": "Phasing out animal research prematurely will maintain gender inequities in medicine",
-    "link": "https://www.nature.com/articles/s41593-026-02309-w",
-    "journal": "Nature Neuroscience",
-    "source_type": "journal",
-    "date": "2026-05-04",
-    "summary": "Nature Neuroscience, Published online: 04 May 2026; doi:10.1038/s41593-026-02309-w Decades of male bias in animal research have left female biology critically understudied. Prematurely phasing out animal research would lock this inequity into future biomedicine, disproportionately harming women.",
-    "abstract": "Nature Neuroscience, Published online: 04 May 2026; doi:10.1038/s41593-026-02309-w Decades of male bias in animal research have left female biology critically understudied. Prematurely phasing out animal research would lock this inequity into future biomedicine, disproportionately harming women.",
-    "image": "data:image/svg+xml;charset=utf-8,%0A%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23111827%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23374151%22/%3E%0A%20%20%20%20%3C/linearGradient%3E%0A%20%20%20%20%3Cfilter%20id%3D%22blur%22%3E%0A%20%20%20%20%20%20%3CfeGaussianBlur%20stdDeviation%3D%2230%22/%3E%0A%20%20%20%20%3C/filter%3E%0A%20%20%3C/defs%3E%0A%0A%20%20%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22url%28%23bg%29%22/%3E%0A%0A%20%20%3Ccircle%20cx%3D%221030%22%20cy%3D%22110%22%20r%3D%22170%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.18%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%20%20%3Ccircle%20cx%3D%22180%22%20cy%3D%22560%22%20r%3D%22150%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.16%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%0A%20%20%3Crect%20x%3D%2256%22%20y%3D%2252%22%20rx%3D%2218%22%20ry%3D%2218%22%20width%3D%22260%22%20height%3D%2254%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.08%29%22/%3E%0A%20%20%3Ctext%20x%3D%2284%22%20y%3D%2287%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2228%22%20fill%3D%22%23e5e7eb%22%3ENature%20Neuroscience%3C/text%3E%0A%0A%20%20%3Ctext%20x%3D%221010%22%20y%3D%22560%22%0A%20%20%20%20%20%20%20%20text-anchor%3D%22middle%22%0A%20%20%20%20%20%20%20%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%0A%20%20%20%20%20%20%20%20font-size%3D%22160%22%0A%20%20%20%20%20%20%20%20fill%3D%22%2360a5fa%22%0A%20%20%20%20%20%20%20%20opacity%3D%220.85%22%3E%0A%20%20%20%20%E2%80%A2%0A%20%20%3C/text%3E%0A%3C/svg%3E%0A",
-    "topic": "neuroscience",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
-    "title": "Stochastic growth and ligand–receptor interaction-mediated stabilization generate stereotyped dendritic arbors",
-    "link": "https://www.nature.com/articles/s41593-026-02278-0",
-    "journal": "Nature Neuroscience",
-    "source_type": "journal",
-    "date": "2026-05-04",
-    "summary": "Nature Neuroscience, Published online: 04 May 2026; doi:10.1038/s41593-026-02278-0 Stereotyped dendritic arbors arise from stochastic growth and selective stabilization of dendritic branches. Two pools of guidance receptor are required. Ligand-free receptors drive stochastic growth while ligand-bound receptors stabilize branches.",
-    "abstract": "Nature Neuroscience, Published online: 04 May 2026; doi:10.1038/s41593-026-02278-0 Stereotyped dendritic arbors arise from stochastic growth and selective stabilization of dendritic branches. Two pools of guidance receptor are required. Ligand-free receptors drive stochastic growth while ligand-bound receptors stabilize branches.",
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41593-026-02278-0/MediaObjects/41593_2026_2278_Fig1_HTML.png",
-    "topic": "neuroscience",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
     "title": "An international and independent scientific foundation for AI governance",
     "link": "https://www.nature.com/articles/s41591-026-04375-w",
     "journal": "Nature Medicine",
@@ -425,19 +360,6 @@
     "abstract": "Galaxy clusters obey the inverse square law across hundreds of millions of light-years",
     "image": "data:image/svg+xml;charset=utf-8,%0A%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23111827%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23374151%22/%3E%0A%20%20%20%20%3C/linearGradient%3E%0A%20%20%20%20%3Cfilter%20id%3D%22blur%22%3E%0A%20%20%20%20%20%20%3CfeGaussianBlur%20stdDeviation%3D%2230%22/%3E%0A%20%20%20%20%3C/filter%3E%0A%20%20%3C/defs%3E%0A%0A%20%20%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22url%28%23bg%29%22/%3E%0A%0A%20%20%3Ccircle%20cx%3D%221030%22%20cy%3D%22110%22%20r%3D%22170%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.18%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%20%20%3Ccircle%20cx%3D%22180%22%20cy%3D%22560%22%20r%3D%22150%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.16%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%0A%20%20%3Crect%20x%3D%2256%22%20y%3D%2252%22%20rx%3D%2218%22%20ry%3D%2218%22%20width%3D%22260%22%20height%3D%2254%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.08%29%22/%3E%0A%20%20%3Ctext%20x%3D%2284%22%20y%3D%2287%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2228%22%20fill%3D%22%23e5e7eb%22%3EScience%3C/text%3E%0A%0A%20%20%3Ctext%20x%3D%221010%22%20y%3D%22560%22%0A%20%20%20%20%20%20%20%20text-anchor%3D%22middle%22%0A%20%20%20%20%20%20%20%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%0A%20%20%20%20%20%20%20%20font-size%3D%22160%22%0A%20%20%20%20%20%20%20%20fill%3D%22%2360a5fa%22%0A%20%20%20%20%20%20%20%20opacity%3D%220.85%22%3E%0A%20%20%20%20%E2%80%A2%0A%20%20%3C/text%3E%0A%3C/svg%3E%0A",
     "topic": "default",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
-    "title": "A communication subspace relays context-dependent actions from human prefrontal to motor cortex",
-    "link": "https://www.nature.com/articles/s41593-026-02290-4",
-    "journal": "Nature Neuroscience",
-    "source_type": "journal",
-    "date": "2026-05-01",
-    "summary": "Nature Neuroscience, Published online: 01 May 2026; doi:10.1038/s41593-026-02290-4 Context-dependent behavior selects actions according to task demands. Using direct brain recordings in humans, Binish et al. uncover how coordinated population activity efficiently channels information from prefrontal to motor cortex.",
-    "abstract": "Nature Neuroscience, Published online: 01 May 2026; doi:10.1038/s41593-026-02290-4 Context-dependent behavior selects actions according to task demands. Using direct brain recordings in humans, Binish et al. uncover how coordinated population activity efficiently channels information from prefrontal to motor cortex.",
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41593-026-02290-4/MediaObjects/41593_2026_2290_Fig1_HTML.png",
-    "topic": "neuroscience",
     "topic_color": "#60a5fa",
     "priority_score": 0
   },
@@ -516,32 +438,6 @@
     "abstract": "Large language model excels at clinical decisions, even in fast pace of a simulated ER",
     "image": "data:image/svg+xml;charset=utf-8,%0A%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23111827%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23374151%22/%3E%0A%20%20%20%20%3C/linearGradient%3E%0A%20%20%20%20%3Cfilter%20id%3D%22blur%22%3E%0A%20%20%20%20%20%20%3CfeGaussianBlur%20stdDeviation%3D%2230%22/%3E%0A%20%20%20%20%3C/filter%3E%0A%20%20%3C/defs%3E%0A%0A%20%20%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22url%28%23bg%29%22/%3E%0A%0A%20%20%3Ccircle%20cx%3D%221030%22%20cy%3D%22110%22%20r%3D%22170%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.18%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%20%20%3Ccircle%20cx%3D%22180%22%20cy%3D%22560%22%20r%3D%22150%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.16%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%0A%20%20%3Crect%20x%3D%2256%22%20y%3D%2252%22%20rx%3D%2218%22%20ry%3D%2218%22%20width%3D%22260%22%20height%3D%2254%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.08%29%22/%3E%0A%20%20%3Ctext%20x%3D%2284%22%20y%3D%2287%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2228%22%20fill%3D%22%23e5e7eb%22%3EScience%3C/text%3E%0A%0A%20%20%3Ctext%20x%3D%221010%22%20y%3D%22560%22%0A%20%20%20%20%20%20%20%20text-anchor%3D%22middle%22%0A%20%20%20%20%20%20%20%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%0A%20%20%20%20%20%20%20%20font-size%3D%22160%22%0A%20%20%20%20%20%20%20%20fill%3D%22%2360a5fa%22%0A%20%20%20%20%20%20%20%20opacity%3D%220.85%22%3E%0A%20%20%20%20%E2%80%A2%0A%20%20%3C/text%3E%0A%3C/svg%3E%0A",
     "topic": "default",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
-    "title": "Laminar organization of cellular microcircuits modulating human interictal epileptiform discharges",
-    "link": "https://www.nature.com/articles/s41593-026-02258-4",
-    "journal": "Nature Neuroscience",
-    "source_type": "journal",
-    "date": "2026-04-30",
-    "summary": "Nature Neuroscience, Published online: 30 April 2026; doi:10.1038/s41593-026-02258-4 High-density single-neuron recordings in patients with epilepsy revealed interictal discharges are generated by structured laminar circuits. These circuits overlapped with cognitive circuits and could predict discharges up to 1 s in advance.",
-    "abstract": "Nature Neuroscience, Published online: 30 April 2026; doi:10.1038/s41593-026-02258-4 High-density single-neuron recordings in patients with epilepsy revealed interictal discharges are generated by structured laminar circuits. These circuits overlapped with cognitive circuits and could predict discharges up to 1 s in advance.",
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41593-026-02258-4/MediaObjects/41593_2026_2258_Fig1_HTML.png",
-    "topic": "neuroscience",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
-    "title": "Glucose-dependent spatial and temporal modulation of oligodendrocyte progenitor cell proliferation via ACLY-regulated histone acetylation",
-    "link": "https://www.nature.com/articles/s41593-026-02263-7",
-    "journal": "Nature Neuroscience",
-    "source_type": "journal",
-    "date": "2026-04-30",
-    "summary": "Nature Neuroscience, Published online: 30 April 2026; doi:10.1038/s41593-026-02263-7 The authors identify glucose-derived conversion of citrate to acetyl-CoA upstream of histone acetylation as modulating the regional dynamics of oligodendrocyte progenitors, with extranuclear acetyl-CoA from other sources being used for myelination.",
-    "abstract": "Nature Neuroscience, Published online: 30 April 2026; doi:10.1038/s41593-026-02263-7 The authors identify glucose-derived conversion of citrate to acetyl-CoA upstream of histone acetylation as modulating the regional dynamics of oligodendrocyte progenitors, with extranuclear acetyl-CoA from other sources being used for myelination.",
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41593-026-02263-7/MediaObjects/41593_2026_2263_Fig1_HTML.png",
-    "topic": "neuroscience",
     "topic_color": "#60a5fa",
     "priority_score": 0
   },
