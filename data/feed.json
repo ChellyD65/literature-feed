@@ -65,6 +65,45 @@
     "priority_score": 35
   },
   {
+    "title": "Genome-wide sweeps create ecological units in the human gut microbiome",
+    "link": "https://www.nature.com/articles/s41586-026-10476-w",
+    "journal": "Nature",
+    "source_type": "journal",
+    "date": "2026-05-06",
+    "summary": "Nature, Published online: 06 May 2026; doi:10.1038/s41586-026-10476-w Genome-wide selective sweeps commonly occur in the human gut microbiome and can spread across the world within decades to produce epidemic-like population structures.",
+    "abstract": "The human gut microbiome is shaped by diverse selective forces that originate from host and environmental factors and it substantially influences health and disease. Whereas the association of microbial lineages with various health conditions has been shown at different taxonomic levels1–5, the extent to which unifying adaptive mechanisms sort microbial lineages into ecologically differentiated populations remains poorly understood. Here we show that genome-wide selective sweeps are a pervasive mechanism that differentiates bacteria in the microbiome. This mechanism leads to population structures akin to global epidemics across geographically and ethnically diverse human populations. Such sweeps arise when an adaptation allows a clone to outcompete others in its niche followed by rediversification, and they manifest as clusters of closely related genomes on long branches in phylogenetic trees. This structure is revealed by excluding recombination events that mask the clonal descent of the genomes. Indeed, we show that genome-wide sweeps originate under a wide range of recombination rates in at least 66 taxa from 25 bacterial families. Estimated ages of divergence suggest that sweep clusters can spread globally within decades and that this process has occurred throughout human history. Sweep clusters are associated with different host conditions—such as age, colorectal cancer, inflammatory bowel diseases and type 2 diabetes—as an indication of their ecological differentiation. Our results reveal an evolutionary mechanism for the observation of stably inherited strains with differential associations and provide a theoretical foundation for analysing adaptation among microbial populations. Genome-wide selective sweeps commonly occur in the human gut microbiome and can spread across the world within decades to produce epidemic-like population structures.",
+    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-10476-w/MediaObjects/41586_2026_10476_Fig1_HTML.png",
+    "topic": "inflammation",
+    "topic_color": "#fb7185",
+    "priority_score": 29
+  },
+  {
+    "title": "Core of Solar System’s largest moon may still be forming",
+    "link": "https://www.science.org/content/article/core-solar-system-s-largest-moon-may-still-be-forming",
+    "journal": "Science",
+    "source_type": "journal",
+    "date": "2026-05-06T02:00:00Z",
+    "summary": "Ganymede discovery could force rethink of how worlds power their magnetic fields",
+    "abstract": "Ganymede discovery could force rethink of how worlds power their magnetic fields",
+    "image": "data:image/svg+xml;charset=utf-8,%0A%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23111827%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23374151%22/%3E%0A%20%20%20%20%3C/linearGradient%3E%0A%20%20%20%20%3Cfilter%20id%3D%22blur%22%3E%0A%20%20%20%20%20%20%3CfeGaussianBlur%20stdDeviation%3D%2230%22/%3E%0A%20%20%20%20%3C/filter%3E%0A%20%20%3C/defs%3E%0A%0A%20%20%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22url%28%23bg%29%22/%3E%0A%0A%20%20%3Ccircle%20cx%3D%221030%22%20cy%3D%22110%22%20r%3D%22170%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.18%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%20%20%3Ccircle%20cx%3D%22180%22%20cy%3D%22560%22%20r%3D%22150%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.16%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%0A%20%20%3Crect%20x%3D%2256%22%20y%3D%2252%22%20rx%3D%2218%22%20ry%3D%2218%22%20width%3D%22260%22%20height%3D%2254%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.08%29%22/%3E%0A%20%20%3Ctext%20x%3D%2284%22%20y%3D%2287%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2228%22%20fill%3D%22%23e5e7eb%22%3EScience%3C/text%3E%0A%0A%20%20%3Ctext%20x%3D%221010%22%20y%3D%22560%22%0A%20%20%20%20%20%20%20%20text-anchor%3D%22middle%22%0A%20%20%20%20%20%20%20%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%0A%20%20%20%20%20%20%20%20font-size%3D%22160%22%0A%20%20%20%20%20%20%20%20fill%3D%22%2360a5fa%22%0A%20%20%20%20%20%20%20%20opacity%3D%220.85%22%3E%0A%20%20%20%20%E2%80%A2%0A%20%20%3C/text%3E%0A%3C/svg%3E%0A",
+    "topic": "default",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
+    "title": "Author Correction: Enteric neurons increase maternal food intake during reproduction",
+    "link": "https://www.nature.com/articles/s41586-026-10201-7",
+    "journal": "Nature",
+    "source_type": "journal",
+    "date": "2026-05-06",
+    "summary": "Nature, Published online: 06 May 2026; doi:10.1038/s41586-026-10201-7 Author Correction: Enteric neurons increase maternal food intake during reproduction",
+    "abstract": "Nature, Published online: 06 May 2026; doi:10.1038/s41586-026-10201-7 Author Correction: Enteric neurons increase maternal food intake during reproduction",
+    "image": "data:image/svg+xml;charset=utf-8,%0A%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23111827%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23374151%22/%3E%0A%20%20%20%20%3C/linearGradient%3E%0A%20%20%20%20%3Cfilter%20id%3D%22blur%22%3E%0A%20%20%20%20%20%20%3CfeGaussianBlur%20stdDeviation%3D%2230%22/%3E%0A%20%20%20%20%3C/filter%3E%0A%20%20%3C/defs%3E%0A%0A%20%20%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22url%28%23bg%29%22/%3E%0A%0A%20%20%3Ccircle%20cx%3D%221030%22%20cy%3D%22110%22%20r%3D%22170%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.18%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%20%20%3Ccircle%20cx%3D%22180%22%20cy%3D%22560%22%20r%3D%22150%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.16%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%0A%20%20%3Crect%20x%3D%2256%22%20y%3D%2252%22%20rx%3D%2218%22%20ry%3D%2218%22%20width%3D%22260%22%20height%3D%2254%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.08%29%22/%3E%0A%20%20%3Ctext%20x%3D%2284%22%20y%3D%2287%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2228%22%20fill%3D%22%23e5e7eb%22%3ENature%3C/text%3E%0A%0A%20%20%3Ctext%20x%3D%221010%22%20y%3D%22560%22%0A%20%20%20%20%20%20%20%20text-anchor%3D%22middle%22%0A%20%20%20%20%20%20%20%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%0A%20%20%20%20%20%20%20%20font-size%3D%22160%22%0A%20%20%20%20%20%20%20%20fill%3D%22%2360a5fa%22%0A%20%20%20%20%20%20%20%20opacity%3D%220.85%22%3E%0A%20%20%20%20%E2%80%A2%0A%20%20%3C/text%3E%0A%3C/svg%3E%0A",
+    "topic": "default",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
     "title": "Author Correction: Multidimensional profiling of heterogeneity in supratentorial ependymomas",
     "link": "https://www.nature.com/articles/s41586-026-10602-8",
     "journal": "Nature",
@@ -190,32 +229,6 @@
     "summary": "Nature, Published online: 06 May 2026; doi:10.1038/s41586-026-10448-0 In the hippocampus, complex processing of sensory stimuli occurs even in the unconscious state.",
     "abstract": "Consciousness is a fundamental component of cognition1, but the degree to which higher-order pattern recognition relies on it remains disputed2,3. Here we demonstrate the persistence of oddball discrimination, semantic processing and online prediction in individuals under general-anaesthesia-induced loss of consciousness4,5. Using high-density Neuropixels microelectrodes6 to record both single-unit and local-field-potential neural activity in the human hippocampus while playing a series of tones to anaesthetized patients, we found that hippocampal neurons and local oscillations retained some detection of oddball tones. This effect size grew over the course of the experiment (around 10 min), demonstrating representational plasticity. A biologically plausible recurrent neural network model showed that learning and oddball representation are an emergent property of flexible tone discrimination. Moreover, when we played language stimuli, single units and local field potentials carried information about the semantic and grammatical features of natural speech, even predicting semantic information about upcoming words. Together these results indicate that in the hippocampus, which is anatomically and functionally distant from primary sensory cortices7, complex processing of sensory stimuli occurs even in the unconscious state. In the hippocampus, complex processing of sensory stimuli occurs even in the unconscious state.",
     "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-10448-0/MediaObjects/41586_2026_10448_Fig1_HTML.png",
-    "topic": "default",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
-    "title": "Tree community resource economics control soil food web multifunctionality",
-    "link": "https://www.nature.com/articles/s41586-026-10455-1",
-    "journal": "Nature",
-    "source_type": "journal",
-    "date": "2026-05-06",
-    "summary": "Nature, Published online: 06 May 2026; doi:10.1038/s41586-026-10455-1 Plant community properties affect ecosystem functioning via energy fluxes in food webs, with the leaf and root resource economics of dominant tree species controlling soil food web multifunctionality.",
-    "abstract": "Nature, Published online: 06 May 2026; doi:10.1038/s41586-026-10455-1 Plant community properties affect ecosystem functioning via energy fluxes in food webs, with the leaf and root resource economics of dominant tree species controlling soil food web multifunctionality.",
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-10455-1/MediaObjects/41586_2026_10455_Fig1_HTML.png",
-    "topic": "default",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
-    "title": "Prefrontal to ventral tegmental area dynamics drive contingency degradation",
-    "link": "https://www.nature.com/articles/s41586-026-10443-5",
-    "journal": "Nature",
-    "source_type": "journal",
-    "date": "2026-05-06",
-    "summary": "Nature, Published online: 06 May 2026; doi:10.1038/s41586-026-10443-5 This work provides a mechanistic understanding of how certain prefrontal circuits in the rodent brain permit flexibility to selectively stop learned behaviours through interactions with core subcortical reward systems.",
-    "abstract": "Nature, Published online: 06 May 2026; doi:10.1038/s41586-026-10443-5 This work provides a mechanistic understanding of how certain prefrontal circuits in the rodent brain permit flexibility to selectively stop learned behaviours through interactions with core subcortical reward systems.",
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-10443-5/MediaObjects/41586_2026_10443_Fig1_HTML.png",
     "topic": "default",
     "topic_color": "#60a5fa",
     "priority_score": 0
@@ -407,7 +420,7 @@
     "link": "https://www.science.org/content/article/deep-earth-map-reveals-lost-u-s-continent",
     "journal": "Science",
     "source_type": "journal",
-    "date": "2026-05-01T10:15:00Z",
+    "date": "2026-05-01T09:15:00Z",
     "summary": "Sensor array traces how rocks conduct electricity, exposing ancient continental fragments, mineral targets, and grid hazards",
     "abstract": "Sensor array traces how rocks conduct electricity, exposing ancient continental fragments, mineral targets, and grid hazards",
     "image": "data:image/svg+xml;charset=utf-8,%0A%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23111827%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23374151%22/%3E%0A%20%20%20%20%3C/linearGradient%3E%0A%20%20%20%20%3Cfilter%20id%3D%22blur%22%3E%0A%20%20%20%20%20%20%3CfeGaussianBlur%20stdDeviation%3D%2230%22/%3E%0A%20%20%20%20%3C/filter%3E%0A%20%20%3C/defs%3E%0A%0A%20%20%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22url%28%23bg%29%22/%3E%0A%0A%20%20%3Ccircle%20cx%3D%221030%22%20cy%3D%22110%22%20r%3D%22170%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.18%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%20%20%3Ccircle%20cx%3D%22180%22%20cy%3D%22560%22%20r%3D%22150%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.16%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%0A%20%20%3Crect%20x%3D%2256%22%20y%3D%2252%22%20rx%3D%2218%22%20ry%3D%2218%22%20width%3D%22260%22%20height%3D%2254%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.08%29%22/%3E%0A%20%20%3Ctext%20x%3D%2284%22%20y%3D%2287%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2228%22%20fill%3D%22%23e5e7eb%22%3EScience%3C/text%3E%0A%0A%20%20%3Ctext%20x%3D%221010%22%20y%3D%22560%22%0A%20%20%20%20%20%20%20%20text-anchor%3D%22middle%22%0A%20%20%20%20%20%20%20%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%0A%20%20%20%20%20%20%20%20font-size%3D%22160%22%0A%20%20%20%20%20%20%20%20fill%3D%22%2360a5fa%22%0A%20%20%20%20%20%20%20%20opacity%3D%220.85%22%3E%0A%20%20%20%20%E2%80%A2%0A%20%20%3C/text%3E%0A%3C/svg%3E%0A",
@@ -520,19 +533,6 @@
     "priority_score": 0
   },
   {
-    "title": "AI is starting to beat doctors at making correct diagnoses",
-    "link": "https://www.science.org/content/article/ai-starting-beat-doctors-making-correct-diagnoses",
-    "journal": "Science",
-    "source_type": "journal",
-    "date": "2026-04-30T02:00:00Z",
-    "summary": "Large language model excels at clinical decisions, even in fast pace of a simulated ER",
-    "abstract": "Large language model excels at clinical decisions, even in fast pace of a simulated ER",
-    "image": "data:image/svg+xml;charset=utf-8,%0A%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23111827%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23374151%22/%3E%0A%20%20%20%20%3C/linearGradient%3E%0A%20%20%20%20%3Cfilter%20id%3D%22blur%22%3E%0A%20%20%20%20%20%20%3CfeGaussianBlur%20stdDeviation%3D%2230%22/%3E%0A%20%20%20%20%3C/filter%3E%0A%20%20%3C/defs%3E%0A%0A%20%20%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22url%28%23bg%29%22/%3E%0A%0A%20%20%3Ccircle%20cx%3D%221030%22%20cy%3D%22110%22%20r%3D%22170%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.18%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%20%20%3Ccircle%20cx%3D%22180%22%20cy%3D%22560%22%20r%3D%22150%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.16%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%0A%20%20%3Crect%20x%3D%2256%22%20y%3D%2252%22%20rx%3D%2218%22%20ry%3D%2218%22%20width%3D%22260%22%20height%3D%2254%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.08%29%22/%3E%0A%20%20%3Ctext%20x%3D%2284%22%20y%3D%2287%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2228%22%20fill%3D%22%23e5e7eb%22%3EScience%3C/text%3E%0A%0A%20%20%3Ctext%20x%3D%221010%22%20y%3D%22560%22%0A%20%20%20%20%20%20%20%20text-anchor%3D%22middle%22%0A%20%20%20%20%20%20%20%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%0A%20%20%20%20%20%20%20%20font-size%3D%22160%22%0A%20%20%20%20%20%20%20%20fill%3D%22%2360a5fa%22%0A%20%20%20%20%20%20%20%20opacity%3D%220.85%22%3E%0A%20%20%20%20%E2%80%A2%0A%20%20%3C/text%3E%0A%3C/svg%3E%0A",
-    "topic": "default",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
     "title": "Laminar organization of cellular microcircuits modulating human interictal epileptiform discharges",
     "link": "https://www.nature.com/articles/s41593-026-02258-4",
     "journal": "Nature Neuroscience",
@@ -592,7 +592,7 @@
     "date": "2026-04-30",
     "summary": "Nature Immunology, Published online: 30 April 2026; doi:10.1038/s41590-026-02511-9 Xia and colleagues show that CTH, an enzyme involved in the metabolism of sulfur-containing amino acids, hydrolyzes cytoplasmic bacterial lipoproteins and triggers the formation of molecular structures that can activate caspase-11.",
     "abstract": "Nature Immunology, Published online: 30 April 2026; doi:10.1038/s41590-026-02511-9 Xia and colleagues show that CTH, an enzyme involved in the metabolism of sulfur-containing amino acids, hydrolyzes cytoplasmic bacterial lipoproteins and triggers the formation of molecular structures that can activate caspase-11.",
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41590-026-02511-9/MediaObjects/41590_2026_2511_Fig1_HTML.png",
+    "image": "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41590-026-02511-9/MediaObjects/41590_2026_2511_Fig1_HTML.png",
     "topic": "immunology",
     "topic_color": "#60a5fa",
     "priority_score": 0
