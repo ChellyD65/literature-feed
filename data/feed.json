@@ -78,17 +78,17 @@
     "priority_score": 35
   },
   {
-    "title": "Genome-wide sweeps create ecological units in the human gut microbiome",
-    "link": "https://www.nature.com/articles/s41586-026-10476-w",
+    "title": "OpenAI is under criminal investigation — why chatbots don’t always follow the law",
+    "link": "https://www.nature.com/articles/d41586-026-01405-y",
     "journal": "Nature",
     "source_type": "journal",
-    "date": "2026-05-06",
-    "summary": "Nature, Published online: 06 May 2026; doi:10.1038/s41586-026-10476-w Genome-wide selective sweeps commonly occur in the human gut microbiome and can spread across the world within decades to produce epidemic-like population structures.",
-    "abstract": "The human gut microbiome is shaped by diverse selective forces that originate from host and environmental factors and it substantially influences health and disease. Whereas the association of microbial lineages with various health conditions has been shown at different taxonomic levels1–5, the extent to which unifying adaptive mechanisms sort microbial lineages into ecologically differentiated populations remains poorly understood. Here we show that genome-wide selective sweeps are a pervasive mechanism that differentiates bacteria in the microbiome. This mechanism leads to population structures akin to global epidemics across geographically and ethnically diverse human populations. Such sweeps arise when an adaptation allows a clone to outcompete others in its niche followed by rediversification, and they manifest as clusters of closely related genomes on long branches in phylogenetic trees. This structure is revealed by excluding recombination events that mask the clonal descent of the genomes. Indeed, we show that genome-wide sweeps originate under a wide range of recombination rates in at least 66 taxa from 25 bacterial families. Estimated ages of divergence suggest that sweep clusters can spread globally within decades and that this process has occurred throughout human history. Sweep clusters are associated with different host conditions—such as age, colorectal cancer, inflammatory bowel diseases and type 2 diabetes—as an indication of their ecological differentiation. Our results reveal an evolutionary mechanism for the observation of stably inherited strains with differential associations and provide a theoretical foundation for analysing adaptation among microbial populations. Genome-wide selective sweeps commonly occur in the human gut microbiome and can spread across the world within decades to produce epidemic-like population structures.",
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-10476-w/MediaObjects/41586_2026_10476_Fig1_HTML.png",
-    "topic": "inflammation",
-    "topic_color": "#fb7185",
-    "priority_score": 29
+    "date": "2026-05-07",
+    "summary": "Nature, Published online: 07 May 2026; doi:10.1038/d41586-026-01405-y A person accused of murder in Florida allegedly sought ChatGPT's advice to plan the crime.",
+    "abstract": "Nature, Published online: 07 May 2026; doi:10.1038/d41586-026-01405-y A person accused of murder in Florida allegedly sought ChatGPT's advice to plan the crime.",
+    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-01405-y/d41586-026-01405-y_52355852.jpg",
+    "topic": "default",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
   },
   {
     "title": "AI agents may be skilled researchers—but not always honest ones",
