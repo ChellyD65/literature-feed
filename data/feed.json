@@ -78,6 +78,19 @@
     "priority_score": 35
   },
   {
+    "title": "There is no vaccine for deadly hantavirus: what that means for future outbreaks",
+    "link": "https://www.nature.com/articles/d41586-026-01494-9",
+    "journal": "Nature",
+    "source_type": "journal",
+    "date": "2026-05-07",
+    "summary": "Nature, Published online: 07 May 2026; doi:10.1038/d41586-026-01494-9 Virologist Jay Hooper is developing a vaccine for the rare rodent virus behind an outbreak on a cruise ship.",
+    "abstract": "Nature, Published online: 07 May 2026; doi:10.1038/d41586-026-01494-9 Virologist Jay Hooper is developing a vaccine for the rare rodent virus behind an outbreak on a cruise ship.",
+    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-01494-9/d41586-026-01494-9_52382424.jpg",
+    "topic": "default",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
     "title": "OpenAI is under criminal investigation — why chatbots don’t always follow the law",
     "link": "https://www.nature.com/articles/d41586-026-01405-y",
     "journal": "Nature",
@@ -242,19 +255,6 @@
     "summary": "Nature, Published online: 06 May 2026; doi:10.1038/s41586-026-10452-4 Multimodal machine learning reveals that tumour microenvironments can be decomposed into spatially organized multicellular ecosystems, termed spatial ecotypes, that can be accessed non-invasively via liquid biopsy and used to profile individual cancers and target treatments.",
     "abstract": "Nature, Published online: 06 May 2026; doi:10.1038/s41586-026-10452-4 Multimodal machine learning reveals that tumour microenvironments can be decomposed into spatially organized multicellular ecosystems, termed spatial ecotypes, that can be accessed non-invasively via liquid biopsy and used to profile individual cancers and target treatments.",
     "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-10452-4/MediaObjects/41586_2026_10452_Fig1_HTML.png",
-    "topic": "default",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
-    "title": "Plasticity and language in the anaesthetized human hippocampus",
-    "link": "https://www.nature.com/articles/s41586-026-10448-0",
-    "journal": "Nature",
-    "source_type": "journal",
-    "date": "2026-05-06",
-    "summary": "Nature, Published online: 06 May 2026; doi:10.1038/s41586-026-10448-0 In the hippocampus, complex processing of sensory stimuli occurs even in the unconscious state.",
-    "abstract": "Consciousness is a fundamental component of cognition1, but the degree to which higher-order pattern recognition relies on it remains disputed2,3. Here we demonstrate the persistence of oddball discrimination, semantic processing and online prediction in individuals under general-anaesthesia-induced loss of consciousness4,5. Using high-density Neuropixels microelectrodes6 to record both single-unit and local-field-potential neural activity in the human hippocampus while playing a series of tones to anaesthetized patients, we found that hippocampal neurons and local oscillations retained some detection of oddball tones. This effect size grew over the course of the experiment (around 10 min), demonstrating representational plasticity. A biologically plausible recurrent neural network model showed that learning and oddball representation are an emergent property of flexible tone discrimination. Moreover, when we played language stimuli, single units and local field potentials carried information about the semantic and grammatical features of natural speech, even predicting semantic information about upcoming words. Together these results indicate that in the hippocampus, which is anatomically and functionally distant from primary sensory cortices7, complex processing of sensory stimuli occurs even in the unconscious state. In the hippocampus, complex processing of sensory stimuli occurs even in the unconscious state.",
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-10448-0/MediaObjects/41586_2026_10448_Fig1_HTML.png",
     "topic": "default",
     "topic_color": "#60a5fa",
     "priority_score": 0
