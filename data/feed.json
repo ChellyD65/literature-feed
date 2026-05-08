@@ -117,6 +117,32 @@
     "priority_score": 0
   },
   {
+    "title": "A life in pictures: celebrating David Attenborough at 100",
+    "link": "https://www.nature.com/articles/d41586-026-01371-5",
+    "journal": "Nature",
+    "source_type": "journal",
+    "date": "2026-05-08",
+    "summary": "Nature, Published online: 08 May 2026; doi:10.1038/d41586-026-01371-5 As the British naturalist marks a milestone birthday, we take a look at how his work has shaped science.",
+    "abstract": "Nature, Published online: 08 May 2026; doi:10.1038/d41586-026-01371-5 As the British naturalist marks a milestone birthday, we take a look at how his work has shaped science.",
+    "image": "https://www.nature.com/immersive/d41586-026-01371-5/assets/rJ7ypaRAie/2026-05-08-attenborough_1_ledegorillas_sm-1066x600.jpg",
+    "topic": "default",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
+    "title": "How a passion for baking fermented a fresh career move",
+    "link": "https://www.nature.com/articles/d41586-026-01390-2",
+    "journal": "Nature",
+    "source_type": "journal",
+    "date": "2026-05-08",
+    "summary": "Nature, Published online: 08 May 2026; doi:10.1038/d41586-026-01390-2 Chantle Edillor used a fascination with sourdough starters to pivot from studying human diseases to exploring yeast-based cures.",
+    "abstract": "Chantle Edillor used a fascination with sourdough starters to pivot from studying human diseases to exploring yeast-based cures. Chantle Edillor used a fascination with sourdough starters to pivot from studying human diseases to exploring yeast-based cures.",
+    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-01390-2/d41586-026-01390-2_52283554.jpg",
+    "topic": "default",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
     "title": "Ancient ice core could help explain mysterious shift in Earth’s ice ages",
     "link": "https://www.science.org/content/article/ancient-ice-core-could-help-explain-mysterious-shift-earth-s-ice-ages",
     "journal": "Science",
@@ -307,32 +333,6 @@
     "summary": "Nature, Published online: 06 May 2026; doi:10.1038/s41586-026-10423-9 A device architecture comprising silicon-based mobile qubits and the shuttling of two electron spins together demonstrates two-qubit gate fidelity of about 99% as well as quantum state teleportation between qubits separated by 320 nm.",
     "abstract": "Nature, Published online: 06 May 2026; doi:10.1038/s41586-026-10423-9 A device architecture comprising silicon-based mobile qubits and the shuttling of two electron spins together demonstrates two-qubit gate fidelity of about 99% as well as quantum state teleportation between qubits separated by 320 nm.",
     "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-10423-9/MediaObjects/41586_2026_10423_Fig1_HTML.png",
-    "topic": "default",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
-    "title": "Expanding the human proteome with microproteins and peptideins",
-    "link": "https://www.nature.com/articles/s41586-026-10459-x",
-    "journal": "Nature",
-    "source_type": "journal",
-    "date": "2026-05-06",
-    "summary": "Nature, Published online: 06 May 2026; doi:10.1038/s41586-026-10459-x A large-scale proteomics analysis of the dark proteome by the TransCODE Consortium reveals many translated non-canonical open reading frames to encode microproteins and peptideins.",
-    "abstract": "Nature, Published online: 06 May 2026; doi:10.1038/s41586-026-10459-x A large-scale proteomics analysis of the dark proteome by the TransCODE Consortium reveals many translated non-canonical open reading frames to encode microproteins and peptideins.",
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-10459-x/MediaObjects/41586_2026_10459_Fig1_HTML.png",
-    "topic": "default",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
-    "title": "RNA-triggered cell killing with CRISPR–Cas12a2",
-    "link": "https://www.nature.com/articles/s41586-026-10466-y",
-    "journal": "Nature",
-    "source_type": "journal",
-    "date": "2026-05-06",
-    "summary": "Nature, Published online: 06 May 2026; doi:10.1038/s41586-026-10466-y Cas12a2 enables RNA-triggered, sequence-specific killing of eukaryotic cells via widespread DNA shredding, allowing selective elimination of cells on the basis of gene expression, including virus-infected or mutation-bearing cells.",
-    "abstract": "Nature, Published online: 06 May 2026; doi:10.1038/s41586-026-10466-y Cas12a2 enables RNA-triggered, sequence-specific killing of eukaryotic cells via widespread DNA shredding, allowing selective elimination of cells on the basis of gene expression, including virus-infected or mutation-bearing cells.",
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-10466-y/MediaObjects/41586_2026_10466_Fig1_HTML.png",
     "topic": "default",
     "topic_color": "#60a5fa",
     "priority_score": 0
