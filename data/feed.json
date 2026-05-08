@@ -1,18 +1,5 @@
 [
   {
-    "title": "Microglia-dependent regulation of fear memory extinction",
-    "link": "https://www.nature.com/articles/s41593-026-02286-0",
-    "journal": "Nature Neuroscience",
-    "source_type": "journal",
-    "date": "2026-05-04",
-    "summary": "Nature Neuroscience, Published online: 04 May 2026; doi:10.1038/s41593-026-02286-0 Liu et al. show in mice that microglia are recruited to the soma and dendritic processes of fear engram neurons during extinction learning and that they weaken fear memories by temporarily silencing and remodeling the engram neurons.",
-    "abstract": "Nature Neuroscience, Published online: 04 May 2026; doi:10.1038/s41593-026-02286-0 Liu et al. show in mice that microglia are recruited to the soma and dendritic processes of fear engram neurons during extinction learning and that they weaken fear memories by temporarily silencing and remodeling the engram neurons.",
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41593-026-02286-0/MediaObjects/41593_2026_2286_Fig1_HTML.png",
-    "topic": "microglia",
-    "topic_color": "#38bdf8",
-    "priority_score": 139
-  },
-  {
     "title": "Author Correction: Proteasome-guided haem signalling axis contributes to T cell exhaustion",
     "link": "https://www.nature.com/articles/s41586-026-10608-2",
     "journal": "Nature",
@@ -63,6 +50,19 @@
     "topic": "retina",
     "topic_color": "#f472b6",
     "priority_score": 89
+  },
+  {
+    "title": "Screening for photoreceptor survival",
+    "link": "https://www.nature.com/articles/s41593-026-02307-y",
+    "journal": "Nature Neuroscience",
+    "source_type": "journal",
+    "date": "2026-05-08",
+    "summary": "Nature Neuroscience, Published online: 08 May 2026; doi:10.1038/s41593-026-02307-y Screening for photoreceptor survival",
+    "abstract": "Nature Neuroscience, Published online: 08 May 2026; doi:10.1038/s41593-026-02307-y Screening for photoreceptor survival",
+    "image": "data:image/svg+xml;charset=utf-8,%0A%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%233b0764%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%236d28d9%22/%3E%0A%20%20%20%20%3C/linearGradient%3E%0A%20%20%20%20%3Cfilter%20id%3D%22blur%22%3E%0A%20%20%20%20%20%20%3CfeGaussianBlur%20stdDeviation%3D%2230%22/%3E%0A%20%20%20%20%3C/filter%3E%0A%20%20%3C/defs%3E%0A%0A%20%20%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22url%28%23bg%29%22/%3E%0A%0A%20%20%3Ccircle%20cx%3D%221030%22%20cy%3D%22110%22%20r%3D%22170%22%20fill%3D%22%23f472b6%22%20opacity%3D%220.18%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%20%20%3Ccircle%20cx%3D%22180%22%20cy%3D%22560%22%20r%3D%22150%22%20fill%3D%22%23f472b6%22%20opacity%3D%220.16%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%0A%20%20%3Crect%20x%3D%2256%22%20y%3D%2252%22%20rx%3D%2218%22%20ry%3D%2218%22%20width%3D%22260%22%20height%3D%2254%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.08%29%22/%3E%0A%20%20%3Ctext%20x%3D%2284%22%20y%3D%2287%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2228%22%20fill%3D%22%23e5e7eb%22%3ENature%20Neuroscience%3C/text%3E%0A%0A%20%20%3Ctext%20x%3D%221010%22%20y%3D%22560%22%0A%20%20%20%20%20%20%20%20text-anchor%3D%22middle%22%0A%20%20%20%20%20%20%20%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%0A%20%20%20%20%20%20%20%20font-size%3D%22160%22%0A%20%20%20%20%20%20%20%20fill%3D%22%23f472b6%22%0A%20%20%20%20%20%20%20%20opacity%3D%220.85%22%3E%0A%20%20%20%20%E2%97%90%0A%20%20%3C/text%3E%0A%3C/svg%3E%0A",
+    "topic": "retina",
+    "topic_color": "#f472b6",
+    "priority_score": 57
   },
   {
     "title": "Sex differences in Alzheimer’s",
@@ -117,6 +117,19 @@
     "priority_score": 0
   },
   {
+    "title": "Trump administration cuts CDC’s key role in global program to stop HIV",
+    "link": "https://www.science.org/content/article/trump-administration-cuts-cdc-s-key-role-global-program-stop-hiv",
+    "journal": "Science",
+    "source_type": "journal",
+    "date": "2026-05-08T03:55:00Z",
+    "summary": "State Department would send PEPFAR money directly to countries, which could then pay fees to health agency for help",
+    "abstract": "State Department would send PEPFAR money directly to countries, which could then pay fees to health agency for help",
+    "image": "data:image/svg+xml;charset=utf-8,%0A%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23111827%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23374151%22/%3E%0A%20%20%20%20%3C/linearGradient%3E%0A%20%20%20%20%3Cfilter%20id%3D%22blur%22%3E%0A%20%20%20%20%20%20%3CfeGaussianBlur%20stdDeviation%3D%2230%22/%3E%0A%20%20%20%20%3C/filter%3E%0A%20%20%3C/defs%3E%0A%0A%20%20%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22url%28%23bg%29%22/%3E%0A%0A%20%20%3Ccircle%20cx%3D%221030%22%20cy%3D%22110%22%20r%3D%22170%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.18%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%20%20%3Ccircle%20cx%3D%22180%22%20cy%3D%22560%22%20r%3D%22150%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.16%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%0A%20%20%3Crect%20x%3D%2256%22%20y%3D%2252%22%20rx%3D%2218%22%20ry%3D%2218%22%20width%3D%22260%22%20height%3D%2254%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.08%29%22/%3E%0A%20%20%3Ctext%20x%3D%2284%22%20y%3D%2287%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2228%22%20fill%3D%22%23e5e7eb%22%3EScience%3C/text%3E%0A%0A%20%20%3Ctext%20x%3D%221010%22%20y%3D%22560%22%0A%20%20%20%20%20%20%20%20text-anchor%3D%22middle%22%0A%20%20%20%20%20%20%20%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%0A%20%20%20%20%20%20%20%20font-size%3D%22160%22%0A%20%20%20%20%20%20%20%20fill%3D%22%2360a5fa%22%0A%20%20%20%20%20%20%20%20opacity%3D%220.85%22%3E%0A%20%20%20%20%E2%80%A2%0A%20%20%3C/text%3E%0A%3C/svg%3E%0A",
+    "topic": "default",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
     "title": "As researchers aim for universal AI disclosure guidelines, the devil is in the details",
     "link": "https://www.science.org/content/article/researchers-aim-universal-ai-disclosure-guidelines-devil-details",
     "journal": "Science",
@@ -138,6 +151,19 @@
     "summary": "Nature, Published online: 08 May 2026; doi:10.1038/d41586-026-01500-0 Andrew Robinson reviews five of the best science picks.",
     "abstract": "Nature, Published online: 08 May 2026; doi:10.1038/d41586-026-01500-0 Andrew Robinson reviews five of the best science picks.",
     "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-01500-0/d41586-026-01500-0_52351184.jpg",
+    "topic": "default",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
+    "title": "‘Undruggable’ cancer proteins meet their match",
+    "link": "https://www.nature.com/articles/d41586-026-01447-2",
+    "journal": "Nature",
+    "source_type": "journal",
+    "date": "2026-05-08",
+    "summary": "Nature, Published online: 08 May 2026; doi:10.1038/d41586-026-01447-2 People with a deadly form of pancreatic cancer survive longer on a drug that blocks the activity of a family of mutant proteins.",
+    "abstract": "People with a deadly form of pancreatic cancer survive longer on a drug that blocks the activity of a family of mutant proteins. People with a deadly form of pancreatic cancer survive longer on a drug that blocks the activity of a family of mutant proteins.",
+    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-01447-2/d41586-026-01447-2_52376100.jpg",
     "topic": "default",
     "topic_color": "#60a5fa",
     "priority_score": 0
@@ -247,6 +273,45 @@
     "priority_score": 0
   },
   {
+    "title": "The choreography of cerebral vasculature development",
+    "link": "https://www.nature.com/articles/s41593-026-02305-0",
+    "journal": "Nature Neuroscience",
+    "source_type": "journal",
+    "date": "2026-05-08",
+    "summary": "Nature Neuroscience, Published online: 08 May 2026; doi:10.1038/s41593-026-02305-0 The choreography of cerebral vasculature development",
+    "abstract": "Nature Neuroscience, Published online: 08 May 2026; doi:10.1038/s41593-026-02305-0 The choreography of cerebral vasculature development",
+    "image": "data:image/svg+xml;charset=utf-8,%0A%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23111827%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23374151%22/%3E%0A%20%20%20%20%3C/linearGradient%3E%0A%20%20%20%20%3Cfilter%20id%3D%22blur%22%3E%0A%20%20%20%20%20%20%3CfeGaussianBlur%20stdDeviation%3D%2230%22/%3E%0A%20%20%20%20%3C/filter%3E%0A%20%20%3C/defs%3E%0A%0A%20%20%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22url%28%23bg%29%22/%3E%0A%0A%20%20%3Ccircle%20cx%3D%221030%22%20cy%3D%22110%22%20r%3D%22170%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.18%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%20%20%3Ccircle%20cx%3D%22180%22%20cy%3D%22560%22%20r%3D%22150%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.16%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%0A%20%20%3Crect%20x%3D%2256%22%20y%3D%2252%22%20rx%3D%2218%22%20ry%3D%2218%22%20width%3D%22260%22%20height%3D%2254%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.08%29%22/%3E%0A%20%20%3Ctext%20x%3D%2284%22%20y%3D%2287%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2228%22%20fill%3D%22%23e5e7eb%22%3ENature%20Neuroscience%3C/text%3E%0A%0A%20%20%3Ctext%20x%3D%221010%22%20y%3D%22560%22%0A%20%20%20%20%20%20%20%20text-anchor%3D%22middle%22%0A%20%20%20%20%20%20%20%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%0A%20%20%20%20%20%20%20%20font-size%3D%22160%22%0A%20%20%20%20%20%20%20%20fill%3D%22%2360a5fa%22%0A%20%20%20%20%20%20%20%20opacity%3D%220.85%22%3E%0A%20%20%20%20%E2%80%A2%0A%20%20%3C/text%3E%0A%3C/svg%3E%0A",
+    "topic": "neuroscience",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
+    "title": "A couple of couplings",
+    "link": "https://www.nature.com/articles/s41593-026-02306-z",
+    "journal": "Nature Neuroscience",
+    "source_type": "journal",
+    "date": "2026-05-08",
+    "summary": "Nature Neuroscience, Published online: 08 May 2026; doi:10.1038/s41593-026-02306-z A couple of couplings",
+    "abstract": "Nature Neuroscience, Published online: 08 May 2026; doi:10.1038/s41593-026-02306-z A couple of couplings",
+    "image": "data:image/svg+xml;charset=utf-8,%0A%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23111827%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23374151%22/%3E%0A%20%20%20%20%3C/linearGradient%3E%0A%20%20%20%20%3Cfilter%20id%3D%22blur%22%3E%0A%20%20%20%20%20%20%3CfeGaussianBlur%20stdDeviation%3D%2230%22/%3E%0A%20%20%20%20%3C/filter%3E%0A%20%20%3C/defs%3E%0A%0A%20%20%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22url%28%23bg%29%22/%3E%0A%0A%20%20%3Ccircle%20cx%3D%221030%22%20cy%3D%22110%22%20r%3D%22170%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.18%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%20%20%3Ccircle%20cx%3D%22180%22%20cy%3D%22560%22%20r%3D%22150%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.16%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%0A%20%20%3Crect%20x%3D%2256%22%20y%3D%2252%22%20rx%3D%2218%22%20ry%3D%2218%22%20width%3D%22260%22%20height%3D%2254%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.08%29%22/%3E%0A%20%20%3Ctext%20x%3D%2284%22%20y%3D%2287%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2228%22%20fill%3D%22%23e5e7eb%22%3ENature%20Neuroscience%3C/text%3E%0A%0A%20%20%3Ctext%20x%3D%221010%22%20y%3D%22560%22%0A%20%20%20%20%20%20%20%20text-anchor%3D%22middle%22%0A%20%20%20%20%20%20%20%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%0A%20%20%20%20%20%20%20%20font-size%3D%22160%22%0A%20%20%20%20%20%20%20%20fill%3D%22%2360a5fa%22%0A%20%20%20%20%20%20%20%20opacity%3D%220.85%22%3E%0A%20%20%20%20%E2%80%A2%0A%20%20%3C/text%3E%0A%3C/svg%3E%0A",
+    "topic": "neuroscience",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
+    "title": "Neurons for seeing and imagining",
+    "link": "https://www.nature.com/articles/s41593-026-02304-1",
+    "journal": "Nature Neuroscience",
+    "source_type": "journal",
+    "date": "2026-05-08",
+    "summary": "Nature Neuroscience, Published online: 08 May 2026; doi:10.1038/s41593-026-02304-1 Neurons for seeing and imagining",
+    "abstract": "Nature Neuroscience, Published online: 08 May 2026; doi:10.1038/s41593-026-02304-1 Neurons for seeing and imagining",
+    "image": "data:image/svg+xml;charset=utf-8,%0A%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23111827%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23374151%22/%3E%0A%20%20%20%20%3C/linearGradient%3E%0A%20%20%20%20%3Cfilter%20id%3D%22blur%22%3E%0A%20%20%20%20%20%20%3CfeGaussianBlur%20stdDeviation%3D%2230%22/%3E%0A%20%20%20%20%3C/filter%3E%0A%20%20%3C/defs%3E%0A%0A%20%20%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22url%28%23bg%29%22/%3E%0A%0A%20%20%3Ccircle%20cx%3D%221030%22%20cy%3D%22110%22%20r%3D%22170%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.18%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%20%20%3Ccircle%20cx%3D%22180%22%20cy%3D%22560%22%20r%3D%22150%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.16%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%0A%20%20%3Crect%20x%3D%2256%22%20y%3D%2252%22%20rx%3D%2218%22%20ry%3D%2218%22%20width%3D%22260%22%20height%3D%2254%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.08%29%22/%3E%0A%20%20%3Ctext%20x%3D%2284%22%20y%3D%2287%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2228%22%20fill%3D%22%23e5e7eb%22%3ENature%20Neuroscience%3C/text%3E%0A%0A%20%20%3Ctext%20x%3D%221010%22%20y%3D%22560%22%0A%20%20%20%20%20%20%20%20text-anchor%3D%22middle%22%0A%20%20%20%20%20%20%20%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%0A%20%20%20%20%20%20%20%20font-size%3D%22160%22%0A%20%20%20%20%20%20%20%20fill%3D%22%2360a5fa%22%0A%20%20%20%20%20%20%20%20opacity%3D%220.85%22%3E%0A%20%20%20%20%E2%80%A2%0A%20%20%3C/text%3E%0A%3C/svg%3E%0A",
+    "topic": "neuroscience",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
     "title": "Ancient ice core could help explain mysterious shift in Earth’s ice ages",
     "link": "https://www.science.org/content/article/ancient-ice-core-could-help-explain-mysterious-shift-earth-s-ice-ages",
     "journal": "Science",
@@ -307,19 +372,6 @@
     "summary": "Nature, Published online: 07 May 2026; doi:10.1038/d41586-026-01446-3 A method reveals that some local wild-meat markets share the same supply chains as global smuggling operations.",
     "abstract": "Nature, Published online: 07 May 2026; doi:10.1038/d41586-026-01446-3 A method reveals that some local wild-meat markets share the same supply chains as global smuggling operations.",
     "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-01446-3/d41586-026-01446-3_52375990.jpg",
-    "topic": "default",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
-    "title": "There is no vaccine for deadly hantavirus: what that means for future outbreaks",
-    "link": "https://www.nature.com/articles/d41586-026-01494-9",
-    "journal": "Nature",
-    "source_type": "journal",
-    "date": "2026-05-07",
-    "summary": "Nature, Published online: 07 May 2026; doi:10.1038/d41586-026-01494-9 Virologist Jay Hooper is developing a vaccine for the rare rodent virus behind an outbreak on a cruise ship.",
-    "abstract": "Nature, Published online: 07 May 2026; doi:10.1038/d41586-026-01494-9 Virologist Jay Hooper is developing a vaccine for the rare rodent virus behind an outbreak on a cruise ship.",
-    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-01494-9/d41586-026-01494-9_52382424.jpg",
     "topic": "default",
     "topic_color": "#60a5fa",
     "priority_score": 0
@@ -390,19 +442,6 @@
     "priority_score": 0
   },
   {
-    "title": "CDC leader calls for new journal to ‘elevate scientific rigor’",
-    "link": "https://www.science.org/content/article/cdc-leader-calls-new-journal-elevate-scientific-rigor",
-    "journal": "Science",
-    "source_type": "journal",
-    "date": "2026-05-05T05:15:00Z",
-    "summary": "Bhattacharya publicly slams vaccine study he pulled from agency’s flagship publication",
-    "abstract": "Bhattacharya publicly slams vaccine study he pulled from agency’s flagship publication",
-    "image": "data:image/svg+xml;charset=utf-8,%0A%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23111827%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23374151%22/%3E%0A%20%20%20%20%3C/linearGradient%3E%0A%20%20%20%20%3Cfilter%20id%3D%22blur%22%3E%0A%20%20%20%20%20%20%3CfeGaussianBlur%20stdDeviation%3D%2230%22/%3E%0A%20%20%20%20%3C/filter%3E%0A%20%20%3C/defs%3E%0A%0A%20%20%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22url%28%23bg%29%22/%3E%0A%0A%20%20%3Ccircle%20cx%3D%221030%22%20cy%3D%22110%22%20r%3D%22170%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.18%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%20%20%3Ccircle%20cx%3D%22180%22%20cy%3D%22560%22%20r%3D%22150%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.16%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%0A%20%20%3Crect%20x%3D%2256%22%20y%3D%2252%22%20rx%3D%2218%22%20ry%3D%2218%22%20width%3D%22260%22%20height%3D%2254%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.08%29%22/%3E%0A%20%20%3Ctext%20x%3D%2284%22%20y%3D%2287%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2228%22%20fill%3D%22%23e5e7eb%22%3EScience%3C/text%3E%0A%0A%20%20%3Ctext%20x%3D%221010%22%20y%3D%22560%22%0A%20%20%20%20%20%20%20%20text-anchor%3D%22middle%22%0A%20%20%20%20%20%20%20%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%0A%20%20%20%20%20%20%20%20font-size%3D%22160%22%0A%20%20%20%20%20%20%20%20fill%3D%22%2360a5fa%22%0A%20%20%20%20%20%20%20%20opacity%3D%220.85%22%3E%0A%20%20%20%20%E2%80%A2%0A%20%20%3C/text%3E%0A%3C/svg%3E%0A",
-    "topic": "default",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
     "title": "Molecular mechanism of calcium permeability and magnesium block in NMDA receptors",
     "link": "https://www.nature.com/articles/s41593-026-02283-3",
     "journal": "Nature Neuroscience",
@@ -468,19 +507,6 @@
     "priority_score": 0
   },
   {
-    "title": "Stochastic growth and ligand–receptor interaction-mediated stabilization generate stereotyped dendritic arbors",
-    "link": "https://www.nature.com/articles/s41593-026-02278-0",
-    "journal": "Nature Neuroscience",
-    "source_type": "journal",
-    "date": "2026-05-04",
-    "summary": "Nature Neuroscience, Published online: 04 May 2026; doi:10.1038/s41593-026-02278-0 Stereotyped dendritic arbors arise from stochastic growth and selective stabilization of dendritic branches. Two pools of guidance receptor are required. Ligand-free receptors drive stochastic growth while ligand-bound receptors stabilize branches.",
-    "abstract": "Nature Neuroscience, Published online: 04 May 2026; doi:10.1038/s41593-026-02278-0 Stereotyped dendritic arbors arise from stochastic growth and selective stabilization of dendritic branches. Two pools of guidance receptor are required. Ligand-free receptors drive stochastic growth while ligand-bound receptors stabilize branches.",
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41593-026-02278-0/MediaObjects/41593_2026_2278_Fig1_HTML.png",
-    "topic": "neuroscience",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
     "title": "An international and independent scientific foundation for AI governance",
     "link": "https://www.nature.com/articles/s41591-026-04375-w",
     "journal": "Nature Medicine",
@@ -490,19 +516,6 @@
     "abstract": "Nature Medicine, Published online: 04 May 2026; doi:10.1038/s41591-026-04375-w An international and independent scientific foundation for AI governance",
     "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41591-026-04375-w/MediaObjects/41591_2026_4375_Fig1_HTML.png",
     "topic": "default",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
-    "title": "A communication subspace relays context-dependent actions from human prefrontal to motor cortex",
-    "link": "https://www.nature.com/articles/s41593-026-02290-4",
-    "journal": "Nature Neuroscience",
-    "source_type": "journal",
-    "date": "2026-05-01",
-    "summary": "Nature Neuroscience, Published online: 01 May 2026; doi:10.1038/s41593-026-02290-4 Context-dependent behavior selects actions according to task demands. Using direct brain recordings in humans, Binish et al. uncover how coordinated population activity efficiently channels information from prefrontal to motor cortex.",
-    "abstract": "Nature Neuroscience, Published online: 01 May 2026; doi:10.1038/s41593-026-02290-4 Context-dependent behavior selects actions according to task demands. Using direct brain recordings in humans, Binish et al. uncover how coordinated population activity efficiently channels information from prefrontal to motor cortex.",
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41593-026-02290-4/MediaObjects/41593_2026_2290_Fig1_HTML.png",
-    "topic": "neuroscience",
     "topic_color": "#60a5fa",
     "priority_score": 0
   },
@@ -555,19 +568,6 @@
     "abstract": "Proceedings of the National Academy of Sciences, Volume 123, Issue 18, May 2026. Ketamine has been shown to reduce depression and suicidality in individuals resistant to treatment by other drugs. Exactly how ketamine works is not known. Here, I propose a new hypothesis that involves synaptic and circuit plasticity and may lead to ...",
     "image": "data:image/svg+xml;charset=utf-8,%0A%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23111827%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23374151%22/%3E%0A%20%20%20%20%3C/linearGradient%3E%0A%20%20%20%20%3Cfilter%20id%3D%22blur%22%3E%0A%20%20%20%20%20%20%3CfeGaussianBlur%20stdDeviation%3D%2230%22/%3E%0A%20%20%20%20%3C/filter%3E%0A%20%20%3C/defs%3E%0A%0A%20%20%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22url%28%23bg%29%22/%3E%0A%0A%20%20%3Ccircle%20cx%3D%221030%22%20cy%3D%22110%22%20r%3D%22170%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.18%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%20%20%3Ccircle%20cx%3D%22180%22%20cy%3D%22560%22%20r%3D%22150%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.16%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%0A%20%20%3Crect%20x%3D%2256%22%20y%3D%2252%22%20rx%3D%2218%22%20ry%3D%2218%22%20width%3D%22260%22%20height%3D%2254%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.08%29%22/%3E%0A%20%20%3Ctext%20x%3D%2284%22%20y%3D%2287%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2228%22%20fill%3D%22%23e5e7eb%22%3EPNAS%3C/text%3E%0A%0A%20%20%3Ctext%20x%3D%221010%22%20y%3D%22560%22%0A%20%20%20%20%20%20%20%20text-anchor%3D%22middle%22%0A%20%20%20%20%20%20%20%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%0A%20%20%20%20%20%20%20%20font-size%3D%22160%22%0A%20%20%20%20%20%20%20%20fill%3D%22%2360a5fa%22%0A%20%20%20%20%20%20%20%20opacity%3D%220.85%22%3E%0A%20%20%20%20%E2%80%A2%0A%20%20%3C/text%3E%0A%3C/svg%3E%0A",
     "topic": "default",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
-    "title": "Laminar organization of cellular microcircuits modulating human interictal epileptiform discharges",
-    "link": "https://www.nature.com/articles/s41593-026-02258-4",
-    "journal": "Nature Neuroscience",
-    "source_type": "journal",
-    "date": "2026-04-30",
-    "summary": "Nature Neuroscience, Published online: 30 April 2026; doi:10.1038/s41593-026-02258-4 High-density single-neuron recordings in patients with epilepsy revealed interictal discharges are generated by structured laminar circuits. These circuits overlapped with cognitive circuits and could predict discharges up to 1 s in advance.",
-    "abstract": "Nature Neuroscience, Published online: 30 April 2026; doi:10.1038/s41593-026-02258-4 High-density single-neuron recordings in patients with epilepsy revealed interictal discharges are generated by structured laminar circuits. These circuits overlapped with cognitive circuits and could predict discharges up to 1 s in advance.",
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41593-026-02258-4/MediaObjects/41593_2026_2258_Fig1_HTML.png",
-    "topic": "neuroscience",
     "topic_color": "#60a5fa",
     "priority_score": 0
   },
