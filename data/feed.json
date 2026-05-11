@@ -1,18 +1,5 @@
 [
   {
-    "title": "Author Correction: Proteasome-guided haem signalling axis contributes to T cell exhaustion",
-    "link": "https://www.nature.com/articles/s41586-026-10608-2",
-    "journal": "Nature",
-    "source_type": "journal",
-    "date": "2026-05-07",
-    "summary": "Nature, Published online: 07 May 2026; doi:10.1038/s41586-026-10608-2 Author Correction: Proteasome-guided haem signalling axis contributes to T cell exhaustion",
-    "abstract": "Nature, Published online: 07 May 2026; doi:10.1038/s41586-026-10608-2 Author Correction: Proteasome-guided haem signalling axis contributes to T cell exhaustion",
-    "image": "data:image/svg+xml;charset=utf-8,%0A%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23111827%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23374151%22/%3E%0A%20%20%20%20%3C/linearGradient%3E%0A%20%20%20%20%3Cfilter%20id%3D%22blur%22%3E%0A%20%20%20%20%20%20%3CfeGaussianBlur%20stdDeviation%3D%2230%22/%3E%0A%20%20%20%20%3C/filter%3E%0A%20%20%3C/defs%3E%0A%0A%20%20%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22url%28%23bg%29%22/%3E%0A%0A%20%20%3Ccircle%20cx%3D%221030%22%20cy%3D%22110%22%20r%3D%22170%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.18%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%20%20%3Ccircle%20cx%3D%22180%22%20cy%3D%22560%22%20r%3D%22150%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.16%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%0A%20%20%3Crect%20x%3D%2256%22%20y%3D%2252%22%20rx%3D%2218%22%20ry%3D%2218%22%20width%3D%22260%22%20height%3D%2254%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.08%29%22/%3E%0A%20%20%3Ctext%20x%3D%2284%22%20y%3D%2287%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2228%22%20fill%3D%22%23e5e7eb%22%3ENature%3C/text%3E%0A%0A%20%20%3Ctext%20x%3D%221010%22%20y%3D%22560%22%0A%20%20%20%20%20%20%20%20text-anchor%3D%22middle%22%0A%20%20%20%20%20%20%20%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%0A%20%20%20%20%20%20%20%20font-size%3D%22160%22%0A%20%20%20%20%20%20%20%20fill%3D%22%2360a5fa%22%0A%20%20%20%20%20%20%20%20opacity%3D%220.85%22%3E%0A%20%20%20%20%E2%80%A2%0A%20%20%3C/text%3E%0A%3C/svg%3E%0A",
-    "topic": "Immunology",
-    "topic_color": "#60a5fa",
-    "priority_score": 133
-  },
-  {
     "title": "Author Correction: Early methionine availability attenuates T cell exhaustion",
     "link": "https://www.nature.com/articles/s41590-026-02534-2",
     "journal": "Nature Immunology",
@@ -26,17 +13,17 @@
     "priority_score": 133
   },
   {
-    "title": "Kupffer cell calibration of T cell responses via VSIG4–CD5 interaction promotes tumor evasion",
-    "link": "https://www.nature.com/articles/s41590-026-02510-w",
+    "title": "A new ‘K’ind of T helper cell",
+    "link": "https://www.nature.com/articles/s41590-026-02524-4",
     "journal": "Nature Immunology",
     "source_type": "journal",
-    "date": "2026-04-29",
-    "summary": "Nature Immunology, Published online: 29 April 2026; doi:10.1038/s41590-026-02510-w VSIG4 is a co-inhibitory receptor expressed by Kupffer cells. Here, the authors identify a direct binding interaction between VSIG4 and T cell CD5 that can calibrate CD8+ T cell responses to liver metastasis. They also design an anti-VSIG4 nanobody to enhance immune checkpoint blockade treatment of mice.",
-    "abstract": "Nature Immunology, Published online: 29 April 2026; doi:10.1038/s41590-026-02510-w VSIG4 is a co-inhibitory receptor expressed by Kupffer cells. Here, the authors identify a direct binding interaction between VSIG4 and T cell CD5 that can calibrate CD8+ T cell responses to liver metastasis. They also design an anti-VSIG4 nanobody to enhance immune checkpoint blockade treatment of mice.",
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41590-026-02510-w/MediaObjects/41590_2026_2510_Fig1_HTML.png",
+    "date": "2026-05-11",
+    "summary": "Nature Immunology, Published online: 11 May 2026; doi:10.1038/s41590-026-02524-4 A newly identified subset of CD4+ T cells is distinguished by increased expression of EOMES and granzyme K. These ‘THK’ cells are found in diverse immunological contexts and shown to mediate intestinal immunopathology.",
+    "abstract": "Nature Immunology, Published online: 11 May 2026; doi:10.1038/s41590-026-02524-4 A newly identified subset of CD4+ T cells is distinguished by increased expression of EOMES and granzyme K. These ‘THK’ cells are found in diverse immunological contexts and shown to mediate intestinal immunopathology.",
+    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41590-026-02524-4/MediaObjects/41590_2026_2524_Fig1_HTML.png",
     "topic": "Immunology",
     "topic_color": "#60a5fa",
-    "priority_score": 133
+    "priority_score": 93
   },
   {
     "title": "Screening for photoreceptor survival",
@@ -89,6 +76,58 @@
     "topic": "neurodegeneration",
     "topic_color": "#fda4af",
     "priority_score": 35
+  },
+  {
+    "title": "Publisher Correction: Presymptomatic training mitigates functional deficits in a mouse model of Rett syndrome",
+    "link": "https://www.nature.com/articles/s41586-026-10578-5",
+    "journal": "Nature",
+    "source_type": "journal",
+    "date": "2026-05-11",
+    "summary": "Nature, Published online: 11 May 2026; doi:10.1038/s41586-026-10578-5 Publisher Correction: Presymptomatic training mitigates functional deficits in a mouse model of Rett syndrome",
+    "abstract": "Nature, Published online: 11 May 2026; doi:10.1038/s41586-026-10578-5 Publisher Correction: Presymptomatic training mitigates functional deficits in a mouse model of Rett syndrome",
+    "image": "data:image/svg+xml;charset=utf-8,%0A%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23111827%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23374151%22/%3E%0A%20%20%20%20%3C/linearGradient%3E%0A%20%20%20%20%3Cfilter%20id%3D%22blur%22%3E%0A%20%20%20%20%20%20%3CfeGaussianBlur%20stdDeviation%3D%2230%22/%3E%0A%20%20%20%20%3C/filter%3E%0A%20%20%3C/defs%3E%0A%0A%20%20%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22url%28%23bg%29%22/%3E%0A%0A%20%20%3Ccircle%20cx%3D%221030%22%20cy%3D%22110%22%20r%3D%22170%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.18%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%20%20%3Ccircle%20cx%3D%22180%22%20cy%3D%22560%22%20r%3D%22150%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.16%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%0A%20%20%3Crect%20x%3D%2256%22%20y%3D%2252%22%20rx%3D%2218%22%20ry%3D%2218%22%20width%3D%22260%22%20height%3D%2254%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.08%29%22/%3E%0A%20%20%3Ctext%20x%3D%2284%22%20y%3D%2287%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2228%22%20fill%3D%22%23e5e7eb%22%3ENature%3C/text%3E%0A%0A%20%20%3Ctext%20x%3D%221010%22%20y%3D%22560%22%0A%20%20%20%20%20%20%20%20text-anchor%3D%22middle%22%0A%20%20%20%20%20%20%20%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%0A%20%20%20%20%20%20%20%20font-size%3D%22160%22%0A%20%20%20%20%20%20%20%20fill%3D%22%2360a5fa%22%0A%20%20%20%20%20%20%20%20opacity%3D%220.85%22%3E%0A%20%20%20%20%E2%80%A2%0A%20%20%3C/text%3E%0A%3C/svg%3E%0A",
+    "topic": "default",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
+    "title": "The sleep paradox: why do humans sleep so little when we need it so much?",
+    "link": "https://www.nature.com/articles/d41586-026-01478-9",
+    "journal": "Nature",
+    "source_type": "journal",
+    "date": "2026-05-11",
+    "summary": "Nature, Published online: 11 May 2026; doi:10.1038/d41586-026-01478-9 A new book brings together ethnography, neurobiology and primatology to argue that how much our species sleeps is an evolutionary trade-off, with lessons for how each of us can sleep better.",
+    "abstract": "Nature, Published online: 11 May 2026; doi:10.1038/d41586-026-01478-9 A new book brings together ethnography, neurobiology and primatology to argue that how much our species sleeps is an evolutionary trade-off, with lessons for how each of us can sleep better.",
+    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-01478-9/d41586-026-01478-9_52351066.jpg",
+    "topic": "default",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
+    "title": "Best. Day. Ever. What does a good day in science look like?",
+    "link": "https://www.nature.com/articles/d41586-026-01479-8",
+    "journal": "Nature",
+    "source_type": "journal",
+    "date": "2026-05-11",
+    "summary": "Nature, Published online: 11 May 2026; doi:10.1038/d41586-026-01479-8 Struggling to remember why you picked a career in science? Here are some heart-warming tales to jog your memory.",
+    "abstract": "Nature, Published online: 11 May 2026; doi:10.1038/d41586-026-01479-8 Struggling to remember why you picked a career in science? Here are some heart-warming tales to jog your memory.",
+    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-01479-8/d41586-026-01479-8_52382688.jpg",
+    "topic": "default",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
+    "title": "A new treatment for preterm pre-eclampsia could benefit mother and child",
+    "link": "https://www.nature.com/articles/s41591-026-04400-y",
+    "journal": "Nature Medicine",
+    "source_type": "journal",
+    "date": "2026-05-11",
+    "summary": "Nature Medicine, Published online: 11 May 2026; doi:10.1038/s41591-026-04400-y A first-in-human trial involving selective removal of the placental protein sFlt-1 in preterm pre-eclampsia provides critical safety data, and could mark the beginning of a new era of targeted therapy for this potentially lethal pregnancy complication.",
+    "abstract": "Nature Medicine, Published online: 11 May 2026; doi:10.1038/s41591-026-04400-y A first-in-human trial involving selective removal of the placental protein sFlt-1 in preterm pre-eclampsia provides critical safety data, and could mark the beginning of a new era of targeted therapy for this potentially lethal pregnancy complication.",
+    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41591-026-04400-y/MediaObjects/41591_2026_4400_Fig1_HTML.png",
+    "topic": "default",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
   },
   {
     "title": "Low-dose digoxin in patients with heart failure with reduced or mildly reduced ejection fraction: a randomized controlled trial",
@@ -195,6 +234,19 @@
     "priority_score": 0
   },
   {
+    "title": "How a passion for baking fermented a fresh career move",
+    "link": "https://www.nature.com/articles/d41586-026-01390-2",
+    "journal": "Nature",
+    "source_type": "journal",
+    "date": "2026-05-08",
+    "summary": "Nature, Published online: 08 May 2026; doi:10.1038/d41586-026-01390-2 Chantle Edillor used a fascination with sourdough starters to pivot from studying human diseases to exploring yeast-based cures.",
+    "abstract": "Chantle Edillor used a fascination with sourdough starters to pivot from studying human diseases to exploring yeast-based cures. Chantle Edillor used a fascination with sourdough starters to pivot from studying human diseases to exploring yeast-based cures.",
+    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-01390-2/d41586-026-01390-2_52283554.jpg",
+    "topic": "default",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
     "title": "‘Undruggable’ cancer proteins meet their match",
     "link": "https://www.nature.com/articles/d41586-026-01447-2",
     "journal": "Nature",
@@ -203,6 +255,19 @@
     "summary": "Nature, Published online: 08 May 2026; doi:10.1038/d41586-026-01447-2 People with a deadly form of pancreatic cancer survive longer on a drug that blocks the activity of a family of mutant proteins.",
     "abstract": "People with a deadly form of pancreatic cancer survive longer on a drug that blocks the activity of a family of mutant proteins. People with a deadly form of pancreatic cancer survive longer on a drug that blocks the activity of a family of mutant proteins.",
     "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-01447-2/d41586-026-01447-2_52376100.jpg",
+    "topic": "default",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
+    "title": "Briefing Chat: Can't focus? It's not your attention span, it's your notifications",
+    "link": "https://www.nature.com/articles/d41586-026-01510-y",
+    "journal": "Nature",
+    "source_type": "journal",
+    "date": "2026-05-08",
+    "summary": "Nature, Published online: 08 May 2026; doi:10.1038/d41586-026-01510-y Nature staff discuss some of the week's top science news.",
+    "abstract": "Nature, Published online: 08 May 2026; doi:10.1038/d41586-026-01510-y Nature staff discuss some of the week's top science news.",
+    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-01510-y/d41586-026-01510-y_52389650.jpg",
     "topic": "default",
     "topic_color": "#60a5fa",
     "priority_score": 0
@@ -268,58 +333,6 @@
     "summary": "Nature, Published online: 08 May 2026; doi:10.1038/d41586-026-01449-0 The Make America Healthy Again movement asserts that over-prescription of drugs for mental-health conditions is rife in the United States.",
     "abstract": "The Make America Healthy Again movement asserts that over-prescription of drugs for mental-health conditions is rife in the United States. The Make America Healthy Again movement asserts that over-prescription of drugs for mental-health conditions is rife in the United States.",
     "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-01449-0/d41586-026-01449-0_52376126.jpg",
-    "topic": "default",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
-    "title": "Matter of taste",
-    "link": "https://www.nature.com/articles/d41586-026-01079-6",
-    "journal": "Nature",
-    "source_type": "journal",
-    "date": "2026-05-08",
-    "summary": "Nature, Published online: 08 May 2026; doi:10.1038/d41586-026-01079-6 It’s hard to swallow.",
-    "abstract": "Nature, Published online: 08 May 2026; doi:10.1038/d41586-026-01079-6 It’s hard to swallow.",
-    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-01079-6/d41586-026-01079-6_52203894.jpg",
-    "topic": "default",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
-    "title": "A life in pictures: celebrating David Attenborough at 100",
-    "link": "https://www.nature.com/articles/d41586-026-01371-5",
-    "journal": "Nature",
-    "source_type": "journal",
-    "date": "2026-05-08",
-    "summary": "Nature, Published online: 08 May 2026; doi:10.1038/d41586-026-01371-5 As the British naturalist marks a milestone birthday, we take a look at how his work has shaped science.",
-    "abstract": "Nature, Published online: 08 May 2026; doi:10.1038/d41586-026-01371-5 As the British naturalist marks a milestone birthday, we take a look at how his work has shaped science.",
-    "image": "https://www.nature.com/immersive/d41586-026-01371-5/assets/rJ7ypaRAie/2026-05-08-attenborough_1_ledegorillas_sm-1066x600.jpg",
-    "topic": "default",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
-    "title": "How a passion for baking fermented a fresh career move",
-    "link": "https://www.nature.com/articles/d41586-026-01390-2",
-    "journal": "Nature",
-    "source_type": "journal",
-    "date": "2026-05-08",
-    "summary": "Nature, Published online: 08 May 2026; doi:10.1038/d41586-026-01390-2 Chantle Edillor used a fascination with sourdough starters to pivot from studying human diseases to exploring yeast-based cures.",
-    "abstract": "Chantle Edillor used a fascination with sourdough starters to pivot from studying human diseases to exploring yeast-based cures. Chantle Edillor used a fascination with sourdough starters to pivot from studying human diseases to exploring yeast-based cures.",
-    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-01390-2/d41586-026-01390-2_52283554.jpg",
-    "topic": "default",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
-    "title": "Happy 100th birthday David Attenborough! <i>Nature</i> salutes you",
-    "link": "https://www.nature.com/articles/d41586-026-01473-0",
-    "journal": "Nature",
-    "source_type": "journal",
-    "date": "2026-05-08",
-    "summary": "Nature, Published online: 08 May 2026; doi:10.1038/d41586-026-01473-0 The science communicator has raised awareness of the natural world andits myriad interconnections on which humans depend.",
-    "abstract": "Nature, Published online: 08 May 2026; doi:10.1038/d41586-026-01473-0 The science communicator has raised awareness of the natural world andits myriad interconnections on which humans depend.",
-    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-01473-0/d41586-026-01473-0_52379050.jpg",
     "topic": "default",
     "topic_color": "#60a5fa",
     "priority_score": 0
@@ -541,19 +554,6 @@
     "summary": "Nature Medicine, Published online: 04 May 2026; doi:10.1038/s41591-026-04375-w An international and independent scientific foundation for AI governance",
     "abstract": "Nature Medicine, Published online: 04 May 2026; doi:10.1038/s41591-026-04375-w An international and independent scientific foundation for AI governance",
     "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41591-026-04375-w/MediaObjects/41591_2026_4375_Fig1_HTML.png",
-    "topic": "default",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
-    "title": "Rethinking triage for febrile children in low-resource settings",
-    "link": "https://www.nature.com/articles/s41591-026-04387-6",
-    "journal": "Nature Medicine",
-    "source_type": "journal",
-    "date": "2026-05-01",
-    "summary": "Nature Medicine, Published online: 01 May 2026; doi:10.1038/s41591-026-04387-6 Integrating clinical data with simple physiological measures or biomarkers improves triage of febrile children and could reshape frontline care in resource-limited settings.",
-    "abstract": "Nature Medicine, Published online: 01 May 2026; doi:10.1038/s41591-026-04387-6 Integrating clinical data with simple physiological measures or biomarkers improves triage of febrile children and could reshape frontline care in resource-limited settings.",
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41591-026-04387-6/MediaObjects/41591_2026_4387_Fig1_HTML.png",
     "topic": "default",
     "topic_color": "#60a5fa",
     "priority_score": 0
