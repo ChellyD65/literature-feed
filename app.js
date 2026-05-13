@@ -273,69 +273,7 @@ let touchLocked = false;
 const TOUCH_MIN_DISTANCE = 45;
 const TOUCH_MIN_VELOCITY = 0.18;
 
-window.addEventListener(
-  'touchstart',
-  (e) => {
-    if (!e.changedTouches?.length) return;
 
-    const touch = e.changedTouches[0];
-
-    touchStartY = touch.clientY;
-    touchStartTime = Date.now();
-    touchLocked = false;
-  },
-  { passive: true }
-);
-
-window.addEventListener(
-  'touchmove',
-  (e) => {
-    if (isSnapLocked()) {
-      e.preventDefault();
-    }
-  },
-  { passive: false }
-);
-
-window.addEventListener(
-  'touchend',
-  (e) => {
-    if (
-      isAnimating ||
-      isSnapLocked() ||
-      touchLocked ||
-      !e.changedTouches?.length
-    ) {
-      return;
-    }
-
-    const touch = e.changedTouches[0];
-
-    const deltaY = touchStartY - touch.clientY;
-    const absDelta = Math.abs(deltaY);
-
-    const elapsed = Math.max(Date.now() - touchStartTime, 1);
-    const velocity = absDelta / elapsed;
-
-    // Require either:
-    // - decent swipe distance
-    // - OR quick flick
-    const qualifies =
-      absDelta > TOUCH_MIN_DISTANCE ||
-      velocity > TOUCH_MIN_VELOCITY;
-
-    if (!qualifies) return;
-
-    touchLocked = true;
-
-    if (deltaY > 0) {
-      scrollToCard(currentCardIndex + 1);
-    } else {
-      scrollToCard(currentCardIndex - 1);
-    }
-  },
-  { passive: true }
-);
 
   window.addEventListener('keydown', (e) => {
     if (isAnimating || isSnapLocked()) return;
