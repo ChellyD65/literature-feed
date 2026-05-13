@@ -169,6 +169,19 @@
     "priority_score": 0
   },
   {
+    "title": "Gotcha! Odd language mistakes may help identify fake papers",
+    "link": "https://www.science.org/content/article/gotcha-odd-language-mistakes-may-help-identify-fake-papers",
+    "journal": "Science",
+    "source_type": "journal",
+    "date": "2026-05-13T02:22:00Z",
+    "summary": "A small investigation found identical errors and phrases across more than 200 papers, suggesting they were produced by paper mills",
+    "abstract": "A small investigation found identical errors and phrases across more than 200 papers, suggesting they were produced by paper mills",
+    "image": "data:image/svg+xml;charset=utf-8,%0A%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23111827%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23374151%22/%3E%0A%20%20%20%20%3C/linearGradient%3E%0A%20%20%20%20%3Cfilter%20id%3D%22blur%22%3E%0A%20%20%20%20%20%20%3CfeGaussianBlur%20stdDeviation%3D%2230%22/%3E%0A%20%20%20%20%3C/filter%3E%0A%20%20%3C/defs%3E%0A%0A%20%20%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22url%28%23bg%29%22/%3E%0A%0A%20%20%3Ccircle%20cx%3D%221030%22%20cy%3D%22110%22%20r%3D%22170%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.18%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%20%20%3Ccircle%20cx%3D%22180%22%20cy%3D%22560%22%20r%3D%22150%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.16%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%0A%20%20%3Crect%20x%3D%2256%22%20y%3D%2252%22%20rx%3D%2218%22%20ry%3D%2218%22%20width%3D%22260%22%20height%3D%2254%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.08%29%22/%3E%0A%20%20%3Ctext%20x%3D%2284%22%20y%3D%2287%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2228%22%20fill%3D%22%23e5e7eb%22%3EScience%3C/text%3E%0A%0A%20%20%3Ctext%20x%3D%221010%22%20y%3D%22560%22%0A%20%20%20%20%20%20%20%20text-anchor%3D%22middle%22%0A%20%20%20%20%20%20%20%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%0A%20%20%20%20%20%20%20%20font-size%3D%22160%22%0A%20%20%20%20%20%20%20%20fill%3D%22%2360a5fa%22%0A%20%20%20%20%20%20%20%20opacity%3D%220.85%22%3E%0A%20%20%20%20%E2%80%A2%0A%20%20%3C/text%3E%0A%3C/svg%3E%0A",
+    "topic": "default",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
     "title": "Stereoelectronic manipulation of ligands for perovskite solar cells",
     "link": "https://www.nature.com/articles/s41586-026-10626-0",
     "journal": "Nature",
@@ -203,6 +216,19 @@
     "summary": "Nature, Published online: 13 May 2026; doi:10.1038/d41586-026-01547-z There are a multitude of red-light emitting consumer goods, but do they really do anything for your health? We look at the science behind the hype — plus, the increasing levels of obesity in lower-income countries.",
     "abstract": "Nature, Published online: 13 May 2026; doi:10.1038/d41586-026-01547-z There are a multitude of red-light emitting consumer goods, but do they really do anything for your health? We look at the science behind the hype — plus, the increasing levels of obesity in lower-income countries.",
     "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-01547-z/d41586-026-01547-z_52406294.jpg",
+    "topic": "default",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
+    "title": "Pristine Antarctic ice records the Solar System’s travels",
+    "link": "https://www.nature.com/articles/d41586-026-01505-9",
+    "journal": "Nature",
+    "source_type": "journal",
+    "date": "2026-05-13",
+    "summary": "Nature, Published online: 13 May 2026; doi:10.1038/d41586-026-01505-9 Rare isotopes hint at when the Solar System entered the Local Interstellar Cloud.",
+    "abstract": "Nature, Published online: 13 May 2026; doi:10.1038/d41586-026-01505-9 Rare isotopes hint at when the Solar System entered the Local Interstellar Cloud.",
+    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-01505-9/d41586-026-01505-9_52406390.jpg",
     "topic": "default",
     "topic_color": "#60a5fa",
     "priority_score": 0
@@ -281,19 +307,6 @@
     "summary": "Nature, Published online: 13 May 2026; doi:10.1038/s41586-026-10544-1 A new metric shows that compound climate extremes rise faster with cumulative CO2 emissions than models project, implying higher risks and smaller remaining carbon budgets for the 1.5 °C and 2 °C targets.",
     "abstract": "Nature, Published online: 13 May 2026; doi:10.1038/s41586-026-10544-1 A new metric shows that compound climate extremes rise faster with cumulative CO2 emissions than models project, implying higher risks and smaller remaining carbon budgets for the 1.5 °C and 2 °C targets.",
     "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-10544-1/MediaObjects/41586_2026_10544_Fig1_HTML.png",
-    "topic": "default",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
-    "title": "Enamel proteins from six <i>Homo erectus</i> specimens across China",
-    "link": "https://www.nature.com/articles/s41586-026-10478-8",
-    "journal": "Nature",
-    "source_type": "journal",
-    "date": "2026-05-13",
-    "summary": "Nature, Published online: 13 May 2026; doi:10.1038/s41586-026-10478-8 Palaeoproteomic analysis of ancient enamel proteins extracted from Middle Pleistocene Homo erectus specimens from the Zhoukoudian, Hexian and Sunjiadong sites in China suggests that they are a new genetic monogroup, and super-archaic introgression in Denisovans is likely to have originated from H. erectus.",
-    "abstract": "Nature, Published online: 13 May 2026; doi:10.1038/s41586-026-10478-8 Palaeoproteomic analysis of ancient enamel proteins extracted from Middle Pleistocene Homo erectus specimens from the Zhoukoudian, Hexian and Sunjiadong sites in China suggests that they are a new genetic monogroup, and super-archaic introgression in Denisovans is likely to have originated from H. erectus.",
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-10478-8/MediaObjects/41586_2026_10478_Fig1_HTML.png",
     "topic": "default",
     "topic_color": "#60a5fa",
     "priority_score": 0
@@ -580,19 +593,6 @@
     "summary": "Proceedings of the National Academy of Sciences, Volume 123, Issue 19, May 2026. SignificancePhysical conditions at the Moon’s permanently shadowed regions are ideal for constructing an ultrastable optical resonator. This passively cooled optical cavity will stabilize a laser with unprecedentedly long phase coherence time, surpassing ...",
     "abstract": "Proceedings of the National Academy of Sciences, Volume 123, Issue 19, May 2026. SignificancePhysical conditions at the Moon’s permanently shadowed regions are ideal for constructing an ultrastable optical resonator. This passively cooled optical cavity will stabilize a laser with unprecedentedly long phase coherence time, surpassing ...",
     "image": "data:image/svg+xml;charset=utf-8,%0A%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23111827%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23374151%22/%3E%0A%20%20%20%20%3C/linearGradient%3E%0A%20%20%20%20%3Cfilter%20id%3D%22blur%22%3E%0A%20%20%20%20%20%20%3CfeGaussianBlur%20stdDeviation%3D%2230%22/%3E%0A%20%20%20%20%3C/filter%3E%0A%20%20%3C/defs%3E%0A%0A%20%20%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22url%28%23bg%29%22/%3E%0A%0A%20%20%3Ccircle%20cx%3D%221030%22%20cy%3D%22110%22%20r%3D%22170%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.18%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%20%20%3Ccircle%20cx%3D%22180%22%20cy%3D%22560%22%20r%3D%22150%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.16%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%0A%20%20%3Crect%20x%3D%2256%22%20y%3D%2252%22%20rx%3D%2218%22%20ry%3D%2218%22%20width%3D%22260%22%20height%3D%2254%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.08%29%22/%3E%0A%20%20%3Ctext%20x%3D%2284%22%20y%3D%2287%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2228%22%20fill%3D%22%23e5e7eb%22%3EPNAS%3C/text%3E%0A%0A%20%20%3Ctext%20x%3D%221010%22%20y%3D%22560%22%0A%20%20%20%20%20%20%20%20text-anchor%3D%22middle%22%0A%20%20%20%20%20%20%20%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%0A%20%20%20%20%20%20%20%20font-size%3D%22160%22%0A%20%20%20%20%20%20%20%20fill%3D%22%2360a5fa%22%0A%20%20%20%20%20%20%20%20opacity%3D%220.85%22%3E%0A%20%20%20%20%E2%80%A2%0A%20%20%3C/text%3E%0A%3C/svg%3E%0A",
-    "topic": "default",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
-    "title": "Computer scientist to lead storied DOE lab through ‘exciting and threatening’ AI revolution",
-    "link": "https://www.science.org/content/article/computer-scientist-lead-storied-doe-lab-through-exciting-and-threatening-ai-revolution",
-    "journal": "Science",
-    "source_type": "journal",
-    "date": "2026-05-08T03:01:00Z",
-    "summary": "Katherine Yelick will become director of the Department of Energy’s Lawrence Berkeley National Laboratory on 1 July",
-    "abstract": "Katherine Yelick will become director of the Department of Energy’s Lawrence Berkeley National Laboratory on 1 July",
-    "image": "data:image/svg+xml;charset=utf-8,%0A%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23111827%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23374151%22/%3E%0A%20%20%20%20%3C/linearGradient%3E%0A%20%20%20%20%3Cfilter%20id%3D%22blur%22%3E%0A%20%20%20%20%20%20%3CfeGaussianBlur%20stdDeviation%3D%2230%22/%3E%0A%20%20%20%20%3C/filter%3E%0A%20%20%3C/defs%3E%0A%0A%20%20%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22url%28%23bg%29%22/%3E%0A%0A%20%20%3Ccircle%20cx%3D%221030%22%20cy%3D%22110%22%20r%3D%22170%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.18%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%20%20%3Ccircle%20cx%3D%22180%22%20cy%3D%22560%22%20r%3D%22150%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.16%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%0A%20%20%3Crect%20x%3D%2256%22%20y%3D%2252%22%20rx%3D%2218%22%20ry%3D%2218%22%20width%3D%22260%22%20height%3D%2254%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.08%29%22/%3E%0A%20%20%3Ctext%20x%3D%2284%22%20y%3D%2287%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2228%22%20fill%3D%22%23e5e7eb%22%3EScience%3C/text%3E%0A%0A%20%20%3Ctext%20x%3D%221010%22%20y%3D%22560%22%0A%20%20%20%20%20%20%20%20text-anchor%3D%22middle%22%0A%20%20%20%20%20%20%20%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%0A%20%20%20%20%20%20%20%20font-size%3D%22160%22%0A%20%20%20%20%20%20%20%20fill%3D%22%2360a5fa%22%0A%20%20%20%20%20%20%20%20opacity%3D%220.85%22%3E%0A%20%20%20%20%E2%80%A2%0A%20%20%3C/text%3E%0A%3C/svg%3E%0A",
     "topic": "default",
     "topic_color": "#60a5fa",
     "priority_score": 0
