@@ -187,28 +187,62 @@ function setupObserver() {
   cards.forEach(card => observer.observe(card));
 }
 
+function updateIndexFromScroll() {
+  const cards = getCards();
+  if (!cards.length) return;
+
+  const scrollY = window.scrollY;
+  let nearestIndex = 0;
+  let nearestDistance = Infinity;
+
+  cards.forEach((card, i) => {
+    const distance = Math.abs(card.offsetTop - scrollY);
+    if (distance < nearestDistance) {
+      nearestDistance = distance;
+      nearestIndex = i;
+    }
+  });
+
+  currentCardIndex = nearestIndex;
+  updateActiveCard(nearestIndex);
+}
+
 function setupControls() {
+  const isTouchDevice =
+    window.matchMedia("(pointer: coarse)").matches ||
+    "ontouchstart" in window;
+
+  // Mobile/tablet: let native touch scrolling + CSS scroll snap handle it.
+  if (isTouchDevice) {
+    window.addEventListener(
+      "scroll",
+      () => {
+        clearTimeout(window.__mobileActiveTimer);
+        window.__mobileActiveTimer = setTimeout(() => {
+          updateIndexFromScroll();
+        }, 80);
+      },
+      { passive: true }
+    );
+
+    return;
+  }
+
+  // Desktop: custom one-card wheel paging.
   window.addEventListener(
-    'wheel',
+    "wheel",
     (e) => {
       const absDelta = Math.abs(e.deltaY);
+      if (absDelta < 30) return;
 
-      if (absDelta >= 4) {
-        e.preventDefault();
-      } else {
-        return;
-      }
+      e.preventDefault();
 
-      if (isSnapLocked() || isAnimating) {
-        return;
-      }
+      if (isAnimating || isSnapLocked()) return;
 
       wheelAccumulator += e.deltaY;
       scheduleWheelAccumulatorReset();
 
-      if (Math.abs(wheelAccumulator) < WHEEL_STEP_THRESHOLD) {
-        return;
-      }
+      if (Math.abs(wheelAccumulator) < WHEEL_STEP_THRESHOLD) return;
 
       const direction = wheelAccumulator > 0 ? 1 : -1;
       clearWheelAccumulator();
@@ -217,7 +251,22 @@ function setupControls() {
     { passive: false }
   );
 
-  let touchStartY = 0;
+  window.addEventListener("keydown", (e) => {
+    if (isAnimating || isSnapLocked()) return;
+
+    if (e.key === "ArrowDown" || e.key === "PageDown" || e.key === " ") {
+      e.preventDefault();
+      scrollToCard(currentCardIndex + 1);
+    }
+
+    if (e.key === "ArrowUp" || e.key === "PageUp") {
+      e.preventDefault();
+      scrollToCard(currentCardIndex - 1);
+    }
+  });
+}
+
+let touchStartY = 0;
 let touchStartTime = 0;
 let touchLocked = false;
 
