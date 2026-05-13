@@ -266,13 +266,6 @@ function setupControls() {
   });
 }
 
-let touchStartY = 0;
-let touchStartTime = 0;
-let touchLocked = false;
-
-const TOUCH_MIN_DISTANCE = 45;
-const TOUCH_MIN_VELOCITY = 0.18;
-
 
 
   window.addEventListener('keydown', (e) => {
