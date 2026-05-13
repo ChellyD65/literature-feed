@@ -1,13 +1,14 @@
 let currentCardIndex = 0;
 let isAnimating = false;
+let wheelAccumulator = 0;
+let wheelResetTimer = null;
 
 const WHEEL_STEP_THRESHOLD = 85;
-const SNAP_LOCK_MS = 500;
-const SNAP_ANIM_MS = 180;
+const DESKTOP_WHEEL_LOCK_MS = 650;
 
 async function loadFeed() {
   try {
-    const res = await fetch('./data/feed.json?v=6');
+    const res = await fetch('./data/feed.json?v=8');
     if (!res.ok) throw new Error(`Failed to load feed: ${res.status}`);
 
     const papers = await res.json();
@@ -27,53 +28,53 @@ async function loadFeed() {
       return;
     }
 
-papers.forEach((p, i) => {
-  const card = document.createElement('section');
-  const cleanSummary = stripHtml(p.abstract || p.summary || '');
-  const hasImage = !!p.image;
-  const topic = (p.topic || 'default').trim();
+    papers.forEach((p, i) => {
+      const card = document.createElement('section');
+      const cleanSummary = stripHtml(p.abstract || p.summary || '');
+      const hasImage = !!p.image;
+      const topic = (p.topic || 'default').trim();
 
-  card.className = hasImage ? 'card' : 'card no-image';
+      card.className = hasImage ? 'card' : 'card no-image';
 
-  const topicClass = `topic-${topic.toLowerCase().replace(/\s+/g, '-')}`;
-  const topicBadge = topic && topic !== 'default'
-    ? `<div class="topic-badge ${topicClass}">${escapeHtml(topic)}</div>`
-    : '';
+      const topicClass = `topic-${topic.toLowerCase().replace(/\s+/g, '-')}`;
+      const topicBadge = topic && topic !== 'default'
+        ? `<div class="topic-badge ${topicClass}">${escapeHtml(topic)}</div>`
+        : '';
 
-  const imageHtml = hasImage
-    ? `
-      <div class="image-wrap">
-        <img class="paper-image" src="${escapeHtml(p.image)}" alt="Image for ${escapeHtml(p.title || 'paper')}" loading="lazy">
-        ${topicBadge}
-      </div>
-    `
-    : '';
+      const imageHtml = hasImage
+        ? `
+          <div class="image-wrap">
+            <img class="paper-image" src="${escapeHtml(p.image)}" alt="Image for ${escapeHtml(p.title || 'paper')}" loading="lazy">
+            ${topicBadge}
+          </div>
+        `
+        : '';
 
-  const metaBadges = !hasImage && topic && topic !== 'default'
-    ? `<div class="topic-badge ${topicClass}" style="position: static; margin-bottom: 10px;">${escapeHtml(topic)}</div>`
-    : '';
+      const metaBadges = !hasImage && topic && topic !== 'default'
+        ? `<div class="topic-badge ${topicClass}" style="position: static; margin-bottom: 10px;">${escapeHtml(topic)}</div>`
+        : '';
 
-  const showExpand = cleanSummary.length > 900;
-  const expandButton = showExpand
-    ? `<button type="button" onclick="toggleAbstract(${i}, this)">Expand</button>`
-    : '';
+      const showExpand = cleanSummary.length > 900;
+      const expandButton = showExpand
+        ? `<button type="button" onclick="toggleAbstract(${i}, this)">Expand</button>`
+        : '';
 
-  card.innerHTML = `
-    <div class="card-inner">
-      ${imageHtml}
-      ${metaBadges}
-      <div class="title">${escapeHtml(p.title || '')}</div>
-      <div class="meta">${escapeHtml(p.journal || '')} — ${escapeHtml(formatDate(p.date || ''))}</div>
-      <div class="abstract" id="abs-${i}">${escapeHtml(cleanSummary)}</div>
-      <div class="actions">
-        ${expandButton}
-        <a href="${escapeHtml(p.link || '#')}" target="_blank" rel="noopener noreferrer">Open paper</a>
-      </div>
-    </div>
-  `;
+      card.innerHTML = `
+        <div class="card-inner">
+          ${imageHtml}
+          ${metaBadges}
+          <div class="title">${escapeHtml(p.title || '')}</div>
+          <div class="meta">${escapeHtml(p.journal || '')} — ${escapeHtml(formatDate(p.date || ''))}</div>
+          <div class="abstract" id="abs-${i}">${escapeHtml(cleanSummary)}</div>
+          <div class="actions">
+            ${expandButton}
+            <a href="${escapeHtml(p.link || '#')}" target="_blank" rel="noopener noreferrer">Open paper</a>
+          </div>
+        </div>
+      `;
 
-  container.appendChild(card);
-});
+      container.appendChild(card);
+    });
 
     updateActiveCard(0);
     setupObserver();
@@ -87,7 +88,9 @@ papers.forEach((p, i) => {
 function toggleAbstract(i, btn) {
   const el = document.getElementById(`abs-${i}`);
   if (!el) return;
+
   el.classList.toggle('expanded');
+
   if (btn) {
     btn.textContent = el.classList.contains('expanded') ? 'Collapse' : 'Expand';
   }
@@ -95,36 +98,6 @@ function toggleAbstract(i, btn) {
 
 function getCards() {
   return Array.from(document.querySelectorAll('.card'));
-}
-
-function clearWheelAccumulator() {
-  wheelAccumulator = 0;
-  if (wheelResetTimer) {
-    clearTimeout(wheelResetTimer);
-    wheelResetTimer = null;
-  }
-}
-
-function scheduleWheelAccumulatorReset() {
-  if (wheelResetTimer) clearTimeout(wheelResetTimer);
-  wheelResetTimer = setTimeout(() => {
-    wheelAccumulator = 0;
-    wheelResetTimer = null;
-  }, 120);
-}
-
-function lockSnap(ms = SNAP_LOCK_MS) {
-  snapLockedUntil = Date.now() + ms;
-  document.body.classList.add('snap-locked');
-
-  clearTimeout(window.__snapUnlockTimer);
-  window.__snapUnlockTimer = setTimeout(() => {
-    document.body.classList.remove('snap-locked');
-  }, ms);
-}
-
-function isSnapLocked() {
-  return Date.now() < snapLockedUntil;
 }
 
 function scrollToCard(index) {
@@ -135,22 +108,16 @@ function scrollToCard(index) {
   currentCardIndex = clamped;
   isAnimating = true;
 
-  const top = cards[clamped].offsetTop;
-
-  lockSnap();
-  clearWheelAccumulator();
-
-  window.scrollTo(0, top);
-  updateActiveCard(clamped);
-
-  requestAnimationFrame(() => {
-    window.scrollTo(0, top);
+  window.scrollTo({
+    top: cards[clamped].offsetTop,
+    behavior: 'auto'
   });
 
+  updateActiveCard(clamped);
+
   setTimeout(() => {
-    window.scrollTo(0, top);
     isAnimating = false;
-  }, SNAP_ANIM_MS);
+  }, 180);
 }
 
 function updateActiveCard(index) {
@@ -161,14 +128,18 @@ function updateActiveCard(index) {
 
 function setupObserver() {
   const cards = getCards();
+  if (!cards.length) return;
+
   const observer = new IntersectionObserver(
     (entries) => {
       let best = null;
+
       for (const entry of entries) {
         if (!best || entry.intersectionRatio > best.intersectionRatio) {
           best = entry;
         }
       }
+
       if (best && best.isIntersecting) {
         const idx = cards.indexOf(best.target);
         if (idx >= 0) {
@@ -203,15 +174,33 @@ function updateIndexFromScroll() {
   updateActiveCard(nearestIndex);
 }
 
+function clearWheelAccumulator() {
+  wheelAccumulator = 0;
+
+  if (wheelResetTimer) {
+    clearTimeout(wheelResetTimer);
+    wheelResetTimer = null;
+  }
+}
+
+function scheduleWheelAccumulatorReset() {
+  if (wheelResetTimer) clearTimeout(wheelResetTimer);
+
+  wheelResetTimer = setTimeout(() => {
+    wheelAccumulator = 0;
+    wheelResetTimer = null;
+  }, 120);
+}
+
 function setupControls() {
   const isTouchDevice =
-    window.matchMedia("(pointer: coarse)").matches ||
-    "ontouchstart" in window;
+    window.matchMedia('(pointer: coarse)').matches ||
+    'ontouchstart' in window;
 
-  // Mobile/tablet: let native touch scrolling + CSS scroll snap handle it.
+  // Mobile/tablet: native touch scrolling + CSS scroll snap.
   if (isTouchDevice) {
     window.addEventListener(
-      "scroll",
+      'scroll',
       () => {
         clearTimeout(window.__mobileActiveTimer);
         window.__mobileActiveTimer = setTimeout(() => {
@@ -224,16 +213,18 @@ function setupControls() {
     return;
   }
 
-  // Desktop: custom one-card wheel paging.
+  // Desktop: controlled one-card wheel paging.
+  let wheelLocked = false;
+
   window.addEventListener(
-    "wheel",
+    'wheel',
     (e) => {
       const absDelta = Math.abs(e.deltaY);
       if (absDelta < 30) return;
 
       e.preventDefault();
 
-      if (isAnimating || isSnapLocked()) return;
+      if (wheelLocked || isAnimating) return;
 
       wheelAccumulator += e.deltaY;
       scheduleWheelAccumulatorReset();
@@ -242,30 +233,19 @@ function setupControls() {
 
       const direction = wheelAccumulator > 0 ? 1 : -1;
       clearWheelAccumulator();
+
+      wheelLocked = true;
       scrollToCard(currentCardIndex + direction);
+
+      setTimeout(() => {
+        wheelLocked = false;
+      }, DESKTOP_WHEEL_LOCK_MS);
     },
     { passive: false }
   );
 
-  window.addEventListener("keydown", (e) => {
-    if (isAnimating || isSnapLocked()) return;
-
-    if (e.key === "ArrowDown" || e.key === "PageDown" || e.key === " ") {
-      e.preventDefault();
-      scrollToCard(currentCardIndex + 1);
-    }
-
-    if (e.key === "ArrowUp" || e.key === "PageUp") {
-      e.preventDefault();
-      scrollToCard(currentCardIndex - 1);
-    }
-  });
-}
-
-
-
   window.addEventListener('keydown', (e) => {
-    if (isAnimating || isSnapLocked()) return;
+    if (isAnimating) return;
 
     if (e.key === 'ArrowDown' || e.key === 'PageDown' || e.key === ' ') {
       e.preventDefault();
@@ -277,43 +257,26 @@ function setupControls() {
       scrollToCard(currentCardIndex - 1);
     }
   });
-
-  window.addEventListener(
-    'scroll',
-    () => {
-      const cards = getCards();
-      if (!cards.length) return;
-
-      const targetTop = cards[currentCardIndex].offsetTop;
-
-      if (isSnapLocked() || isAnimating) {
-        if (window.scrollY !== targetTop) {
-          window.scrollTo(0, targetTop);
-        }
-        return;
-      }
-
-      clearTimeout(window.__snapBackTimer);
-      window.__snapBackTimer = setTimeout(() => {
-        const drift = Math.abs(window.scrollY - targetTop);
-        if (drift > 2) {
-          window.scrollTo(0, targetTop);
-        }
-      }, 40);
-    },
-    { passive: true }
-  );
 }
 
 function stripHtml(str) {
-  return String(str).replace(/<[^>]*>/g, ' ').replace(/\s+/g, ' ').trim();
+  return String(str)
+    .replace(/<[^>]*>/g, ' ')
+    .replace(/\s+/g, ' ')
+    .trim();
 }
 
 function formatDate(dateStr) {
   if (!dateStr) return '';
+
   const d = new Date(dateStr);
   if (Number.isNaN(d.getTime())) return dateStr;
-  return d.toLocaleDateString(undefined, { year: 'numeric', month: 'short', day: 'numeric' });
+
+  return d.toLocaleDateString(undefined, {
+    year: 'numeric',
+    month: 'short',
+    day: 'numeric'
+  });
 }
 
 function escapeHtml(str) {
