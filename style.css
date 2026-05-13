@@ -12,10 +12,8 @@ body {
   scroll-snap-type: y mandatory;
   scroll-behavior: auto;
   -webkit-overflow-scrolling: touch;
-}
-
-body.snap-locked {
-  overflow: hidden;
+  touch-action: pan-y;
+  overscroll-behavior-y: contain;
 }
 
 #feed {
@@ -25,6 +23,7 @@ body.snap-locked {
 
 .card {
   height: 100vh;
+  min-height: 100dvh;
   box-sizing: border-box;
   padding: 16px;
 
