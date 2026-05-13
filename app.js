@@ -1,9 +1,5 @@
 let currentCardIndex = 0;
 let isAnimating = false;
-let touchStartY = 0;
-let snapLockedUntil = 0;
-let wheelAccumulator = 0;
-let wheelResetTimer = null;
 
 const WHEEL_STEP_THRESHOLD = 85;
 const SNAP_LOCK_MS = 500;
