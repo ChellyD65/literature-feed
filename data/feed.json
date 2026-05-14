@@ -169,6 +169,19 @@
     "priority_score": 0
   },
   {
+    "title": "Author Correction: The AIM2 inflammasome exacerbates atherosclerosis in clonal haematopoiesis",
+    "link": "https://www.nature.com/articles/s41586-026-10573-w",
+    "journal": "Nature",
+    "source_type": "journal",
+    "date": "2026-05-14",
+    "summary": "Nature, Published online: 14 May 2026; doi:10.1038/s41586-026-10573-w Author Correction: The AIM2 inflammasome exacerbates atherosclerosis in clonal haematopoiesis",
+    "abstract": "Nature, Published online: 14 May 2026; doi:10.1038/s41586-026-10573-w Author Correction: The AIM2 inflammasome exacerbates atherosclerosis in clonal haematopoiesis",
+    "image": "data:image/svg+xml;charset=utf-8,%0A%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23111827%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23374151%22/%3E%0A%20%20%20%20%3C/linearGradient%3E%0A%20%20%20%20%3Cfilter%20id%3D%22blur%22%3E%0A%20%20%20%20%20%20%3CfeGaussianBlur%20stdDeviation%3D%2230%22/%3E%0A%20%20%20%20%3C/filter%3E%0A%20%20%3C/defs%3E%0A%0A%20%20%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22url%28%23bg%29%22/%3E%0A%0A%20%20%3Ccircle%20cx%3D%221030%22%20cy%3D%22110%22%20r%3D%22170%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.18%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%20%20%3Ccircle%20cx%3D%22180%22%20cy%3D%22560%22%20r%3D%22150%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.16%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%0A%20%20%3Crect%20x%3D%2256%22%20y%3D%2252%22%20rx%3D%2218%22%20ry%3D%2218%22%20width%3D%22260%22%20height%3D%2254%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.08%29%22/%3E%0A%20%20%3Ctext%20x%3D%2284%22%20y%3D%2287%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2228%22%20fill%3D%22%23e5e7eb%22%3ENature%3C/text%3E%0A%0A%20%20%3Ctext%20x%3D%221010%22%20y%3D%22560%22%0A%20%20%20%20%20%20%20%20text-anchor%3D%22middle%22%0A%20%20%20%20%20%20%20%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%0A%20%20%20%20%20%20%20%20font-size%3D%22160%22%0A%20%20%20%20%20%20%20%20fill%3D%22%2360a5fa%22%0A%20%20%20%20%20%20%20%20opacity%3D%220.85%22%3E%0A%20%20%20%20%E2%80%A2%0A%20%20%3C/text%3E%0A%3C/svg%3E%0A",
+    "topic": "default",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
     "title": "Are we really headed for a ‘super’ El Niño? What the science says",
     "link": "https://www.nature.com/articles/d41586-026-01538-0",
     "journal": "Nature",
@@ -385,19 +398,6 @@
     "summary": "Nature, Published online: 13 May 2026; doi:10.1038/s41586-026-10374-1 LAP1-B—an ultra-faint and tiny galaxy that formed in the reionization era and is strongly magnified by gravitational lensing—is chemically primitive and hosts very few stars in an otherwise dominant dark matter halo.",
     "abstract": "Nature, Published online: 13 May 2026; doi:10.1038/s41586-026-10374-1 LAP1-B—an ultra-faint and tiny galaxy that formed in the reionization era and is strongly magnified by gravitational lensing—is chemically primitive and hosts very few stars in an otherwise dominant dark matter halo.",
     "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-10374-1/MediaObjects/41586_2026_10374_Fig1_HTML.png",
-    "topic": "default",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
-    "title": "More concentrated precipitation decreases terrestrial water storage",
-    "link": "https://www.nature.com/articles/s41586-026-10487-7",
-    "journal": "Nature",
-    "source_type": "journal",
-    "date": "2026-05-13",
-    "summary": "Nature, Published online: 13 May 2026; doi:10.1038/s41586-026-10487-7 Concentration of precipitation in large events decreases land water availability, and this effect will further increase with a future warming climate.",
-    "abstract": "Terrestrial water availability is a key determinant of human and ecosystem well-being1,2. Apart from mean precipitation and evaporation changes3,4, it is unknown how daily-scale precipitation concentration into fewer, heavier events affects hydrologic partitioning and the land water balance5–9. Here we show observationally that more concentrated precipitation decreases land water availability across all climates globally, a drying effect as strong in magnitude as the wetting effect of increased total precipitation. Simple and complex land-surface models recover the observed effect, whereas idealized simulations show that it arises from enhanced evaporation caused by hydrologic partitioning changes at the land surface. Projected terrestrial water storage impacts of warming-driven precipitation concentration at about 2 °C of warming shift the land surface to abnormally dry conditions (≥0.5 standard deviation10) for 27% of the global population, independent of any total precipitation or irrigation changes. Our results show new key determinants of the land water balance, highlighting its sensitivity to the temporal distribution of precipitation, with broad implications for future water availability. Concentration of precipitation in large events decreases land water availability, and this effect will further increase with a future warming climate.",
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-10487-7/MediaObjects/41586_2026_10487_Fig1_HTML.png",
     "topic": "default",
     "topic_color": "#60a5fa",
     "priority_score": 0
