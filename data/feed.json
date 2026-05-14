@@ -156,6 +156,19 @@
     "priority_score": 42
   },
   {
+    "title": "Mental-health research is too often invisible — it is time to change that",
+    "link": "https://www.nature.com/articles/d41586-026-01550-4",
+    "journal": "Nature",
+    "source_type": "journal",
+    "date": "2026-05-14",
+    "summary": "Nature, Published online: 14 May 2026; doi:10.1038/d41586-026-01550-4 Mental illness needs visibility more urgently than almost any other area of medicine and health care. A new award from Wellcome and Nature aims to raise its prominence.",
+    "abstract": "Mental illness needs visibility more urgently than almost any other area of medicine and health care. A new award from Wellcome and Nature aims to raise its prominence. Mental illness needs visibility more urgently than almost any other area of medicine and health care. A new award from Wellcome and Nature aims to raise its prominence.",
+    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-01550-4/d41586-026-01550-4_52414754.jpg",
+    "topic": "default",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
     "title": "Integrated single-cell and spatial transcriptomic profiling in ALS uncovers peripheral-to-central immune infiltration and reprogramming",
     "link": "https://www.nature.com/articles/s41593-026-02300-5",
     "journal": "Nature Neuroscience",
@@ -372,19 +385,6 @@
     "summary": "Nature, Published online: 13 May 2026; doi:10.1038/s41586-026-10506-7 Government-controlled media influences the output of large language models via their training data, and models queried in the languages of countries with lower media freedom show a stronger pro-regime valence than models queried in the languages of countries with higher media freedom.",
     "abstract": "Nature, Published online: 13 May 2026; doi:10.1038/s41586-026-10506-7 Government-controlled media influences the output of large language models via their training data, and models queried in the languages of countries with lower media freedom show a stronger pro-regime valence than models queried in the languages of countries with higher media freedom.",
     "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-10506-7/MediaObjects/41586_2026_10506_Fig1_HTML.png",
-    "topic": "default",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
-    "title": "Enhanced response of extreme compound events to cumulative CO<sub>2</sub> emissions",
-    "link": "https://www.nature.com/articles/s41586-026-10544-1",
-    "journal": "Nature",
-    "source_type": "journal",
-    "date": "2026-05-13",
-    "summary": "Nature, Published online: 13 May 2026; doi:10.1038/s41586-026-10544-1 A new metric shows that compound climate extremes rise faster with cumulative CO2 emissions than models project, implying higher risks and smaller remaining carbon budgets for the 1.5 °C and 2 °C targets.",
-    "abstract": "Nature, Published online: 13 May 2026; doi:10.1038/s41586-026-10544-1 A new metric shows that compound climate extremes rise faster with cumulative CO2 emissions than models project, implying higher risks and smaller remaining carbon budgets for the 1.5 °C and 2 °C targets.",
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-10544-1/MediaObjects/41586_2026_10544_Fig1_HTML.png",
     "topic": "default",
     "topic_color": "#60a5fa",
     "priority_score": 0
