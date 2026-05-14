@@ -1,18 +1,5 @@
 [
   {
-    "title": "Sustaining microglial reparative function enhances stroke recovery",
-    "link": "https://www.nature.com/articles/s41586-026-10480-0",
-    "journal": "Nature",
-    "source_type": "journal",
-    "date": "2026-05-13",
-    "summary": "Nature, Published online: 13 May 2026; doi:10.1038/s41586-026-10480-0 Reparative microglia persist in the brain after stroke but become dysfunctional through ZFP384-mediated mechanisms; however, this process can be mitigated by targeting Zfp384 using therapeutic antisense oligonucleotides.",
-    "abstract": "Nature, Published online: 13 May 2026; doi:10.1038/s41586-026-10480-0 Reparative microglia persist in the brain after stroke but become dysfunctional through ZFP384-mediated mechanisms; however, this process can be mitigated by targeting Zfp384 using therapeutic antisense oligonucleotides.",
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-10480-0/MediaObjects/41586_2026_10480_Fig1_HTML.png",
-    "topic": "microglia",
-    "topic_color": "#38bdf8",
-    "priority_score": 164
-  },
-  {
     "title": "Epigenetic reprogramming of T cell metabolism restores function and enhances anti-tumor immunity in lung cancer",
     "link": "https://www.nature.com/articles/s41590-026-02515-5",
     "journal": "Nature Immunology",
@@ -24,6 +11,19 @@
     "topic": "Spatial & Single Cell",
     "topic_color": "#60a5fa",
     "priority_score": 146
+  },
+  {
+    "title": "Author Correction: Postprandial lipid metabolism durably enhances T cell immunity",
+    "link": "https://www.nature.com/articles/s41586-026-10620-6",
+    "journal": "Nature",
+    "source_type": "journal",
+    "date": "2026-05-14",
+    "summary": "Nature, Published online: 14 May 2026; doi:10.1038/s41586-026-10620-6 Author Correction: Postprandial lipid metabolism durably enhances T cell immunity",
+    "abstract": "Nature, Published online: 14 May 2026; doi:10.1038/s41586-026-10620-6 Author Correction: Postprandial lipid metabolism durably enhances T cell immunity",
+    "image": "data:image/svg+xml;charset=utf-8,%0A%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23111827%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23374151%22/%3E%0A%20%20%20%20%3C/linearGradient%3E%0A%20%20%20%20%3Cfilter%20id%3D%22blur%22%3E%0A%20%20%20%20%20%20%3CfeGaussianBlur%20stdDeviation%3D%2230%22/%3E%0A%20%20%20%20%3C/filter%3E%0A%20%20%3C/defs%3E%0A%0A%20%20%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22url%28%23bg%29%22/%3E%0A%0A%20%20%3Ccircle%20cx%3D%221030%22%20cy%3D%22110%22%20r%3D%22170%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.18%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%20%20%3Ccircle%20cx%3D%22180%22%20cy%3D%22560%22%20r%3D%22150%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.16%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%0A%20%20%3Crect%20x%3D%2256%22%20y%3D%2252%22%20rx%3D%2218%22%20ry%3D%2218%22%20width%3D%22260%22%20height%3D%2254%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.08%29%22/%3E%0A%20%20%3Ctext%20x%3D%2284%22%20y%3D%2287%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2228%22%20fill%3D%22%23e5e7eb%22%3ENature%3C/text%3E%0A%0A%20%20%3Ctext%20x%3D%221010%22%20y%3D%22560%22%0A%20%20%20%20%20%20%20%20text-anchor%3D%22middle%22%0A%20%20%20%20%20%20%20%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%0A%20%20%20%20%20%20%20%20font-size%3D%22160%22%0A%20%20%20%20%20%20%20%20fill%3D%22%2360a5fa%22%0A%20%20%20%20%20%20%20%20opacity%3D%220.85%22%3E%0A%20%20%20%20%E2%80%A2%0A%20%20%3C/text%3E%0A%3C/svg%3E%0A",
+    "topic": "Immunology",
+    "topic_color": "#60a5fa",
+    "priority_score": 133
   },
   {
     "title": "MiR-155-driven loss of ICOSL and SOCS1 in EBV+ gastric cancers renders abundant cytotoxic T cells ineffective, enabling immune evasion",
@@ -52,14 +52,14 @@
     "priority_score": 133
   },
   {
-    "title": "Long-term editing of brain circuits using an engineered electrical synapse",
-    "link": "https://www.nature.com/articles/s41586-026-10501-y",
+    "title": "Immune cells in the blood drive cognitive ageing — blocking them improves memory",
+    "link": "https://www.nature.com/articles/d41586-026-01531-7",
     "journal": "Nature",
     "source_type": "journal",
-    "date": "2026-05-13",
-    "summary": "Nature, Published online: 13 May 2026; doi:10.1038/s41586-026-10501-y Connexin proteins found in white perch fish were used to engineer synthetic electrical synapses, enabling precision circuit editing in mammals.",
-    "abstract": "Electrical signalling across distinct populations of brain cells underpins cognitive and emotional function. However, approaches that selectively regulate electrical signalling between two cellular components of a mammalian neural circuit remain sparse. Here we engineered an electrical synapse composed of two connexin proteins1 found in Morone americana (white perch fish)—connexin 34.7 and connexin 35—to accomplish mammalian circuit modulation. By exploiting protein mutagenesis, devising a new in vitro system for assaying connexin hemichannel docking, and performing computational modelling of hemichannel interactions, we uncovered a structural motif that contributes to electrical synapse formation. Targeting this motif, we designed connexin 34.7 and connexin 35 hemichannels that dock with each other to form an electrical synapse but not with other major connexins expressed in the mammalian central nervous system. We validated this electrical synapse in vivo using worms (Caenorhabditis elegans) and mice (Mus musculus). We demonstrate that it can strengthen communication across neural circuits composed of pairs of distinct cell types and modify behaviour accordingly. Thus, we establish ‘long-term integration of circuits using connexins’ (LinCx) for precision circuit editing in mammals. Connexin proteins found in white perch fish were used to engineer synthetic electrical synapses, enabling precision circuit editing in mammals.",
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-10501-y/MediaObjects/41586_2026_10501_Fig1_HTML.png",
+    "date": "2026-05-14",
+    "summary": "Nature, Published online: 14 May 2026; doi:10.1038/d41586-026-01531-7 Old T cells secrete an enzyme that can impair brain function in mice.",
+    "abstract": "Nature, Published online: 14 May 2026; doi:10.1038/d41586-026-01531-7 Old T cells secrete an enzyme that can impair brain function in mice.",
+    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-01531-7/d41586-026-01531-7_52411478.jpg",
     "topic": "Immunology",
     "topic_color": "#60a5fa",
     "priority_score": 93
@@ -156,6 +156,45 @@
     "priority_score": 42
   },
   {
+    "title": "Molecules emerge as a new kind of building block for quantum computers",
+    "link": "https://www.science.org/content/article/molecules-emerge-new-kind-building-block-quantum-computers",
+    "journal": "Science",
+    "source_type": "journal",
+    "date": "2026-05-14T11:52:07Z",
+    "summary": "Storing quantum information in designer molecules could hold advantages over atoms, ions, and other kinds of qubits",
+    "abstract": "Storing quantum information in designer molecules could hold advantages over atoms, ions, and other kinds of qubits",
+    "image": "data:image/svg+xml;charset=utf-8,%0A%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23111827%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23374151%22/%3E%0A%20%20%20%20%3C/linearGradient%3E%0A%20%20%20%20%3Cfilter%20id%3D%22blur%22%3E%0A%20%20%20%20%20%20%3CfeGaussianBlur%20stdDeviation%3D%2230%22/%3E%0A%20%20%20%20%3C/filter%3E%0A%20%20%3C/defs%3E%0A%0A%20%20%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22url%28%23bg%29%22/%3E%0A%0A%20%20%3Ccircle%20cx%3D%221030%22%20cy%3D%22110%22%20r%3D%22170%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.18%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%20%20%3Ccircle%20cx%3D%22180%22%20cy%3D%22560%22%20r%3D%22150%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.16%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%0A%20%20%3Crect%20x%3D%2256%22%20y%3D%2252%22%20rx%3D%2218%22%20ry%3D%2218%22%20width%3D%22260%22%20height%3D%2254%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.08%29%22/%3E%0A%20%20%3Ctext%20x%3D%2284%22%20y%3D%2287%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2228%22%20fill%3D%22%23e5e7eb%22%3EScience%3C/text%3E%0A%0A%20%20%3Ctext%20x%3D%221010%22%20y%3D%22560%22%0A%20%20%20%20%20%20%20%20text-anchor%3D%22middle%22%0A%20%20%20%20%20%20%20%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%0A%20%20%20%20%20%20%20%20font-size%3D%22160%22%0A%20%20%20%20%20%20%20%20fill%3D%22%2360a5fa%22%0A%20%20%20%20%20%20%20%20opacity%3D%220.85%22%3E%0A%20%20%20%20%E2%80%A2%0A%20%20%3C/text%3E%0A%3C/svg%3E%0A",
+    "topic": "default",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
+    "title": "Are we really headed for a ‘super’ El Niño? What the science says",
+    "link": "https://www.nature.com/articles/d41586-026-01538-0",
+    "journal": "Nature",
+    "source_type": "journal",
+    "date": "2026-05-14",
+    "summary": "Nature, Published online: 14 May 2026; doi:10.1038/d41586-026-01538-0 An El Niño is coming, models say, but Nature spoke to researchers about when and how we’ll know its intensity.",
+    "abstract": "Nature, Published online: 14 May 2026; doi:10.1038/d41586-026-01538-0 An El Niño is coming, models say, but Nature spoke to researchers about when and how we’ll know its intensity.",
+    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-01538-0/d41586-026-01538-0_52415136.jpg",
+    "topic": "default",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
+    "title": "Hallucinated citations highest in social sciences preprints site",
+    "link": "https://www.nature.com/articles/d41586-026-01545-1",
+    "journal": "Nature",
+    "source_type": "journal",
+    "date": "2026-05-14",
+    "summary": "Nature, Published online: 14 May 2026; doi:10.1038/d41586-026-01545-1 More than 140,000 fake citations across four research repositories were identified in papers and preprints published in 2025 alone.",
+    "abstract": "More than 140,000 fake citations across four research repositories were identified in papers and preprints published in 2025 alone. More than 140,000 fake citations across four research repositories were identified in papers and preprints published in 2025 alone.",
+    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-01545-1/d41586-026-01545-1_52414912.jpg",
+    "topic": "default",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
     "title": "Mental-health research is too often invisible — it is time to change that",
     "link": "https://www.nature.com/articles/d41586-026-01550-4",
     "journal": "Nature",
@@ -164,6 +203,19 @@
     "summary": "Nature, Published online: 14 May 2026; doi:10.1038/d41586-026-01550-4 Mental illness needs visibility more urgently than almost any other area of medicine and health care. A new award from Wellcome and Nature aims to raise its prominence.",
     "abstract": "Mental illness needs visibility more urgently than almost any other area of medicine and health care. A new award from Wellcome and Nature aims to raise its prominence. Mental illness needs visibility more urgently than almost any other area of medicine and health care. A new award from Wellcome and Nature aims to raise its prominence.",
     "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-01550-4/d41586-026-01550-4_52414754.jpg",
+    "topic": "default",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
+    "title": "Procrastination, productivity and inspiration: how research is like designing video games",
+    "link": "https://www.nature.com/articles/d41586-026-00895-0",
+    "journal": "Nature",
+    "source_type": "journal",
+    "date": "2026-05-14",
+    "summary": "Nature, Published online: 14 May 2026; doi:10.1038/d41586-026-00895-0 After leaving academia, Bennett Foddy sees connections between games design, creativity and research, as he tells John Tregoning.",
+    "abstract": "After leaving academia, Bennett Foddy sees connections between games design, creativity and research, as he tells John Tregoning. After leaving academia, Bennett Foddy sees connections between games design, creativity and research, as he tells John Tregoning.",
+    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-00895-0/d41586-026-00895-0_52359140.jpg",
     "topic": "default",
     "topic_color": "#60a5fa",
     "priority_score": 0
@@ -346,45 +398,6 @@
     "summary": "Nature, Published online: 13 May 2026; doi:10.1038/s41586-026-10487-7 Concentration of precipitation in large events decreases land water availability, and this effect will further increase with a future warming climate.",
     "abstract": "Terrestrial water availability is a key determinant of human and ecosystem well-being1,2. Apart from mean precipitation and evaporation changes3,4, it is unknown how daily-scale precipitation concentration into fewer, heavier events affects hydrologic partitioning and the land water balance5–9. Here we show observationally that more concentrated precipitation decreases land water availability across all climates globally, a drying effect as strong in magnitude as the wetting effect of increased total precipitation. Simple and complex land-surface models recover the observed effect, whereas idealized simulations show that it arises from enhanced evaporation caused by hydrologic partitioning changes at the land surface. Projected terrestrial water storage impacts of warming-driven precipitation concentration at about 2 °C of warming shift the land surface to abnormally dry conditions (≥0.5 standard deviation10) for 27% of the global population, independent of any total precipitation or irrigation changes. Our results show new key determinants of the land water balance, highlighting its sensitivity to the temporal distribution of precipitation, with broad implications for future water availability. Concentration of precipitation in large events decreases land water availability, and this effect will further increase with a future warming climate.",
     "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-10487-7/MediaObjects/41586_2026_10487_Fig1_HTML.png",
-    "topic": "default",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
-    "title": "Efficient robot navigation inspired by honeybee learning flights",
-    "link": "https://www.nature.com/articles/s41586-026-10461-3",
-    "journal": "Nature",
-    "source_type": "journal",
-    "date": "2026-05-13",
-    "summary": "Nature, Published online: 13 May 2026; doi:10.1038/s41586-026-10461-3 A highly efficient navigation strategy taking inspiration from the visual learning flights of honeybees is described, which enables drones to quickly return from longer flights by means of path integration and uses a neural network as a view memory to reach the home location.",
-    "abstract": "Nature, Published online: 13 May 2026; doi:10.1038/s41586-026-10461-3 A highly efficient navigation strategy taking inspiration from the visual learning flights of honeybees is described, which enables drones to quickly return from longer flights by means of path integration and uses a neural network as a view memory to reach the home location.",
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-10461-3/MediaObjects/41586_2026_10461_Fig1_HTML.png",
-    "topic": "default",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
-    "title": "Adaptive cellular evolution in the intestine of hyperdiverse cichlid fishes",
-    "link": "https://www.nature.com/articles/s41586-026-10494-8",
-    "journal": "Nature",
-    "source_type": "journal",
-    "date": "2026-05-13",
-    "summary": "Nature, Published online: 13 May 2026; doi:10.1038/s41586-026-10494-8 Single-cell transcriptomics combined with morphological and ecological data show that the rapid evolutionary radiation of cichlid fishes in Lake Tanganyika was accompanied by dietary specialization across multiple layers of biological organization.",
-    "abstract": "Nature, Published online: 13 May 2026; doi:10.1038/s41586-026-10494-8 Single-cell transcriptomics combined with morphological and ecological data show that the rapid evolutionary radiation of cichlid fishes in Lake Tanganyika was accompanied by dietary specialization across multiple layers of biological organization.",
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-10494-8/MediaObjects/41586_2026_10494_Fig1_HTML.png",
-    "topic": "default",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
-    "title": "State media control influences large language models",
-    "link": "https://www.nature.com/articles/s41586-026-10506-7",
-    "journal": "Nature",
-    "source_type": "journal",
-    "date": "2026-05-13",
-    "summary": "Nature, Published online: 13 May 2026; doi:10.1038/s41586-026-10506-7 Government-controlled media influences the output of large language models via their training data, and models queried in the languages of countries with lower media freedom show a stronger pro-regime valence than models queried in the languages of countries with higher media freedom.",
-    "abstract": "Nature, Published online: 13 May 2026; doi:10.1038/s41586-026-10506-7 Government-controlled media influences the output of large language models via their training data, and models queried in the languages of countries with lower media freedom show a stronger pro-regime valence than models queried in the languages of countries with higher media freedom.",
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-10506-7/MediaObjects/41586_2026_10506_Fig1_HTML.png",
     "topic": "default",
     "topic_color": "#60a5fa",
     "priority_score": 0
@@ -580,19 +593,6 @@
     "summary": "Nature Medicine, Published online: 12 May 2026; doi:10.1038/s41591-026-04388-5 As Brazil takes its modified mosquito program from pilot to practice at national scale, what will it take to beat dengue?",
     "abstract": "Nature Medicine, Published online: 12 May 2026; doi:10.1038/s41591-026-04388-5 As Brazil takes its modified mosquito program from pilot to practice at national scale, what will it take to beat dengue?",
     "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41591-026-04388-5/MediaObjects/41591_2026_4388_Figa_HTML.png",
-    "topic": "default",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
-    "title": "Scientists ID ‘corkscrew killer’ behind gruesome seal deaths",
-    "link": "https://www.science.org/content/article/scientists-id-corkscrew-killer-behind-gruesome-seal-deaths",
-    "journal": "Science",
-    "source_type": "journal",
-    "date": "2026-05-11T09:30:00Z",
-    "summary": "Bizarre injuries were not caused by sharks or boat propellers, but a more surprising culprit",
-    "abstract": "Bizarre injuries were not caused by sharks or boat propellers, but a more surprising culprit",
-    "image": "data:image/svg+xml;charset=utf-8,%0A%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23111827%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23374151%22/%3E%0A%20%20%20%20%3C/linearGradient%3E%0A%20%20%20%20%3Cfilter%20id%3D%22blur%22%3E%0A%20%20%20%20%20%20%3CfeGaussianBlur%20stdDeviation%3D%2230%22/%3E%0A%20%20%20%20%3C/filter%3E%0A%20%20%3C/defs%3E%0A%0A%20%20%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22url%28%23bg%29%22/%3E%0A%0A%20%20%3Ccircle%20cx%3D%221030%22%20cy%3D%22110%22%20r%3D%22170%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.18%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%20%20%3Ccircle%20cx%3D%22180%22%20cy%3D%22560%22%20r%3D%22150%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.16%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%0A%20%20%3Crect%20x%3D%2256%22%20y%3D%2252%22%20rx%3D%2218%22%20ry%3D%2218%22%20width%3D%22260%22%20height%3D%2254%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.08%29%22/%3E%0A%20%20%3Ctext%20x%3D%2284%22%20y%3D%2287%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2228%22%20fill%3D%22%23e5e7eb%22%3EScience%3C/text%3E%0A%0A%20%20%3Ctext%20x%3D%221010%22%20y%3D%22560%22%0A%20%20%20%20%20%20%20%20text-anchor%3D%22middle%22%0A%20%20%20%20%20%20%20%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%0A%20%20%20%20%20%20%20%20font-size%3D%22160%22%0A%20%20%20%20%20%20%20%20fill%3D%22%2360a5fa%22%0A%20%20%20%20%20%20%20%20opacity%3D%220.85%22%3E%0A%20%20%20%20%E2%80%A2%0A%20%20%3C/text%3E%0A%3C/svg%3E%0A",
     "topic": "default",
     "topic_color": "#60a5fa",
     "priority_score": 0
