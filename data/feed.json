@@ -104,19 +104,6 @@
     "priority_score": 89
   },
   {
-    "title": "Screening for photoreceptor survival",
-    "link": "https://www.nature.com/articles/s41593-026-02307-y",
-    "journal": "Nature Neuroscience",
-    "source_type": "journal",
-    "date": "2026-05-08",
-    "summary": "Nature Neuroscience, Published online: 08 May 2026; doi:10.1038/s41593-026-02307-y Screening for photoreceptor survival",
-    "abstract": "Nature Neuroscience, Published online: 08 May 2026; doi:10.1038/s41593-026-02307-y Screening for photoreceptor survival",
-    "image": "data:image/svg+xml;charset=utf-8,%0A%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%233b0764%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%236d28d9%22/%3E%0A%20%20%20%20%3C/linearGradient%3E%0A%20%20%20%20%3Cfilter%20id%3D%22blur%22%3E%0A%20%20%20%20%20%20%3CfeGaussianBlur%20stdDeviation%3D%2230%22/%3E%0A%20%20%20%20%3C/filter%3E%0A%20%20%3C/defs%3E%0A%0A%20%20%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22url%28%23bg%29%22/%3E%0A%0A%20%20%3Ccircle%20cx%3D%221030%22%20cy%3D%22110%22%20r%3D%22170%22%20fill%3D%22%23f472b6%22%20opacity%3D%220.18%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%20%20%3Ccircle%20cx%3D%22180%22%20cy%3D%22560%22%20r%3D%22150%22%20fill%3D%22%23f472b6%22%20opacity%3D%220.16%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%0A%20%20%3Crect%20x%3D%2256%22%20y%3D%2252%22%20rx%3D%2218%22%20ry%3D%2218%22%20width%3D%22260%22%20height%3D%2254%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.08%29%22/%3E%0A%20%20%3Ctext%20x%3D%2284%22%20y%3D%2287%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2228%22%20fill%3D%22%23e5e7eb%22%3ENature%20Neuroscience%3C/text%3E%0A%0A%20%20%3Ctext%20x%3D%221010%22%20y%3D%22560%22%0A%20%20%20%20%20%20%20%20text-anchor%3D%22middle%22%0A%20%20%20%20%20%20%20%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%0A%20%20%20%20%20%20%20%20font-size%3D%22160%22%0A%20%20%20%20%20%20%20%20fill%3D%22%23f472b6%22%0A%20%20%20%20%20%20%20%20opacity%3D%220.85%22%3E%0A%20%20%20%20%E2%97%90%0A%20%20%3C/text%3E%0A%3C/svg%3E%0A",
-    "topic": "retina",
-    "topic_color": "#f472b6",
-    "priority_score": 57
-  },
-  {
     "title": "Sex differences in Alzheimer’s",
     "link": "https://www.nature.com/articles/s41590-026-02519-1",
     "journal": "Nature Immunology",
@@ -156,6 +143,19 @@
     "priority_score": 42
   },
   {
+    "title": "Running a farm, pursuing a research career: what’s the difference?",
+    "link": "https://www.nature.com/articles/d41586-026-01391-1",
+    "journal": "Nature",
+    "source_type": "journal",
+    "date": "2026-05-15",
+    "summary": "Nature, Published online: 15 May 2026; doi:10.1038/d41586-026-01391-1 Brandon Brown sees parallels between life as an academic and tending a citrus grove following his move to the country.",
+    "abstract": "Nature, Published online: 15 May 2026; doi:10.1038/d41586-026-01391-1 Brandon Brown sees parallels between life as an academic and tending a citrus grove following his move to the country.",
+    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-01391-1/d41586-026-01391-1_52283612.jpg",
+    "topic": "default",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
     "title": "Genetic survey exposes flaws in widely used mouse models",
     "link": "https://www.nature.com/articles/d41586-026-01534-4",
     "journal": "Nature",
@@ -164,6 +164,84 @@
     "summary": "Nature, Published online: 15 May 2026; doi:10.1038/d41586-026-01534-4 A survey of more than 300 mouse strains has found widespread discrepancies between how mutant mice are reported and their actual genetic make-up.",
     "abstract": "A survey of more than 300 mouse strains has found widespread discrepancies between how mutant mice are reported and their actual genetic make-up. A survey of more than 300 mouse strains has found widespread discrepancies between how mutant mice are reported and their actual genetic make-up.",
     "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-01534-4/d41586-026-01534-4_52407336.jpg",
+    "topic": "default",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
+    "title": "Parsing autism spectrum heterogeneity through fMRI",
+    "link": "https://www.nature.com/articles/s41593-026-02269-1",
+    "journal": "Nature Neuroscience",
+    "source_type": "journal",
+    "date": "2026-05-15",
+    "summary": "Nature Neuroscience, Published online: 15 May 2026; doi:10.1038/s41593-026-02269-1 Autism is remarkably heterogeneous, posing a long-standing challenge for linking genetics to brain dynamics. A cross-species study identifies two principal dysconnectivity signatures across 20 mouse models of autism risk, each associated with distinct molecular pathways, and shows analogous connectivity patterns in autistic humans. These results establish a translational framework for biologically grounded fMRI phenotyping.",
+    "abstract": "Nature Neuroscience, Published online: 15 May 2026; doi:10.1038/s41593-026-02269-1 Autism is remarkably heterogeneous, posing a long-standing challenge for linking genetics to brain dynamics. A cross-species study identifies two principal dysconnectivity signatures across 20 mouse models of autism risk, each associated with distinct molecular pathways, and shows analogous connectivity patterns in autistic humans. These results establish a translational framework for biologically grounded fMRI phenotyping.",
+    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41593-026-02269-1/MediaObjects/41593_2026_2269_Fig1_HTML.png",
+    "topic": "neuroscience",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
+    "title": "Excitatory synapses onto axonic spines jump-start action potentials and route information flow",
+    "link": "https://www.nature.com/articles/s41593-026-02282-4",
+    "journal": "Nature Neuroscience",
+    "source_type": "journal",
+    "date": "2026-05-15",
+    "summary": "Nature Neuroscience, Published online: 15 May 2026; doi:10.1038/s41593-026-02282-4 The axon initial segment was known to receive GABAergic synaptic inputs. Yang et al. show that it can be excited directly via specialized ‘axonic spines’. These spines thus boost neuronal firing and act as a fast track to route circuit information.",
+    "abstract": "Nature Neuroscience, Published online: 15 May 2026; doi:10.1038/s41593-026-02282-4 The axon initial segment was known to receive GABAergic synaptic inputs. Yang et al. show that it can be excited directly via specialized ‘axonic spines’. These spines thus boost neuronal firing and act as a fast track to route circuit information.",
+    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41593-026-02282-4/MediaObjects/41593_2026_2282_Fig1_HTML.png",
+    "topic": "neuroscience",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
+    "title": "Autism subtypes identified using cross-species functional connectivity analyses",
+    "link": "https://www.nature.com/articles/s41593-026-02287-z",
+    "journal": "Nature Neuroscience",
+    "source_type": "journal",
+    "date": "2026-05-15",
+    "summary": "Nature Neuroscience, Published online: 15 May 2026; doi:10.1038/s41593-026-02287-z Pagani et al. used cross-species fMRI to reveal two autism subtypes, characterized by lower and higher brain connectivity and linked to synaptic and immune-related pathways, respectively.",
+    "abstract": "Nature Neuroscience, Published online: 15 May 2026; doi:10.1038/s41593-026-02287-z Pagani et al. used cross-species fMRI to reveal two autism subtypes, characterized by lower and higher brain connectivity and linked to synaptic and immune-related pathways, respectively.",
+    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41593-026-02287-z/MediaObjects/41593_2026_2287_Fig1_HTML.png",
+    "topic": "neuroscience",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
+    "title": "What Galen’s dissections reveal about tacit learning in modern medical education",
+    "link": "https://www.nature.com/articles/s41591-026-04412-8",
+    "journal": "Nature Medicine",
+    "source_type": "journal",
+    "date": "2026-05-15",
+    "summary": "Nature Medicine, Published online: 15 May 2026; doi:10.1038/s41591-026-04412-8 What Galen’s dissections reveal about tacit learning in modern medical education",
+    "abstract": "Nature Medicine, Published online: 15 May 2026; doi:10.1038/s41591-026-04412-8 What Galen’s dissections reveal about tacit learning in modern medical education",
+    "image": "data:image/svg+xml;charset=utf-8,%0A%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23111827%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23374151%22/%3E%0A%20%20%20%20%3C/linearGradient%3E%0A%20%20%20%20%3Cfilter%20id%3D%22blur%22%3E%0A%20%20%20%20%20%20%3CfeGaussianBlur%20stdDeviation%3D%2230%22/%3E%0A%20%20%20%20%3C/filter%3E%0A%20%20%3C/defs%3E%0A%0A%20%20%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22url%28%23bg%29%22/%3E%0A%0A%20%20%3Ccircle%20cx%3D%221030%22%20cy%3D%22110%22%20r%3D%22170%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.18%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%20%20%3Ccircle%20cx%3D%22180%22%20cy%3D%22560%22%20r%3D%22150%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.16%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%0A%20%20%3Crect%20x%3D%2256%22%20y%3D%2252%22%20rx%3D%2218%22%20ry%3D%2218%22%20width%3D%22260%22%20height%3D%2254%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.08%29%22/%3E%0A%20%20%3Ctext%20x%3D%2284%22%20y%3D%2287%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2228%22%20fill%3D%22%23e5e7eb%22%3ENature%20Medicine%3C/text%3E%0A%0A%20%20%3Ctext%20x%3D%221010%22%20y%3D%22560%22%0A%20%20%20%20%20%20%20%20text-anchor%3D%22middle%22%0A%20%20%20%20%20%20%20%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%0A%20%20%20%20%20%20%20%20font-size%3D%22160%22%0A%20%20%20%20%20%20%20%20fill%3D%22%2360a5fa%22%0A%20%20%20%20%20%20%20%20opacity%3D%220.85%22%3E%0A%20%20%20%20%E2%80%A2%0A%20%20%3C/text%3E%0A%3C/svg%3E%0A",
+    "topic": "default",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
+    "title": "Favipiravir for Lassa fever: an open-label, randomized controlled phase 2 trial",
+    "link": "https://www.nature.com/articles/s41591-026-04402-w",
+    "journal": "Nature Medicine",
+    "source_type": "journal",
+    "date": "2026-05-15",
+    "summary": "Nature Medicine, Published online: 15 May 2026; doi:10.1038/s41591-026-04402-w An open-label, randomized controlled phase 2 trial comparing favipiravir with ribavirin for the treatment of mild-to-moderate Lassa fever in Nigeria found that favipiravir was safe and well tolerated and supports its further optimization as a treatment alternative.",
+    "abstract": "Nature Medicine, Published online: 15 May 2026; doi:10.1038/s41591-026-04402-w An open-label, randomized controlled phase 2 trial comparing favipiravir with ribavirin for the treatment of mild-to-moderate Lassa fever in Nigeria found that favipiravir was safe and well tolerated and supports its further optimization as a treatment alternative.",
+    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41591-026-04402-w/MediaObjects/41591_2026_4402_Fig1_HTML.png",
+    "topic": "default",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
+    "title": "Population-scale genomic medicine with the Hong Kong Genome Project",
+    "link": "https://www.nature.com/articles/s41591-026-04410-w",
+    "journal": "Nature Medicine",
+    "source_type": "journal",
+    "date": "2026-05-15",
+    "summary": "Nature Medicine, Published online: 15 May 2026; doi:10.1038/s41591-026-04410-w Part of the Hong Kong Genome Project, genomic analyses of more than 20,000 participants provide information on clinically relevant variants for the Chinese population and offer insights on the implementation of genomic medicine initiatives.",
+    "abstract": "Nature Medicine, Published online: 15 May 2026; doi:10.1038/s41591-026-04410-w Part of the Hong Kong Genome Project, genomic analyses of more than 20,000 participants provide information on clinically relevant variants for the Chinese population and offer insights on the implementation of genomic medicine initiatives.",
+    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41591-026-04410-w/MediaObjects/41591_2026_4410_Fig1_HTML.png",
     "topic": "default",
     "topic_color": "#60a5fa",
     "priority_score": 0
@@ -416,19 +494,6 @@
     "priority_score": 0
   },
   {
-    "title": "The hunt for the next antibiotics",
-    "link": "https://www.nature.com/articles/d41586-026-01424-9",
-    "journal": "Nature",
-    "source_type": "journal",
-    "date": "2026-05-13",
-    "summary": "Nature, Published online: 13 May 2026; doi:10.1038/d41586-026-01424-9 To battle antibiotic resistance, researchers are leaving no stone unturned, looking at folk traditions and harnessing AI to find new antibiotics.",
-    "abstract": "To battle antibiotic resistance, researchers are leaving no stone unturned, looking at folk traditions and harnessing AI to find new antibiotics. To battle antibiotic resistance, researchers are leaving no stone unturned, looking at folk traditions and harnessing AI to find new antibiotics.",
-    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-01424-9/d41586-026-01424-9_52398738.jpg",
-    "topic": "default",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
     "title": "Fluctuating internal states mediate neural–behavioral covariations in V1",
     "link": "https://www.nature.com/articles/s41593-026-02296-y",
     "journal": "Nature Neuroscience",
@@ -476,19 +541,6 @@
     "summary": "Nature Medicine, Published online: 13 May 2026; doi:10.1038/s41591-026-04394-7 In a randomized trial, pasteurized Akkermansia muciniphila improved weight loss maintenance and metabolic health after a low-energy diet, especially in individuals with initially lower Akkermansia levels. The work suggests leveraging gut A. muciniphila as a potential target for weight management.",
     "abstract": "Nature Medicine, Published online: 13 May 2026; doi:10.1038/s41591-026-04394-7 In a randomized trial, pasteurized Akkermansia muciniphila improved weight loss maintenance and metabolic health after a low-energy diet, especially in individuals with initially lower Akkermansia levels. The work suggests leveraging gut A. muciniphila as a potential target for weight management.",
     "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41591-026-04394-7/MediaObjects/41591_2026_4394_Fig1_HTML.png",
-    "topic": "default",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
-    "title": "Orforglipron for maintenance of body weight reduction: the double-blind, randomized phase 3b ATTAIN-MAINTAIN trial",
-    "link": "https://www.nature.com/articles/s41591-026-04386-7",
-    "journal": "Nature Medicine",
-    "source_type": "journal",
-    "date": "2026-05-13",
-    "summary": "Nature Medicine, Published online: 13 May 2026; doi:10.1038/s41591-026-04386-7 As presented at the European Congress on Obesity, this randomized, placebo-controlled trial demonstrates that oral orforglipron, a nonpeptide GLP-1 receptor agonist, preserves weight loss and cardiometabolic benefits achieved with injectable GLP-1 receptor agonist therapies, making it a viable oral maintenance strategy.",
-    "abstract": "Nature Medicine, Published online: 13 May 2026; doi:10.1038/s41591-026-04386-7 As presented at the European Congress on Obesity, this randomized, placebo-controlled trial demonstrates that oral orforglipron, a nonpeptide GLP-1 receptor agonist, preserves weight loss and cardiometabolic benefits achieved with injectable GLP-1 receptor agonist therapies, making it a viable oral maintenance strategy.",
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41591-026-04386-7/MediaObjects/41591_2026_4386_Fig1_HTML.png",
     "topic": "default",
     "topic_color": "#60a5fa",
     "priority_score": 0
@@ -546,19 +598,6 @@
     "priority_score": 0
   },
   {
-    "title": "Individual differences in prosocial learning are represented in the hippocampal dorsal CA1",
-    "link": "https://www.nature.com/articles/s41593-026-02292-2",
-    "journal": "Nature Neuroscience",
-    "source_type": "journal",
-    "date": "2026-05-12",
-    "summary": "Nature Neuroscience, Published online: 12 May 2026; doi:10.1038/s41593-026-02292-2 La Greca and colleagues show that by witnessing a conspecific’s actions, mice learn how actions can lead to shared food, forming flexible social action–outcome associations that require dorsal CA1 and bias future prosocial or selfish behaviors.",
-    "abstract": "Nature Neuroscience, Published online: 12 May 2026; doi:10.1038/s41593-026-02292-2 La Greca and colleagues show that by witnessing a conspecific’s actions, mice learn how actions can lead to shared food, forming flexible social action–outcome associations that require dorsal CA1 and bias future prosocial or selfish behaviors.",
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41593-026-02292-2/MediaObjects/41593_2026_2292_Fig1_HTML.png",
-    "topic": "neuroscience",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
     "title": "An inflammasome-driven differentiation program in intestinal stem cells protects against <i>Salmonella</i> infection",
     "link": "https://www.nature.com/articles/s41590-026-02514-6",
     "journal": "Nature Immunology",
@@ -568,45 +607,6 @@
     "abstract": "Nature Immunology, Published online: 12 May 2026; doi:10.1038/s41590-026-02514-6 Salmonella-invaded intestinal stem cells activate an inflammasome-driven differentiation program toward antimicrobial Paneth cells, revealing a protective stem cell defense mechanism that helps restrict pathogen spread.",
     "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41590-026-02514-6/MediaObjects/41590_2026_2514_Fig1_HTML.png",
     "topic": "immunology",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
-    "title": "Harnessing the power of biomarkers for diffuse intrinsic pontine gliomas",
-    "link": "https://www.nature.com/articles/s41591-026-04399-2",
-    "journal": "Nature Medicine",
-    "source_type": "journal",
-    "date": "2026-05-12",
-    "summary": "Nature Medicine, Published online: 12 May 2026; doi:10.1038/s41591-026-04399-2 The BIOMEDE trial, although negative for its primary endpoint, illustrates the utility of adaptive trial designs and biopsy-informed tumor profiling in guiding treatment decisions and patient counseling — and provides mechanistic evidence that can inform future therapeutic strategies.",
-    "abstract": "Nature Medicine, Published online: 12 May 2026; doi:10.1038/s41591-026-04399-2 The BIOMEDE trial, although negative for its primary endpoint, illustrates the utility of adaptive trial designs and biopsy-informed tumor profiling in guiding treatment decisions and patient counseling — and provides mechanistic evidence that can inform future therapeutic strategies.",
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41591-026-04399-2/MediaObjects/41591_2026_4399_Fig1_HTML.png",
-    "topic": "default",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
-    "title": "Brazil’s big bet on mosquitos",
-    "link": "https://www.nature.com/articles/s41591-026-04388-5",
-    "journal": "Nature Medicine",
-    "source_type": "journal",
-    "date": "2026-05-12",
-    "summary": "Nature Medicine, Published online: 12 May 2026; doi:10.1038/s41591-026-04388-5 As Brazil takes its modified mosquito program from pilot to practice at national scale, what will it take to beat dengue?",
-    "abstract": "Nature Medicine, Published online: 12 May 2026; doi:10.1038/s41591-026-04388-5 As Brazil takes its modified mosquito program from pilot to practice at national scale, what will it take to beat dengue?",
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41591-026-04388-5/MediaObjects/41591_2026_4388_Figa_HTML.png",
-    "topic": "default",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
-    "title": "Real-time brain-controlled selective hearing enhances speech perception in multi-talker environments",
-    "link": "https://www.nature.com/articles/s41593-026-02281-5",
-    "journal": "Nature Neuroscience",
-    "source_type": "journal",
-    "date": "2026-05-11",
-    "summary": "Nature Neuroscience, Published online: 11 May 2026; doi:10.1038/s41593-026-02281-5 This study shows that brain signals can identify and amplify the voice a person wants to hear in a crowded scene. Choudhari et al. provide evidence that brain-controlled hearing can improve speech perception and clarity in noisy environments.",
-    "abstract": "Nature Neuroscience, Published online: 11 May 2026; doi:10.1038/s41593-026-02281-5 This study shows that brain signals can identify and amplify the voice a person wants to hear in a crowded scene. Choudhari et al. provide evidence that brain-controlled hearing can improve speech perception and clarity in noisy environments.",
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41593-026-02281-5/MediaObjects/41593_2026_2281_Fig1_HTML.png",
-    "topic": "neuroscience",
     "topic_color": "#60a5fa",
     "priority_score": 0
   },
