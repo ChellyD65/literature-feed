@@ -117,6 +117,19 @@
     "priority_score": 89
   },
   {
+    "title": "A multimodal biomarker strategy to enhance diagnostic precision in neurodegenerative parkinsonism",
+    "link": "https://www.nature.com/articles/s41591-026-04398-3",
+    "journal": "Nature Medicine",
+    "source_type": "journal",
+    "date": "2026-05-19",
+    "summary": "Nature Medicine, Published online: 19 May 2026; doi:10.1038/s41591-026-04398-3 In a prospective cohort of 166 participants (and in a 63-participant validation cohort), dermal α-synuclein and 4-repeat tau seed amplification, combined with serum neurofilament light chain assays, were able to identify parkinsonian syndromes.",
+    "abstract": "Nature Medicine, Published online: 19 May 2026; doi:10.1038/s41591-026-04398-3 In a prospective cohort of 166 participants (and in a 63-participant validation cohort), dermal α-synuclein and 4-repeat tau seed amplification, combined with serum neurofilament light chain assays, were able to identify parkinsonian syndromes.",
+    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41591-026-04398-3/MediaObjects/41591_2026_4398_Fig1_HTML.png",
+    "topic": "neurodegeneration",
+    "topic_color": "#fda4af",
+    "priority_score": 50
+  },
+  {
     "title": "Performance of traumatic encephalopathy syndrome criteria in identifying individuals with chronic traumatic encephalopathy",
     "link": "https://www.nature.com/articles/s41591-026-04392-9",
     "journal": "Nature Medicine",
@@ -221,6 +234,45 @@
     "priority_score": 0
   },
   {
+    "title": "‘It is incredible’: How AI is transforming mathematics",
+    "link": "https://www.nature.com/articles/d41586-026-01553-1",
+    "journal": "Nature",
+    "source_type": "journal",
+    "date": "2026-05-19",
+    "summary": "Nature, Published online: 19 May 2026; doi:10.1038/d41586-026-01553-1 Thanks to some surprising advances, mathematicians are starting to realize that artificial intelligence could radically alter their profession.",
+    "abstract": "Thanks to some surprising advances, mathematicians are starting to realize that artificial intelligence could radically alter their profession. Thanks to some surprising advances, mathematicians are starting to realize that artificial intelligence could radically alter their profession.",
+    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-01553-1/d41586-026-01553-1_52415150.jpg",
+    "topic": "default",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
+    "title": "Broadly protective mucosal vaccination in the respiratory tract",
+    "link": "https://www.nature.com/articles/s41590-026-02530-6",
+    "journal": "Nature Immunology",
+    "source_type": "journal",
+    "date": "2026-05-19",
+    "summary": "Nature Immunology, Published online: 19 May 2026; doi:10.1038/s41590-026-02530-6 Mucosal vaccination can raise the immunological readiness of the respiratory tract before pathogen exposure, potentially enabling protection beyond antigen-specific immunity.",
+    "abstract": "Nature Immunology, Published online: 19 May 2026; doi:10.1038/s41590-026-02530-6 Mucosal vaccination can raise the immunological readiness of the respiratory tract before pathogen exposure, potentially enabling protection beyond antigen-specific immunity.",
+    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41590-026-02530-6/MediaObjects/41590_2026_2530_Fig1_HTML.png",
+    "topic": "immunology",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
+    "title": "Differential assembly of mouse and human tumor microenvironments",
+    "link": "https://www.nature.com/articles/s41590-026-02505-7",
+    "journal": "Nature Immunology",
+    "source_type": "journal",
+    "date": "2026-05-19",
+    "summary": "Nature Immunology, Published online: 19 May 2026; doi:10.1038/s41590-026-02505-7 In this Resource paper, Krummel and colleagues provide analysis of 15 commonly used syngeneic mouse tumor models and compare these to the diversity of human tumor microenvironments.",
+    "abstract": "Nature Immunology, Published online: 19 May 2026; doi:10.1038/s41590-026-02505-7 In this Resource paper, Krummel and colleagues provide analysis of 15 commonly used syngeneic mouse tumor models and compare these to the diversity of human tumor microenvironments.",
+    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41590-026-02505-7/MediaObjects/41590_2026_2505_Fig1_HTML.png",
+    "topic": "immunology",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
     "title": "¿Este científico fue demasiado lejos en su intento por salvar la vida silvestre de Ecuador?",
     "link": "https://www.science.org/content/article/este-científico-fue-demasiado-lejos-intento-por-salvar-la-vida-silvestre-de-ecuador",
     "journal": "Science",
@@ -260,7 +312,7 @@
     "priority_score": 0
   },
   {
-    "title": "Do you hate or love AI? Take <i>Nature's </i>poll",
+    "title": "Do you hate or love AI? Take <i>Nature’</i>s poll",
     "link": "https://www.nature.com/articles/d41586-026-01563-z",
     "journal": "Nature",
     "source_type": "journal",
@@ -281,19 +333,6 @@
     "summary": "Nature, Published online: 18 May 2026; doi:10.1038/d41586-026-00525-9 If the thought of ‘working’ a room packed with strangers fills you with dread, academic careers coach Caroline Dunne has some advice.",
     "abstract": "If the thought of ‘working’ a room packed with strangers fills you with dread, academic careers coach Caroline Dunne has some advice. If the thought of ‘working’ a room packed with strangers fills you with dread, academic careers coach Caroline Dunne has some advice.",
     "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-00525-9/d41586-026-00525-9_52411792.jpg",
-    "topic": "default",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
-    "title": "Criminals are made, not born: how when you live shapes whether you will break the law",
-    "link": "https://www.nature.com/articles/d41586-026-01556-y",
-    "journal": "Nature",
-    "source_type": "journal",
-    "date": "2026-05-18",
-    "summary": "Nature, Published online: 18 May 2026; doi:10.1038/d41586-026-01556-y An analysis of what makes young people more likely to commit crimes tears down the influential assumption that character is the main factor.",
-    "abstract": "An analysis of what makes young people more likely to commit crimes tears down the influential assumption that character is the main factor. An analysis of what makes young people more likely to commit crimes tears down the influential assumption that character is the main factor.",
-    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-01556-y/d41586-026-01556-y_52421994.jpg",
     "topic": "default",
     "topic_color": "#60a5fa",
     "priority_score": 0
@@ -585,19 +624,6 @@
     "priority_score": 0
   },
   {
-    "title": "Framework for the pharmacological treatment of obesity and its complications from the European Association for the Study of Obesity (EASO): 2026 update",
-    "link": "https://www.nature.com/articles/s41591-026-04397-4",
-    "journal": "Nature Medicine",
-    "source_type": "journal",
-    "date": "2026-05-13",
-    "summary": "Nature Medicine, Published online: 13 May 2026; doi:10.1038/s41591-026-04397-4 This 2026 update integrates emerging trial evidence — particularly for weight loss and liver disease — to refine EASO’s treatment algorithm for obesity management.",
-    "abstract": "Nature Medicine, Published online: 13 May 2026; doi:10.1038/s41591-026-04397-4 This 2026 update integrates emerging trial evidence — particularly for weight loss and liver disease — to refine EASO’s treatment algorithm for obesity management.",
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41591-026-04397-4/MediaObjects/41591_2026_4397_Fig1_HTML.png",
-    "topic": "default",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
     "title": "In This Issue",
     "link": "https://www.pnas.org/doi/abs/10.1073/iti1926123?af=R",
     "journal": "PNAS",
@@ -646,32 +672,6 @@
     "abstract": "Proceedings of the National Academy of Sciences, Volume 123, Issue 19, May 2026.",
     "image": "data:image/svg+xml;charset=utf-8,%0A%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23111827%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23374151%22/%3E%0A%20%20%20%20%3C/linearGradient%3E%0A%20%20%20%20%3Cfilter%20id%3D%22blur%22%3E%0A%20%20%20%20%20%20%3CfeGaussianBlur%20stdDeviation%3D%2230%22/%3E%0A%20%20%20%20%3C/filter%3E%0A%20%20%3C/defs%3E%0A%0A%20%20%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22url%28%23bg%29%22/%3E%0A%0A%20%20%3Ccircle%20cx%3D%221030%22%20cy%3D%22110%22%20r%3D%22170%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.18%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%20%20%3Ccircle%20cx%3D%22180%22%20cy%3D%22560%22%20r%3D%22150%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.16%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%0A%20%20%3Crect%20x%3D%2256%22%20y%3D%2252%22%20rx%3D%2218%22%20ry%3D%2218%22%20width%3D%22260%22%20height%3D%2254%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.08%29%22/%3E%0A%20%20%3Ctext%20x%3D%2284%22%20y%3D%2287%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2228%22%20fill%3D%22%23e5e7eb%22%3EPNAS%3C/text%3E%0A%0A%20%20%3Ctext%20x%3D%221010%22%20y%3D%22560%22%0A%20%20%20%20%20%20%20%20text-anchor%3D%22middle%22%0A%20%20%20%20%20%20%20%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%0A%20%20%20%20%20%20%20%20font-size%3D%22160%22%0A%20%20%20%20%20%20%20%20fill%3D%22%2360a5fa%22%0A%20%20%20%20%20%20%20%20opacity%3D%220.85%22%3E%0A%20%20%20%20%E2%80%A2%0A%20%20%3C/text%3E%0A%3C/svg%3E%0A",
     "topic": "default",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
-    "title": "Whole mouse profiling",
-    "link": "https://www.nature.com/articles/s41590-026-02518-2",
-    "journal": "Nature Immunology",
-    "source_type": "journal",
-    "date": "2026-04-30",
-    "summary": "Nature Immunology, Published online: 30 April 2026; doi:10.1038/s41590-026-02518-2 Whole mouse profiling",
-    "abstract": "Nature Immunology, Published online: 30 April 2026; doi:10.1038/s41590-026-02518-2 Whole mouse profiling",
-    "image": "data:image/svg+xml;charset=utf-8,%0A%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23111827%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23374151%22/%3E%0A%20%20%20%20%3C/linearGradient%3E%0A%20%20%20%20%3Cfilter%20id%3D%22blur%22%3E%0A%20%20%20%20%20%20%3CfeGaussianBlur%20stdDeviation%3D%2230%22/%3E%0A%20%20%20%20%3C/filter%3E%0A%20%20%3C/defs%3E%0A%0A%20%20%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22url%28%23bg%29%22/%3E%0A%0A%20%20%3Ccircle%20cx%3D%221030%22%20cy%3D%22110%22%20r%3D%22170%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.18%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%20%20%3Ccircle%20cx%3D%22180%22%20cy%3D%22560%22%20r%3D%22150%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.16%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%0A%20%20%3Crect%20x%3D%2256%22%20y%3D%2252%22%20rx%3D%2218%22%20ry%3D%2218%22%20width%3D%22260%22%20height%3D%2254%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.08%29%22/%3E%0A%20%20%3Ctext%20x%3D%2284%22%20y%3D%2287%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2228%22%20fill%3D%22%23e5e7eb%22%3ENature%20Immunology%3C/text%3E%0A%0A%20%20%3Ctext%20x%3D%221010%22%20y%3D%22560%22%0A%20%20%20%20%20%20%20%20text-anchor%3D%22middle%22%0A%20%20%20%20%20%20%20%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%0A%20%20%20%20%20%20%20%20font-size%3D%22160%22%0A%20%20%20%20%20%20%20%20fill%3D%22%2360a5fa%22%0A%20%20%20%20%20%20%20%20opacity%3D%220.85%22%3E%0A%20%20%20%20%E2%80%A2%0A%20%20%3C/text%3E%0A%3C/svg%3E%0A",
-    "topic": "immunology",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
-    "title": "Irisin supports ST2<sup>+</sup> T<sub>reg</sub> cells",
-    "link": "https://www.nature.com/articles/s41590-026-02520-8",
-    "journal": "Nature Immunology",
-    "source_type": "journal",
-    "date": "2026-04-30",
-    "summary": "Nature Immunology, Published online: 30 April 2026; doi:10.1038/s41590-026-02520-8 Irisin supports ST2 + T reg cells",
-    "abstract": "Nature Immunology, Published online: 30 April 2026; doi:10.1038/s41590-026-02520-8 Irisin supports ST2 + T reg cells",
-    "image": "data:image/svg+xml;charset=utf-8,%0A%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23111827%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23374151%22/%3E%0A%20%20%20%20%3C/linearGradient%3E%0A%20%20%20%20%3Cfilter%20id%3D%22blur%22%3E%0A%20%20%20%20%20%20%3CfeGaussianBlur%20stdDeviation%3D%2230%22/%3E%0A%20%20%20%20%3C/filter%3E%0A%20%20%3C/defs%3E%0A%0A%20%20%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22url%28%23bg%29%22/%3E%0A%0A%20%20%3Ccircle%20cx%3D%221030%22%20cy%3D%22110%22%20r%3D%22170%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.18%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%20%20%3Ccircle%20cx%3D%22180%22%20cy%3D%22560%22%20r%3D%22150%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.16%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%0A%20%20%3Crect%20x%3D%2256%22%20y%3D%2252%22%20rx%3D%2218%22%20ry%3D%2218%22%20width%3D%22260%22%20height%3D%2254%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.08%29%22/%3E%0A%20%20%3Ctext%20x%3D%2284%22%20y%3D%2287%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2228%22%20fill%3D%22%23e5e7eb%22%3ENature%20Immunology%3C/text%3E%0A%0A%20%20%3Ctext%20x%3D%221010%22%20y%3D%22560%22%0A%20%20%20%20%20%20%20%20text-anchor%3D%22middle%22%0A%20%20%20%20%20%20%20%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%0A%20%20%20%20%20%20%20%20font-size%3D%22160%22%0A%20%20%20%20%20%20%20%20fill%3D%22%2360a5fa%22%0A%20%20%20%20%20%20%20%20opacity%3D%220.85%22%3E%0A%20%20%20%20%E2%80%A2%0A%20%20%3C/text%3E%0A%3C/svg%3E%0A",
-    "topic": "immunology",
     "topic_color": "#60a5fa",
     "priority_score": 0
   },
