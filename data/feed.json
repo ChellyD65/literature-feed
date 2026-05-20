@@ -39,17 +39,17 @@
     "priority_score": 146
   },
   {
-    "title": "Author Correction: Early methionine availability attenuates T cell exhaustion",
-    "link": "https://www.nature.com/articles/s41590-026-02534-2",
+    "title": "Inhibition of salt-inducible kinases reprograms T cells and antitumor immunity in ovarian cancer",
+    "link": "https://www.nature.com/articles/s41590-026-02512-8",
     "journal": "Nature Immunology",
     "source_type": "journal",
-    "date": "2026-05-07",
-    "summary": "Nature Immunology, Published online: 07 May 2026; doi:10.1038/s41590-026-02534-2 Author Correction: Early methionine availability attenuates T cell exhaustion",
-    "abstract": "Nature Immunology, Published online: 07 May 2026; doi:10.1038/s41590-026-02534-2 Author Correction: Early methionine availability attenuates T cell exhaustion",
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41590-026-02534-2/MediaObjects/41590_2026_2534_Fig1_HTML.png",
-    "topic": "Immunology",
-    "topic_color": "#60a5fa",
-    "priority_score": 133
+    "date": "2026-05-20",
+    "summary": "Nature Immunology, Published online: 20 May 2026; doi:10.1038/s41590-026-02512-8 Dong, Ray et al. identify salt-inducible kinases (SIKs) as potential drivers of T cell dysfunction in the immunosuppressive microenvironment of ovarian cancer.",
+    "abstract": "Patients with metastatic high-grade serous ovarian carcinoma are often unresponsive to immunotherapies; here we identify salt-inducible kinases (SIKs) as key drivers of immunosuppression. Human T cells in the presence of patient ascites express high levels of SIK and the upstream kinase LKB1, whereas SIK inhibition reprograms human T cells and strongly activates antitumor responses. In syngeneic mice with resistant high-grade serous ovarian carcinoma, genetic ablation and pharmaceutical inhibition of SIK consistently demonstrated therapeutic efficacy and survival advantages, and combination of PD-1 blockade with SIK inhibition further extended survival. We identified a major role of T cell-intrinsic SIK2 and -3 signaling in driving immunosuppression in part by TXNIP induction and LYST suppression. Multi-omics analyses on SIK inhibitor therapy revealed reduced disease progression, increased T cell infiltration with enhanced cytotoxicity and effector cytokine IFN-γ, and a shift from immunosuppressive to immunostimulatory cellular niche. We propose SIK inhibitors as a new immunotherapy. Dong, Ray et al. identify salt-inducible kinases (SIKs) as potential drivers of T cell dysfunction in the immunosuppressive microenvironment of ovarian cancer.",
+    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41590-026-02512-8/MediaObjects/41590_2026_2512_Fig1_HTML.png",
+    "topic": "inflammation",
+    "topic_color": "#fb7185",
+    "priority_score": 106
   },
   {
     "title": "Monocyte infiltration induces CNS arginine catabolism to fuel neuroinflammation",
@@ -104,17 +104,69 @@
     "priority_score": 50
   },
   {
-    "title": "Performance of traumatic encephalopathy syndrome criteria in identifying individuals with chronic traumatic encephalopathy",
-    "link": "https://www.nature.com/articles/s41591-026-04392-9",
+    "title": "The brain’s code seems to be in constant flux. Neuroscientists are baffled",
+    "link": "https://www.nature.com/articles/d41586-026-01554-0",
+    "journal": "Nature",
+    "source_type": "journal",
+    "date": "2026-05-20",
+    "summary": "Nature, Published online: 20 May 2026; doi:10.1038/d41586-026-01554-0 Neurons fire much more erratically than researchers thought. What does that mean for how the brain works?",
+    "abstract": "Nature, Published online: 20 May 2026; doi:10.1038/d41586-026-01554-0 Neurons fire much more erratically than researchers thought. What does that mean for how the brain works?",
+    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-01554-0/d41586-026-01554-0_52427470.jpg",
+    "topic": "default",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
+    "title": "Considering biological limitations of lesion network mapping",
+    "link": "https://www.nature.com/articles/s41593-026-02319-8",
+    "journal": "Nature Neuroscience",
+    "source_type": "journal",
+    "date": "2026-05-20",
+    "summary": "Nature Neuroscience, Published online: 20 May 2026; doi:10.1038/s41593-026-02319-8 Lesion network mapping (LNM), or atrophy network mapping, has become a widely adopted tool for linking focal brain lesions or neurodegenerative brain clusters, respectively, to distributed functional networks associated with cognitive or clinical deficits. Recent insights, however, suggest that LNM primarily captures elementary topological properties of the normative connectome rather than disorder-specific circuits. Independent clinical evidence supports these methodological concerns, reflecting a deeper biological issue. LNM is inherently unable to capture the higher-order disconnection effects and non-linear connectivity changes that characterize the brain response to a broad range of neurological conditions. Brain injuries can induce widespread changes in distal regions not directly affected by the damage, as well as complex patterns of pathological hyperconnectivity and hypoconnectivity that evolve over time and whose functional significance remains uncertain. These phenomena represent a central challenge in clinical neuroscience. LNM is intrinsically limited in capturing these dynamics, with important implications for clinical translation and neuromodulation.",
+    "abstract": "Nature Neuroscience, Published online: 20 May 2026; doi:10.1038/s41593-026-02319-8 Lesion network mapping (LNM), or atrophy network mapping, has become a widely adopted tool for linking focal brain lesions or neurodegenerative brain clusters, respectively, to distributed functional networks associated with cognitive or clinical deficits. Recent insights, however, suggest that LNM primarily captures elementary topological properties of the normative connectome rather than disorder-specific circuits. Independent clinical evidence supports these methodological concerns, reflecting a deeper biological issue. LNM is inherently unable to capture the higher-order disconnection effects and non-linear connectivity changes that characterize the brain response to a broad range of neurological conditions. Brain injuries can induce widespread changes in distal regions not directly affected by the damage, as well as complex patterns of pathological hyperconnectivity and hypoconnectivity that evolve over time and whose functional significance remains uncertain. These phenomena represent a central challenge in clinical neuroscience. LNM is intrinsically limited in capturing these dynamics, with important implications for clinical translation and neuromodulation.",
+    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41593-026-02319-8/MediaObjects/41593_2026_2319_Fig1_HTML.png",
+    "topic": "neuroscience",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
+    "title": "Tau aggregates cause reactivation of transposable DNA elements, leading to Z-RNA–ZBP1-mediated neuronal death",
+    "link": "https://www.nature.com/articles/s41593-026-02299-9",
+    "journal": "Nature Neuroscience",
+    "source_type": "journal",
+    "date": "2026-05-20",
+    "summary": "Nature Neuroscience, Published online: 20 May 2026; doi:10.1038/s41593-026-02299-9 Tau aggregates disrupt heterochromatin by sequestering H3K9me3, reactivating transposable elements. This generates Z-RNAs, activating ZBP1 to drive neuronal death. ZBP1 haploinsufficiency reverses cognitive decline in aged tau mice, offering a therapeutic target for tauopathies.",
+    "abstract": "Nature Neuroscience, Published online: 20 May 2026; doi:10.1038/s41593-026-02299-9 Tau aggregates disrupt heterochromatin by sequestering H3K9me3, reactivating transposable elements. This generates Z-RNAs, activating ZBP1 to drive neuronal death. ZBP1 haploinsufficiency reverses cognitive decline in aged tau mice, offering a therapeutic target for tauopathies.",
+    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41593-026-02299-9/MediaObjects/41593_2026_2299_Fig1_HTML.png",
+    "topic": "neuroscience",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
+    "title": "Unintended consequences of legacy oversight in digital medicine",
+    "link": "https://www.nature.com/articles/s41591-026-04417-3",
     "journal": "Nature Medicine",
     "source_type": "journal",
-    "date": "2026-05-14",
-    "summary": "Nature Medicine, Published online: 14 May 2026; doi:10.1038/s41591-026-04392-9 The proposed clinical features of traumatic encephalopathy syndrome have low predictive value for chronic traumatic encephalopathy pathology, raising significant concern for incorrect diagnoses of neurodegeneration in former athletes.",
-    "abstract": "Nature Medicine, Published online: 14 May 2026; doi:10.1038/s41591-026-04392-9 The proposed clinical features of traumatic encephalopathy syndrome have low predictive value for chronic traumatic encephalopathy pathology, raising significant concern for incorrect diagnoses of neurodegeneration in former athletes.",
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41591-026-04392-9/MediaObjects/41591_2026_4392_Fig1_HTML.png",
-    "topic": "neurodegeneration",
-    "topic_color": "#fda4af",
-    "priority_score": 46
+    "date": "2026-05-20",
+    "summary": "Nature Medicine, Published online: 20 May 2026; doi:10.1038/s41591-026-04417-3 Unintended consequences of legacy oversight in digital medicine",
+    "abstract": "Nature Medicine, Published online: 20 May 2026; doi:10.1038/s41591-026-04417-3 Unintended consequences of legacy oversight in digital medicine",
+    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41591-026-04417-3/MediaObjects/41591_2026_4417_Fig1_HTML.png",
+    "topic": "default",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
+    "title": "Pathogenic germline variations and cancer risks in pediatric patients referred for genetic testing",
+    "link": "https://www.nature.com/articles/s41591-026-04423-5",
+    "journal": "Nature Medicine",
+    "source_type": "journal",
+    "date": "2026-05-20",
+    "summary": "Nature Medicine, Published online: 20 May 2026; doi:10.1038/s41591-026-04423-5 Analyses of sequencing data from 75,602 children referred for genetic testing from 2016 to 2025 provide insights on the association between pathogenic germline variants and childhood cancer.",
+    "abstract": "Nature Medicine, Published online: 20 May 2026; doi:10.1038/s41591-026-04423-5 Analyses of sequencing data from 75,602 children referred for genetic testing from 2016 to 2025 provide insights on the association between pathogenic germline variants and childhood cancer.",
+    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41591-026-04423-5/MediaObjects/41591_2026_4423_Fig1_HTML.png",
+    "topic": "default",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
   },
   {
     "title": "New study strengthens idea that humans evolved from knuckle-walking ancestors",
@@ -307,19 +359,6 @@
     "summary": "Nature, Published online: 19 May 2026; doi:10.1038/d41586-026-01551-3 With the arrival of ‘AI scientists’, it’s as well to remember that human wisdom, empathy and sheer messiness are as much part of progress as are process and efficiency.",
     "abstract": "With the arrival of ‘AI scientists’, it’s as well to remember that human wisdom, empathy and sheer messiness are as much part of progress as are process and efficiency. With the arrival of ‘AI scientists’, it’s as well to remember that human wisdom, empathy and sheer messiness are as much part of progress as are process and efficiency.",
     "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-01551-3/d41586-026-01551-3_52435578.jpg",
-    "topic": "default",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
-    "title": "Could this synthetic egg bring back extinct birds? Researchers urge caution",
-    "link": "https://www.nature.com/articles/d41586-026-01535-3",
-    "journal": "Nature",
-    "source_type": "journal",
-    "date": "2026-05-19",
-    "summary": "Nature, Published online: 19 May 2026; doi:10.1038/d41586-026-01535-3 Colossal Biosciences says its artificial egg has de-extinction and conservation potential.",
-    "abstract": "Nature, Published online: 19 May 2026; doi:10.1038/d41586-026-01535-3 Colossal Biosciences says its artificial egg has de-extinction and conservation potential.",
-    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-01535-3/d41586-026-01535-3_52422002.jpg",
     "topic": "default",
     "topic_color": "#60a5fa",
     "priority_score": 0
@@ -585,19 +624,6 @@
     "priority_score": 0
   },
   {
-    "title": "Advancing conversational diagnostic AI with multimodal reasoning",
-    "link": "https://www.nature.com/articles/s41591-026-04371-0",
-    "journal": "Nature Medicine",
-    "source_type": "journal",
-    "date": "2026-05-14",
-    "summary": "Nature Medicine, Published online: 14 May 2026; doi:10.1038/s41591-026-04371-0 Improvements in the Articulate Medical Intelligence Explorer, a large language model designed for diagnostic dialogue, enable the model to request, interpret and reason about multimodal medical data.",
-    "abstract": "Nature Medicine, Published online: 14 May 2026; doi:10.1038/s41591-026-04371-0 Improvements in the Articulate Medical Intelligence Explorer, a large language model designed for diagnostic dialogue, enable the model to request, interpret and reason about multimodal medical data.",
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41591-026-04371-0/MediaObjects/41591_2026_4371_Fig1_HTML.png",
-    "topic": "default",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
     "title": "Profile of Richard Robson, Susumu Kitagawa, and Omar M. Yaghi: 2025 Nobel laureates in Chemistry",
     "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2605022123?af=R",
     "journal": "PNAS",
@@ -607,32 +633,6 @@
     "abstract": "Proceedings of the National Academy of Sciences, Volume 123, Issue 20, May 2026. The 2025 Nobel Prize in Chemistry honors Richard Robson, Susumu Kitagawa, and Omar M. Yaghi for establishing metal-organic frameworks (MOFs) as a new class of crystalline porous materials and, more broadly, for transforming how chemists design extended ...",
     "image": "data:image/svg+xml;charset=utf-8,%0A%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23111827%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23374151%22/%3E%0A%20%20%20%20%3C/linearGradient%3E%0A%20%20%20%20%3Cfilter%20id%3D%22blur%22%3E%0A%20%20%20%20%20%20%3CfeGaussianBlur%20stdDeviation%3D%2230%22/%3E%0A%20%20%20%20%3C/filter%3E%0A%20%20%3C/defs%3E%0A%0A%20%20%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22url%28%23bg%29%22/%3E%0A%0A%20%20%3Ccircle%20cx%3D%221030%22%20cy%3D%22110%22%20r%3D%22170%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.18%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%20%20%3Ccircle%20cx%3D%22180%22%20cy%3D%22560%22%20r%3D%22150%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.16%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%0A%20%20%3Crect%20x%3D%2256%22%20y%3D%2252%22%20rx%3D%2218%22%20ry%3D%2218%22%20width%3D%22260%22%20height%3D%2254%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.08%29%22/%3E%0A%20%20%3Ctext%20x%3D%2284%22%20y%3D%2287%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2228%22%20fill%3D%22%23e5e7eb%22%3EPNAS%3C/text%3E%0A%0A%20%20%3Ctext%20x%3D%221010%22%20y%3D%22560%22%0A%20%20%20%20%20%20%20%20text-anchor%3D%22middle%22%0A%20%20%20%20%20%20%20%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%0A%20%20%20%20%20%20%20%20font-size%3D%22160%22%0A%20%20%20%20%20%20%20%20fill%3D%22%2360a5fa%22%0A%20%20%20%20%20%20%20%20opacity%3D%220.85%22%3E%0A%20%20%20%20%E2%80%A2%0A%20%20%3C/text%3E%0A%3C/svg%3E%0A",
     "topic": "default",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
-    "title": "Fluctuating internal states mediate neural–behavioral covariations in V1",
-    "link": "https://www.nature.com/articles/s41593-026-02296-y",
-    "journal": "Nature Neuroscience",
-    "source_type": "journal",
-    "date": "2026-05-13",
-    "summary": "Nature Neuroscience, Published online: 13 May 2026; doi:10.1038/s41593-026-02296-y The authors report surprising covariations between subthreshold activity of single V1 neurons and behavior, demonstrating that interactions between external sensory inputs and internal states are implemented by a nonlinear modulatory signal in V1.",
-    "abstract": "Nature Neuroscience, Published online: 13 May 2026; doi:10.1038/s41593-026-02296-y The authors report surprising covariations between subthreshold activity of single V1 neurons and behavior, demonstrating that interactions between external sensory inputs and internal states are implemented by a nonlinear modulatory signal in V1.",
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41593-026-02296-y/MediaObjects/41593_2026_2296_Fig1_HTML.png",
-    "topic": "neuroscience",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
-    "title": "Closed-loop stimulation modulates attention shifting in children",
-    "link": "https://www.nature.com/articles/s41593-026-02294-0",
-    "journal": "Nature Neuroscience",
-    "source_type": "journal",
-    "date": "2026-05-13",
-    "summary": "Nature Neuroscience, Published online: 13 May 2026; doi:10.1038/s41593-026-02294-0 Intracranial recordings in children revealed neural signals predicting attentional lapses. Closed-loop stimulation rescued performance and scalp EEG enabled noninvasive modulation, identifying a reproducible marker of attentional control.",
-    "abstract": "Nature Neuroscience, Published online: 13 May 2026; doi:10.1038/s41593-026-02294-0 Intracranial recordings in children revealed neural signals predicting attentional lapses. Closed-loop stimulation rescued performance and scalp EEG enabled noninvasive modulation, identifying a reproducible marker of attentional control.",
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41593-026-02294-0/MediaObjects/41593_2026_2294_Fig1_HTML.png",
-    "topic": "neuroscience",
     "topic_color": "#60a5fa",
     "priority_score": 0
   },
