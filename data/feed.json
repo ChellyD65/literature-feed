@@ -91,6 +91,19 @@
     "priority_score": 81
   },
   {
+    "title": "An AI framework for multi-disease detection via retinal imaging",
+    "link": "https://www.nature.com/articles/s41591-026-04424-4",
+    "journal": "Nature Medicine",
+    "source_type": "journal",
+    "date": "2026-05-20",
+    "summary": "Nature Medicine, Published online: 20 May 2026; doi:10.1038/s41591-026-04424-4 Using large-scale retinal images from community and tertiary hospitals, we developed Reti-Pioneer, a quality-aware, multi-task framework for multi-disease detection. Diverse external validation confirmed its generalizability. Furthermore, a prospective silent trial and clinical pilot study demonstrated its time efficiency, real-world feasibility, and potential for integration into clinical workflows.",
+    "abstract": "Nature Medicine, Published online: 20 May 2026; doi:10.1038/s41591-026-04424-4 Using large-scale retinal images from community and tertiary hospitals, we developed Reti-Pioneer, a quality-aware, multi-task framework for multi-disease detection. Diverse external validation confirmed its generalizability. Furthermore, a prospective silent trial and clinical pilot study demonstrated its time efficiency, real-world feasibility, and potential for integration into clinical workflows.",
+    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41591-026-04424-4/MediaObjects/41591_2026_4424_Fig1_HTML.png",
+    "topic": "retina",
+    "topic_color": "#f472b6",
+    "priority_score": 79
+  },
+  {
     "title": "A multimodal biomarker strategy to enhance diagnostic precision in neurodegenerative parkinsonism",
     "link": "https://www.nature.com/articles/s41591-026-04398-3",
     "journal": "Nature Medicine",
@@ -112,6 +125,32 @@
     "summary": "Nature, Published online: 20 May 2026; doi:10.1038/d41586-026-01554-0 Neurons fire much more erratically than researchers thought. What does that mean for how the brain works?",
     "abstract": "Nature, Published online: 20 May 2026; doi:10.1038/d41586-026-01554-0 Neurons fire much more erratically than researchers thought. What does that mean for how the brain works?",
     "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-01554-0/d41586-026-01554-0_52427470.jpg",
+    "topic": "default",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
+    "title": "The CAPTCHA protocol",
+    "link": "https://www.nature.com/articles/d41586-026-01085-8",
+    "journal": "Nature",
+    "source_type": "journal",
+    "date": "2026-05-20",
+    "summary": "Nature, Published online: 20 May 2026; doi:10.1038/d41586-026-01085-8 Difficult choices.",
+    "abstract": "Nature, Published online: 20 May 2026; doi:10.1038/d41586-026-01085-8 Difficult choices.",
+    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-01085-8/d41586-026-01085-8_52203974.jpg",
+    "topic": "default",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
+    "title": "A conference taught me that scientists and journalists must work together to protect research",
+    "link": "https://www.nature.com/articles/d41586-026-00824-1",
+    "journal": "Nature",
+    "source_type": "journal",
+    "date": "2026-05-20",
+    "summary": "Nature, Published online: 20 May 2026; doi:10.1038/d41586-026-00824-1 Science sleuth Lonni Besançon realizes that he has sometimes misunderstood what the media want from him and his researcher colleagues.",
+    "abstract": "Science sleuth Lonni Besançon realizes that he has sometimes misunderstood what the media want from him and his researcher colleagues. Science sleuth Lonni Besançon realizes that he has sometimes misunderstood what the media want from him and his researcher colleagues.",
+    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-00824-1/d41586-026-00824-1_52441446.png",
     "topic": "default",
     "topic_color": "#60a5fa",
     "priority_score": 0
@@ -338,32 +377,6 @@
     "priority_score": 0
   },
   {
-    "title": "Teams of AI agents boost speed of research",
-    "link": "https://www.nature.com/articles/d41586-026-01596-4",
-    "journal": "Nature",
-    "source_type": "journal",
-    "date": "2026-05-19",
-    "summary": "Nature, Published online: 19 May 2026; doi:10.1038/d41586-026-01596-4 Systems can generate hypotheses, interpret data and suggest ways to develop medicines.",
-    "abstract": "Nature, Published online: 19 May 2026; doi:10.1038/d41586-026-01596-4 Systems can generate hypotheses, interpret data and suggest ways to develop medicines.",
-    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-01596-4/d41586-026-01596-4_52435688.jpg",
-    "topic": "default",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
-    "title": "Why AI cannot do good science without humans",
-    "link": "https://www.nature.com/articles/d41586-026-01551-3",
-    "journal": "Nature",
-    "source_type": "journal",
-    "date": "2026-05-19",
-    "summary": "Nature, Published online: 19 May 2026; doi:10.1038/d41586-026-01551-3 With the arrival of ‘AI scientists’, it’s as well to remember that human wisdom, empathy and sheer messiness are as much part of progress as are process and efficiency.",
-    "abstract": "With the arrival of ‘AI scientists’, it’s as well to remember that human wisdom, empathy and sheer messiness are as much part of progress as are process and efficiency. With the arrival of ‘AI scientists’, it’s as well to remember that human wisdom, empathy and sheer messiness are as much part of progress as are process and efficiency.",
-    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-01551-3/d41586-026-01551-3_52435578.jpg",
-    "topic": "default",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
     "title": "Broadly protective mucosal vaccination in the respiratory tract",
     "link": "https://www.nature.com/articles/s41590-026-02530-6",
     "journal": "Nature Immunology",
@@ -567,19 +580,6 @@
     "summary": "Nature Medicine, Published online: 15 May 2026; doi:10.1038/s41591-026-04402-w An open-label, randomized controlled phase 2 trial comparing favipiravir with ribavirin for the treatment of mild-to-moderate Lassa fever in Nigeria found that favipiravir was safe and well tolerated and supports its further optimization as a treatment alternative.",
     "abstract": "Nature Medicine, Published online: 15 May 2026; doi:10.1038/s41591-026-04402-w An open-label, randomized controlled phase 2 trial comparing favipiravir with ribavirin for the treatment of mild-to-moderate Lassa fever in Nigeria found that favipiravir was safe and well tolerated and supports its further optimization as a treatment alternative.",
     "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41591-026-04402-w/MediaObjects/41591_2026_4402_Fig1_HTML.png",
-    "topic": "default",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
-    "title": "Population-scale genomic medicine with the Hong Kong Genome Project",
-    "link": "https://www.nature.com/articles/s41591-026-04410-w",
-    "journal": "Nature Medicine",
-    "source_type": "journal",
-    "date": "2026-05-15",
-    "summary": "Nature Medicine, Published online: 15 May 2026; doi:10.1038/s41591-026-04410-w Part of the Hong Kong Genome Project, genomic analyses of more than 20,000 participants provide information on clinically relevant variants for the Chinese population and offer insights on the implementation of genomic medicine initiatives.",
-    "abstract": "Nature Medicine, Published online: 15 May 2026; doi:10.1038/s41591-026-04410-w Part of the Hong Kong Genome Project, genomic analyses of more than 20,000 participants provide information on clinically relevant variants for the Chinese population and offer insights on the implementation of genomic medicine initiatives.",
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41591-026-04410-w/MediaObjects/41591_2026_4410_Fig1_HTML.png",
     "topic": "default",
     "topic_color": "#60a5fa",
     "priority_score": 0
