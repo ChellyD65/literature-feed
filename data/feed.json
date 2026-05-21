@@ -65,19 +65,6 @@
     "priority_score": 97
   },
   {
-    "title": "A new ‘K’ind of T helper cell",
-    "link": "https://www.nature.com/articles/s41590-026-02524-4",
-    "journal": "Nature Immunology",
-    "source_type": "journal",
-    "date": "2026-05-11",
-    "summary": "Nature Immunology, Published online: 11 May 2026; doi:10.1038/s41590-026-02524-4 A newly identified subset of CD4+ T cells is distinguished by increased expression of EOMES and granzyme K. These ‘THK’ cells are found in diverse immunological contexts and shown to mediate intestinal immunopathology.",
-    "abstract": "Nature Immunology, Published online: 11 May 2026; doi:10.1038/s41590-026-02524-4 A newly identified subset of CD4+ T cells is distinguished by increased expression of EOMES and granzyme K. These ‘THK’ cells are found in diverse immunological contexts and shown to mediate intestinal immunopathology.",
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41590-026-02524-4/MediaObjects/41590_2026_2524_Fig1_HTML.png",
-    "topic": "Immunology",
-    "topic_color": "#60a5fa",
-    "priority_score": 93
-  },
-  {
     "title": "An AI framework for multi-disease detection via retinal imaging",
     "link": "https://www.nature.com/articles/s41591-026-04424-4",
     "journal": "Nature Medicine",
@@ -308,6 +295,19 @@
     "abstract": "Nature Neuroscience, Published online: 20 May 2026; doi:10.1038/s41593-026-02299-9 Tau aggregates disrupt heterochromatin by sequestering H3K9me3, reactivating transposable elements. This generates Z-RNAs, activating ZBP1 to drive neuronal death. ZBP1 haploinsufficiency reverses cognitive decline in aged tau mice, offering a therapeutic target for tauopathies.",
     "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41593-026-02299-9/MediaObjects/41593_2026_2299_Fig1_HTML.png",
     "topic": "neuroscience",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
+    "title": "Author Correction: The differentiation and function of heterogeneous thymic dendritic cell subsets require signals provided by distinct thymocyte cell types",
+    "link": "https://www.nature.com/articles/s41590-026-02554-y",
+    "journal": "Nature Immunology",
+    "source_type": "journal",
+    "date": "2026-05-20",
+    "summary": "Nature Immunology, Published online: 20 May 2026; doi:10.1038/s41590-026-02554-y Author Correction: The differentiation and function of heterogeneous thymic dendritic cell subsets require signals provided by distinct thymocyte cell types",
+    "abstract": "Nature Immunology, Published online: 20 May 2026; doi:10.1038/s41590-026-02554-y Author Correction: The differentiation and function of heterogeneous thymic dendritic cell subsets require signals provided by distinct thymocyte cell types",
+    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41590-026-02554-y/MediaObjects/41590_2026_2554_Fig1_HTML.png",
+    "topic": "immunology",
     "topic_color": "#60a5fa",
     "priority_score": 0
   },
