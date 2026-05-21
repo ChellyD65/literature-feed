@@ -65,6 +65,19 @@
     "priority_score": 97
   },
   {
+    "title": "De novo design of miniproteins targeting GPCRs",
+    "link": "https://www.nature.com/articles/s41586-026-10656-8",
+    "journal": "Nature",
+    "source_type": "journal",
+    "date": "2026-05-21",
+    "summary": "Nature, Published online: 21 May 2026; doi:10.1038/s41586-026-10656-8 De novo design of miniproteins targeting GPCRs",
+    "abstract": "G protein-coupled receptors (GPCRs) play key roles in physiology and are central targets for drug discovery and development1,2, but the design of protein agonists and antagonists has been challenging as GPCRs are integral membrane proteins and conformationally dynamic3–6. Here we describe computational de novo design methods and a high-throughput “receptor diversion” microscopy-based screen for generating GPCR binding miniproteins with high affinity, potency and selectivity. We design miniprotein agonists that activate receptors involved in itch and pain, as well as antagonists that inhibit receptors implicated in cancer, metabolic disorders such as diabetes and obesity, and migraine. Cryo-electron microscopy (cryo-EM) structures of five receptor-bound designs are close to the computational design models. A designed chemokine receptor antagonist mobilizes hematopoietic stem and progenitor cells in vivo at a level comparable to a clinically used drug, with fewer adverse effects.",
+    "image": "data:image/svg+xml;charset=utf-8,%0A%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23111827%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23374151%22/%3E%0A%20%20%20%20%3C/linearGradient%3E%0A%20%20%20%20%3Cfilter%20id%3D%22blur%22%3E%0A%20%20%20%20%20%20%3CfeGaussianBlur%20stdDeviation%3D%2230%22/%3E%0A%20%20%20%20%3C/filter%3E%0A%20%20%3C/defs%3E%0A%0A%20%20%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22url%28%23bg%29%22/%3E%0A%0A%20%20%3Ccircle%20cx%3D%221030%22%20cy%3D%22110%22%20r%3D%22170%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.18%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%20%20%3Ccircle%20cx%3D%22180%22%20cy%3D%22560%22%20r%3D%22150%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.16%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%0A%20%20%3Crect%20x%3D%2256%22%20y%3D%2252%22%20rx%3D%2218%22%20ry%3D%2218%22%20width%3D%22260%22%20height%3D%2254%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.08%29%22/%3E%0A%20%20%3Ctext%20x%3D%2284%22%20y%3D%2287%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2228%22%20fill%3D%22%23e5e7eb%22%3ENature%3C/text%3E%0A%0A%20%20%3Ctext%20x%3D%221010%22%20y%3D%22560%22%0A%20%20%20%20%20%20%20%20text-anchor%3D%22middle%22%0A%20%20%20%20%20%20%20%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%0A%20%20%20%20%20%20%20%20font-size%3D%22160%22%0A%20%20%20%20%20%20%20%20fill%3D%22%2360a5fa%22%0A%20%20%20%20%20%20%20%20opacity%3D%220.85%22%3E%0A%20%20%20%20%E2%80%A2%0A%20%20%3C/text%3E%0A%3C/svg%3E%0A",
+    "topic": "Immunology",
+    "topic_color": "#60a5fa",
+    "priority_score": 93
+  },
+  {
     "title": "Salt-inducible kinases as druggable targets for immunotherapy of ovarian cancer",
     "link": "https://www.nature.com/articles/s41590-026-02513-7",
     "journal": "Nature Immunology",
@@ -104,14 +117,40 @@
     "priority_score": 79
   },
   {
+    "title": "Have astronomers spotted an exploding primordial star?",
+    "link": "https://www.science.org/content/article/have-astronomers-spotted-exploding-primordial-star",
+    "journal": "Science",
+    "source_type": "journal",
+    "date": "2026-05-21T10:00:00Z",
+    "summary": "Puzzling JWST observation could instead be one of the universe's first galaxies—or something more mundane",
+    "abstract": "Puzzling JWST observation could instead be one of the universe's first galaxies—or something more mundane",
+    "image": "data:image/svg+xml;charset=utf-8,%0A%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23111827%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23374151%22/%3E%0A%20%20%20%20%3C/linearGradient%3E%0A%20%20%20%20%3Cfilter%20id%3D%22blur%22%3E%0A%20%20%20%20%20%20%3CfeGaussianBlur%20stdDeviation%3D%2230%22/%3E%0A%20%20%20%20%3C/filter%3E%0A%20%20%3C/defs%3E%0A%0A%20%20%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22url%28%23bg%29%22/%3E%0A%0A%20%20%3Ccircle%20cx%3D%221030%22%20cy%3D%22110%22%20r%3D%22170%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.18%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%20%20%3Ccircle%20cx%3D%22180%22%20cy%3D%22560%22%20r%3D%22150%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.16%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%0A%20%20%3Crect%20x%3D%2256%22%20y%3D%2252%22%20rx%3D%2218%22%20ry%3D%2218%22%20width%3D%22260%22%20height%3D%2254%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.08%29%22/%3E%0A%20%20%3Ctext%20x%3D%2284%22%20y%3D%2287%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2228%22%20fill%3D%22%23e5e7eb%22%3EScience%3C/text%3E%0A%0A%20%20%3Ctext%20x%3D%221010%22%20y%3D%22560%22%0A%20%20%20%20%20%20%20%20text-anchor%3D%22middle%22%0A%20%20%20%20%20%20%20%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%0A%20%20%20%20%20%20%20%20font-size%3D%22160%22%0A%20%20%20%20%20%20%20%20fill%3D%22%2360a5fa%22%0A%20%20%20%20%20%20%20%20opacity%3D%220.85%22%3E%0A%20%20%20%20%E2%80%A2%0A%20%20%3C/text%3E%0A%3C/svg%3E%0A",
+    "topic": "default",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
     "title": "A star gone rogue tears through the Galaxy",
     "link": "https://www.nature.com/articles/d41586-026-01591-9",
     "journal": "Nature",
     "source_type": "journal",
     "date": "2026-05-21",
-    "summary": "Nature, Published online: 21 May 2026; doi:10.1038/d41586-026-01591-9 The black hole at the Milky Way’s centre catapulted a Sun-like star to 'hypervelocity' speed.",
-    "abstract": "Nature, Published online: 21 May 2026; doi:10.1038/d41586-026-01591-9 The black hole at the Milky Way’s centre catapulted a Sun-like star to 'hypervelocity' speed.",
+    "summary": "Nature, Published online: 21 May 2026; doi:10.1038/d41586-026-01591-9 The black hole at the Milky Way’s centre catapulted a Sun-like star to ‘hypervelocity’ speed.",
+    "abstract": "Nature, Published online: 21 May 2026; doi:10.1038/d41586-026-01591-9 The black hole at the Milky Way’s centre catapulted a Sun-like star to ‘hypervelocity’ speed.",
     "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-01591-9/d41586-026-01591-9_52422130.jpg",
+    "topic": "default",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
+    "title": "Ebola outbreak spirals out of control: how might it have started?",
+    "link": "https://www.nature.com/articles/d41586-026-01645-y",
+    "journal": "Nature",
+    "source_type": "journal",
+    "date": "2026-05-21",
+    "summary": "Nature, Published online: 21 May 2026; doi:10.1038/d41586-026-01645-y Public-health researcher James Baguma has studied the interactions between bats, which can carry the virus, and people in the region near the latest epidemic.",
+    "abstract": "Public-health researcher James Baguma has studied the interactions between bats, which can carry the virus, and people in the region near the latest epidemic. Public-health researcher James Baguma has studied the interactions between bats, which can carry the virus, and people in the region near the latest epidemic.",
+    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-01645-y/d41586-026-01645-y_52446628.jpg",
     "topic": "default",
     "topic_color": "#60a5fa",
     "priority_score": 0
@@ -125,6 +164,19 @@
     "summary": "Nature, Published online: 21 May 2026; doi:10.1038/d41586-026-00198-4 Animal companions can be a lot of work, and are difficult to fit into a busy professional’s life, but they can also enhance well-being.",
     "abstract": "Animal companions can be a lot of work, and are difficult to fit into a busy professional’s life, but they can also enhance well-being. Animal companions can be a lot of work, and are difficult to fit into a busy professional’s life, but they can also enhance well-being.",
     "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-00198-4/d41586-026-00198-4_52414838.jpg",
+    "topic": "default",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
+    "title": "How we’re using AI tools to improve psychedelic-drug research",
+    "link": "https://www.nature.com/articles/d41586-026-01467-y",
+    "journal": "Nature",
+    "source_type": "journal",
+    "date": "2026-05-21",
+    "summary": "Nature, Published online: 21 May 2026; doi:10.1038/d41586-026-01467-y Félix Schoeller’s team built a realistic artificial-intelligence chatbot to train facilitators needed for research into psychoactive drugs — and, ultimately, to improve public health.",
+    "abstract": "Nature, Published online: 21 May 2026; doi:10.1038/d41586-026-01467-y Félix Schoeller’s team built a realistic artificial-intelligence chatbot to train facilitators needed for research into psychoactive drugs — and, ultimately, to improve public health.",
+    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-01467-y/d41586-026-01467-y_52441608.jpg",
     "topic": "default",
     "topic_color": "#60a5fa",
     "priority_score": 0
@@ -281,45 +333,6 @@
     "summary": "Nature, Published online: 20 May 2026; doi:10.1038/s41586-026-10565-w By using singularity physics to enable cubic-root scaling of frequency and phase modulations induced by the Coriolis effect to enhance the performance of chip-scale Coriolis vibratory gyroscopes, substantial improvements in signal-to-noise ratio and precision are demonstrated.",
     "abstract": "Nature, Published online: 20 May 2026; doi:10.1038/s41586-026-10565-w By using singularity physics to enable cubic-root scaling of frequency and phase modulations induced by the Coriolis effect to enhance the performance of chip-scale Coriolis vibratory gyroscopes, substantial improvements in signal-to-noise ratio and precision are demonstrated.",
     "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-10565-w/MediaObjects/41586_2026_10565_Fig1_HTML.png",
-    "topic": "default",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
-    "title": "A pathogen lncRNA secreted into rice sequesters a host miRNA for virulence",
-    "link": "https://www.nature.com/articles/s41586-026-10572-x",
-    "journal": "Nature",
-    "source_type": "journal",
-    "date": "2026-05-20",
-    "summary": "Nature, Published online: 20 May 2026; doi:10.1038/s41586-026-10572-x A fungal long non-coding RNA from Magnaporthe oryzae translocates into rice cells to sequester a host microRNA that normally represses PKR1, a negative immunity regulator, thereby facilitating infection and revealing a widespread RNA-based pathogen–host interaction mechanism.",
-    "abstract": "Nature, Published online: 20 May 2026; doi:10.1038/s41586-026-10572-x A fungal long non-coding RNA from Magnaporthe oryzae translocates into rice cells to sequester a host microRNA that normally represses PKR1, a negative immunity regulator, thereby facilitating infection and revealing a widespread RNA-based pathogen–host interaction mechanism.",
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-10572-x/MediaObjects/41586_2026_10572_Fig1_HTML.png",
-    "topic": "default",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
-    "title": "De novo design of quasisymmetric two-component protein cages",
-    "link": "https://www.nature.com/articles/s41586-026-10464-0",
-    "journal": "Nature",
-    "source_type": "journal",
-    "date": "2026-05-20",
-    "summary": "Nature, Published online: 20 May 2026; doi:10.1038/s41586-026-10464-0 Researchers designed two-component proteins forming quasisymmetric cages via geometric frustration, enabling tunable virus-like assemblies for cargo delivery, cellular uptake and studying intracellular diffusion and protein localization.",
-    "abstract": "Nature, Published online: 20 May 2026; doi:10.1038/s41586-026-10464-0 Researchers designed two-component proteins forming quasisymmetric cages via geometric frustration, enabling tunable virus-like assemblies for cargo delivery, cellular uptake and studying intracellular diffusion and protein localization.",
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-10464-0/MediaObjects/41586_2026_10464_Fig1_HTML.png",
-    "topic": "default",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
-    "title": "Genetic analysis of circulating metabolic traits in 619,372 individuals",
-    "link": "https://www.nature.com/articles/s41586-026-10532-5",
-    "journal": "Nature",
-    "source_type": "journal",
-    "date": "2026-05-20",
-    "summary": "Nature, Published online: 20 May 2026; doi:10.1038/s41586-026-10532-5 A genome-wide association study combining data from the Estonian Biobank and the UK Biobank identifies many common and low-frequency locus–metabolic trait associations, enabling the identification of putative causal links with disease outcomes.",
-    "abstract": "Nature, Published online: 20 May 2026; doi:10.1038/s41586-026-10532-5 A genome-wide association study combining data from the Estonian Biobank and the UK Biobank identifies many common and low-frequency locus–metabolic trait associations, enabling the identification of putative causal links with disease outcomes.",
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-10532-5/MediaObjects/41586_2026_10532_Fig1_HTML.png",
     "topic": "default",
     "topic_color": "#60a5fa",
     "priority_score": 0
@@ -555,19 +568,6 @@
     "abstract": "Nature Immunology, Published online: 18 May 2026; doi:10.1038/s41590-026-02529-z O’Garra and colleagues discuss the evolving spectrum of M. tuberculosis infection outcomes and TB disease, how the host immune response determines and unfolds across this spectrum and how the natural diversity of M. tuberculosis contributes to this complexity.",
     "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41590-026-02529-z/MediaObjects/41590_2026_2529_Fig1_HTML.png",
     "topic": "immunology",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
-    "title": "BREAKING: WHO declares major outbreak of rare Ebola virus species an international emergency",
-    "link": "https://www.science.org/content/article/major-outbreak-rare-ebola-virus-species-northern-congo-alarms-scientists",
-    "journal": "Science",
-    "source_type": "journal",
-    "date": "2026-05-16T10:00:00Z",
-    "summary": "No vaccines or treatments exist for Ebola Bundibugyo, which has caused hundreds of suspected cases and 80 deaths in Congo and Uganda; WHO warns of “potentially much larger outbreak”",
-    "abstract": "No vaccines or treatments exist for Ebola Bundibugyo, which has caused hundreds of suspected cases and 80 deaths in Congo and Uganda; WHO warns of “potentially much larger outbreak”",
-    "image": "data:image/svg+xml;charset=utf-8,%0A%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23111827%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23374151%22/%3E%0A%20%20%20%20%3C/linearGradient%3E%0A%20%20%20%20%3Cfilter%20id%3D%22blur%22%3E%0A%20%20%20%20%20%20%3CfeGaussianBlur%20stdDeviation%3D%2230%22/%3E%0A%20%20%20%20%3C/filter%3E%0A%20%20%3C/defs%3E%0A%0A%20%20%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22url%28%23bg%29%22/%3E%0A%0A%20%20%3Ccircle%20cx%3D%221030%22%20cy%3D%22110%22%20r%3D%22170%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.18%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%20%20%3Ccircle%20cx%3D%22180%22%20cy%3D%22560%22%20r%3D%22150%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.16%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%0A%20%20%3Crect%20x%3D%2256%22%20y%3D%2252%22%20rx%3D%2218%22%20ry%3D%2218%22%20width%3D%22260%22%20height%3D%2254%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.08%29%22/%3E%0A%20%20%3Ctext%20x%3D%2284%22%20y%3D%2287%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2228%22%20fill%3D%22%23e5e7eb%22%3EScience%3C/text%3E%0A%0A%20%20%3Ctext%20x%3D%221010%22%20y%3D%22560%22%0A%20%20%20%20%20%20%20%20text-anchor%3D%22middle%22%0A%20%20%20%20%20%20%20%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%0A%20%20%20%20%20%20%20%20font-size%3D%22160%22%0A%20%20%20%20%20%20%20%20fill%3D%22%2360a5fa%22%0A%20%20%20%20%20%20%20%20opacity%3D%220.85%22%3E%0A%20%20%20%20%E2%80%A2%0A%20%20%3C/text%3E%0A%3C/svg%3E%0A",
-    "topic": "default",
     "topic_color": "#60a5fa",
     "priority_score": 0
   },
