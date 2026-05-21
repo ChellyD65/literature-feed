@@ -39,19 +39,6 @@
     "priority_score": 157
   },
   {
-    "title": "Epigenetic reprogramming of T cell metabolism restores function and enhances anti-tumor immunity in lung cancer",
-    "link": "https://www.nature.com/articles/s41590-026-02515-5",
-    "journal": "Nature Immunology",
-    "source_type": "journal",
-    "date": "2026-05-12",
-    "summary": "Nature Immunology, Published online: 12 May 2026; doi:10.1038/s41590-026-02515-5 Tsai and colleagues propose that BET inhibitors can blunt T cell exhaustion via a pathway involving ornithine decarboxylase-dependent polyamine biosynthesis.",
-    "abstract": "T cell exhaustion represents a critical target for immunotherapy in cancer. Nevertheless, T cells exhibit diminished responsiveness to immune checkpoint inhibitors once they transition to a terminally exhausted state. Here we used an epigenetic drug screen and identified bromodomain and extra-terminal motif inhibitors (BETis) as enhancers of effector functions in primary exhausted T cells (TEX) from malignant pleural effusions in patients with lung cancer. Transcriptomics, metabolomics and ATAC-seq analyses revealed that BETis reinvigorate TEX cells by activating the polyamine biosynthesis pathway, expanding intracellular polyamine pools and altering chromatin accessibility. Genetic and pharmacological inhibition of ornithine decarboxylase (ODC1), a key enzyme in this pathway, abolished BETi-mediated immunopotentiation. Single-cell RNA-seq demonstrated that BETis reduced terminal TEX while promoting progenitor TEX through activation of the MYC–ODC axis. BETi treatment or adoptive transfer of BETi-treated T cells suppressed malignant pleural effusion formation in a syngeneic lung cancer model. These findings highlight an epigenetic–metabolic approach to enhance TEX plasticity and offer insights for novel cancer immunotherapies. Tsai and colleagues propose that BET inhibitors can blunt T cell exhaustion via a pathway involving ornithine decarboxylase-dependent polyamine biosynthesis.",
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41590-026-02515-5/MediaObjects/41590_2026_2515_Fig1_HTML.png",
-    "topic": "Spatial & Single Cell",
-    "topic_color": "#60a5fa",
-    "priority_score": 146
-  },
-  {
     "title": "Inhibition of salt-inducible kinases reprograms T cells and antitumor immunity in ovarian cancer",
     "link": "https://www.nature.com/articles/s41590-026-02512-8",
     "journal": "Nature Immunology",
@@ -91,6 +78,19 @@
     "priority_score": 93
   },
   {
+    "title": "Salt-inducible kinases as druggable targets for immunotherapy of ovarian cancer",
+    "link": "https://www.nature.com/articles/s41590-026-02513-7",
+    "journal": "Nature Immunology",
+    "source_type": "journal",
+    "date": "2026-05-21",
+    "summary": "Nature Immunology, Published online: 21 May 2026; doi:10.1038/s41590-026-02513-7 Malignant ascites strongly inhibits T cell anti-tumor responses in patients with high-grade serous ovarian cancer (HGSOC). Using an all-human high-throughput drug repurposing screen, we identified salt-inducible kinases (SIKs) as negative regulators of T cell function in ascites. Pharmacological inhibition or genetic depletion of SIK2 and SIK3 in T cells strongly upregulates anti-tumor immunity and improves survival in immunotherapy-resistant preclinical models.",
+    "abstract": "Nature Immunology, Published online: 21 May 2026; doi:10.1038/s41590-026-02513-7 Malignant ascites strongly inhibits T cell anti-tumor responses in patients with high-grade serous ovarian cancer (HGSOC). Using an all-human high-throughput drug repurposing screen, we identified salt-inducible kinases (SIKs) as negative regulators of T cell function in ascites. Pharmacological inhibition or genetic depletion of SIK2 and SIK3 in T cells strongly upregulates anti-tumor immunity and improves survival in immunotherapy-resistant preclinical models.",
+    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41590-026-02513-7/MediaObjects/41590_2026_2513_Fig1_HTML.png",
+    "topic": "Immunology",
+    "topic_color": "#60a5fa",
+    "priority_score": 93
+  },
+  {
     "title": "Resetting autoimmune disease with CAR cell therapies",
     "link": "https://www.nature.com/articles/s41591-026-04430-6",
     "journal": "Nature Medicine",
@@ -124,6 +124,19 @@
     "date": "2026-05-21T10:00:00Z",
     "summary": "Puzzling JWST observation could instead be one of the universe's first galaxies—or something more mundane",
     "abstract": "Puzzling JWST observation could instead be one of the universe's first galaxies—or something more mundane",
+    "image": "data:image/svg+xml;charset=utf-8,%0A%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23111827%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23374151%22/%3E%0A%20%20%20%20%3C/linearGradient%3E%0A%20%20%20%20%3Cfilter%20id%3D%22blur%22%3E%0A%20%20%20%20%20%20%3CfeGaussianBlur%20stdDeviation%3D%2230%22/%3E%0A%20%20%20%20%3C/filter%3E%0A%20%20%3C/defs%3E%0A%0A%20%20%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22url%28%23bg%29%22/%3E%0A%0A%20%20%3Ccircle%20cx%3D%221030%22%20cy%3D%22110%22%20r%3D%22170%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.18%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%20%20%3Ccircle%20cx%3D%22180%22%20cy%3D%22560%22%20r%3D%22150%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.16%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%0A%20%20%3Crect%20x%3D%2256%22%20y%3D%2252%22%20rx%3D%2218%22%20ry%3D%2218%22%20width%3D%22260%22%20height%3D%2254%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.08%29%22/%3E%0A%20%20%3Ctext%20x%3D%2284%22%20y%3D%2287%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2228%22%20fill%3D%22%23e5e7eb%22%3EScience%3C/text%3E%0A%0A%20%20%3Ctext%20x%3D%221010%22%20y%3D%22560%22%0A%20%20%20%20%20%20%20%20text-anchor%3D%22middle%22%0A%20%20%20%20%20%20%20%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%0A%20%20%20%20%20%20%20%20font-size%3D%22160%22%0A%20%20%20%20%20%20%20%20fill%3D%22%2360a5fa%22%0A%20%20%20%20%20%20%20%20opacity%3D%220.85%22%3E%0A%20%20%20%20%E2%80%A2%0A%20%20%3C/text%3E%0A%3C/svg%3E%0A",
+    "topic": "default",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
+    "title": "Research groups want Senate to vet Trump’s nominee for NSF head",
+    "link": "https://www.science.org/content/article/analysis-research-groups-want-senate-vet-trump-s-nominee-nsf-head",
+    "journal": "Science",
+    "source_type": "journal",
+    "date": "2026-05-21T05:05:00Z",
+    "summary": "A hearing would air questions about James O’Neill’s qualifications to lead the agency",
+    "abstract": "A hearing would air questions about James O’Neill’s qualifications to lead the agency",
     "image": "data:image/svg+xml;charset=utf-8,%0A%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23111827%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23374151%22/%3E%0A%20%20%20%20%3C/linearGradient%3E%0A%20%20%20%20%3Cfilter%20id%3D%22blur%22%3E%0A%20%20%20%20%20%20%3CfeGaussianBlur%20stdDeviation%3D%2230%22/%3E%0A%20%20%20%20%3C/filter%3E%0A%20%20%3C/defs%3E%0A%0A%20%20%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22url%28%23bg%29%22/%3E%0A%0A%20%20%3Ccircle%20cx%3D%221030%22%20cy%3D%22110%22%20r%3D%22170%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.18%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%20%20%3Ccircle%20cx%3D%22180%22%20cy%3D%22560%22%20r%3D%22150%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.16%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%0A%20%20%3Crect%20x%3D%2256%22%20y%3D%2252%22%20rx%3D%2218%22%20ry%3D%2218%22%20width%3D%22260%22%20height%3D%2254%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.08%29%22/%3E%0A%20%20%3Ctext%20x%3D%2284%22%20y%3D%2287%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2228%22%20fill%3D%22%23e5e7eb%22%3EScience%3C/text%3E%0A%0A%20%20%3Ctext%20x%3D%221010%22%20y%3D%22560%22%0A%20%20%20%20%20%20%20%20text-anchor%3D%22middle%22%0A%20%20%20%20%20%20%20%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%0A%20%20%20%20%20%20%20%20font-size%3D%22160%22%0A%20%20%20%20%20%20%20%20fill%3D%22%2360a5fa%22%0A%20%20%20%20%20%20%20%20opacity%3D%220.85%22%3E%0A%20%20%20%20%E2%80%A2%0A%20%20%3C/text%3E%0A%3C/svg%3E%0A",
     "topic": "default",
     "topic_color": "#60a5fa",
@@ -256,6 +269,19 @@
     "abstract": "Nature, Published online: 21 May 2026; doi:10.1038/d41586-026-01467-y Félix Schoeller’s team built a realistic artificial-intelligence chatbot to train facilitators needed for research into psychoactive drugs — and, ultimately, to improve public health.",
     "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-01467-y/d41586-026-01467-y_52441608.jpg",
     "topic": "default",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
+    "title": "Mapping where mouse models match — and miss — human tumor immunity",
+    "link": "https://www.nature.com/articles/s41590-026-02527-1",
+    "journal": "Nature Immunology",
+    "source_type": "journal",
+    "date": "2026-05-21",
+    "summary": "Nature Immunology, Published online: 21 May 2026; doi:10.1038/s41590-026-02527-1 A systematic comparison of the tumor microenvironment (TME) in mouse models and humans reveals that widely used models capture only a limited subset of the cellular diversity and cell type-specific gene expression observed in human TMEs. We present a resource that defines the conserved and divergent features, including shared gene programs, across mouse and human TMEs to guide model selection and improve the translational reliability of immunotherapy studies.",
+    "abstract": "Nature Immunology, Published online: 21 May 2026; doi:10.1038/s41590-026-02527-1 A systematic comparison of the tumor microenvironment (TME) in mouse models and humans reveals that widely used models capture only a limited subset of the cellular diversity and cell type-specific gene expression observed in human TMEs. We present a resource that defines the conserved and divergent features, including shared gene programs, across mouse and human TMEs to guide model selection and improve the translational reliability of immunotherapy studies.",
+    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41590-026-02527-1/MediaObjects/41590_2026_2527_Fig1_HTML.png",
+    "topic": "immunology",
     "topic_color": "#60a5fa",
     "priority_score": 0
   },
@@ -507,19 +533,6 @@
     "priority_score": 0
   },
   {
-    "title": "Can extra snoozing reverse the health hazards of a bad night’s sleep?",
-    "link": "https://www.science.org/content/article/can-extra-snoozing-reverse-health-hazards-bad-night-s-sleep",
-    "journal": "Science",
-    "source_type": "journal",
-    "date": "2026-05-19T05:00:00Z",
-    "summary": "Catching more z’s the day after a shortened slumber appears to reduce risk of early death",
-    "abstract": "Catching more z’s the day after a shortened slumber appears to reduce risk of early death",
-    "image": "data:image/svg+xml;charset=utf-8,%0A%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23111827%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23374151%22/%3E%0A%20%20%20%20%3C/linearGradient%3E%0A%20%20%20%20%3Cfilter%20id%3D%22blur%22%3E%0A%20%20%20%20%20%20%3CfeGaussianBlur%20stdDeviation%3D%2230%22/%3E%0A%20%20%20%20%3C/filter%3E%0A%20%20%3C/defs%3E%0A%0A%20%20%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22url%28%23bg%29%22/%3E%0A%0A%20%20%3Ccircle%20cx%3D%221030%22%20cy%3D%22110%22%20r%3D%22170%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.18%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%20%20%3Ccircle%20cx%3D%22180%22%20cy%3D%22560%22%20r%3D%22150%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.16%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%0A%20%20%3Crect%20x%3D%2256%22%20y%3D%2252%22%20rx%3D%2218%22%20ry%3D%2218%22%20width%3D%22260%22%20height%3D%2254%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.08%29%22/%3E%0A%20%20%3Ctext%20x%3D%2284%22%20y%3D%2287%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2228%22%20fill%3D%22%23e5e7eb%22%3EScience%3C/text%3E%0A%0A%20%20%3Ctext%20x%3D%221010%22%20y%3D%22560%22%0A%20%20%20%20%20%20%20%20text-anchor%3D%22middle%22%0A%20%20%20%20%20%20%20%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%0A%20%20%20%20%20%20%20%20font-size%3D%22160%22%0A%20%20%20%20%20%20%20%20fill%3D%22%2360a5fa%22%0A%20%20%20%20%20%20%20%20opacity%3D%220.85%22%3E%0A%20%20%20%20%E2%80%A2%0A%20%20%3C/text%3E%0A%3C/svg%3E%0A",
-    "topic": "default",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
     "title": "Broadly protective mucosal vaccination in the respiratory tract",
     "link": "https://www.nature.com/articles/s41590-026-02530-6",
     "journal": "Nature Immunology",
@@ -646,19 +659,6 @@
     "abstract": "Proceedings of the National Academy of Sciences, Volume 123, Issue 20, May 2026. SignificanceFungal proliferation in geologic samples can signify major ecosystem disruptions. Such spikes are documented globally for the Permian-Triassic extinction but for the Cretaceous–Paleogene extinction have been reported previously only in New ...",
     "image": "data:image/svg+xml;charset=utf-8,%0A%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23111827%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23374151%22/%3E%0A%20%20%20%20%3C/linearGradient%3E%0A%20%20%20%20%3Cfilter%20id%3D%22blur%22%3E%0A%20%20%20%20%20%20%3CfeGaussianBlur%20stdDeviation%3D%2230%22/%3E%0A%20%20%20%20%3C/filter%3E%0A%20%20%3C/defs%3E%0A%0A%20%20%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22url%28%23bg%29%22/%3E%0A%0A%20%20%3Ccircle%20cx%3D%221030%22%20cy%3D%22110%22%20r%3D%22170%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.18%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%20%20%3Ccircle%20cx%3D%22180%22%20cy%3D%22560%22%20r%3D%22150%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.16%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%0A%20%20%3Crect%20x%3D%2256%22%20y%3D%2252%22%20rx%3D%2218%22%20ry%3D%2218%22%20width%3D%22260%22%20height%3D%2254%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.08%29%22/%3E%0A%20%20%3Ctext%20x%3D%2284%22%20y%3D%2287%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2228%22%20fill%3D%22%23e5e7eb%22%3EPNAS%3C/text%3E%0A%0A%20%20%3Ctext%20x%3D%221010%22%20y%3D%22560%22%0A%20%20%20%20%20%20%20%20text-anchor%3D%22middle%22%0A%20%20%20%20%20%20%20%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%0A%20%20%20%20%20%20%20%20font-size%3D%22160%22%0A%20%20%20%20%20%20%20%20fill%3D%22%2360a5fa%22%0A%20%20%20%20%20%20%20%20opacity%3D%220.85%22%3E%0A%20%20%20%20%E2%80%A2%0A%20%20%3C/text%3E%0A%3C/svg%3E%0A",
     "topic": "default",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
-    "title": "An inflammasome-driven differentiation program in intestinal stem cells protects against <i>Salmonella</i> infection",
-    "link": "https://www.nature.com/articles/s41590-026-02514-6",
-    "journal": "Nature Immunology",
-    "source_type": "journal",
-    "date": "2026-05-12",
-    "summary": "Nature Immunology, Published online: 12 May 2026; doi:10.1038/s41590-026-02514-6 Salmonella-invaded intestinal stem cells activate an inflammasome-driven differentiation program toward antimicrobial Paneth cells, revealing a protective stem cell defense mechanism that helps restrict pathogen spread.",
-    "abstract": "Nature Immunology, Published online: 12 May 2026; doi:10.1038/s41590-026-02514-6 Salmonella-invaded intestinal stem cells activate an inflammasome-driven differentiation program toward antimicrobial Paneth cells, revealing a protective stem cell defense mechanism that helps restrict pathogen spread.",
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41590-026-02514-6/MediaObjects/41590_2026_2514_Fig1_HTML.png",
-    "topic": "immunology",
     "topic_color": "#60a5fa",
     "priority_score": 0
   },
