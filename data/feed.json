@@ -52,19 +52,6 @@
     "priority_score": 106
   },
   {
-    "title": "Monocyte infiltration induces CNS arginine catabolism to fuel neuroinflammation",
-    "link": "https://www.nature.com/articles/s41590-026-02516-4",
-    "journal": "Nature Immunology",
-    "source_type": "journal",
-    "date": "2026-05-18",
-    "summary": "Nature Immunology, Published online: 18 May 2026; doi:10.1038/s41590-026-02516-4 Kerndl and colleagues identify that arginase 1-expressing monocyte-derived cells mediate arginine catabolism and detrimental effects during experimental autoimmune encephalitis-triggered neuroinflammation.",
-    "abstract": "Nature Immunology, Published online: 18 May 2026; doi:10.1038/s41590-026-02516-4 Kerndl and colleagues identify that arginase 1-expressing monocyte-derived cells mediate arginine catabolism and detrimental effects during experimental autoimmune encephalitis-triggered neuroinflammation.",
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41590-026-02516-4/MediaObjects/41590_2026_2516_Fig1_HTML.png",
-    "topic": "inflammation",
-    "topic_color": "#fb7185",
-    "priority_score": 97
-  },
-  {
     "title": "De novo design of miniproteins targeting GPCRs",
     "link": "https://www.nature.com/articles/s41586-026-10656-8",
     "journal": "Nature",
@@ -104,17 +91,17 @@
     "priority_score": 93
   },
   {
-    "title": "An AI framework for multi-disease detection via retinal imaging",
-    "link": "https://www.nature.com/articles/s41591-026-04424-4",
-    "journal": "Nature Medicine",
+    "title": "Branching out takes anti-tumor immunity down a NOTCH",
+    "link": "https://www.nature.com/articles/s41590-026-02528-0",
+    "journal": "Nature Immunology",
     "source_type": "journal",
-    "date": "2026-05-20",
-    "summary": "Nature Medicine, Published online: 20 May 2026; doi:10.1038/s41591-026-04424-4 Using large-scale retinal images from community and tertiary hospitals, we developed Reti-Pioneer, a quality-aware, multi-task framework for multi-disease detection. Diverse external validation confirmed its generalizability. Furthermore, a prospective silent trial and clinical pilot study demonstrated its time efficiency, real-world feasibility, and potential for integration into clinical workflows.",
-    "abstract": "Nature Medicine, Published online: 20 May 2026; doi:10.1038/s41591-026-04424-4 Using large-scale retinal images from community and tertiary hospitals, we developed Reti-Pioneer, a quality-aware, multi-task framework for multi-disease detection. Diverse external validation confirmed its generalizability. Furthermore, a prospective silent trial and clinical pilot study demonstrated its time efficiency, real-world feasibility, and potential for integration into clinical workflows.",
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41591-026-04424-4/MediaObjects/41591_2026_4424_Fig1_HTML.png",
-    "topic": "retina",
-    "topic_color": "#f472b6",
-    "priority_score": 79
+    "date": "2026-05-22",
+    "summary": "Nature Immunology, Published online: 22 May 2026; doi:10.1038/s41590-026-02528-0 Cancer cells utilize many strategies to suppress immune responses. Data now show that these measures include the secretion of branched-chain keto acids into the tumor microenvironment. These metabolites can be taken up by tumor-associated macrophages, in which they can shield NOTCH2 from degradation and thereby favor an immunosuppressive gene expression program.",
+    "abstract": "Nature Immunology, Published online: 22 May 2026; doi:10.1038/s41590-026-02528-0 Cancer cells utilize many strategies to suppress immune responses. Data now show that these measures include the secretion of branched-chain keto acids into the tumor microenvironment. These metabolites can be taken up by tumor-associated macrophages, in which they can shield NOTCH2 from degradation and thereby favor an immunosuppressive gene expression program.",
+    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41590-026-02528-0/MediaObjects/41590_2026_2528_Fig1_HTML.png",
+    "topic": "macrophage",
+    "topic_color": "#f59e0b",
+    "priority_score": 65
   },
   {
     "title": "Vanishing tongues and life on Mars: Books in brief",
@@ -195,6 +182,32 @@
     "priority_score": 0
   },
   {
+    "title": "Immune development in early life",
+    "link": "https://www.nature.com/articles/s41590-026-02523-5",
+    "journal": "Nature Immunology",
+    "source_type": "journal",
+    "date": "2026-05-22",
+    "summary": "Nature Immunology, Published online: 22 May 2026; doi:10.1038/s41590-026-02523-5 Palma et al. discuss the current state of the field on early immune development in humans.",
+    "abstract": "The perinatal period of immune ontogeny reflects prenatal, maternal and postnatal cues that converge to establish durable immune trajectories. Fetal and infant immunity follows distinct, ontogeny-specific programs optimized for tissue protection, tolerance and rapid effector function. Herein, we integrate recent insights into prenatal hematopoiesis, tissue seeding by innate and adaptive lymphocytes, and the establishment of immune specialization across barriers and systemic compartments. We examine how cellular and humoral factors in blood, tissues and/or breast milk calibrate immune development, and how postnatal microbial colonization and environmental exposures further refine immune function in a tissue- and time-dependent manner. Together, these findings redefine early life as a critical window during which immune set points are established, with lasting immunological imprinting linked to host defense, vaccine responsiveness and risk for atopy. A mechanistic understanding of these processes provides a framework for rational, age-adapted strategies to promote immune health across the life course. Palma et al. discuss the current state of the field on early immune development in humans.",
+    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41590-026-02523-5/MediaObjects/41590_2026_2523_Fig1_HTML.png",
+    "topic": "immunology",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
+    "title": "A glycan-based adjuvant expands the breadth and duration of protection of mRNA-based vaccines",
+    "link": "https://www.nature.com/articles/s41590-026-02517-3",
+    "journal": "Nature Immunology",
+    "source_type": "journal",
+    "date": "2026-05-22",
+    "summary": "Nature Immunology, Published online: 22 May 2026; doi:10.1038/s41590-026-02517-3 Jena, Qu et al. show that mannadjuvant, a formulation of fungal mannan and aluminum hydroxide, increases the magnitude, durability and breadth of the response elicited by mRNA-based vaccines against SARS-CoV-2 variants in mice and non-human primates.",
+    "abstract": "Nature Immunology, Published online: 22 May 2026; doi:10.1038/s41590-026-02517-3 Jena, Qu et al. show that mannadjuvant, a formulation of fungal mannan and aluminum hydroxide, increases the magnitude, durability and breadth of the response elicited by mRNA-based vaccines against SARS-CoV-2 variants in mice and non-human primates.",
+    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41590-026-02517-3/MediaObjects/41590_2026_2517_Fig1_HTML.png",
+    "topic": "immunology",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
     "title": "Naming in medicine: how disease nomenclature shapes diagnosis, research and patient lives",
     "link": "https://www.nature.com/articles/s41591-026-04456-w",
     "journal": "Nature Medicine",
@@ -203,6 +216,19 @@
     "summary": "Nature Medicine, Published online: 22 May 2026; doi:10.1038/s41591-026-04456-w Naming in medicine: how disease nomenclature shapes diagnosis, research and patient lives",
     "abstract": "Nature Medicine, Published online: 22 May 2026; doi:10.1038/s41591-026-04456-w Naming in medicine: how disease nomenclature shapes diagnosis, research and patient lives",
     "image": "data:image/svg+xml;charset=utf-8,%0A%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23111827%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23374151%22/%3E%0A%20%20%20%20%3C/linearGradient%3E%0A%20%20%20%20%3Cfilter%20id%3D%22blur%22%3E%0A%20%20%20%20%20%20%3CfeGaussianBlur%20stdDeviation%3D%2230%22/%3E%0A%20%20%20%20%3C/filter%3E%0A%20%20%3C/defs%3E%0A%0A%20%20%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22url%28%23bg%29%22/%3E%0A%0A%20%20%3Ccircle%20cx%3D%221030%22%20cy%3D%22110%22%20r%3D%22170%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.18%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%20%20%3Ccircle%20cx%3D%22180%22%20cy%3D%22560%22%20r%3D%22150%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.16%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%0A%20%20%3Crect%20x%3D%2256%22%20y%3D%2252%22%20rx%3D%2218%22%20ry%3D%2218%22%20width%3D%22260%22%20height%3D%2254%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.08%29%22/%3E%0A%20%20%3Ctext%20x%3D%2284%22%20y%3D%2287%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2228%22%20fill%3D%22%23e5e7eb%22%3ENature%20Medicine%3C/text%3E%0A%0A%20%20%3Ctext%20x%3D%221010%22%20y%3D%22560%22%0A%20%20%20%20%20%20%20%20text-anchor%3D%22middle%22%0A%20%20%20%20%20%20%20%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%0A%20%20%20%20%20%20%20%20font-size%3D%22160%22%0A%20%20%20%20%20%20%20%20fill%3D%22%2360a5fa%22%0A%20%20%20%20%20%20%20%20opacity%3D%220.85%22%3E%0A%20%20%20%20%E2%80%A2%0A%20%20%3C/text%3E%0A%3C/svg%3E%0A",
+    "topic": "default",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
+    "title": "<b>A rare case of gene therapy-linked cancer </b>",
+    "link": "https://www.nature.com/articles/d41591-026-00027-1",
+    "journal": "Nature Medicine",
+    "source_type": "journal",
+    "date": "2026-05-22",
+    "summary": "Nature Medicine, Published online: 22 May 2026; doi:10.1038/d41591-026-00027-1 A rare case of genomic integration of an adenovirus vector led to a child developing a tumor — successfully removed by surgery — which highlights the importance of long-term safety monitoring in patients who receive gene therapy.",
+    "abstract": "Nature Medicine, Published online: 22 May 2026; doi:10.1038/d41591-026-00027-1 A rare case of genomic integration of an adenovirus vector led to a child developing a tumor — successfully removed by surgery — which highlights the importance of long-term safety monitoring in patients who receive gene therapy.",
+    "image": "https://media.nature.com/lw1200/magazine-assets/d41591-026-00027-1/d41591-026-00027-1_52456358.jpg",
     "topic": "default",
     "topic_color": "#60a5fa",
     "priority_score": 0
@@ -541,32 +567,6 @@
     "summary": "Nature Immunology, Published online: 19 May 2026; doi:10.1038/s41590-026-02530-6 Mucosal vaccination can raise the immunological readiness of the respiratory tract before pathogen exposure, potentially enabling protection beyond antigen-specific immunity.",
     "abstract": "Nature Immunology, Published online: 19 May 2026; doi:10.1038/s41590-026-02530-6 Mucosal vaccination can raise the immunological readiness of the respiratory tract before pathogen exposure, potentially enabling protection beyond antigen-specific immunity.",
     "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41590-026-02530-6/MediaObjects/41590_2026_2530_Fig1_HTML.png",
-    "topic": "immunology",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
-    "title": "Differential assembly of mouse and human tumor microenvironments",
-    "link": "https://www.nature.com/articles/s41590-026-02505-7",
-    "journal": "Nature Immunology",
-    "source_type": "journal",
-    "date": "2026-05-19",
-    "summary": "Nature Immunology, Published online: 19 May 2026; doi:10.1038/s41590-026-02505-7 In this Resource paper, Krummel and colleagues provide analysis of 15 commonly used syngeneic mouse tumor models and compare these to the diversity of human tumor microenvironments.",
-    "abstract": "Nature Immunology, Published online: 19 May 2026; doi:10.1038/s41590-026-02505-7 In this Resource paper, Krummel and colleagues provide analysis of 15 commonly used syngeneic mouse tumor models and compare these to the diversity of human tumor microenvironments.",
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41590-026-02505-7/MediaObjects/41590_2026_2505_Fig1_HTML.png",
-    "topic": "immunology",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
-    "title": "The host immune response to <i>Mycobacterium tuberculosis</i> determining protection or disease progression",
-    "link": "https://www.nature.com/articles/s41590-026-02529-z",
-    "journal": "Nature Immunology",
-    "source_type": "journal",
-    "date": "2026-05-18",
-    "summary": "Nature Immunology, Published online: 18 May 2026; doi:10.1038/s41590-026-02529-z O’Garra and colleagues discuss the evolving spectrum of M. tuberculosis infection outcomes and TB disease, how the host immune response determines and unfolds across this spectrum and how the natural diversity of M. tuberculosis contributes to this complexity.",
-    "abstract": "Nature Immunology, Published online: 18 May 2026; doi:10.1038/s41590-026-02529-z O’Garra and colleagues discuss the evolving spectrum of M. tuberculosis infection outcomes and TB disease, how the host immune response determines and unfolds across this spectrum and how the natural diversity of M. tuberculosis contributes to this complexity.",
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41590-026-02529-z/MediaObjects/41590_2026_2529_Fig1_HTML.png",
     "topic": "immunology",
     "topic_color": "#60a5fa",
     "priority_score": 0
