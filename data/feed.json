@@ -52,6 +52,19 @@
     "priority_score": 106
   },
   {
+    "title": "Monocyte infiltration induces CNS arginine catabolism to fuel neuroinflammation",
+    "link": "https://www.nature.com/articles/s41590-026-02516-4",
+    "journal": "Nature Immunology",
+    "source_type": "journal",
+    "date": "2026-05-18",
+    "summary": "Nature Immunology, Published online: 18 May 2026; doi:10.1038/s41590-026-02516-4 Kerndl and colleagues identify that arginase 1-expressing monocyte-derived cells mediate arginine catabolism and detrimental effects during experimental autoimmune encephalitis-triggered neuroinflammation.",
+    "abstract": "Nature Immunology, Published online: 18 May 2026; doi:10.1038/s41590-026-02516-4 Kerndl and colleagues identify that arginase 1-expressing monocyte-derived cells mediate arginine catabolism and detrimental effects during experimental autoimmune encephalitis-triggered neuroinflammation.",
+    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41590-026-02516-4/MediaObjects/41590_2026_2516_Fig1_HTML.png",
+    "topic": "inflammation",
+    "topic_color": "#fb7185",
+    "priority_score": 97
+  },
+  {
     "title": "De novo design of miniproteins targeting GPCRs",
     "link": "https://www.nature.com/articles/s41586-026-10656-8",
     "journal": "Nature",
@@ -104,19 +117,6 @@
     "priority_score": 79
   },
   {
-    "title": "Branching out takes anti-tumor immunity down a NOTCH",
-    "link": "https://www.nature.com/articles/s41590-026-02528-0",
-    "journal": "Nature Immunology",
-    "source_type": "journal",
-    "date": "2026-05-22",
-    "summary": "Nature Immunology, Published online: 22 May 2026; doi:10.1038/s41590-026-02528-0 Cancer cells utilize many strategies to suppress immune responses. Data now show that these measures include the secretion of branched-chain keto acids into the tumor microenvironment. These metabolites can be taken up by tumor-associated macrophages, in which they can shield NOTCH2 from degradation and thereby favor an immunosuppressive gene expression program.",
-    "abstract": "Nature Immunology, Published online: 22 May 2026; doi:10.1038/s41590-026-02528-0 Cancer cells utilize many strategies to suppress immune responses. Data now show that these measures include the secretion of branched-chain keto acids into the tumor microenvironment. These metabolites can be taken up by tumor-associated macrophages, in which they can shield NOTCH2 from degradation and thereby favor an immunosuppressive gene expression program.",
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41590-026-02528-0/MediaObjects/41590_2026_2528_Fig1_HTML.png",
-    "topic": "macrophage",
-    "topic_color": "#f59e0b",
-    "priority_score": 65
-  },
-  {
     "title": "Vanishing tongues and life on Mars: Books in brief",
     "link": "https://www.nature.com/articles/d41586-026-01655-w",
     "journal": "Nature",
@@ -156,6 +156,19 @@
     "priority_score": 0
   },
   {
+    "title": "AI cracks 80-year-old mathematics challenge — researchers are astonished",
+    "link": "https://www.nature.com/articles/d41586-026-01651-0",
+    "journal": "Nature",
+    "source_type": "journal",
+    "date": "2026-05-22",
+    "summary": "Nature, Published online: 22 May 2026; doi:10.1038/d41586-026-01651-0 The late Hungarian mathematician Paul Erdős thought he had the last word on a geometry problem. Now an OpenAI chatbot has proved him wrong.",
+    "abstract": "The late Hungarian mathematician Paul Erdős thought he had the last word on a geometry problem. Now an OpenAI chatbot has proved him wrong. The late Hungarian mathematician Paul Erdős thought he had the last word on a geometry problem. Now an OpenAI chatbot has proved him wrong.",
+    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-01651-0/d41586-026-01651-0_52456330.jpg",
+    "topic": "default",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
     "title": "Hit a lab project glitch? Thinking about your thesis title like a storyteller can help you focus",
     "link": "https://www.nature.com/articles/d41586-026-01392-0",
     "journal": "Nature",
@@ -169,28 +182,15 @@
     "priority_score": 0
   },
   {
-    "title": "Immune development in early life",
-    "link": "https://www.nature.com/articles/s41590-026-02523-5",
-    "journal": "Nature Immunology",
+    "title": "Stress impairs your brain’s ability to link memories — dampening insight",
+    "link": "https://www.nature.com/articles/d41586-026-01644-z",
+    "journal": "Nature",
     "source_type": "journal",
     "date": "2026-05-22",
-    "summary": "Nature Immunology, Published online: 22 May 2026; doi:10.1038/s41590-026-02523-5 Palma et al. discuss the current state of the field on early immune development in humans.",
-    "abstract": "The perinatal period of immune ontogeny reflects prenatal, maternal and postnatal cues that converge to establish durable immune trajectories. Fetal and infant immunity follows distinct, ontogeny-specific programs optimized for tissue protection, tolerance and rapid effector function. Herein, we integrate recent insights into prenatal hematopoiesis, tissue seeding by innate and adaptive lymphocytes, and the establishment of immune specialization across barriers and systemic compartments. We examine how cellular and humoral factors in blood, tissues and/or breast milk calibrate immune development, and how postnatal microbial colonization and environmental exposures further refine immune function in a tissue- and time-dependent manner. Together, these findings redefine early life as a critical window during which immune set points are established, with lasting immunological imprinting linked to host defense, vaccine responsiveness and risk for atopy. A mechanistic understanding of these processes provides a framework for rational, age-adapted strategies to promote immune health across the life course. Palma et al. discuss the current state of the field on early immune development in humans.",
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41590-026-02523-5/MediaObjects/41590_2026_2523_Fig1_HTML.png",
-    "topic": "immunology",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
-    "title": "A glycan-based adjuvant expands the breadth and duration of protection of mRNA-based vaccines",
-    "link": "https://www.nature.com/articles/s41590-026-02517-3",
-    "journal": "Nature Immunology",
-    "source_type": "journal",
-    "date": "2026-05-22",
-    "summary": "Nature Immunology, Published online: 22 May 2026; doi:10.1038/s41590-026-02517-3 Jena, Qu et al. show that mannadjuvant, a formulation of fungal mannan and aluminum hydroxide, increases the magnitude, durability and breadth of the response elicited by mRNA-based vaccines against SARS-CoV-2 variants in mice and non-human primates.",
-    "abstract": "Nature Immunology, Published online: 22 May 2026; doi:10.1038/s41590-026-02517-3 Jena, Qu et al. show that mannadjuvant, a formulation of fungal mannan and aluminum hydroxide, increases the magnitude, durability and breadth of the response elicited by mRNA-based vaccines against SARS-CoV-2 variants in mice and non-human primates.",
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41590-026-02517-3/MediaObjects/41590_2026_2517_Fig1_HTML.png",
-    "topic": "immunology",
+    "summary": "Nature, Published online: 22 May 2026; doi:10.1038/d41586-026-01644-z Imaging suggests why the ability to make inferences declines after an episode of acute stress, such as a job interview.",
+    "abstract": "Nature, Published online: 22 May 2026; doi:10.1038/d41586-026-01644-z Imaging suggests why the ability to make inferences declines after an episode of acute stress, such as a job interview.",
+    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-01644-z/d41586-026-01644-z_52456108.jpg",
+    "topic": "default",
     "topic_color": "#60a5fa",
     "priority_score": 0
   },
@@ -359,32 +359,6 @@
     "summary": "Nature, Published online: 21 May 2026; doi:10.1038/d41586-026-01608-3 James Webb Space Telescope reveals weather patterns from how planet WASP-94 A b filters the light of its parent star.",
     "abstract": "Nature, Published online: 21 May 2026; doi:10.1038/d41586-026-01608-3 James Webb Space Telescope reveals weather patterns from how planet WASP-94 A b filters the light of its parent star.",
     "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-01608-3/d41586-026-01608-3_52441842.jpg",
-    "topic": "default",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
-    "title": "Ebola outbreak: the data that show why researchers are so alarmed",
-    "link": "https://www.nature.com/articles/d41586-026-01646-x",
-    "journal": "Nature",
-    "source_type": "journal",
-    "date": "2026-05-21",
-    "summary": "Nature, Published online: 21 May 2026; doi:10.1038/d41586-026-01646-x The size of the outbreak in its initial days is worrying researchers. The next few weeks will determine how large it grows, they say.",
-    "abstract": "The size of the outbreak in its initial days is worrying researchers. The next few weeks will determine how large it grows, they say. The size of the outbreak in its initial days is worrying researchers. The next few weeks will determine how large it grows, they say.",
-    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-01646-x/d41586-026-01646-x_52448524.jpg",
-    "topic": "default",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
-    "title": "How we’re using AI tools to improve psychedelic-drug research",
-    "link": "https://www.nature.com/articles/d41586-026-01467-y",
-    "journal": "Nature",
-    "source_type": "journal",
-    "date": "2026-05-21",
-    "summary": "Nature, Published online: 21 May 2026; doi:10.1038/d41586-026-01467-y Félix Schoeller’s team built a realistic artificial-intelligence chatbot to train facilitators needed for research into psychoactive drugs — and, ultimately, to improve public health.",
-    "abstract": "Nature, Published online: 21 May 2026; doi:10.1038/d41586-026-01467-y Félix Schoeller’s team built a realistic artificial-intelligence chatbot to train facilitators needed for research into psychoactive drugs — and, ultimately, to improve public health.",
-    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-01467-y/d41586-026-01467-y_52441608.jpg",
     "topic": "default",
     "topic_color": "#60a5fa",
     "priority_score": 0
@@ -567,6 +541,32 @@
     "summary": "Nature Immunology, Published online: 19 May 2026; doi:10.1038/s41590-026-02530-6 Mucosal vaccination can raise the immunological readiness of the respiratory tract before pathogen exposure, potentially enabling protection beyond antigen-specific immunity.",
     "abstract": "Nature Immunology, Published online: 19 May 2026; doi:10.1038/s41590-026-02530-6 Mucosal vaccination can raise the immunological readiness of the respiratory tract before pathogen exposure, potentially enabling protection beyond antigen-specific immunity.",
     "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41590-026-02530-6/MediaObjects/41590_2026_2530_Fig1_HTML.png",
+    "topic": "immunology",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
+    "title": "Differential assembly of mouse and human tumor microenvironments",
+    "link": "https://www.nature.com/articles/s41590-026-02505-7",
+    "journal": "Nature Immunology",
+    "source_type": "journal",
+    "date": "2026-05-19",
+    "summary": "Nature Immunology, Published online: 19 May 2026; doi:10.1038/s41590-026-02505-7 In this Resource paper, Krummel and colleagues provide analysis of 15 commonly used syngeneic mouse tumor models and compare these to the diversity of human tumor microenvironments.",
+    "abstract": "Nature Immunology, Published online: 19 May 2026; doi:10.1038/s41590-026-02505-7 In this Resource paper, Krummel and colleagues provide analysis of 15 commonly used syngeneic mouse tumor models and compare these to the diversity of human tumor microenvironments.",
+    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41590-026-02505-7/MediaObjects/41590_2026_2505_Fig1_HTML.png",
+    "topic": "immunology",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
+    "title": "The host immune response to <i>Mycobacterium tuberculosis</i> determining protection or disease progression",
+    "link": "https://www.nature.com/articles/s41590-026-02529-z",
+    "journal": "Nature Immunology",
+    "source_type": "journal",
+    "date": "2026-05-18",
+    "summary": "Nature Immunology, Published online: 18 May 2026; doi:10.1038/s41590-026-02529-z O’Garra and colleagues discuss the evolving spectrum of M. tuberculosis infection outcomes and TB disease, how the host immune response determines and unfolds across this spectrum and how the natural diversity of M. tuberculosis contributes to this complexity.",
+    "abstract": "Nature Immunology, Published online: 18 May 2026; doi:10.1038/s41590-026-02529-z O’Garra and colleagues discuss the evolving spectrum of M. tuberculosis infection outcomes and TB disease, how the host immune response determines and unfolds across this spectrum and how the natural diversity of M. tuberculosis contributes to this complexity.",
+    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41590-026-02529-z/MediaObjects/41590_2026_2529_Fig1_HTML.png",
     "topic": "immunology",
     "topic_color": "#60a5fa",
     "priority_score": 0
