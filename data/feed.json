@@ -130,6 +130,19 @@
     "priority_score": 0
   },
   {
+    "title": "Major Ebola outbreak is escalating: what happens next",
+    "link": "https://www.nature.com/articles/d41586-026-01660-z",
+    "journal": "Nature",
+    "source_type": "journal",
+    "date": "2026-05-22",
+    "summary": "Nature, Published online: 22 May 2026; doi:10.1038/d41586-026-01660-z Nature staff discuss ongoing efforts to curb the Bundibugyo virus outbreak.",
+    "abstract": "Nature, Published online: 22 May 2026; doi:10.1038/d41586-026-01660-z Nature staff discuss ongoing efforts to curb the Bundibugyo virus outbreak.",
+    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-01660-z/d41586-026-01660-z_52456066.jpg",
+    "topic": "default",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
     "title": "Neuroflix",
     "link": "https://www.nature.com/articles/d41586-026-01087-6",
     "journal": "Nature",
@@ -338,7 +351,7 @@
     "priority_score": 0
   },
   {
-    "title": "Will this Ebola outbreak be the biggest yet?",
+    "title": "Ebola outbreak: the data that show why researchers are so alarmed",
     "link": "https://www.nature.com/articles/d41586-026-01646-x",
     "journal": "Nature",
     "source_type": "journal",
@@ -359,6 +372,19 @@
     "summary": "Nature, Published online: 21 May 2026; doi:10.1038/d41586-026-01467-y Félix Schoeller’s team built a realistic artificial-intelligence chatbot to train facilitators needed for research into psychoactive drugs — and, ultimately, to improve public health.",
     "abstract": "Nature, Published online: 21 May 2026; doi:10.1038/d41586-026-01467-y Félix Schoeller’s team built a realistic artificial-intelligence chatbot to train facilitators needed for research into psychoactive drugs — and, ultimately, to improve public health.",
     "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-01467-y/d41586-026-01467-y_52441608.jpg",
+    "topic": "default",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
+    "title": "Daily briefing: Wearable robot could help kids with neuromuscular disease stand",
+    "link": "https://www.nature.com/articles/d41586-026-01656-9",
+    "journal": "Nature",
+    "source_type": "journal",
+    "date": "2026-05-21",
+    "summary": "Nature, Published online: 21 May 2026; doi:10.1038/d41586-026-01656-9 A robotic device helps children with spinal muscular atrophy build up strength in their knees. Plus, a tough peer-review process could lead to a more-cited paper and chemists’ mission to replace ‘forever chemicals’.",
+    "abstract": "Nature, Published online: 21 May 2026; doi:10.1038/d41586-026-01656-9 A robotic device helps children with spinal muscular atrophy build up strength in their knees. Plus, a tough peer-review process could lead to a more-cited paper and chemists’ mission to replace ‘forever chemicals’.",
+    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-01656-9/d41586-026-01656-9_52455826.png",
     "topic": "default",
     "topic_color": "#60a5fa",
     "priority_score": 0
@@ -424,32 +450,6 @@
     "summary": "Jasmine Clark is set to become the first Black congresswoman with a science Ph.D.",
     "abstract": "Jasmine Clark is set to become the first Black congresswoman with a science Ph.D.",
     "image": "data:image/svg+xml;charset=utf-8,%0A%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23111827%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23374151%22/%3E%0A%20%20%20%20%3C/linearGradient%3E%0A%20%20%20%20%3Cfilter%20id%3D%22blur%22%3E%0A%20%20%20%20%20%20%3CfeGaussianBlur%20stdDeviation%3D%2230%22/%3E%0A%20%20%20%20%3C/filter%3E%0A%20%20%3C/defs%3E%0A%0A%20%20%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22url%28%23bg%29%22/%3E%0A%0A%20%20%3Ccircle%20cx%3D%221030%22%20cy%3D%22110%22%20r%3D%22170%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.18%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%20%20%3Ccircle%20cx%3D%22180%22%20cy%3D%22560%22%20r%3D%22150%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.16%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%0A%20%20%3Crect%20x%3D%2256%22%20y%3D%2252%22%20rx%3D%2218%22%20ry%3D%2218%22%20width%3D%22260%22%20height%3D%2254%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.08%29%22/%3E%0A%20%20%3Ctext%20x%3D%2284%22%20y%3D%2287%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2228%22%20fill%3D%22%23e5e7eb%22%3EScience%3C/text%3E%0A%0A%20%20%3Ctext%20x%3D%221010%22%20y%3D%22560%22%0A%20%20%20%20%20%20%20%20text-anchor%3D%22middle%22%0A%20%20%20%20%20%20%20%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%0A%20%20%20%20%20%20%20%20font-size%3D%22160%22%0A%20%20%20%20%20%20%20%20fill%3D%22%2360a5fa%22%0A%20%20%20%20%20%20%20%20opacity%3D%220.85%22%3E%0A%20%20%20%20%E2%80%A2%0A%20%20%3C/text%3E%0A%3C/svg%3E%0A",
-    "topic": "default",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
-    "title": "Spinal neuromotor rehabilitation using a portable isokinetic training robot",
-    "link": "https://www.nature.com/articles/s41586-026-10642-0",
-    "journal": "Nature",
-    "source_type": "journal",
-    "date": "2026-05-20",
-    "summary": "Nature, Published online: 20 May 2026; doi:10.1038/s41586-026-10642-0 Spinal neuromotor rehabilitation using a portable isokinetic training robot",
-    "abstract": "Most lower-extremity assistive robots are designed to actively assist gait1-7 without considering long-term neuromuscular adaptations8-11. In this study, we present a lightweight (0.96 kg) robot that administers isokinetic resistance training to sustain neuromuscular rehabilitation after removal. The device integrates a variable stiffness mechanism with a back-drivable damping motor to make available safe, portable, and customizable resistance training to juveniles with Spinal Muscular Atrophy (SMA) type II. In a study involving 6 such juvenile participants, significant improvements in lower-extremity motor ability were observed after 6 weeks of robot-assisted training in a clinical trial (NCT06648486). Participants gained the ability to perform sit-to-stand transitions with hands on knees but without external support from an average seated knee flexion angle of 111° to 104°, representing a 7° improvement from pre-intervention. This improvement was accompanied by significantly increased bilateral knee joint function (peak torque: +130%; range of motion: +51%; work: +97%). Significant physiological quadriceps muscle hypertrophy was observed (anatomical cross-sectional area: +12%; volume: +19%; physiological cross-sectional area: +21%) alongside enhanced femoral nerve conduction (compound muscle action potential: +19%), representing physiological changes consistent with the observed functional improvements. Importantly, participants were able to retain their gains after discontinuing isokinetic training and returning to their conventional physiotherapy routines. These results suggest that even temporary exposure to isokinetic resistance training through wearable robotics may facilitate enduring neuromuscular recovery.",
-    "image": "data:image/svg+xml;charset=utf-8,%0A%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23111827%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23374151%22/%3E%0A%20%20%20%20%3C/linearGradient%3E%0A%20%20%20%20%3Cfilter%20id%3D%22blur%22%3E%0A%20%20%20%20%20%20%3CfeGaussianBlur%20stdDeviation%3D%2230%22/%3E%0A%20%20%20%20%3C/filter%3E%0A%20%20%3C/defs%3E%0A%0A%20%20%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22url%28%23bg%29%22/%3E%0A%0A%20%20%3Ccircle%20cx%3D%221030%22%20cy%3D%22110%22%20r%3D%22170%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.18%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%20%20%3Ccircle%20cx%3D%22180%22%20cy%3D%22560%22%20r%3D%22150%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.16%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%0A%20%20%3Crect%20x%3D%2256%22%20y%3D%2252%22%20rx%3D%2218%22%20ry%3D%2218%22%20width%3D%22260%22%20height%3D%2254%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.08%29%22/%3E%0A%20%20%3Ctext%20x%3D%2284%22%20y%3D%2287%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2228%22%20fill%3D%22%23e5e7eb%22%3ENature%3C/text%3E%0A%0A%20%20%3Ctext%20x%3D%221010%22%20y%3D%22560%22%0A%20%20%20%20%20%20%20%20text-anchor%3D%22middle%22%0A%20%20%20%20%20%20%20%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%0A%20%20%20%20%20%20%20%20font-size%3D%22160%22%0A%20%20%20%20%20%20%20%20fill%3D%22%2360a5fa%22%0A%20%20%20%20%20%20%20%20opacity%3D%220.85%22%3E%0A%20%20%20%20%E2%80%A2%0A%20%20%3C/text%3E%0A%3C/svg%3E%0A",
-    "topic": "default",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
-    "title": "Author Correction: Inactivating <i>SnRK1β1A</i> promotes broad-spectrum disease resistance in rice",
-    "link": "https://www.nature.com/articles/s41586-026-10659-5",
-    "journal": "Nature",
-    "source_type": "journal",
-    "date": "2026-05-20",
-    "summary": "Nature, Published online: 20 May 2026; doi:10.1038/s41586-026-10659-5 Author Correction: Inactivating SnRK1β1A promotes broad-spectrum disease resistance in rice",
-    "abstract": "Nature, Published online: 20 May 2026; doi:10.1038/s41586-026-10659-5 Author Correction: Inactivating SnRK1β1A promotes broad-spectrum disease resistance in rice",
-    "image": "data:image/svg+xml;charset=utf-8,%0A%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23111827%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23374151%22/%3E%0A%20%20%20%20%3C/linearGradient%3E%0A%20%20%20%20%3Cfilter%20id%3D%22blur%22%3E%0A%20%20%20%20%20%20%3CfeGaussianBlur%20stdDeviation%3D%2230%22/%3E%0A%20%20%20%20%3C/filter%3E%0A%20%20%3C/defs%3E%0A%0A%20%20%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22url%28%23bg%29%22/%3E%0A%0A%20%20%3Ccircle%20cx%3D%221030%22%20cy%3D%22110%22%20r%3D%22170%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.18%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%20%20%3Ccircle%20cx%3D%22180%22%20cy%3D%22560%22%20r%3D%22150%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.16%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%0A%20%20%3Crect%20x%3D%2256%22%20y%3D%2252%22%20rx%3D%2218%22%20ry%3D%2218%22%20width%3D%22260%22%20height%3D%2254%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.08%29%22/%3E%0A%20%20%3Ctext%20x%3D%2284%22%20y%3D%2287%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2228%22%20fill%3D%22%23e5e7eb%22%3ENature%3C/text%3E%0A%0A%20%20%3Ctext%20x%3D%221010%22%20y%3D%22560%22%0A%20%20%20%20%20%20%20%20text-anchor%3D%22middle%22%0A%20%20%20%20%20%20%20%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%0A%20%20%20%20%20%20%20%20font-size%3D%22160%22%0A%20%20%20%20%20%20%20%20fill%3D%22%2360a5fa%22%0A%20%20%20%20%20%20%20%20opacity%3D%220.85%22%3E%0A%20%20%20%20%E2%80%A2%0A%20%20%3C/text%3E%0A%3C/svg%3E%0A",
     "topic": "default",
     "topic_color": "#60a5fa",
     "priority_score": 0
