@@ -39,19 +39,6 @@
     "priority_score": 157
   },
   {
-    "title": "Inhibition of salt-inducible kinases reprograms T cells and antitumor immunity in ovarian cancer",
-    "link": "https://www.nature.com/articles/s41590-026-02512-8",
-    "journal": "Nature Immunology",
-    "source_type": "journal",
-    "date": "2026-05-20",
-    "summary": "Nature Immunology, Published online: 20 May 2026; doi:10.1038/s41590-026-02512-8 Dong, Ray et al. identify salt-inducible kinases (SIKs) as potential drivers of T cell dysfunction in the immunosuppressive microenvironment of ovarian cancer.",
-    "abstract": "Patients with metastatic high-grade serous ovarian carcinoma are often unresponsive to immunotherapies; here we identify salt-inducible kinases (SIKs) as key drivers of immunosuppression. Human T cells in the presence of patient ascites express high levels of SIK and the upstream kinase LKB1, whereas SIK inhibition reprograms human T cells and strongly activates antitumor responses. In syngeneic mice with resistant high-grade serous ovarian carcinoma, genetic ablation and pharmaceutical inhibition of SIK consistently demonstrated therapeutic efficacy and survival advantages, and combination of PD-1 blockade with SIK inhibition further extended survival. We identified a major role of T cell-intrinsic SIK2 and -3 signaling in driving immunosuppression in part by TXNIP induction and LYST suppression. Multi-omics analyses on SIK inhibitor therapy revealed reduced disease progression, increased T cell infiltration with enhanced cytotoxicity and effector cytokine IFN-γ, and a shift from immunosuppressive to immunostimulatory cellular niche. We propose SIK inhibitors as a new immunotherapy. Dong, Ray et al. identify salt-inducible kinases (SIKs) as potential drivers of T cell dysfunction in the immunosuppressive microenvironment of ovarian cancer.",
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41590-026-02512-8/MediaObjects/41590_2026_2512_Fig1_HTML.png",
-    "topic": "inflammation",
-    "topic_color": "#fb7185",
-    "priority_score": 106
-  },
-  {
     "title": "De novo design of miniproteins targeting GPCRs",
     "link": "https://www.nature.com/articles/s41586-026-10656-8",
     "journal": "Nature",
@@ -152,6 +139,45 @@
     "abstract": "Nature Neuroscience, Published online: 25 May 2026; doi:10.1038/s41593-026-02285-1 By combining magnetoencephalography and eye tracking, this study sheds light on why people fixate on some parts of natural scenes longer than others. Rather than visual complexity, fixation durations are affected by memory encoding.",
     "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41593-026-02285-1/MediaObjects/41593_2026_2285_Fig1_HTML.png",
     "topic": "neuroscience",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
+    "title": "Fungal glycans boost mRNA-based vaccines",
+    "link": "https://www.nature.com/articles/s41590-026-02522-6",
+    "journal": "Nature Immunology",
+    "source_type": "journal",
+    "date": "2026-05-25",
+    "summary": "Nature Immunology, Published online: 25 May 2026; doi:10.1038/s41590-026-02522-6 mRNA-based vaccines saved millions of lives during the COVID-19 pandemic, but they require frequent boosting and periodic updates to match emerging virus strains. We demonstrate that fungal glycans can function as adjuvants for mRNA-based vaccines, expanding the durability and breath of protection against several virus strains. These findings support the development of a new generation of RNA-based vaccines with improved performance.",
+    "abstract": "Nature Immunology, Published online: 25 May 2026; doi:10.1038/s41590-026-02522-6 mRNA-based vaccines saved millions of lives during the COVID-19 pandemic, but they require frequent boosting and periodic updates to match emerging virus strains. We demonstrate that fungal glycans can function as adjuvants for mRNA-based vaccines, expanding the durability and breath of protection against several virus strains. These findings support the development of a new generation of RNA-based vaccines with improved performance.",
+    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41590-026-02522-6/MediaObjects/41590_2026_2522_Fig1_HTML.png",
+    "topic": "immunology",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
+    "title": "Enzymatic cleavage weaponizes bacterial lipoproteins into immune tripwires",
+    "link": "https://www.nature.com/articles/s41590-026-02532-4",
+    "journal": "Nature Immunology",
+    "source_type": "journal",
+    "date": "2026-05-25",
+    "summary": "Nature Immunology, Published online: 25 May 2026; doi:10.1038/s41590-026-02532-4 An amino acid metabolic enzyme transforms bacterial lipoproteins into disulfide-linked lipid structures that activate the non-canonical inflammasome, redefining cytosolic innate immune sensing as a process shaped by host metabolic remodeling.",
+    "abstract": "Nature Immunology, Published online: 25 May 2026; doi:10.1038/s41590-026-02532-4 An amino acid metabolic enzyme transforms bacterial lipoproteins into disulfide-linked lipid structures that activate the non-canonical inflammasome, redefining cytosolic innate immune sensing as a process shaped by host metabolic remodeling.",
+    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41590-026-02532-4/MediaObjects/41590_2026_2532_Fig1_HTML.png",
+    "topic": "immunology",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
+    "title": "Thymic alveolar type 2 epithelial mimetic cells revealed by RUNX1 deficiency",
+    "link": "https://www.nature.com/articles/s41590-026-02536-0",
+    "journal": "Nature Immunology",
+    "source_type": "journal",
+    "date": "2026-05-25",
+    "summary": "Nature Immunology, Published online: 25 May 2026; doi:10.1038/s41590-026-02536-0 Waterfield and colleagues report the transcription factor RUNX1 expressed in mTECs profoundly influences the diversity of thymic mimetic cells that express tissue-specific antigens.",
+    "abstract": "Nature Immunology, Published online: 25 May 2026; doi:10.1038/s41590-026-02536-0 Waterfield and colleagues report the transcription factor RUNX1 expressed in mTECs profoundly influences the diversity of thymic mimetic cells that express tissue-specific antigens.",
+    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41590-026-02536-0/MediaObjects/41590_2026_2536_Fig1_HTML.png",
+    "topic": "immunology",
     "topic_color": "#60a5fa",
     "priority_score": 0
   },
@@ -533,19 +559,6 @@
     "priority_score": 0
   },
   {
-    "title": "Author Correction: The differentiation and function of heterogeneous thymic dendritic cell subsets require signals provided by distinct thymocyte cell types",
-    "link": "https://www.nature.com/articles/s41590-026-02554-y",
-    "journal": "Nature Immunology",
-    "source_type": "journal",
-    "date": "2026-05-20",
-    "summary": "Nature Immunology, Published online: 20 May 2026; doi:10.1038/s41590-026-02554-y Author Correction: The differentiation and function of heterogeneous thymic dendritic cell subsets require signals provided by distinct thymocyte cell types",
-    "abstract": "Nature Immunology, Published online: 20 May 2026; doi:10.1038/s41590-026-02554-y Author Correction: The differentiation and function of heterogeneous thymic dendritic cell subsets require signals provided by distinct thymocyte cell types",
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41590-026-02554-y/MediaObjects/41590_2026_2554_Fig1_HTML.png",
-    "topic": "immunology",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
     "title": "HPV vaccines, 20 years on",
     "link": "https://www.nature.com/articles/s41591-026-04374-x",
     "journal": "Nature Medicine",
@@ -581,19 +594,6 @@
     "abstract": "Proceedings of the National Academy of Sciences, Volume 123, Issue 20, May 2026.",
     "image": "data:image/svg+xml;charset=utf-8,%0A%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23111827%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23374151%22/%3E%0A%20%20%20%20%3C/linearGradient%3E%0A%20%20%20%20%3Cfilter%20id%3D%22blur%22%3E%0A%20%20%20%20%20%20%3CfeGaussianBlur%20stdDeviation%3D%2230%22/%3E%0A%20%20%20%20%3C/filter%3E%0A%20%20%3C/defs%3E%0A%0A%20%20%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22url%28%23bg%29%22/%3E%0A%0A%20%20%3Ccircle%20cx%3D%221030%22%20cy%3D%22110%22%20r%3D%22170%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.18%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%20%20%3Ccircle%20cx%3D%22180%22%20cy%3D%22560%22%20r%3D%22150%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.16%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%0A%20%20%3Crect%20x%3D%2256%22%20y%3D%2252%22%20rx%3D%2218%22%20ry%3D%2218%22%20width%3D%22260%22%20height%3D%2254%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.08%29%22/%3E%0A%20%20%3Ctext%20x%3D%2284%22%20y%3D%2287%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2228%22%20fill%3D%22%23e5e7eb%22%3EPNAS%3C/text%3E%0A%0A%20%20%3Ctext%20x%3D%221010%22%20y%3D%22560%22%0A%20%20%20%20%20%20%20%20text-anchor%3D%22middle%22%0A%20%20%20%20%20%20%20%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%0A%20%20%20%20%20%20%20%20font-size%3D%22160%22%0A%20%20%20%20%20%20%20%20fill%3D%22%2360a5fa%22%0A%20%20%20%20%20%20%20%20opacity%3D%220.85%22%3E%0A%20%20%20%20%E2%80%A2%0A%20%20%3C/text%3E%0A%3C/svg%3E%0A",
     "topic": "default",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
-    "title": "Broadly protective mucosal vaccination in the respiratory tract",
-    "link": "https://www.nature.com/articles/s41590-026-02530-6",
-    "journal": "Nature Immunology",
-    "source_type": "journal",
-    "date": "2026-05-19",
-    "summary": "Nature Immunology, Published online: 19 May 2026; doi:10.1038/s41590-026-02530-6 Mucosal vaccination can raise the immunological readiness of the respiratory tract before pathogen exposure, potentially enabling protection beyond antigen-specific immunity.",
-    "abstract": "Nature Immunology, Published online: 19 May 2026; doi:10.1038/s41590-026-02530-6 Mucosal vaccination can raise the immunological readiness of the respiratory tract before pathogen exposure, potentially enabling protection beyond antigen-specific immunity.",
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41590-026-02530-6/MediaObjects/41590_2026_2530_Fig1_HTML.png",
-    "topic": "immunology",
     "topic_color": "#60a5fa",
     "priority_score": 0
   },
