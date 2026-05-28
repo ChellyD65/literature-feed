@@ -52,19 +52,6 @@
     "priority_score": 105
   },
   {
-    "title": "Cellular water-potential sensing through biomolecular condensation",
-    "link": "https://www.nature.com/articles/s41586-026-10591-8",
-    "journal": "Nature",
-    "source_type": "journal",
-    "date": "2026-05-27",
-    "summary": "Nature, Published online: 27 May 2026; doi:10.1038/s41586-026-10591-8 Plants sense water deficiency through SAM8 protein condensation, which responds to reduced hydration and triggers stress adaptation by altering RNA export and gene translation.",
-    "abstract": "Water molecules, as solvents for biomolecules, are essential to cells. The water potential of the cell decreases under water-deficient conditions1,2, yet how cells sense changes in water potential remains unknown. Here we identify a sterile alpha motif (SAM)-containing protein, SAM8, that undergoes water-potential-dependent condensation both in vivo and in vitro and is crucial for hyperosmotic stress tolerance and seed germination. We use biophysical techniques, in vitro reconstitution and bioimaging to demonstrate that SAM8 is strongly hydrated under normal water conditions, preventing its macroscopic condensation. A negatively charged patch determines SAM8 hydration by creating an electric field and micropolar environment. Water-deficient conditions weaken this hydration, thereby activating SAM8 condensation by reprogramming hydrogen bond, electrostatic and hydrophobic interactions. Furthermore, we demonstrate that SAM8 condensates selectively sequester RNA export factors, leading to nuclear retention of mRNAs and translational reprogramming under hyperosmotic stress. Our findings show a mechanism by which plant cells directly sense and respond to water status, shedding light on how they adapt to water deficit conditions. Plants sense water deficiency through SAM8 protein condensation, which responds to reduced hydration and triggers stress adaptation by altering RNA export and gene translation.",
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-10591-8/MediaObjects/41586_2026_10591_Fig1_HTML.png",
-    "topic": "Immunology",
-    "topic_color": "#60a5fa",
-    "priority_score": 93
-  },
-  {
     "title": "IFN-producing myeloid cells mediate photosensitivity",
     "link": "https://www.nature.com/articles/s41590-026-02531-5",
     "journal": "Nature Immunology",
@@ -138,6 +125,19 @@
     "summary": "GSK’s “bepi” performs better than expected in efficacy trials, but its global impact is likely limited",
     "abstract": "GSK’s “bepi” performs better than expected in efficacy trials, but its global impact is likely limited",
     "image": "data:image/svg+xml;charset=utf-8,%0A%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23111827%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23374151%22/%3E%0A%20%20%20%20%3C/linearGradient%3E%0A%20%20%20%20%3Cfilter%20id%3D%22blur%22%3E%0A%20%20%20%20%20%20%3CfeGaussianBlur%20stdDeviation%3D%2230%22/%3E%0A%20%20%20%20%3C/filter%3E%0A%20%20%3C/defs%3E%0A%0A%20%20%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22url%28%23bg%29%22/%3E%0A%0A%20%20%3Ccircle%20cx%3D%221030%22%20cy%3D%22110%22%20r%3D%22170%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.18%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%20%20%3Ccircle%20cx%3D%22180%22%20cy%3D%22560%22%20r%3D%22150%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.16%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%0A%20%20%3Crect%20x%3D%2256%22%20y%3D%2252%22%20rx%3D%2218%22%20ry%3D%2218%22%20width%3D%22260%22%20height%3D%2254%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.08%29%22/%3E%0A%20%20%3Ctext%20x%3D%2284%22%20y%3D%2287%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2228%22%20fill%3D%22%23e5e7eb%22%3EScience%3C/text%3E%0A%0A%20%20%3Ctext%20x%3D%221010%22%20y%3D%22560%22%0A%20%20%20%20%20%20%20%20text-anchor%3D%22middle%22%0A%20%20%20%20%20%20%20%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%0A%20%20%20%20%20%20%20%20font-size%3D%22160%22%0A%20%20%20%20%20%20%20%20fill%3D%22%2360a5fa%22%0A%20%20%20%20%20%20%20%20opacity%3D%220.85%22%3E%0A%20%20%20%20%E2%80%A2%0A%20%20%3C/text%3E%0A%3C/svg%3E%0A",
+    "topic": "default",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
+    "title": "Share the highs and lows of your career in science: take <i>Nature</i>’s global survey",
+    "link": "https://www.nature.com/articles/d41586-026-01589-3",
+    "journal": "Nature",
+    "source_type": "journal",
+    "date": "2026-05-28",
+    "summary": "Nature, Published online: 28 May 2026; doi:10.1038/d41586-026-01589-3 Science and society are undergoing rapid change. Nature wants to know how this is affecting careers, workplace culture and salaries.",
+    "abstract": "Science and society are undergoing rapid change. Nature wants to know how this is affecting careers, workplace culture and salaries. Science and society are undergoing rapid change. Nature wants to know how this is affecting careers, workplace culture and salaries.",
+    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-01589-3/d41586-026-01589-3_52446940.jpg",
     "topic": "default",
     "topic_color": "#60a5fa",
     "priority_score": 0
