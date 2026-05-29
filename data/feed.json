@@ -1,18 +1,5 @@
 [
   {
-    "title": "Spatial proteomic analysis in human Alzheimer’s disease brains enables identification of microenvironment-dependent microglial cell states",
-    "link": "https://www.nature.com/articles/s41593-026-02267-3",
-    "journal": "Nature Neuroscience",
-    "source_type": "journal",
-    "date": "2026-05-18",
-    "summary": "Nature Neuroscience, Published online: 18 May 2026; doi:10.1038/s41593-026-02267-3 Myeloid cells show marked heterogeneity in Alzheimer’s disease. This study introduces CODEX-CNS, a single-cell spatial proteomics pipeline, and identifies a human microglial subpopulation enriched in Alzheimer’s disease brains that associates with dense amyloid-β plaques.",
-    "abstract": "Nature Neuroscience, Published online: 18 May 2026; doi:10.1038/s41593-026-02267-3 Myeloid cells show marked heterogeneity in Alzheimer’s disease. This study introduces CODEX-CNS, a single-cell spatial proteomics pipeline, and identifies a human microglial subpopulation enriched in Alzheimer’s disease brains that associates with dense amyloid-β plaques.",
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41593-026-02267-3/MediaObjects/41593_2026_2267_Fig1_HTML.png",
-    "topic": "microglia",
-    "topic_color": "#38bdf8",
-    "priority_score": 192
-  },
-  {
     "title": "Microglial mitochondria transfer to astrocytes via GPNMB-enriched extracellular vesicles alleviates cognitive deficits in tauopathy mice",
     "link": "https://www.nature.com/articles/s41593-026-02317-w",
     "journal": "Nature Neuroscience",
@@ -65,19 +52,6 @@
     "priority_score": 93
   },
   {
-    "title": "Salt-inducible kinases as druggable targets for immunotherapy of ovarian cancer",
-    "link": "https://www.nature.com/articles/s41590-026-02513-7",
-    "journal": "Nature Immunology",
-    "source_type": "journal",
-    "date": "2026-05-21",
-    "summary": "Nature Immunology, Published online: 21 May 2026; doi:10.1038/s41590-026-02513-7 Malignant ascites strongly inhibits T cell anti-tumor responses in patients with high-grade serous ovarian cancer (HGSOC). Using an all-human high-throughput drug repurposing screen, we identified salt-inducible kinases (SIKs) as negative regulators of T cell function in ascites. Pharmacological inhibition or genetic depletion of SIK2 and SIK3 in T cells strongly upregulates anti-tumor immunity and improves survival in immunotherapy-resistant preclinical models.",
-    "abstract": "Nature Immunology, Published online: 21 May 2026; doi:10.1038/s41590-026-02513-7 Malignant ascites strongly inhibits T cell anti-tumor responses in patients with high-grade serous ovarian cancer (HGSOC). Using an all-human high-throughput drug repurposing screen, we identified salt-inducible kinases (SIKs) as negative regulators of T cell function in ascites. Pharmacological inhibition or genetic depletion of SIK2 and SIK3 in T cells strongly upregulates anti-tumor immunity and improves survival in immunotherapy-resistant preclinical models.",
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41590-026-02513-7/MediaObjects/41590_2026_2513_Fig1_HTML.png",
-    "topic": "Immunology",
-    "topic_color": "#60a5fa",
-    "priority_score": 93
-  },
-  {
     "title": "IglF mediates type VI secretion system spike assembly and promotes Francisella virulence",
     "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2530804123?af=R",
     "journal": "PNAS",
@@ -117,6 +91,19 @@
     "priority_score": 56
   },
   {
+    "title": "An unexpected molecular explanation for how tau aggregation begins in Alzheimer’s disease",
+    "link": "https://www.nature.com/articles/s41593-026-02298-w",
+    "journal": "Nature Neuroscience",
+    "source_type": "journal",
+    "date": "2026-05-29",
+    "summary": "Nature Neuroscience, Published online: 29 May 2026; doi:10.1038/s41593-026-02298-w Disruption of a neuronal-specific protein degradation system, the plasma membrane-bound neuroproteasome, triggers the conversion of endogenous tau into aggregates that mirror those seen in patients with Alzheimer’s disease (AD). Aging and APOE4 — the largest risk factors for AD — induce neuroproteasome loss, which provides a potential mechanistic basis for sporadic AD.",
+    "abstract": "Nature Neuroscience, Published online: 29 May 2026; doi:10.1038/s41593-026-02298-w Disruption of a neuronal-specific protein degradation system, the plasma membrane-bound neuroproteasome, triggers the conversion of endogenous tau into aggregates that mirror those seen in patients with Alzheimer’s disease (AD). Aging and APOE4 — the largest risk factors for AD — induce neuroproteasome loss, which provides a potential mechanistic basis for sporadic AD.",
+    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41593-026-02298-w/MediaObjects/41593_2026_2298_Fig1_HTML.png",
+    "topic": "neurodegeneration",
+    "topic_color": "#fda4af",
+    "priority_score": 50
+  },
+  {
     "title": "Gut microbiome screens could identify risk of Parkinson’s disease years before symptoms appear",
     "link": "https://www.nature.com/articles/s41591-026-04458-8",
     "journal": "Nature Medicine",
@@ -128,6 +115,71 @@
     "topic": "neurodegeneration",
     "topic_color": "#fda4af",
     "priority_score": 50
+  },
+  {
+    "title": "Neuroproteasomes regulate endogenous tau paired helical filament formation in an <i>APOE</i> genotype- and age-dependent manner",
+    "link": "https://www.nature.com/articles/s41593-026-02297-x",
+    "journal": "Nature Neuroscience",
+    "source_type": "journal",
+    "date": "2026-05-29",
+    "summary": "Nature Neuroscience, Published online: 29 May 2026; doi:10.1038/s41593-026-02297-x A cellular explanation for how tau aggregates into fibrils in Alzheimer’s disease has been elusive. This paper identifies the failure of ‘neuroproteasomes’ as sufficient to convert tau into paired helical filaments, a process regulated by ApoE and aging.",
+    "abstract": "Nature Neuroscience, Published online: 29 May 2026; doi:10.1038/s41593-026-02297-x A cellular explanation for how tau aggregates into fibrils in Alzheimer’s disease has been elusive. This paper identifies the failure of ‘neuroproteasomes’ as sufficient to convert tau into paired helical filaments, a process regulated by ApoE and aging.",
+    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41593-026-02297-x/MediaObjects/41593_2026_2297_Fig1_HTML.png",
+    "topic": "neurodegeneration",
+    "topic_color": "#fda4af",
+    "priority_score": 35
+  },
+  {
+    "title": "Author Correction: US oil and gas system emissions from nearly one million aerial site measurements",
+    "link": "https://www.nature.com/articles/s41586-026-10605-5",
+    "journal": "Nature",
+    "source_type": "journal",
+    "date": "2026-05-29",
+    "summary": "Nature, Published online: 29 May 2026; doi:10.1038/s41586-026-10605-5 Author Correction: US oil and gas system emissions from nearly one million aerial site measurements",
+    "abstract": "Nature, Published online: 29 May 2026; doi:10.1038/s41586-026-10605-5 Author Correction: US oil and gas system emissions from nearly one million aerial site measurements",
+    "image": "data:image/svg+xml;charset=utf-8,%0A%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23111827%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23374151%22/%3E%0A%20%20%20%20%3C/linearGradient%3E%0A%20%20%20%20%3Cfilter%20id%3D%22blur%22%3E%0A%20%20%20%20%20%20%3CfeGaussianBlur%20stdDeviation%3D%2230%22/%3E%0A%20%20%20%20%3C/filter%3E%0A%20%20%3C/defs%3E%0A%0A%20%20%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22url%28%23bg%29%22/%3E%0A%0A%20%20%3Ccircle%20cx%3D%221030%22%20cy%3D%22110%22%20r%3D%22170%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.18%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%20%20%3Ccircle%20cx%3D%22180%22%20cy%3D%22560%22%20r%3D%22150%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.16%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%0A%20%20%3Crect%20x%3D%2256%22%20y%3D%2252%22%20rx%3D%2218%22%20ry%3D%2218%22%20width%3D%22260%22%20height%3D%2254%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.08%29%22/%3E%0A%20%20%3Ctext%20x%3D%2284%22%20y%3D%2287%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2228%22%20fill%3D%22%23e5e7eb%22%3ENature%3C/text%3E%0A%0A%20%20%3Ctext%20x%3D%221010%22%20y%3D%22560%22%0A%20%20%20%20%20%20%20%20text-anchor%3D%22middle%22%0A%20%20%20%20%20%20%20%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%0A%20%20%20%20%20%20%20%20font-size%3D%22160%22%0A%20%20%20%20%20%20%20%20fill%3D%22%2360a5fa%22%0A%20%20%20%20%20%20%20%20opacity%3D%220.85%22%3E%0A%20%20%20%20%E2%80%A2%0A%20%20%3C/text%3E%0A%3C/svg%3E%0A",
+    "topic": "default",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
+    "title": "How jazz boosts my creativity in physics",
+    "link": "https://www.nature.com/articles/d41586-026-01393-z",
+    "journal": "Nature",
+    "source_type": "journal",
+    "date": "2026-05-29",
+    "summary": "Nature, Published online: 29 May 2026; doi:10.1038/d41586-026-01393-z Stephon Alexander says his passion for musical improvisation helps him to understand and teach complex ideas.",
+    "abstract": "Nature, Published online: 29 May 2026; doi:10.1038/d41586-026-01393-z Stephon Alexander says his passion for musical improvisation helps him to understand and teach complex ideas.",
+    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-01393-z/d41586-026-01393-z_52283654.jpg",
+    "topic": "default",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
+    "title": "Immune-competent new approach methodologies for a hybrid future",
+    "link": "https://www.nature.com/articles/s41590-026-02539-x",
+    "journal": "Nature Immunology",
+    "source_type": "journal",
+    "date": "2026-05-29",
+    "summary": "Nature Immunology, Published online: 29 May 2026; doi:10.1038/s41590-026-02539-x In a shifting regulatory landscape that increasingly favors organ-on-chip and human cell-based systems, embedding immune complexity is essential to advance new approach methodologies beyond reductionist models and toward a hybrid ecosystem that integrates animal studies.",
+    "abstract": "Nature Immunology, Published online: 29 May 2026; doi:10.1038/s41590-026-02539-x In a shifting regulatory landscape that increasingly favors organ-on-chip and human cell-based systems, embedding immune complexity is essential to advance new approach methodologies beyond reductionist models and toward a hybrid ecosystem that integrates animal studies.",
+    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41590-026-02539-x/MediaObjects/41590_2026_2539_Fig1_HTML.png",
+    "topic": "immunology",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
+    "title": "Pathogenic germline variants identify elevated cancer risk in pediatric patients referred for genetic testing",
+    "link": "https://www.nature.com/articles/s41591-026-04451-1",
+    "journal": "Nature Medicine",
+    "source_type": "journal",
+    "date": "2026-05-29",
+    "summary": "Nature Medicine, Published online: 29 May 2026; doi:10.1038/s41591-026-04451-1 Through large-scale genomic analysis, we show that pathogenic germline variants in pediatric cancer-predisposition genes are associated with increased subsequent tumor risk, highlighting their value for counseling and surveillance.",
+    "abstract": "Nature Medicine, Published online: 29 May 2026; doi:10.1038/s41591-026-04451-1 Through large-scale genomic analysis, we show that pathogenic germline variants in pediatric cancer-predisposition genes are associated with increased subsequent tumor risk, highlighting their value for counseling and surveillance.",
+    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41591-026-04451-1/MediaObjects/41591_2026_4451_Fig1_HTML.png",
+    "topic": "default",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
   },
   {
     "title": "New drug ‘functionally cures’ many hepatitis B virus infections",
@@ -187,8 +239,8 @@
     "journal": "Nature",
     "source_type": "journal",
     "date": "2026-05-28",
-    "summary": "Nature, Published online: 28 May 2026; doi:10.1038/d41586-026-01598-2 Treatments aim to bulk up failing hearts to restore their vigour – but can the field move on from past controversy?",
-    "abstract": "Nature, Published online: 28 May 2026; doi:10.1038/d41586-026-01598-2 Treatments aim to bulk up failing hearts to restore their vigour – but can the field move on from past controversy?",
+    "summary": "Nature, Published online: 28 May 2026; doi:10.1038/d41586-026-01598-2 Treatments aim to bulk up failing hearts to restore their vigour — but can the field move on from past controversy?",
+    "abstract": "Nature, Published online: 28 May 2026; doi:10.1038/d41586-026-01598-2 Treatments aim to bulk up failing hearts to restore their vigour — but can the field move on from past controversy?",
     "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-01598-2/d41586-026-01598-2_52446984.jpg",
     "topic": "default",
     "topic_color": "#60a5fa",
@@ -320,32 +372,6 @@
     "summary": "Nature, Published online: 27 May 2026; doi:10.1038/s41586-026-10541-4 Trait-based ecosystem modelling shows that impact-driven darkness and body-size-dependent extinction thresholds, rather than carbon-dioxide increase or acidification, drove most of the observed end-Cretaceous marine extinction patterns.",
     "abstract": "Nature, Published online: 27 May 2026; doi:10.1038/s41586-026-10541-4 Trait-based ecosystem modelling shows that impact-driven darkness and body-size-dependent extinction thresholds, rather than carbon-dioxide increase or acidification, drove most of the observed end-Cretaceous marine extinction patterns.",
     "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-10541-4/MediaObjects/41586_2026_10541_Fig1_HTML.png",
-    "topic": "default",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
-    "title": "Sparse-to-dense coding transformation between hippocampal areas CA3 and CA1",
-    "link": "https://www.nature.com/articles/s41586-026-10537-0",
-    "journal": "Nature",
-    "source_type": "journal",
-    "date": "2026-05-27",
-    "summary": "Nature, Published online: 27 May 2026; doi:10.1038/s41586-026-10537-0 The hippocampus exhibits a CA3-to-CA1 coding transformation that combines fast learning with an efficient, compressed neural code.",
-    "abstract": "The hippocampus is crucial for spatial memory and navigation. It contains place cells1–7: spatially selective neurons found in areas CA1 and CA3—two distinct hippocampal subregions with substantially different anatomical connectivity8. Previous studies have found highly similar spatial coding between CA1 and CA3 place cells3,9–11. This raises the question of why two subregions that form consecutive processing stages would exhibit identical neural coding. Here we hypothesized that the lack of differences between CA1 and CA3 spatial coding is due to the experimental paradigm: using small arenas. We tested this hypothesis by simultaneously recording from CA1 and CA3 neurons in bats flying in flight tunnels up to 200 m in length. We identified highly distinct neural coding in CA1 and CA3: whereas CA1 neurons exhibited dense spatial coding, consisting of multiple place fields12, CA3 neurons exhibited ultrasparse spatial coding, consisting predominantly of single place fields. Despite this marked difference, the sizes of place fields were very similar between the two subregions, across 5 different environment sizes ranging from 6 m to 200 m. Using a neural-network model, we show that such a sparse-to-dense transformation can facilitate fast learning of new spatial maps. We also found that in a large multicompartment environment, place cells were strongly modulated by trajectory history—a contextual effect (retrospective coding) that could last for over 100 m. Together, by using large naturalistic environments, we identified a CA3-to-CA1 coding transformation that serves to reformat spatial information into a more efficient, compressed neural code. The hippocampus exhibits a CA3-to-CA1 coding transformation that combines fast learning with an efficient, compressed neural code.",
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-10537-0/MediaObjects/41586_2026_10537_Fig1_HTML.png",
-    "topic": "default",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
-    "title": "Technology mediation in child sexual exploitation and abuse in Africa and Asia",
-    "link": "https://www.nature.com/articles/s41586-026-10525-4",
-    "journal": "Nature",
-    "source_type": "journal",
-    "date": "2026-05-27",
-    "summary": "Nature, Published online: 27 May 2026; doi:10.1038/s41586-026-10525-4 Enabling parental mediation of online activities and children’s knowledge of where to seek help after sexual harassment or assault is associated with higher rates of disclosure of technology-facilitated CSEA.",
-    "abstract": "Nature, Published online: 27 May 2026; doi:10.1038/s41586-026-10525-4 Enabling parental mediation of online activities and children’s knowledge of where to seek help after sexual harassment or assault is associated with higher rates of disclosure of technology-facilitated CSEA.",
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-10525-4/MediaObjects/41586_2026_10525_Fig1_HTML.png",
     "topic": "default",
     "topic_color": "#60a5fa",
     "priority_score": 0
@@ -611,19 +637,6 @@
     "priority_score": 0
   },
   {
-    "title": "Semaglutide versus placebo in individuals with poor weight loss after bariatric surgery: a double-blinded, randomized, placebo-controlled trial",
-    "link": "https://www.nature.com/articles/s41591-026-04416-4",
-    "journal": "Nature Medicine",
-    "source_type": "journal",
-    "date": "2026-05-22",
-    "summary": "Nature Medicine, Published online: 22 May 2026; doi:10.1038/s41591-026-04416-4 At week 68, in patients who experienced poor weight loss following bariatric surgery, semaglutide was associated with 18.0% weight loss compared to 0.4% weight gain in patients receiving placebo.",
-    "abstract": "Nature Medicine, Published online: 22 May 2026; doi:10.1038/s41591-026-04416-4 At week 68, in patients who experienced poor weight loss following bariatric surgery, semaglutide was associated with 18.0% weight loss compared to 0.4% weight gain in patients receiving placebo.",
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41591-026-04416-4/MediaObjects/41591_2026_4416_Fig1_HTML.png",
-    "topic": "default",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
     "title": "The simplicity of the Hodge bundle",
     "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2610183123?af=R",
     "journal": "PNAS",
@@ -658,19 +671,6 @@
     "summary": "Nature Neuroscience, Published online: 20 May 2026; doi:10.1038/s41593-026-02319-8 Lesion network mapping (LNM), or atrophy network mapping, has become a widely adopted tool for linking focal brain lesions or neurodegenerative brain clusters, respectively, to distributed functional networks associated with cognitive or clinical deficits. Recent insights, however, suggest that LNM primarily captures elementary topological properties of the normative connectome rather than disorder-specific circuits. Independent clinical evidence supports these methodological concerns, reflecting a deeper biological issue. LNM is inherently unable to capture the higher-order disconnection effects and non-linear connectivity changes that characterize the brain response to a broad range of neurological conditions. Brain injuries can induce widespread changes in distal regions not directly affected by the damage, as well as complex patterns of pathological hyperconnectivity and hypoconnectivity that evolve over time and whose functional significance remains uncertain. These phenomena represent a central challenge in clinical neuroscience. LNM is intrinsically limited in capturing these dynamics, with important implications for clinical translation and neuromodulation.",
     "abstract": "Nature Neuroscience, Published online: 20 May 2026; doi:10.1038/s41593-026-02319-8 Lesion network mapping (LNM), or atrophy network mapping, has become a widely adopted tool for linking focal brain lesions or neurodegenerative brain clusters, respectively, to distributed functional networks associated with cognitive or clinical deficits. Recent insights, however, suggest that LNM primarily captures elementary topological properties of the normative connectome rather than disorder-specific circuits. Independent clinical evidence supports these methodological concerns, reflecting a deeper biological issue. LNM is inherently unable to capture the higher-order disconnection effects and non-linear connectivity changes that characterize the brain response to a broad range of neurological conditions. Brain injuries can induce widespread changes in distal regions not directly affected by the damage, as well as complex patterns of pathological hyperconnectivity and hypoconnectivity that evolve over time and whose functional significance remains uncertain. These phenomena represent a central challenge in clinical neuroscience. LNM is intrinsically limited in capturing these dynamics, with important implications for clinical translation and neuromodulation.",
     "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41593-026-02319-8/MediaObjects/41593_2026_2319_Fig1_HTML.png",
-    "topic": "neuroscience",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
-    "title": "Tau aggregates cause reactivation of transposable DNA elements, leading to Z-RNA–ZBP1-mediated neuronal death",
-    "link": "https://www.nature.com/articles/s41593-026-02299-9",
-    "journal": "Nature Neuroscience",
-    "source_type": "journal",
-    "date": "2026-05-20",
-    "summary": "Nature Neuroscience, Published online: 20 May 2026; doi:10.1038/s41593-026-02299-9 Tau aggregates disrupt heterochromatin by sequestering H3K9me3, reactivating transposable elements. This generates Z-RNAs, activating ZBP1 to drive neuronal death. ZBP1 haploinsufficiency reverses cognitive decline in aged tau mice, offering a therapeutic target for tauopathies.",
-    "abstract": "Nature Neuroscience, Published online: 20 May 2026; doi:10.1038/s41593-026-02299-9 Tau aggregates disrupt heterochromatin by sequestering H3K9me3, reactivating transposable elements. This generates Z-RNAs, activating ZBP1 to drive neuronal death. ZBP1 haploinsufficiency reverses cognitive decline in aged tau mice, offering a therapeutic target for tauopathies.",
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41593-026-02299-9/MediaObjects/41593_2026_2299_Fig1_HTML.png",
     "topic": "neuroscience",
     "topic_color": "#60a5fa",
     "priority_score": 0
