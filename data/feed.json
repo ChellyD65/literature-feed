@@ -26,6 +26,19 @@
     "priority_score": 157
   },
   {
+    "title": "MAGE-A4/MAGE-A8-targeted TCR-based bispecific T cell engager in recurrent and/or refractory solid tumors: a phase 1 trial",
+    "link": "https://www.nature.com/articles/s41591-026-04455-x",
+    "journal": "Nature Medicine",
+    "source_type": "journal",
+    "date": "2026-05-31",
+    "summary": "Nature Medicine, Published online: 31 May 2026; doi:10.1038/s41591-026-04455-x As presented at the 2026 ASCO Annual Meeting, in a prespecified interim analysis of a phase 1a trial of IMA401—a new bispecific TCR-based T cell engager that binds a MAGE-A4/MAGE-A8 peptide presented by HLA-A*02:01—encouraging safety and a preliminary efficacy signal were observed in patients with head and neck cancers and melanoma, including those treated with both the engager and anti-PD-1.",
+    "abstract": "Nature Medicine, Published online: 31 May 2026; doi:10.1038/s41591-026-04455-x As presented at the 2026 ASCO Annual Meeting, in a prespecified interim analysis of a phase 1a trial of IMA401—a new bispecific TCR-based T cell engager that binds a MAGE-A4/MAGE-A8 peptide presented by HLA-A*02:01—encouraging safety and a preliminary efficacy signal were observed in patients with head and neck cancers and melanoma, including those treated with both the engager and anti-PD-1.",
+    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41591-026-04455-x/MediaObjects/41591_2026_4455_Fig1_HTML.png",
+    "topic": "Immunology",
+    "topic_color": "#60a5fa",
+    "priority_score": 133
+  },
+  {
     "title": "Spatially tunable multiomic sequencing using light-driven combinatorial barcoding of molecules in tissues",
     "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2527896123?af=R",
     "journal": "PNAS",
@@ -515,19 +528,6 @@
     "summary": "Nature Medicine, Published online: 26 May 2026; doi:10.1038/s41591-026-04401-x Biobanks are introducing trusted research environments to enable secure data access, yet they can increase costs and complexity for biomedical researchers who use them. We discuss challenges and solutions and introduce the Python Phenofhy community tool for Our Future Health.",
     "abstract": "Nature Medicine, Published online: 26 May 2026; doi:10.1038/s41591-026-04401-x Biobanks are introducing trusted research environments to enable secure data access, yet they can increase costs and complexity for biomedical researchers who use them. We discuss challenges and solutions and introduce the Python Phenofhy community tool for Our Future Health.",
     "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41591-026-04401-x/MediaObjects/41591_2026_4401_Fig1_HTML.png",
-    "topic": "default",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
-    "title": "Fibroblast growth factor receptor inhibition for succinate dehydrogenase-deficient gastrointestinal stromal tumors: a phase 2 trial",
-    "link": "https://www.nature.com/articles/s41591-026-04376-9",
-    "journal": "Nature Medicine",
-    "source_type": "journal",
-    "date": "2026-05-26",
-    "summary": "Nature Medicine, Published online: 26 May 2026; doi:10.1038/s41591-026-04376-9 In a multicenter phase 2 trial, the fibroblast growth factor receptor inhibitor rogaratinib showed encouraging clinical efficacy in patients with succinate dehydrogenase-deficient gastrointestinal stromal tumors, suggesting a potential new treatment option for this patient population and demonstrating that an epigenetic mechanism of oncogene activation can be successfully targeted with a tyrosine kinase inhibitor.",
-    "abstract": "Nature Medicine, Published online: 26 May 2026; doi:10.1038/s41591-026-04376-9 In a multicenter phase 2 trial, the fibroblast growth factor receptor inhibitor rogaratinib showed encouraging clinical efficacy in patients with succinate dehydrogenase-deficient gastrointestinal stromal tumors, suggesting a potential new treatment option for this patient population and demonstrating that an epigenetic mechanism of oncogene activation can be successfully targeted with a tyrosine kinase inhibitor.",
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41591-026-04376-9/MediaObjects/41591_2026_4376_Fig1_HTML.png",
     "topic": "default",
     "topic_color": "#60a5fa",
     "priority_score": 0
