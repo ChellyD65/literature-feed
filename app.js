@@ -1,10 +1,6 @@
 let currentCardIndex = 0;
 let isAnimating = false;
-let wheelAccumulator = 0;
-let wheelResetTimer = null;
 
-const WHEEL_STEP_THRESHOLD = 85;
-const DESKTOP_WHEEL_LOCK_MS = 650;
 
 async function loadFeed() {
   try {
