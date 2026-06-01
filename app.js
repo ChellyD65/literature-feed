@@ -100,25 +100,6 @@ function getCards() {
   return Array.from(document.querySelectorAll('.card'));
 }
 
-function scrollToCard(index) {
-  const cards = getCards();
-  if (!cards.length) return;
-
-  const clamped = Math.max(0, Math.min(index, cards.length - 1));
-  currentCardIndex = clamped;
-  isAnimating = true;
-
-  window.scrollTo({
-    top: cards[clamped].offsetTop,
-    behavior: 'auto'
-  });
-
-  updateActiveCard(clamped);
-
-  setTimeout(() => {
-    isAnimating = false;
-  }, 180);
-}
 
 function updateActiveCard(index) {
   getCards().forEach((card, i) => {
@@ -174,44 +155,51 @@ function updateIndexFromScroll() {
   updateActiveCard(nearestIndex);
 }
 
-function clearWheelAccumulator() {
-  wheelAccumulator = 0;
 
-  if (wheelResetTimer) {
-    clearTimeout(wheelResetTimer);
-    wheelResetTimer = null;
-  }
-}
-
-function scheduleWheelAccumulatorReset() {
-  if (wheelResetTimer) clearTimeout(wheelResetTimer);
-
-  wheelResetTimer = setTimeout(() => {
-    wheelAccumulator = 0;
-    wheelResetTimer = null;
-  }, 120);
-}
 
 function setupControls() {
-  const isTouchDevice =
-    window.matchMedia('(pointer: coarse)').matches ||
-    'ontouchstart' in window;
+  window.addEventListener("scroll", () => {
+    clearTimeout(window.__scrollTimer);
 
-  // Mobile/tablet: native touch scrolling + CSS scroll snap.
-  if (isTouchDevice) {
-    window.addEventListener(
-      'scroll',
-      () => {
-        clearTimeout(window.__mobileActiveTimer);
-        window.__mobileActiveTimer = setTimeout(() => {
-          updateIndexFromScroll();
-        }, 80);
-      },
-      { passive: true }
-    );
+    window.__scrollTimer = setTimeout(() => {
+      updateIndexFromScroll();
+    }, 80);
+  }, { passive: true });
 
-    return;
-  }
+  window.addEventListener("keydown", (e) => {
+    const cards = getCards();
+
+    if (!cards.length) return;
+
+    if (e.key === "ArrowDown" || e.key === "PageDown") {
+      e.preventDefault();
+
+      const next = Math.min(
+        currentCardIndex + 1,
+        cards.length - 1
+      );
+
+      cards[next].scrollIntoView({
+        behavior: "smooth",
+        block: "start"
+      });
+    }
+
+    if (e.key === "ArrowUp" || e.key === "PageUp") {
+      e.preventDefault();
+
+      const prev = Math.max(
+        currentCardIndex - 1,
+        0
+      );
+
+      cards[prev].scrollIntoView({
+        behavior: "smooth",
+        block: "start"
+      });
+    }
+  });
+}
 
   // Desktop: controlled one-card wheel paging.
   let wheelLocked = false;
