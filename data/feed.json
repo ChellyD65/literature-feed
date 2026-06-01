@@ -202,7 +202,7 @@
     "date": "2026-06-01",
     "summary": "Nature, Published online: 01 June 2026; doi:10.1038/d41586-026-01488-7 A machine-learning system has been developed that can monitor heart rate using facial video clips that are captured passively by the user-facing camera during everyday smartphone use. The system meets industry accuracy standards for heart-rate measurement and is as accurate as wearable technology for measuring daily resting heart rate.",
     "abstract": "Nature, Published online: 01 June 2026; doi:10.1038/d41586-026-01488-7 A machine-learning system has been developed that can monitor heart rate using facial video clips that are captured passively by the user-facing camera during everyday smartphone use. The system meets industry accuracy standards for heart-rate measurement and is as accurate as wearable technology for measuring daily resting heart rate.",
-    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-01488-7/d41586-026-01488-7_52496282.jpg",
+    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-01488-7/d41586-026-01488-7_52496956.jpg",
     "topic": "default",
     "topic_color": "#60a5fa",
     "priority_score": 0
@@ -229,6 +229,19 @@
     "summary": "Nature, Published online: 01 June 2026; doi:10.1038/d41586-026-01729-9 Excess body weight affects individuals’ health differently. Taking this variation into account is crucial for effective health care, policy and research.",
     "abstract": "Excess body weight affects individuals’ health differently. Taking this variation into account is crucial for effective health care, policy and research. Excess body weight affects individuals’ health differently. Taking this variation into account is crucial for effective health care, policy and research.",
     "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-01729-9/d41586-026-01729-9_52482586.jpg",
+    "topic": "default",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
+    "title": "Feynmann's solved ‘restaurant dilemma’ 50 years ago — now a study confirms his mathematics",
+    "link": "https://www.nature.com/articles/d41586-026-00821-4",
+    "journal": "Nature",
+    "source_type": "journal",
+    "date": "2026-06-01",
+    "summary": "Nature, Published online: 01 June 2026; doi:10.1038/d41586-026-00821-4 An experiment with 2,520 participants backs Richard Feynman’s answer to every diner’s dilemma: do I want to try something new?",
+    "abstract": "An experiment with 2,520 participants backs Richard Feynman’s answer to every diner’s dilemma: do I want to try something new? An experiment with 2,520 participants backs Richard Feynman’s answer to every diner’s dilemma: do I want to try something new?",
+    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-00821-4/d41586-026-00821-4_52496718.jpg",
     "topic": "default",
     "topic_color": "#60a5fa",
     "priority_score": 0
@@ -351,6 +364,19 @@
     "priority_score": 0
   },
   {
+    "title": "Savolitinib in <i>MET</i>-amplified gastric or gastroesophageal junction adenocarcinoma: a phase 2 trial",
+    "link": "https://www.nature.com/articles/s41591-026-04459-7",
+    "journal": "Nature Medicine",
+    "source_type": "journal",
+    "date": "2026-06-01",
+    "summary": "Nature Medicine, Published online: 01 June 2026; doi:10.1038/s41591-026-04459-7 As presented at the 2026 ASCO Annual Meeting, in a phase 2 trial that included an exploratory and a pivotal phase, treatment of patients with MET-amplified gastric or gastroesophageal junction adenocarcinoma with the selective MET tyrosine kinase inhibitor savolitinib showed promising clinical efficacy.",
+    "abstract": "Nature Medicine, Published online: 01 June 2026; doi:10.1038/s41591-026-04459-7 As presented at the 2026 ASCO Annual Meeting, in a phase 2 trial that included an exploratory and a pivotal phase, treatment of patients with MET-amplified gastric or gastroesophageal junction adenocarcinoma with the selective MET tyrosine kinase inhibitor savolitinib showed promising clinical efficacy.",
+    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41591-026-04459-7/MediaObjects/41591_2026_4459_Fig1_HTML.png",
+    "topic": "default",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
     "title": "Brazil’s ‘rolling stone reefs’ teem with hidden diversity, DNA reveals",
     "link": "https://www.science.org/content/article/brazil-s-rolling-stone-reefs-teem-hidden-diversity-dna-reveals",
     "journal": "Science",
@@ -403,19 +429,6 @@
     "priority_score": 0
   },
   {
-    "title": "Author Correction: US oil and gas system emissions from nearly one million aerial site measurements",
-    "link": "https://www.nature.com/articles/s41586-026-10605-5",
-    "journal": "Nature",
-    "source_type": "journal",
-    "date": "2026-05-29",
-    "summary": "Nature, Published online: 29 May 2026; doi:10.1038/s41586-026-10605-5 Author Correction: US oil and gas system emissions from nearly one million aerial site measurements",
-    "abstract": "Nature, Published online: 29 May 2026; doi:10.1038/s41586-026-10605-5 Author Correction: US oil and gas system emissions from nearly one million aerial site measurements",
-    "image": "data:image/svg+xml;charset=utf-8,%0A%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23111827%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23374151%22/%3E%0A%20%20%20%20%3C/linearGradient%3E%0A%20%20%20%20%3Cfilter%20id%3D%22blur%22%3E%0A%20%20%20%20%20%20%3CfeGaussianBlur%20stdDeviation%3D%2230%22/%3E%0A%20%20%20%20%3C/filter%3E%0A%20%20%3C/defs%3E%0A%0A%20%20%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22url%28%23bg%29%22/%3E%0A%0A%20%20%3Ccircle%20cx%3D%221030%22%20cy%3D%22110%22%20r%3D%22170%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.18%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%20%20%3Ccircle%20cx%3D%22180%22%20cy%3D%22560%22%20r%3D%22150%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.16%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%0A%20%20%3Crect%20x%3D%2256%22%20y%3D%2252%22%20rx%3D%2218%22%20ry%3D%2218%22%20width%3D%22260%22%20height%3D%2254%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.08%29%22/%3E%0A%20%20%3Ctext%20x%3D%2284%22%20y%3D%2287%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2228%22%20fill%3D%22%23e5e7eb%22%3ENature%3C/text%3E%0A%0A%20%20%3Ctext%20x%3D%221010%22%20y%3D%22560%22%0A%20%20%20%20%20%20%20%20text-anchor%3D%22middle%22%0A%20%20%20%20%20%20%20%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%0A%20%20%20%20%20%20%20%20font-size%3D%22160%22%0A%20%20%20%20%20%20%20%20fill%3D%22%2360a5fa%22%0A%20%20%20%20%20%20%20%20opacity%3D%220.85%22%3E%0A%20%20%20%20%E2%80%A2%0A%20%20%3C/text%3E%0A%3C/svg%3E%0A",
-    "topic": "default",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
     "title": "Immune-competent new approach methodologies for a hybrid future",
     "link": "https://www.nature.com/articles/s41590-026-02539-x",
     "journal": "Nature Immunology",
@@ -450,19 +463,6 @@
     "summary": "Nature Medicine, Published online: 29 May 2026; doi:10.1038/d41591-026-00028-0 A comprehensive analysis of Indigenous American genomes charts an evolutionary history shaped by unique geographic and cultural environments, climate shifts, and colonization, and reveals natural selection of genes involved in immunity, metabolism and reproduction.",
     "abstract": "Nature Medicine, Published online: 29 May 2026; doi:10.1038/d41591-026-00028-0 A comprehensive analysis of Indigenous American genomes charts an evolutionary history shaped by unique geographic and cultural environments, climate shifts, and colonization, and reveals natural selection of genes involved in immunity, metabolism and reproduction.",
     "image": "https://media.nature.com/lw1200/magazine-assets/d41591-026-00028-0/d41591-026-00028-0_52488894.jpg",
-    "topic": "default",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
-    "title": "<b>From donor lungs to digital twins</b>",
-    "link": "https://www.nature.com/articles/d41591-026-00029-z",
-    "journal": "Nature Medicine",
-    "source_type": "journal",
-    "date": "2026-05-29",
-    "summary": "Nature Medicine, Published online: 29 May 2026; doi:10.1038/d41591-026-00029-z Multimodal data from hundreds of lungs subjected to ex vivo perfusion — a process used to evaluated donor lungs for transplant suitability — enabled the development of ‘digital twins’ capable of modeling lung function and therapeutic efficacy.",
-    "abstract": "Nature Medicine, Published online: 29 May 2026; doi:10.1038/d41591-026-00029-z Multimodal data from hundreds of lungs subjected to ex vivo perfusion — a process used to evaluated donor lungs for transplant suitability — enabled the development of ‘digital twins’ capable of modeling lung function and therapeutic efficacy.",
-    "image": "https://media.nature.com/lw1200/magazine-assets/d41591-026-00029-z/d41591-026-00029-z_52488928.jpg",
     "topic": "default",
     "topic_color": "#60a5fa",
     "priority_score": 0
