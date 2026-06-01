@@ -1,10 +1,8 @@
 let currentCardIndex = 0;
-let isAnimating = false;
-
 
 async function loadFeed() {
   try {
-    const res = await fetch('./data/feed.json?v=8');
+    const res = await fetch('./data/feed.json?v=10');
     if (!res.ok) throw new Error(`Failed to load feed: ${res.status}`);
 
     const papers = await res.json();
@@ -47,7 +45,7 @@ async function loadFeed() {
         : '';
 
       const metaBadges = !hasImage && topic && topic !== 'default'
-        ? `<div class="topic-badge ${topicClass}" style="position: static; margin-bottom: 10px;">${escapeHtml(topic)}</div>`
+        ? `<div class="topic-badge inline-topic-badge ${topicClass}">${escapeHtml(topic)}</div>`
         : '';
 
       const showExpand = cleanSummary.length > 900;
@@ -72,12 +70,23 @@ async function loadFeed() {
       container.appendChild(card);
     });
 
-    updateActiveCard(0);
     setupObserver();
     setupControls();
-    window.scrollTo(0, 0);
+    updateActiveCard(0);
   } catch (err) {
     console.error(err);
+    const container = document.getElementById('feed');
+    if (container) {
+      container.innerHTML = `
+        <section class="card active no-image">
+          <div class="card-inner">
+            <div class="title">Error loading feed</div>
+            <div class="meta">Open the browser console for details.</div>
+            <div class="abstract">${escapeHtml(String(err))}</div>
+          </div>
+        </section>
+      `;
+    }
   }
 }
 
@@ -95,7 +104,6 @@ function toggleAbstract(i, btn) {
 function getCards() {
   return Array.from(document.querySelectorAll('.card'));
 }
-
 
 function updateActiveCard(index) {
   getCards().forEach((card, i) => {
@@ -125,10 +133,40 @@ function setupObserver() {
         }
       }
     },
-    { threshold: [0.5, 0.75, 0.9] }
+    { threshold: [0.35, 0.5, 0.75] }
   );
 
   cards.forEach(card => observer.observe(card));
+}
+
+function setupControls() {
+  window.addEventListener(
+    'scroll',
+    () => {
+      clearTimeout(window.__scrollTimer);
+      window.__scrollTimer = setTimeout(() => {
+        updateIndexFromScroll();
+      }, 80);
+    },
+    { passive: true }
+  );
+
+  window.addEventListener('keydown', (e) => {
+    const cards = getCards();
+    if (!cards.length) return;
+
+    if (e.key === 'ArrowDown' || e.key === 'PageDown') {
+      e.preventDefault();
+      const next = Math.min(currentCardIndex + 1, cards.length - 1);
+      cards[next].scrollIntoView({ behavior: 'smooth', block: 'start' });
+    }
+
+    if (e.key === 'ArrowUp' || e.key === 'PageUp') {
+      e.preventDefault();
+      const prev = Math.max(currentCardIndex - 1, 0);
+      cards[prev].scrollIntoView({ behavior: 'smooth', block: 'start' });
+    }
+  });
 }
 
 function updateIndexFromScroll() {
@@ -151,100 +189,8 @@ function updateIndexFromScroll() {
   updateActiveCard(nearestIndex);
 }
 
-
-
-function setupControls() {
-  window.addEventListener("scroll", () => {
-    clearTimeout(window.__scrollTimer);
-
-    window.__scrollTimer = setTimeout(() => {
-      updateIndexFromScroll();
-    }, 80);
-  }, { passive: true });
-
-  window.addEventListener("keydown", (e) => {
-    const cards = getCards();
-
-    if (!cards.length) return;
-
-    if (e.key === "ArrowDown" || e.key === "PageDown") {
-      e.preventDefault();
-
-      const next = Math.min(
-        currentCardIndex + 1,
-        cards.length - 1
-      );
-
-      cards[next].scrollIntoView({
-        behavior: "smooth",
-        block: "start"
-      });
-    }
-
-    if (e.key === "ArrowUp" || e.key === "PageUp") {
-      e.preventDefault();
-
-      const prev = Math.max(
-        currentCardIndex - 1,
-        0
-      );
-
-      cards[prev].scrollIntoView({
-        behavior: "smooth",
-        block: "start"
-      });
-    }
-  });
-}
-
-  // Desktop: controlled one-card wheel paging.
-  let wheelLocked = false;
-
-  window.addEventListener(
-    'wheel',
-    (e) => {
-      const absDelta = Math.abs(e.deltaY);
-      if (absDelta < 30) return;
-
-      e.preventDefault();
-
-      if (wheelLocked || isAnimating) return;
-
-      wheelAccumulator += e.deltaY;
-      scheduleWheelAccumulatorReset();
-
-      if (Math.abs(wheelAccumulator) < WHEEL_STEP_THRESHOLD) return;
-
-      const direction = wheelAccumulator > 0 ? 1 : -1;
-      clearWheelAccumulator();
-
-      wheelLocked = true;
-      scrollToCard(currentCardIndex + direction);
-
-      setTimeout(() => {
-        wheelLocked = false;
-      }, DESKTOP_WHEEL_LOCK_MS);
-    },
-    { passive: false }
-  );
-
-  window.addEventListener('keydown', (e) => {
-    if (isAnimating) return;
-
-    if (e.key === 'ArrowDown' || e.key === 'PageDown' || e.key === ' ') {
-      e.preventDefault();
-      scrollToCard(currentCardIndex + 1);
-    }
-
-    if (e.key === 'ArrowUp' || e.key === 'PageUp') {
-      e.preventDefault();
-      scrollToCard(currentCardIndex - 1);
-    }
-  });
-}
-
 function stripHtml(str) {
-  return String(str)
+  return String(str || '')
     .replace(/<[^>]*>/g, ' ')
     .replace(/\s+/g, ' ')
     .trim();
@@ -264,7 +210,7 @@ function formatDate(dateStr) {
 }
 
 function escapeHtml(str) {
-  return String(str)
+  return String(str || '')
     .replaceAll('&', '&amp;')
     .replaceAll('<', '&lt;')
     .replaceAll('>', '&gt;')
