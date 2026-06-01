@@ -13,19 +13,6 @@
     "priority_score": 169
   },
   {
-    "title": "Foamy microglia link oxylipins to disease progression in multiple sclerosis",
-    "link": "https://www.nature.com/articles/s41593-026-02302-3",
-    "journal": "Nature Neuroscience",
-    "source_type": "journal",
-    "date": "2026-05-21",
-    "summary": "Nature Neuroscience, Published online: 21 May 2026; doi:10.1038/s41593-026-02302-3 Foamy microglia are associated with multiple sclerosis progression, linking phagocytosis, altered lipid metabolism (oxylipins) and lysosomal stress to nonclassical neuroinflammation and disease severity, highlighting potential therapeutic targets.",
-    "abstract": "Nature Neuroscience, Published online: 21 May 2026; doi:10.1038/s41593-026-02302-3 Foamy microglia are associated with multiple sclerosis progression, linking phagocytosis, altered lipid metabolism (oxylipins) and lysosomal stress to nonclassical neuroinflammation and disease severity, highlighting potential therapeutic targets.",
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41593-026-02302-3/MediaObjects/41593_2026_2302_Fig1_HTML.png",
-    "topic": "microglia",
-    "topic_color": "#38bdf8",
-    "priority_score": 157
-  },
-  {
     "title": "MAGE-A4/MAGE-A8-targeted TCR-based bispecific T cell engager in recurrent and/or refractory solid tumors: a phase 1 trial",
     "link": "https://www.nature.com/articles/s41591-026-04455-x",
     "journal": "Nature Medicine",
@@ -117,19 +104,6 @@
     "priority_score": 50
   },
   {
-    "title": "Gut microbiome screens could identify risk of Parkinson’s disease years before symptoms appear",
-    "link": "https://www.nature.com/articles/s41591-026-04458-8",
-    "journal": "Nature Medicine",
-    "source_type": "journal",
-    "date": "2026-05-28",
-    "summary": "Nature Medicine, Published online: 28 May 2026; doi:10.1038/s41591-026-04458-8 Innovative microbiome analysis revealed a part of the gut microbiome that changes coherently from healthy individuals across those with genetic risk of Parkinson’s disease to patients who are symptomatic. A large range of microbiome alterations within each of the three groups enables identification of individuals at greater risk of developing Parkinson’s disease. A healthy diet was inversely associated with these alterations and might mitigate disease risk.",
-    "abstract": "Nature Medicine, Published online: 28 May 2026; doi:10.1038/s41591-026-04458-8 Innovative microbiome analysis revealed a part of the gut microbiome that changes coherently from healthy individuals across those with genetic risk of Parkinson’s disease to patients who are symptomatic. A large range of microbiome alterations within each of the three groups enables identification of individuals at greater risk of developing Parkinson’s disease. A healthy diet was inversely associated with these alterations and might mitigate disease risk.",
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41591-026-04458-8/MediaObjects/41591_2026_4458_Fig1_HTML.png",
-    "topic": "neurodegeneration",
-    "topic_color": "#fda4af",
-    "priority_score": 50
-  },
-  {
     "title": "Neuroproteasomes regulate endogenous tau paired helical filament formation in an <i>APOE</i> genotype- and age-dependent manner",
     "link": "https://www.nature.com/articles/s41593-026-02297-x",
     "journal": "Nature Neuroscience",
@@ -141,6 +115,136 @@
     "topic": "neurodegeneration",
     "topic_color": "#fda4af",
     "priority_score": 35
+  },
+  {
+    "title": "How long can humans live? We simply don’t know",
+    "link": "https://www.nature.com/articles/d41586-026-01728-w",
+    "journal": "Nature",
+    "source_type": "journal",
+    "date": "2026-06-01",
+    "summary": "Nature, Published online: 01 June 2026; doi:10.1038/d41586-026-01728-w Claims about the upper limits to human lifespan are characterized by hype, deficient data and shoddy science, says longevity researcher Saul Newman.",
+    "abstract": "Claims about the upper limits to human lifespan are characterized by hype, deficient data and shoddy science, says longevity researcher Saul Newman. Claims about the upper limits to human lifespan are characterized by hype, deficient data and shoddy science, says longevity researcher Saul Newman.",
+    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-01728-w/d41586-026-01728-w_52455718.jpg",
+    "topic": "default",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
+    "title": "Obesity doesn’t equate to ill health: why the ‘disease’ label doesn’t always fit",
+    "link": "https://www.nature.com/articles/d41586-026-01729-9",
+    "journal": "Nature",
+    "source_type": "journal",
+    "date": "2026-06-01",
+    "summary": "Nature, Published online: 01 June 2026; doi:10.1038/d41586-026-01729-9 Excess body weight affects individuals’ health differently. Taking this variation into account is crucial for effective health care, policy and research.",
+    "abstract": "Excess body weight affects individuals’ health differently. Taking this variation into account is crucial for effective health care, policy and research. Excess body weight affects individuals’ health differently. Taking this variation into account is crucial for effective health care, policy and research.",
+    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-01729-9/d41586-026-01729-9_52482586.jpg",
+    "topic": "default",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
+    "title": "<span>T</span>owards a holistic understanding of pain in the biomarker age",
+    "link": "https://www.nature.com/articles/s41593-026-02323-y",
+    "journal": "Nature Neuroscience",
+    "source_type": "journal",
+    "date": "2026-06-01",
+    "summary": "Nature Neuroscience, Published online: 01 June 2026; doi:10.1038/s41593-026-02323-y Pain biomarkers cannot prove or disprove another person’s pain, but they need not be rejected as futile or reductionist. When developed within a bio-psycho-social framework and guided by epistemic humility and ethical safeguards, they can complement and enrich the voices of those living with pain rather than replace them.",
+    "abstract": "Nature Neuroscience, Published online: 01 June 2026; doi:10.1038/s41593-026-02323-y Pain biomarkers cannot prove or disprove another person’s pain, but they need not be rejected as futile or reductionist. When developed within a bio-psycho-social framework and guided by epistemic humility and ethical safeguards, they can complement and enrich the voices of those living with pain rather than replace them.",
+    "image": "data:image/svg+xml;charset=utf-8,%0A%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23111827%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23374151%22/%3E%0A%20%20%20%20%3C/linearGradient%3E%0A%20%20%20%20%3Cfilter%20id%3D%22blur%22%3E%0A%20%20%20%20%20%20%3CfeGaussianBlur%20stdDeviation%3D%2230%22/%3E%0A%20%20%20%20%3C/filter%3E%0A%20%20%3C/defs%3E%0A%0A%20%20%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22url%28%23bg%29%22/%3E%0A%0A%20%20%3Ccircle%20cx%3D%221030%22%20cy%3D%22110%22%20r%3D%22170%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.18%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%20%20%3Ccircle%20cx%3D%22180%22%20cy%3D%22560%22%20r%3D%22150%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.16%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%0A%20%20%3Crect%20x%3D%2256%22%20y%3D%2252%22%20rx%3D%2218%22%20ry%3D%2218%22%20width%3D%22260%22%20height%3D%2254%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.08%29%22/%3E%0A%20%20%3Ctext%20x%3D%2284%22%20y%3D%2287%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2228%22%20fill%3D%22%23e5e7eb%22%3ENature%20Neuroscience%3C/text%3E%0A%0A%20%20%3Ctext%20x%3D%221010%22%20y%3D%22560%22%0A%20%20%20%20%20%20%20%20text-anchor%3D%22middle%22%0A%20%20%20%20%20%20%20%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%0A%20%20%20%20%20%20%20%20font-size%3D%22160%22%0A%20%20%20%20%20%20%20%20fill%3D%22%2360a5fa%22%0A%20%20%20%20%20%20%20%20opacity%3D%220.85%22%3E%0A%20%20%20%20%E2%80%A2%0A%20%20%3C/text%3E%0A%3C/svg%3E%0A",
+    "topic": "neuroscience",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
+    "title": "Why pain biomarkers cannot replace the patient experience",
+    "link": "https://www.nature.com/articles/s41593-026-02324-x",
+    "journal": "Nature Neuroscience",
+    "source_type": "journal",
+    "date": "2026-06-01",
+    "summary": "Nature Neuroscience, Published online: 01 June 2026; doi:10.1038/s41593-026-02324-x Using neuroimaging to understand the mechanisms of pain is an important task. But we must understand that the gold standard of measuring pain will always be the self-report.",
+    "abstract": "Nature Neuroscience, Published online: 01 June 2026; doi:10.1038/s41593-026-02324-x Using neuroimaging to understand the mechanisms of pain is an important task. But we must understand that the gold standard of measuring pain will always be the self-report.",
+    "image": "data:image/svg+xml;charset=utf-8,%0A%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23111827%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23374151%22/%3E%0A%20%20%20%20%3C/linearGradient%3E%0A%20%20%20%20%3Cfilter%20id%3D%22blur%22%3E%0A%20%20%20%20%20%20%3CfeGaussianBlur%20stdDeviation%3D%2230%22/%3E%0A%20%20%20%20%3C/filter%3E%0A%20%20%3C/defs%3E%0A%0A%20%20%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22url%28%23bg%29%22/%3E%0A%0A%20%20%3Ccircle%20cx%3D%221030%22%20cy%3D%22110%22%20r%3D%22170%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.18%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%20%20%3Ccircle%20cx%3D%22180%22%20cy%3D%22560%22%20r%3D%22150%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.16%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%0A%20%20%3Crect%20x%3D%2256%22%20y%3D%2252%22%20rx%3D%2218%22%20ry%3D%2218%22%20width%3D%22260%22%20height%3D%2254%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.08%29%22/%3E%0A%20%20%3Ctext%20x%3D%2284%22%20y%3D%2287%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2228%22%20fill%3D%22%23e5e7eb%22%3ENature%20Neuroscience%3C/text%3E%0A%0A%20%20%3Ctext%20x%3D%221010%22%20y%3D%22560%22%0A%20%20%20%20%20%20%20%20text-anchor%3D%22middle%22%0A%20%20%20%20%20%20%20%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%0A%20%20%20%20%20%20%20%20font-size%3D%22160%22%0A%20%20%20%20%20%20%20%20fill%3D%22%2360a5fa%22%0A%20%20%20%20%20%20%20%20opacity%3D%220.85%22%3E%0A%20%20%20%20%E2%80%A2%0A%20%20%3C/text%3E%0A%3C/svg%3E%0A",
+    "topic": "neuroscience",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
+    "title": "Deep brain stimulation induces white matter remodeling and functional changes to brain-wide networks",
+    "link": "https://www.nature.com/articles/s41593-026-02301-4",
+    "journal": "Nature Neuroscience",
+    "source_type": "journal",
+    "date": "2026-06-01",
+    "summary": "Nature Neuroscience, Published online: 01 June 2026; doi:10.1038/s41593-026-02301-4 In a nonhuman primate model, Fujimoto et al. show that deep brain stimulation promotes white matter remodeling and reorganizes brain-wide functional networks, detailing a mechanism through which this neuromodulation therapy may treat depression.",
+    "abstract": "Nature Neuroscience, Published online: 01 June 2026; doi:10.1038/s41593-026-02301-4 In a nonhuman primate model, Fujimoto et al. show that deep brain stimulation promotes white matter remodeling and reorganizes brain-wide functional networks, detailing a mechanism through which this neuromodulation therapy may treat depression.",
+    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41593-026-02301-4/MediaObjects/41593_2026_2301_Fig1_HTML.png",
+    "topic": "neuroscience",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
+    "title": "Regulatory factor X 7 limits Myc activity during B cell activation and suppresses Myc-dependent lymphomagenesis",
+    "link": "https://www.nature.com/articles/s41590-026-02526-2",
+    "journal": "Nature Immunology",
+    "source_type": "journal",
+    "date": "2026-06-01",
+    "summary": "Nature Immunology, Published online: 01 June 2026; doi:10.1038/s41590-026-02526-2 Guarda and colleagues investigate the role of the transcription factor RFX7 in B cell activation and lymphomagenesis. The findings indicate that Rfx7 regulates germinal center B cell, plasmablast generation and malignant transformation by restricting Myc activity.",
+    "abstract": "Nature Immunology, Published online: 01 June 2026; doi:10.1038/s41590-026-02526-2 Guarda and colleagues investigate the role of the transcription factor RFX7 in B cell activation and lymphomagenesis. The findings indicate that Rfx7 regulates germinal center B cell, plasmablast generation and malignant transformation by restricting Myc activity.",
+    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41590-026-02526-2/MediaObjects/41590_2026_2526_Fig1_HTML.png",
+    "topic": "immunology",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
+    "title": "Downplaying toxicities in cancer drug trials is not acceptable",
+    "link": "https://www.nature.com/articles/s41591-026-04463-x",
+    "journal": "Nature Medicine",
+    "source_type": "journal",
+    "date": "2026-06-01",
+    "summary": "Nature Medicine, Published online: 01 June 2026; doi:10.1038/s41591-026-04463-x As a physician I want to treat the patient, not just the tumor.",
+    "abstract": "Nature Medicine, Published online: 01 June 2026; doi:10.1038/s41591-026-04463-x As a physician I want to treat the patient, not just the tumor.",
+    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41591-026-04463-x/MediaObjects/41591_2026_4463_Figa_HTML.png",
+    "topic": "default",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
+    "title": "Incretin therapies, nutrition and food insecurity in the UK",
+    "link": "https://www.nature.com/articles/s41591-026-04426-2",
+    "journal": "Nature Medicine",
+    "source_type": "journal",
+    "date": "2026-06-01",
+    "summary": "Nature Medicine, Published online: 01 June 2026; doi:10.1038/s41591-026-04426-2 Incretin therapies, nutrition and food insecurity in the UK",
+    "abstract": "Nature Medicine, Published online: 01 June 2026; doi:10.1038/s41591-026-04426-2 Incretin therapies, nutrition and food insecurity in the UK",
+    "image": "data:image/svg+xml;charset=utf-8,%0A%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23111827%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23374151%22/%3E%0A%20%20%20%20%3C/linearGradient%3E%0A%20%20%20%20%3Cfilter%20id%3D%22blur%22%3E%0A%20%20%20%20%20%20%3CfeGaussianBlur%20stdDeviation%3D%2230%22/%3E%0A%20%20%20%20%3C/filter%3E%0A%20%20%3C/defs%3E%0A%0A%20%20%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22url%28%23bg%29%22/%3E%0A%0A%20%20%3Ccircle%20cx%3D%221030%22%20cy%3D%22110%22%20r%3D%22170%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.18%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%20%20%3Ccircle%20cx%3D%22180%22%20cy%3D%22560%22%20r%3D%22150%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.16%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%0A%20%20%3Crect%20x%3D%2256%22%20y%3D%2252%22%20rx%3D%2218%22%20ry%3D%2218%22%20width%3D%22260%22%20height%3D%2254%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.08%29%22/%3E%0A%20%20%3Ctext%20x%3D%2284%22%20y%3D%2287%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2228%22%20fill%3D%22%23e5e7eb%22%3ENature%20Medicine%3C/text%3E%0A%0A%20%20%3Ctext%20x%3D%221010%22%20y%3D%22560%22%0A%20%20%20%20%20%20%20%20text-anchor%3D%22middle%22%0A%20%20%20%20%20%20%20%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%0A%20%20%20%20%20%20%20%20font-size%3D%22160%22%0A%20%20%20%20%20%20%20%20fill%3D%22%2360a5fa%22%0A%20%20%20%20%20%20%20%20opacity%3D%220.85%22%3E%0A%20%20%20%20%E2%80%A2%0A%20%20%3C/text%3E%0A%3C/svg%3E%0A",
+    "topic": "default",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
+    "title": "Manageable toxicity is not a label — it is an oxymoron",
+    "link": "https://www.nature.com/articles/s41591-026-04464-w",
+    "journal": "Nature Medicine",
+    "source_type": "journal",
+    "date": "2026-06-01",
+    "summary": "Nature Medicine, Published online: 01 June 2026; doi:10.1038/s41591-026-04464-w From the patient’s perspective, toxicity is manageable only when it is met with empathy.",
+    "abstract": "Nature Medicine, Published online: 01 June 2026; doi:10.1038/s41591-026-04464-w From the patient’s perspective, toxicity is manageable only when it is met with empathy.",
+    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41591-026-04464-w/MediaObjects/41591_2026_4464_Figa_HTML.png",
+    "topic": "default",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
+    "title": "Tumor-targeted interferon-α gene therapy for glioblastoma: a phase 1 trial",
+    "link": "https://www.nature.com/articles/s41591-026-04419-1",
+    "journal": "Nature Medicine",
+    "source_type": "journal",
+    "date": "2026-06-01",
+    "summary": "Nature Medicine, Published online: 01 June 2026; doi:10.1038/s41591-026-04419-1 In an interim analysis of a phase 1/2 trial in 24 patients with newly diagnosed glioblastoma, a genetically engineered autologous stem cell transplant designed to deliver interferon-α to the tumor microenvironment was well tolerated, with stable engraftment and evidence for immune reprogramming.",
+    "abstract": "Nature Medicine, Published online: 01 June 2026; doi:10.1038/s41591-026-04419-1 In an interim analysis of a phase 1/2 trial in 24 patients with newly diagnosed glioblastoma, a genetically engineered autologous stem cell transplant designed to deliver interferon-α to the tumor microenvironment was well tolerated, with stable engraftment and evidence for immune reprogramming.",
+    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41591-026-04419-1/MediaObjects/41591_2026_4419_Fig1_HTML.png",
+    "topic": "default",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
   },
   {
     "title": "Brazil’s ‘rolling stone reefs’ teem with hidden diversity, DNA reveals",
@@ -299,32 +403,6 @@
     "priority_score": 0
   },
   {
-    "title": "How jazz boosts my creativity in physics",
-    "link": "https://www.nature.com/articles/d41586-026-01393-z",
-    "journal": "Nature",
-    "source_type": "journal",
-    "date": "2026-05-29",
-    "summary": "Nature, Published online: 29 May 2026; doi:10.1038/d41586-026-01393-z Stephon Alexander says his passion for musical improvisation helps him to understand and teach complex ideas.",
-    "abstract": "Nature, Published online: 29 May 2026; doi:10.1038/d41586-026-01393-z Stephon Alexander says his passion for musical improvisation helps him to understand and teach complex ideas.",
-    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-01393-z/d41586-026-01393-z_52283654.jpg",
-    "topic": "default",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
-    "title": "First pig liver and kidneys transplanted into a person — could ease organ shortages",
-    "link": "https://www.nature.com/articles/d41586-026-01708-0",
-    "journal": "Nature",
-    "source_type": "journal",
-    "date": "2026-05-29",
-    "summary": "Nature, Published online: 29 May 2026; doi:10.1038/d41586-026-01708-0 Organs from genetically modified pigs are being used in trials in China and the US.",
-    "abstract": "Nature, Published online: 29 May 2026; doi:10.1038/d41586-026-01708-0 Organs from genetically modified pigs are being used in trials in China and the US.",
-    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-01708-0/d41586-026-01708-0_52481826.jpg",
-    "topic": "default",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
     "title": "Immune-competent new approach methodologies for a hybrid future",
     "link": "https://www.nature.com/articles/s41590-026-02539-x",
     "journal": "Nature Immunology",
@@ -403,19 +481,6 @@
     "priority_score": 0
   },
   {
-    "title": "Genetic–exposome interactions and aging clocks in dementia: the ReDLat2 initiative",
-    "link": "https://www.nature.com/articles/s41591-026-04433-3",
-    "journal": "Nature Medicine",
-    "source_type": "journal",
-    "date": "2026-05-28",
-    "summary": "Nature Medicine, Published online: 28 May 2026; doi:10.1038/s41591-026-04433-3 Genetic–exposome interactions and aging clocks in dementia: the ReDLat2 initiative",
-    "abstract": "Nature Medicine, Published online: 28 May 2026; doi:10.1038/s41591-026-04433-3 Genetic–exposome interactions and aging clocks in dementia: the ReDLat2 initiative",
-    "image": "data:image/svg+xml;charset=utf-8,%0A%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23111827%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23374151%22/%3E%0A%20%20%20%20%3C/linearGradient%3E%0A%20%20%20%20%3Cfilter%20id%3D%22blur%22%3E%0A%20%20%20%20%20%20%3CfeGaussianBlur%20stdDeviation%3D%2230%22/%3E%0A%20%20%20%20%3C/filter%3E%0A%20%20%3C/defs%3E%0A%0A%20%20%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22url%28%23bg%29%22/%3E%0A%0A%20%20%3Ccircle%20cx%3D%221030%22%20cy%3D%22110%22%20r%3D%22170%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.18%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%20%20%3Ccircle%20cx%3D%22180%22%20cy%3D%22560%22%20r%3D%22150%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.16%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%0A%20%20%3Crect%20x%3D%2256%22%20y%3D%2252%22%20rx%3D%2218%22%20ry%3D%2218%22%20width%3D%22260%22%20height%3D%2254%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.08%29%22/%3E%0A%20%20%3Ctext%20x%3D%2284%22%20y%3D%2287%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2228%22%20fill%3D%22%23e5e7eb%22%3ENature%20Medicine%3C/text%3E%0A%0A%20%20%3Ctext%20x%3D%221010%22%20y%3D%22560%22%0A%20%20%20%20%20%20%20%20text-anchor%3D%22middle%22%0A%20%20%20%20%20%20%20%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%0A%20%20%20%20%20%20%20%20font-size%3D%22160%22%0A%20%20%20%20%20%20%20%20fill%3D%22%2360a5fa%22%0A%20%20%20%20%20%20%20%20opacity%3D%220.85%22%3E%0A%20%20%20%20%E2%80%A2%0A%20%20%3C/text%3E%0A%3C/svg%3E%0A",
-    "topic": "default",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
     "title": "Surveys capture the pulsing of mantle plumes—a potential cause of mass extinctions",
     "link": "https://www.science.org/content/article/surveys-capture-pulsing-mantle-plumes-potential-cause-mass-extinctions",
     "journal": "Science",
@@ -468,19 +533,6 @@
     "priority_score": 0
   },
   {
-    "title": "What Utah’s clinical AI sandbox reveals about independent oversight",
-    "link": "https://www.nature.com/articles/s41591-026-04418-2",
-    "journal": "Nature Medicine",
-    "source_type": "journal",
-    "date": "2026-05-27",
-    "summary": "Nature Medicine, Published online: 27 May 2026; doi:10.1038/s41591-026-04418-2 What Utah’s clinical AI sandbox reveals about independent oversight",
-    "abstract": "Nature Medicine, Published online: 27 May 2026; doi:10.1038/s41591-026-04418-2 What Utah’s clinical AI sandbox reveals about independent oversight",
-    "image": "data:image/svg+xml;charset=utf-8,%0A%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23111827%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23374151%22/%3E%0A%20%20%20%20%3C/linearGradient%3E%0A%20%20%20%20%3Cfilter%20id%3D%22blur%22%3E%0A%20%20%20%20%20%20%3CfeGaussianBlur%20stdDeviation%3D%2230%22/%3E%0A%20%20%20%20%3C/filter%3E%0A%20%20%3C/defs%3E%0A%0A%20%20%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22url%28%23bg%29%22/%3E%0A%0A%20%20%3Ccircle%20cx%3D%221030%22%20cy%3D%22110%22%20r%3D%22170%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.18%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%20%20%3Ccircle%20cx%3D%22180%22%20cy%3D%22560%22%20r%3D%22150%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.16%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%0A%20%20%3Crect%20x%3D%2256%22%20y%3D%2252%22%20rx%3D%2218%22%20ry%3D%2218%22%20width%3D%22260%22%20height%3D%2254%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.08%29%22/%3E%0A%20%20%3Ctext%20x%3D%2284%22%20y%3D%2287%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2228%22%20fill%3D%22%23e5e7eb%22%3ENature%20Medicine%3C/text%3E%0A%0A%20%20%3Ctext%20x%3D%221010%22%20y%3D%22560%22%0A%20%20%20%20%20%20%20%20text-anchor%3D%22middle%22%0A%20%20%20%20%20%20%20%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%0A%20%20%20%20%20%20%20%20font-size%3D%22160%22%0A%20%20%20%20%20%20%20%20fill%3D%22%2360a5fa%22%0A%20%20%20%20%20%20%20%20opacity%3D%220.85%22%3E%0A%20%20%20%20%E2%80%A2%0A%20%20%3C/text%3E%0A%3C/svg%3E%0A",
-    "topic": "default",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
     "title": "Wikipedia’s gender gap has flipped for one group of scientists",
     "link": "https://www.science.org/content/article/wikipedia-s-gender-gap-has-flipped-one-group-scientists",
     "journal": "Science",
@@ -520,19 +572,6 @@
     "priority_score": 0
   },
   {
-    "title": "Enabling secure discovery in trusted research environments with improved tooling",
-    "link": "https://www.nature.com/articles/s41591-026-04401-x",
-    "journal": "Nature Medicine",
-    "source_type": "journal",
-    "date": "2026-05-26",
-    "summary": "Nature Medicine, Published online: 26 May 2026; doi:10.1038/s41591-026-04401-x Biobanks are introducing trusted research environments to enable secure data access, yet they can increase costs and complexity for biomedical researchers who use them. We discuss challenges and solutions and introduce the Python Phenofhy community tool for Our Future Health.",
-    "abstract": "Nature Medicine, Published online: 26 May 2026; doi:10.1038/s41591-026-04401-x Biobanks are introducing trusted research environments to enable secure data access, yet they can increase costs and complexity for biomedical researchers who use them. We discuss challenges and solutions and introduce the Python Phenofhy community tool for Our Future Health.",
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41591-026-04401-x/MediaObjects/41591_2026_4401_Fig1_HTML.png",
-    "topic": "default",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
     "title": "Low-dimensional population dynamics in the brainstem gate REM sleep",
     "link": "https://www.nature.com/articles/s41593-026-02314-z",
     "journal": "Nature Neuroscience",
@@ -541,19 +580,6 @@
     "summary": "Nature Neuroscience, Published online: 25 May 2026; doi:10.1038/s41593-026-02314-z Lozano et al. show that REM sleep is gated by low-dimensional brainstem network dynamics, in which opposing neuron populations across the midbrain and pons determine when transitions into REM sleep can occur.",
     "abstract": "Nature Neuroscience, Published online: 25 May 2026; doi:10.1038/s41593-026-02314-z Lozano et al. show that REM sleep is gated by low-dimensional brainstem network dynamics, in which opposing neuron populations across the midbrain and pons determine when transitions into REM sleep can occur.",
     "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41593-026-02314-z/MediaObjects/41593_2026_2314_Fig1_HTML.png",
-    "topic": "neuroscience",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
-    "title": "Fixation duration on natural scenes is explained by memory encoding not processing demand",
-    "link": "https://www.nature.com/articles/s41593-026-02285-1",
-    "journal": "Nature Neuroscience",
-    "source_type": "journal",
-    "date": "2026-05-25",
-    "summary": "Nature Neuroscience, Published online: 25 May 2026; doi:10.1038/s41593-026-02285-1 By combining magnetoencephalography and eye tracking, this study sheds light on why people fixate on some parts of natural scenes longer than others. Rather than visual complexity, fixation durations are affected by memory encoding.",
-    "abstract": "Nature Neuroscience, Published online: 25 May 2026; doi:10.1038/s41593-026-02285-1 By combining magnetoencephalography and eye tracking, this study sheds light on why people fixate on some parts of natural scenes longer than others. Rather than visual complexity, fixation durations are affected by memory encoding.",
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41593-026-02285-1/MediaObjects/41593_2026_2285_Fig1_HTML.png",
     "topic": "neuroscience",
     "topic_color": "#60a5fa",
     "priority_score": 0
@@ -624,19 +650,6 @@
     "priority_score": 0
   },
   {
-    "title": "A glycan-based adjuvant expands the breadth and duration of protection of mRNA-based vaccines",
-    "link": "https://www.nature.com/articles/s41590-026-02517-3",
-    "journal": "Nature Immunology",
-    "source_type": "journal",
-    "date": "2026-05-22",
-    "summary": "Nature Immunology, Published online: 22 May 2026; doi:10.1038/s41590-026-02517-3 Jena, Qu et al. show that mannadjuvant, a formulation of fungal mannan and aluminum hydroxide, increases the magnitude, durability and breadth of the response elicited by mRNA-based vaccines against SARS-CoV-2 variants in mice and non-human primates.",
-    "abstract": "Nature Immunology, Published online: 22 May 2026; doi:10.1038/s41590-026-02517-3 Jena, Qu et al. show that mannadjuvant, a formulation of fungal mannan and aluminum hydroxide, increases the magnitude, durability and breadth of the response elicited by mRNA-based vaccines against SARS-CoV-2 variants in mice and non-human primates.",
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41590-026-02517-3/MediaObjects/41590_2026_2517_Fig1_HTML.png",
-    "topic": "immunology",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
     "title": "The simplicity of the Hodge bundle",
     "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2610183123?af=R",
     "journal": "PNAS",
@@ -659,19 +672,6 @@
     "abstract": "Proceedings of the National Academy of Sciences, Volume 123, Issue 21, May 2026.",
     "image": "data:image/svg+xml;charset=utf-8,%0A%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23111827%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23374151%22/%3E%0A%20%20%20%20%3C/linearGradient%3E%0A%20%20%20%20%3Cfilter%20id%3D%22blur%22%3E%0A%20%20%20%20%20%20%3CfeGaussianBlur%20stdDeviation%3D%2230%22/%3E%0A%20%20%20%20%3C/filter%3E%0A%20%20%3C/defs%3E%0A%0A%20%20%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22url%28%23bg%29%22/%3E%0A%0A%20%20%3Ccircle%20cx%3D%221030%22%20cy%3D%22110%22%20r%3D%22170%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.18%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%20%20%3Ccircle%20cx%3D%22180%22%20cy%3D%22560%22%20r%3D%22150%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.16%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%0A%20%20%3Crect%20x%3D%2256%22%20y%3D%2252%22%20rx%3D%2218%22%20ry%3D%2218%22%20width%3D%22260%22%20height%3D%2254%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.08%29%22/%3E%0A%20%20%3Ctext%20x%3D%2284%22%20y%3D%2287%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2228%22%20fill%3D%22%23e5e7eb%22%3EPNAS%3C/text%3E%0A%0A%20%20%3Ctext%20x%3D%221010%22%20y%3D%22560%22%0A%20%20%20%20%20%20%20%20text-anchor%3D%22middle%22%0A%20%20%20%20%20%20%20%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%0A%20%20%20%20%20%20%20%20font-size%3D%22160%22%0A%20%20%20%20%20%20%20%20fill%3D%22%2360a5fa%22%0A%20%20%20%20%20%20%20%20opacity%3D%220.85%22%3E%0A%20%20%20%20%E2%80%A2%0A%20%20%3C/text%3E%0A%3C/svg%3E%0A",
     "topic": "default",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
-    "title": "Considering biological limitations of lesion network mapping",
-    "link": "https://www.nature.com/articles/s41593-026-02319-8",
-    "journal": "Nature Neuroscience",
-    "source_type": "journal",
-    "date": "2026-05-20",
-    "summary": "Nature Neuroscience, Published online: 20 May 2026; doi:10.1038/s41593-026-02319-8 Lesion network mapping (LNM), or atrophy network mapping, has become a widely adopted tool for linking focal brain lesions or neurodegenerative brain clusters, respectively, to distributed functional networks associated with cognitive or clinical deficits. Recent insights, however, suggest that LNM primarily captures elementary topological properties of the normative connectome rather than disorder-specific circuits. Independent clinical evidence supports these methodological concerns, reflecting a deeper biological issue. LNM is inherently unable to capture the higher-order disconnection effects and non-linear connectivity changes that characterize the brain response to a broad range of neurological conditions. Brain injuries can induce widespread changes in distal regions not directly affected by the damage, as well as complex patterns of pathological hyperconnectivity and hypoconnectivity that evolve over time and whose functional significance remains uncertain. These phenomena represent a central challenge in clinical neuroscience. LNM is intrinsically limited in capturing these dynamics, with important implications for clinical translation and neuromodulation.",
-    "abstract": "Nature Neuroscience, Published online: 20 May 2026; doi:10.1038/s41593-026-02319-8 Lesion network mapping (LNM), or atrophy network mapping, has become a widely adopted tool for linking focal brain lesions or neurodegenerative brain clusters, respectively, to distributed functional networks associated with cognitive or clinical deficits. Recent insights, however, suggest that LNM primarily captures elementary topological properties of the normative connectome rather than disorder-specific circuits. Independent clinical evidence supports these methodological concerns, reflecting a deeper biological issue. LNM is inherently unable to capture the higher-order disconnection effects and non-linear connectivity changes that characterize the brain response to a broad range of neurological conditions. Brain injuries can induce widespread changes in distal regions not directly affected by the damage, as well as complex patterns of pathological hyperconnectivity and hypoconnectivity that evolve over time and whose functional significance remains uncertain. These phenomena represent a central challenge in clinical neuroscience. LNM is intrinsically limited in capturing these dynamics, with important implications for clinical translation and neuromodulation.",
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41593-026-02319-8/MediaObjects/41593_2026_2319_Fig1_HTML.png",
-    "topic": "neuroscience",
     "topic_color": "#60a5fa",
     "priority_score": 0
   },
