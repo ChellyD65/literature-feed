@@ -9,7 +9,6 @@ body {
   background: #0f1115;
   color: #e6e6e6;
   overflow-y: auto;
-  scroll-snap-type: y mandatory;
   scroll-behavior: auto;
   -webkit-overflow-scrolling: touch;
   touch-action: pan-y;
@@ -26,10 +25,6 @@ body {
   min-height: 100dvh;
   box-sizing: border-box;
   padding: 16px;
-
-  scroll-snap-align: start;
-  scroll-snap-stop: always;
-
   display: flex;
   align-items: stretch;
   justify-content: center;
