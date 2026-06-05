@@ -182,6 +182,19 @@
     "priority_score": 0
   },
   {
+    "title": "Oral small molecule GLP-1 receptor agonist aleniglipron in people with overweight or obesity: a randomized, double-blind, placebo-controlled phase 2b trial",
+    "link": "https://www.nature.com/articles/s41591-026-04476-6",
+    "journal": "Nature Medicine",
+    "source_type": "journal",
+    "date": "2026-06-05",
+    "summary": "Nature Medicine, Published online: 05 June 2026; doi:10.1038/s41591-026-04476-6 As presented at the American Diabetes Association Meeting: this randomized phase 2b trial in 230 adults with overweight or obesity shows that aleniglipron, an oral small-molecule GLP1-RA, led to up to 11.3% body-weight loss compared with placebo after 36 weeks of treatment.",
+    "abstract": "Nature Medicine, Published online: 05 June 2026; doi:10.1038/s41591-026-04476-6 As presented at the American Diabetes Association Meeting: this randomized phase 2b trial in 230 adults with overweight or obesity shows that aleniglipron, an oral small-molecule GLP1-RA, led to up to 11.3% body-weight loss compared with placebo after 36 weeks of treatment.",
+    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41591-026-04476-6/MediaObjects/41591_2026_4476_Fig1_HTML.png",
+    "topic": "default",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
     "title": "Democrats on House China committee decry dismissal of National Science Board",
     "link": "https://www.science.org/content/article/democrats-house-china-committee-decry-dismissal-national-science-board",
     "journal": "Science",
@@ -476,19 +489,6 @@
     "summary": "Nature Medicine, Published online: 03 June 2026; doi:10.1038/s41591-026-04461-z Limited evidence of AI superiority in seasonal influenza vaccine strain selection",
     "abstract": "Nature Medicine, Published online: 03 June 2026; doi:10.1038/s41591-026-04461-z Limited evidence of AI superiority in seasonal influenza vaccine strain selection",
     "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41591-026-04461-z/MediaObjects/41591_2026_4461_Fig1_HTML.png",
-    "topic": "default",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
-    "title": "Reinventing biotech systems for patient impact",
-    "link": "https://www.nature.com/articles/s41591-026-04445-z",
-    "journal": "Nature Medicine",
-    "source_type": "journal",
-    "date": "2026-06-03",
-    "summary": "Nature Medicine, Published online: 03 June 2026; doi:10.1038/s41591-026-04445-z China’s integration of national reforms with institutional redesign has accelerated drug development and access to medicines. As momentum shifts globally, what can other nations learn from this experience?",
-    "abstract": "Nature Medicine, Published online: 03 June 2026; doi:10.1038/s41591-026-04445-z China’s integration of national reforms with institutional redesign has accelerated drug development and access to medicines. As momentum shifts globally, what can other nations learn from this experience?",
-    "image": "data:image/svg+xml;charset=utf-8,%0A%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23111827%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23374151%22/%3E%0A%20%20%20%20%3C/linearGradient%3E%0A%20%20%20%20%3Cfilter%20id%3D%22blur%22%3E%0A%20%20%20%20%20%20%3CfeGaussianBlur%20stdDeviation%3D%2230%22/%3E%0A%20%20%20%20%3C/filter%3E%0A%20%20%3C/defs%3E%0A%0A%20%20%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22url%28%23bg%29%22/%3E%0A%0A%20%20%3Ccircle%20cx%3D%221030%22%20cy%3D%22110%22%20r%3D%22170%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.18%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%20%20%3Ccircle%20cx%3D%22180%22%20cy%3D%22560%22%20r%3D%22150%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.16%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%0A%20%20%3Crect%20x%3D%2256%22%20y%3D%2252%22%20rx%3D%2218%22%20ry%3D%2218%22%20width%3D%22260%22%20height%3D%2254%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.08%29%22/%3E%0A%20%20%3Ctext%20x%3D%2284%22%20y%3D%2287%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2228%22%20fill%3D%22%23e5e7eb%22%3ENature%20Medicine%3C/text%3E%0A%0A%20%20%3Ctext%20x%3D%221010%22%20y%3D%22560%22%0A%20%20%20%20%20%20%20%20text-anchor%3D%22middle%22%0A%20%20%20%20%20%20%20%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%0A%20%20%20%20%20%20%20%20font-size%3D%22160%22%0A%20%20%20%20%20%20%20%20fill%3D%22%2360a5fa%22%0A%20%20%20%20%20%20%20%20opacity%3D%220.85%22%3E%0A%20%20%20%20%E2%80%A2%0A%20%20%3C/text%3E%0A%3C/svg%3E%0A",
     "topic": "default",
     "topic_color": "#60a5fa",
     "priority_score": 0
