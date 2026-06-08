@@ -26,19 +26,6 @@
     "priority_score": 133
   },
   {
-    "title": "Single-cell multi-omic atlas and morphogen screening informs midbrain and hindbrain organoid engineering",
-    "link": "https://www.nature.com/articles/s41593-026-02316-x",
-    "journal": "Nature Neuroscience",
-    "source_type": "journal",
-    "date": "2026-06-03",
-    "summary": "Nature Neuroscience, Published online: 03 June 2026; doi:10.1038/s41593-026-02316-x By combining single-cell sequencing and morphogen screening, researchers map how signaling cues shape cell identity in mid-hindbrain organoids and identify conditions that generate novel posterior brain neuron types.",
-    "abstract": "Nature Neuroscience, Published online: 03 June 2026; doi:10.1038/s41593-026-02316-x By combining single-cell sequencing and morphogen screening, researchers map how signaling cues shape cell identity in mid-hindbrain organoids and identify conditions that generate novel posterior brain neuron types.",
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41593-026-02316-x/MediaObjects/41593_2026_2316_Fig1_HTML.png",
-    "topic": "High-Signal Discovery",
-    "topic_color": "#60a5fa",
-    "priority_score": 105
-  },
-  {
     "title": "Residual photoreceptors affect the response of a degenerate retina to electrical stimulation",
     "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2537064123?af=R",
     "journal": "PNAS",
@@ -52,17 +39,30 @@
     "priority_score": 96
   },
   {
-    "title": "See a helicopter destined for Mars and a spectacular flowery frame for the Milky Way — May’s best science images",
-    "link": "https://www.nature.com/articles/d41586-026-01609-2",
+    "title": "GPR15-guided CD8<sup>+</sup> T regulatory cells control intestinal inflammation",
+    "link": "https://www.nature.com/articles/s41586-026-10749-4",
     "journal": "Nature",
     "source_type": "journal",
-    "date": "2026-06-05",
-    "summary": "Nature, Published online: 05 June 2026; doi:10.1038/d41586-026-01609-2 The month’s sharpest science shots, selected by Nature’s photo team.",
-    "abstract": "Nature, Published online: 05 June 2026; doi:10.1038/d41586-026-01609-2 The month’s sharpest science shots, selected by Nature’s photo team.",
-    "image": "https://www.nature.com/immersive/d41586-026-01609-2/assets/WYd3L5SiZR/2026-06-05_news_iom-may_milkyway-lupines_sm-1066x600.jpg",
-    "topic": "retina",
-    "topic_color": "#f472b6",
-    "priority_score": 52
+    "date": "2026-06-08",
+    "summary": "Nature, Published online: 08 June 2026; doi:10.1038/s41586-026-10749-4 GPR15-guided CD8 + T regulatory cells control intestinal inflammation",
+    "abstract": "Inflammatory bowel disease (IBD) causes chronic suffering from gastrointestinal inflammation and dysfunction that can progress to colon cancer1,2. The disease prevalence is increasing and there is an urgent need to better understand its pathogenic mechanisms to improve treatment. We show that GPR15, a G protein-coupled receptor (GPCR) expressed in immune cells and previously described as an entry co-factor for human and simian immunodeficiency viruses3, is a marker and homing receptor for a subset of intramucosal GPR15-guided regulatory CD8+ T lymphocytes (CD8+ TIGR). Deleterious GPR15 gene variants in humans cause defective homing of CD8+ TIGR and are associated with severe early-onset IBD. Moreover, CD8+ TIGR cells are reduced in the intestinal mucosa of sporadic IBD patients. In mice, GPR15 deficiency impairs colonic homing of CD8+ TIGR cells, leading to accumulation of inflammatory macrophages and increased susceptibility to colitis. CD8+ TIGR cells potently kill macrophages activated by intestinal damage or disease using Fas ligand (FasL) and TNF-related weak inducer of apoptosis (TWEAK). The identification of CD8+ TIGR cells yields new insights into organ-specific immune regulation and potential therapeutics for IBD.",
+    "image": "data:image/svg+xml;charset=utf-8,%0A%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%231f2937%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%234b5563%22/%3E%0A%20%20%20%20%3C/linearGradient%3E%0A%20%20%20%20%3Cfilter%20id%3D%22blur%22%3E%0A%20%20%20%20%20%20%3CfeGaussianBlur%20stdDeviation%3D%2230%22/%3E%0A%20%20%20%20%3C/filter%3E%0A%20%20%3C/defs%3E%0A%0A%20%20%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22url%28%23bg%29%22/%3E%0A%0A%20%20%3Ccircle%20cx%3D%221030%22%20cy%3D%22110%22%20r%3D%22170%22%20fill%3D%22%23f59e0b%22%20opacity%3D%220.18%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%20%20%3Ccircle%20cx%3D%22180%22%20cy%3D%22560%22%20r%3D%22150%22%20fill%3D%22%23f59e0b%22%20opacity%3D%220.16%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%0A%20%20%3Crect%20x%3D%2256%22%20y%3D%2252%22%20rx%3D%2218%22%20ry%3D%2218%22%20width%3D%22260%22%20height%3D%2254%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.08%29%22/%3E%0A%20%20%3Ctext%20x%3D%2284%22%20y%3D%2287%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2228%22%20fill%3D%22%23e5e7eb%22%3ENature%3C/text%3E%0A%0A%20%20%3Ctext%20x%3D%221010%22%20y%3D%22560%22%0A%20%20%20%20%20%20%20%20text-anchor%3D%22middle%22%0A%20%20%20%20%20%20%20%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%0A%20%20%20%20%20%20%20%20font-size%3D%22160%22%0A%20%20%20%20%20%20%20%20fill%3D%22%23f59e0b%22%0A%20%20%20%20%20%20%20%20opacity%3D%220.85%22%3E%0A%20%20%20%20%E2%AC%A2%0A%20%20%3C/text%3E%0A%3C/svg%3E%0A",
+    "topic": "macrophage",
+    "topic_color": "#f59e0b",
+    "priority_score": 85
+  },
+  {
+    "title": "The embryonic origins of site-specific arthritis",
+    "link": "https://www.nature.com/articles/s41590-026-02542-2",
+    "journal": "Nature Immunology",
+    "source_type": "journal",
+    "date": "2026-06-08",
+    "summary": "Nature Immunology, Published online: 08 June 2026; doi:10.1038/s41590-026-02542-2 Davidson et al. map the cellular and structural composition of developing joints and identify fibroblast populations that may predispose joints to inflammatory arthritis.",
+    "abstract": "Nature Immunology, Published online: 08 June 2026; doi:10.1038/s41590-026-02542-2 Davidson et al. map the cellular and structural composition of developing joints and identify fibroblast populations that may predispose joints to inflammatory arthritis.",
+    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41590-026-02542-2/MediaObjects/41590_2026_2542_Fig1_HTML.png",
+    "topic": "inflammation",
+    "topic_color": "#fb7185",
+    "priority_score": 29
   },
   {
     "title": "Taming the inflamed heart",
@@ -86,6 +86,45 @@
     "summary": "The automated tool could be used to help journals vet submissions",
     "abstract": "The automated tool could be used to help journals vet submissions",
     "image": "data:image/svg+xml;charset=utf-8,%0A%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23111827%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23374151%22/%3E%0A%20%20%20%20%3C/linearGradient%3E%0A%20%20%20%20%3Cfilter%20id%3D%22blur%22%3E%0A%20%20%20%20%20%20%3CfeGaussianBlur%20stdDeviation%3D%2230%22/%3E%0A%20%20%20%20%3C/filter%3E%0A%20%20%3C/defs%3E%0A%0A%20%20%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22url%28%23bg%29%22/%3E%0A%0A%20%20%3Ccircle%20cx%3D%221030%22%20cy%3D%22110%22%20r%3D%22170%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.18%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%20%20%3Ccircle%20cx%3D%22180%22%20cy%3D%22560%22%20r%3D%22150%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.16%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%0A%20%20%3Crect%20x%3D%2256%22%20y%3D%2252%22%20rx%3D%2218%22%20ry%3D%2218%22%20width%3D%22260%22%20height%3D%2254%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.08%29%22/%3E%0A%20%20%3Ctext%20x%3D%2284%22%20y%3D%2287%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2228%22%20fill%3D%22%23e5e7eb%22%3EScience%3C/text%3E%0A%0A%20%20%3Ctext%20x%3D%221010%22%20y%3D%22560%22%0A%20%20%20%20%20%20%20%20text-anchor%3D%22middle%22%0A%20%20%20%20%20%20%20%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%0A%20%20%20%20%20%20%20%20font-size%3D%22160%22%0A%20%20%20%20%20%20%20%20fill%3D%22%2360a5fa%22%0A%20%20%20%20%20%20%20%20opacity%3D%220.85%22%3E%0A%20%20%20%20%E2%80%A2%0A%20%20%3C/text%3E%0A%3C/svg%3E%0A",
+    "topic": "default",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
+    "title": "Distributed control circuits across a brain-and-cord connectome",
+    "link": "https://www.nature.com/articles/s41586-026-10735-w",
+    "journal": "Nature",
+    "source_type": "journal",
+    "date": "2026-06-08",
+    "summary": "Nature, Published online: 08 June 2026; doi:10.1038/s41586-026-10735-w Distributed control circuits across a brain-and-cord connectome",
+    "abstract": "Just as genomes revolutionized molecular genetics, connectomes (maps of neurons and synapses) are transforming neuroscience. To date, the only organisms with complete connectomes are worms1–3, sea squirts4, and comb jellies5 (103–104 synapses). By contrast, the fruit fly is more complex (108 synaptic connections), with a brain that supports learning and spatial memory6,7 and an intricate ventral nerve cord analogous to the vertebrate spinal cord8–12. Here we report the first densely-reconstructed adult fly connectome that unites the brain and ventral nerve cord, and we leverage this resource to investigate principles of neural control. We show that effector neurons (motor neurons, endocrine cells, and efferent neurons targeting the viscera) are primarily influenced by sensory neurons in the same body part, forming local feedback loops. These local loops are linked by long-range circuits involving ascending and descending neurons organized into behavior-centric modules. Single ascending and descending neurons are often positioned to influence the voluntary movements of multiple body parts, together with the endocrine cells or visceral organs that support those movements. Brain regions involved in learning and navigation supervise these circuits. These results reveal an architecture that is distributed, parallelized, and embodied, reminiscent of distributed control architectures in engineered systems13,14.",
+    "image": "data:image/svg+xml;charset=utf-8,%0A%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23111827%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23374151%22/%3E%0A%20%20%20%20%3C/linearGradient%3E%0A%20%20%20%20%3Cfilter%20id%3D%22blur%22%3E%0A%20%20%20%20%20%20%3CfeGaussianBlur%20stdDeviation%3D%2230%22/%3E%0A%20%20%20%20%3C/filter%3E%0A%20%20%3C/defs%3E%0A%0A%20%20%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22url%28%23bg%29%22/%3E%0A%0A%20%20%3Ccircle%20cx%3D%221030%22%20cy%3D%22110%22%20r%3D%22170%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.18%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%20%20%3Ccircle%20cx%3D%22180%22%20cy%3D%22560%22%20r%3D%22150%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.16%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%0A%20%20%3Crect%20x%3D%2256%22%20y%3D%2252%22%20rx%3D%2218%22%20ry%3D%2218%22%20width%3D%22260%22%20height%3D%2254%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.08%29%22/%3E%0A%20%20%3Ctext%20x%3D%2284%22%20y%3D%2287%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2228%22%20fill%3D%22%23e5e7eb%22%3ENature%3C/text%3E%0A%0A%20%20%3Ctext%20x%3D%221010%22%20y%3D%22560%22%0A%20%20%20%20%20%20%20%20text-anchor%3D%22middle%22%0A%20%20%20%20%20%20%20%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%0A%20%20%20%20%20%20%20%20font-size%3D%22160%22%0A%20%20%20%20%20%20%20%20fill%3D%22%2360a5fa%22%0A%20%20%20%20%20%20%20%20opacity%3D%220.85%22%3E%0A%20%20%20%20%E2%80%A2%0A%20%20%3C/text%3E%0A%3C/svg%3E%0A",
+    "topic": "default",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
+    "title": "Targeting Cancer-Specific Mutations with RNA-Triggered Chromatin Shredding",
+    "link": "https://www.nature.com/articles/s41586-026-10738-7",
+    "journal": "Nature",
+    "source_type": "journal",
+    "date": "2026-06-08",
+    "summary": "Nature, Published online: 08 June 2026; doi:10.1038/s41586-026-10738-7 Targeting Cancer-Specific Mutations with RNA-Triggered Chromatin Shredding",
+    "abstract": "Genetic mutations that drive cancer often occur in tumor suppressor proteins, including the p53 transcription factor which is altered in ~40-50% of cases1,2. However, current therapies fail to target most such mutations because the mutant proteins typically lack defined drug-binding pockets, and restoring the endogenous function has proven challenging. Here, we programmed CRISPR-Cas12a2, an RNA-guided nuclease with trans-nucleolytic cleavage activities3,4, to selectively kill cancer cells by targeting cancer-specific transcripts. This approach limits cell growth by inducing trans shredding of chromatin, triggering DNA damage responses and cell death. Unlike existing methods, RNA-guided Cas12a2 senses cellular RNA signatures, enabling precise targeting of undruggable mutations. Transcript-activated chromatin shredding provides a new approach to precision disease treatments for undruggable targets.",
+    "image": "data:image/svg+xml;charset=utf-8,%0A%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23111827%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23374151%22/%3E%0A%20%20%20%20%3C/linearGradient%3E%0A%20%20%20%20%3Cfilter%20id%3D%22blur%22%3E%0A%20%20%20%20%20%20%3CfeGaussianBlur%20stdDeviation%3D%2230%22/%3E%0A%20%20%20%20%3C/filter%3E%0A%20%20%3C/defs%3E%0A%0A%20%20%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22url%28%23bg%29%22/%3E%0A%0A%20%20%3Ccircle%20cx%3D%221030%22%20cy%3D%22110%22%20r%3D%22170%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.18%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%20%20%3Ccircle%20cx%3D%22180%22%20cy%3D%22560%22%20r%3D%22150%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.16%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%0A%20%20%3Crect%20x%3D%2256%22%20y%3D%2252%22%20rx%3D%2218%22%20ry%3D%2218%22%20width%3D%22260%22%20height%3D%2254%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.08%29%22/%3E%0A%20%20%3Ctext%20x%3D%2284%22%20y%3D%2287%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2228%22%20fill%3D%22%23e5e7eb%22%3ENature%3C/text%3E%0A%0A%20%20%3Ctext%20x%3D%221010%22%20y%3D%22560%22%0A%20%20%20%20%20%20%20%20text-anchor%3D%22middle%22%0A%20%20%20%20%20%20%20%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%0A%20%20%20%20%20%20%20%20font-size%3D%22160%22%0A%20%20%20%20%20%20%20%20fill%3D%22%2360a5fa%22%0A%20%20%20%20%20%20%20%20opacity%3D%220.85%22%3E%0A%20%20%20%20%E2%80%A2%0A%20%20%3C/text%3E%0A%3C/svg%3E%0A",
+    "topic": "default",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
+    "title": "Fifty years since a simple equation described the chaos of biology",
+    "link": "https://www.nature.com/articles/d41586-026-01584-8",
+    "journal": "Nature",
+    "source_type": "journal",
+    "date": "2026-06-08",
+    "summary": "Nature, Published online: 08 June 2026; doi:10.1038/d41586-026-01584-8 An exploration of chaos theory in population dynamics showed that unpredictable systems can often be modelled using surprisingly simple mathematics.",
+    "abstract": "An exploration of chaos theory in population dynamics showed that unpredictable systems can often be modelled using surprisingly simple mathematics. An exploration of chaos theory in population dynamics showed that unpredictable systems can often be modelled using surprisingly simple mathematics.",
+    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-01584-8/d41586-026-01584-8_52523682.jpg",
     "topic": "default",
     "topic_color": "#60a5fa",
     "priority_score": 0
@@ -169,6 +208,71 @@
     "priority_score": 0
   },
   {
+    "title": "Repetition on the brain",
+    "link": "https://www.nature.com/articles/s41593-026-02335-8",
+    "journal": "Nature Neuroscience",
+    "source_type": "journal",
+    "date": "2026-06-08",
+    "summary": "Nature Neuroscience, Published online: 08 June 2026; doi:10.1038/s41593-026-02335-8 Repetition on the brain",
+    "abstract": "Nature Neuroscience, Published online: 08 June 2026; doi:10.1038/s41593-026-02335-8 Repetition on the brain",
+    "image": "data:image/svg+xml;charset=utf-8,%0A%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23111827%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23374151%22/%3E%0A%20%20%20%20%3C/linearGradient%3E%0A%20%20%20%20%3Cfilter%20id%3D%22blur%22%3E%0A%20%20%20%20%20%20%3CfeGaussianBlur%20stdDeviation%3D%2230%22/%3E%0A%20%20%20%20%3C/filter%3E%0A%20%20%3C/defs%3E%0A%0A%20%20%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22url%28%23bg%29%22/%3E%0A%0A%20%20%3Ccircle%20cx%3D%221030%22%20cy%3D%22110%22%20r%3D%22170%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.18%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%20%20%3Ccircle%20cx%3D%22180%22%20cy%3D%22560%22%20r%3D%22150%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.16%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%0A%20%20%3Crect%20x%3D%2256%22%20y%3D%2252%22%20rx%3D%2218%22%20ry%3D%2218%22%20width%3D%22260%22%20height%3D%2254%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.08%29%22/%3E%0A%20%20%3Ctext%20x%3D%2284%22%20y%3D%2287%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2228%22%20fill%3D%22%23e5e7eb%22%3ENature%20Neuroscience%3C/text%3E%0A%0A%20%20%3Ctext%20x%3D%221010%22%20y%3D%22560%22%0A%20%20%20%20%20%20%20%20text-anchor%3D%22middle%22%0A%20%20%20%20%20%20%20%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%0A%20%20%20%20%20%20%20%20font-size%3D%22160%22%0A%20%20%20%20%20%20%20%20fill%3D%22%2360a5fa%22%0A%20%20%20%20%20%20%20%20opacity%3D%220.85%22%3E%0A%20%20%20%20%E2%80%A2%0A%20%20%3C/text%3E%0A%3C/svg%3E%0A",
+    "topic": "neuroscience",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
+    "title": "Flexibility begins in the dendrites",
+    "link": "https://www.nature.com/articles/s41593-026-02336-7",
+    "journal": "Nature Neuroscience",
+    "source_type": "journal",
+    "date": "2026-06-08",
+    "summary": "Nature Neuroscience, Published online: 08 June 2026; doi:10.1038/s41593-026-02336-7 Flexibility begins in the dendrites",
+    "abstract": "Nature Neuroscience, Published online: 08 June 2026; doi:10.1038/s41593-026-02336-7 Flexibility begins in the dendrites",
+    "image": "data:image/svg+xml;charset=utf-8,%0A%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23111827%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23374151%22/%3E%0A%20%20%20%20%3C/linearGradient%3E%0A%20%20%20%20%3Cfilter%20id%3D%22blur%22%3E%0A%20%20%20%20%20%20%3CfeGaussianBlur%20stdDeviation%3D%2230%22/%3E%0A%20%20%20%20%3C/filter%3E%0A%20%20%3C/defs%3E%0A%0A%20%20%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22url%28%23bg%29%22/%3E%0A%0A%20%20%3Ccircle%20cx%3D%221030%22%20cy%3D%22110%22%20r%3D%22170%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.18%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%20%20%3Ccircle%20cx%3D%22180%22%20cy%3D%22560%22%20r%3D%22150%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.16%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%0A%20%20%3Crect%20x%3D%2256%22%20y%3D%2252%22%20rx%3D%2218%22%20ry%3D%2218%22%20width%3D%22260%22%20height%3D%2254%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.08%29%22/%3E%0A%20%20%3Ctext%20x%3D%2284%22%20y%3D%2287%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2228%22%20fill%3D%22%23e5e7eb%22%3ENature%20Neuroscience%3C/text%3E%0A%0A%20%20%3Ctext%20x%3D%221010%22%20y%3D%22560%22%0A%20%20%20%20%20%20%20%20text-anchor%3D%22middle%22%0A%20%20%20%20%20%20%20%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%0A%20%20%20%20%20%20%20%20font-size%3D%22160%22%0A%20%20%20%20%20%20%20%20fill%3D%22%2360a5fa%22%0A%20%20%20%20%20%20%20%20opacity%3D%220.85%22%3E%0A%20%20%20%20%E2%80%A2%0A%20%20%3C/text%3E%0A%3C/svg%3E%0A",
+    "topic": "neuroscience",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
+    "title": "The hippocampus is listening",
+    "link": "https://www.nature.com/articles/s41593-026-02334-9",
+    "journal": "Nature Neuroscience",
+    "source_type": "journal",
+    "date": "2026-06-08",
+    "summary": "Nature Neuroscience, Published online: 08 June 2026; doi:10.1038/s41593-026-02334-9 The hippocampus is listening",
+    "abstract": "Nature Neuroscience, Published online: 08 June 2026; doi:10.1038/s41593-026-02334-9 The hippocampus is listening",
+    "image": "data:image/svg+xml;charset=utf-8,%0A%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23111827%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23374151%22/%3E%0A%20%20%20%20%3C/linearGradient%3E%0A%20%20%20%20%3Cfilter%20id%3D%22blur%22%3E%0A%20%20%20%20%20%20%3CfeGaussianBlur%20stdDeviation%3D%2230%22/%3E%0A%20%20%20%20%3C/filter%3E%0A%20%20%3C/defs%3E%0A%0A%20%20%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22url%28%23bg%29%22/%3E%0A%0A%20%20%3Ccircle%20cx%3D%221030%22%20cy%3D%22110%22%20r%3D%22170%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.18%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%20%20%3Ccircle%20cx%3D%22180%22%20cy%3D%22560%22%20r%3D%22150%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.16%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%0A%20%20%3Crect%20x%3D%2256%22%20y%3D%2252%22%20rx%3D%2218%22%20ry%3D%2218%22%20width%3D%22260%22%20height%3D%2254%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.08%29%22/%3E%0A%20%20%3Ctext%20x%3D%2284%22%20y%3D%2287%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2228%22%20fill%3D%22%23e5e7eb%22%3ENature%20Neuroscience%3C/text%3E%0A%0A%20%20%3Ctext%20x%3D%221010%22%20y%3D%22560%22%0A%20%20%20%20%20%20%20%20text-anchor%3D%22middle%22%0A%20%20%20%20%20%20%20%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%0A%20%20%20%20%20%20%20%20font-size%3D%22160%22%0A%20%20%20%20%20%20%20%20fill%3D%22%2360a5fa%22%0A%20%20%20%20%20%20%20%20opacity%3D%220.85%22%3E%0A%20%20%20%20%E2%80%A2%0A%20%20%3C/text%3E%0A%3C/svg%3E%0A",
+    "topic": "neuroscience",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
+    "title": "Stereotyped positioning of olfactory receptors",
+    "link": "https://www.nature.com/articles/s41593-026-02337-6",
+    "journal": "Nature Neuroscience",
+    "source_type": "journal",
+    "date": "2026-06-08",
+    "summary": "Nature Neuroscience, Published online: 08 June 2026; doi:10.1038/s41593-026-02337-6 Stereotyped positioning of olfactory receptors",
+    "abstract": "Nature Neuroscience, Published online: 08 June 2026; doi:10.1038/s41593-026-02337-6 Stereotyped positioning of olfactory receptors",
+    "image": "data:image/svg+xml;charset=utf-8,%0A%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23111827%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23374151%22/%3E%0A%20%20%20%20%3C/linearGradient%3E%0A%20%20%20%20%3Cfilter%20id%3D%22blur%22%3E%0A%20%20%20%20%20%20%3CfeGaussianBlur%20stdDeviation%3D%2230%22/%3E%0A%20%20%20%20%3C/filter%3E%0A%20%20%3C/defs%3E%0A%0A%20%20%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22url%28%23bg%29%22/%3E%0A%0A%20%20%3Ccircle%20cx%3D%221030%22%20cy%3D%22110%22%20r%3D%22170%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.18%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%20%20%3Ccircle%20cx%3D%22180%22%20cy%3D%22560%22%20r%3D%22150%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.16%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%0A%20%20%3Crect%20x%3D%2256%22%20y%3D%2252%22%20rx%3D%2218%22%20ry%3D%2218%22%20width%3D%22260%22%20height%3D%2254%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.08%29%22/%3E%0A%20%20%3Ctext%20x%3D%2284%22%20y%3D%2287%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2228%22%20fill%3D%22%23e5e7eb%22%3ENature%20Neuroscience%3C/text%3E%0A%0A%20%20%3Ctext%20x%3D%221010%22%20y%3D%22560%22%0A%20%20%20%20%20%20%20%20text-anchor%3D%22middle%22%0A%20%20%20%20%20%20%20%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%0A%20%20%20%20%20%20%20%20font-size%3D%22160%22%0A%20%20%20%20%20%20%20%20fill%3D%22%2360a5fa%22%0A%20%20%20%20%20%20%20%20opacity%3D%220.85%22%3E%0A%20%20%20%20%E2%80%A2%0A%20%20%3C/text%3E%0A%3C/svg%3E%0A",
+    "topic": "neuroscience",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
+    "title": "A neural signature to predict attention shifting delays in children and adults",
+    "link": "https://www.nature.com/articles/s41593-026-02295-z",
+    "journal": "Nature Neuroscience",
+    "source_type": "journal",
+    "date": "2026-06-08",
+    "summary": "Nature Neuroscience, Published online: 08 June 2026; doi:10.1038/s41593-026-02295-z Moment-to-moment lapses in attention shifting impair behavior and learning. These lapses are common in individuals with neurodevelopmental disorders involving attention deficits. We identify a neural signature that predicts delayed performance on a set-shifting task and show that real-time closed-loop neuromodulation can prevent lapses and improve performance.",
+    "abstract": "Nature Neuroscience, Published online: 08 June 2026; doi:10.1038/s41593-026-02295-z Moment-to-moment lapses in attention shifting impair behavior and learning. These lapses are common in individuals with neurodevelopmental disorders involving attention deficits. We identify a neural signature that predicts delayed performance on a set-shifting task and show that real-time closed-loop neuromodulation can prevent lapses and improve performance.",
+    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41593-026-02295-z/MediaObjects/41593_2026_2295_Fig1_HTML.png",
+    "topic": "neuroscience",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
     "title": "Induction of cortical on/off periods in awake mice fulfills sleep functions",
     "link": "https://www.nature.com/articles/s41593-026-02318-9",
     "journal": "Nature Neuroscience",
@@ -203,6 +307,19 @@
     "summary": "Nature Medicine, Published online: 08 June 2026; doi:10.1038/s41591-026-04428-0 In the randomized, double-blind phase 3 ALTAIR trial, patients with resected colorectal cancer who became positive for circulating tumor DNA during post-adjuvant surveillance received trifluridine/tipiracil hydrochloride therapy, which did not significantly prolong disease-free survival compared with placebo.",
     "abstract": "Nature Medicine, Published online: 08 June 2026; doi:10.1038/s41591-026-04428-0 In the randomized, double-blind phase 3 ALTAIR trial, patients with resected colorectal cancer who became positive for circulating tumor DNA during post-adjuvant surveillance received trifluridine/tipiracil hydrochloride therapy, which did not significantly prolong disease-free survival compared with placebo.",
     "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41591-026-04428-0/MediaObjects/41591_2026_4428_Fig1_HTML.png",
+    "topic": "default",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
+    "title": "Apitegromab for lean mass preservation during tirzepatide-induced weight loss: a randomized, double-blind, placebo-controlled phase 2 trial",
+    "link": "https://www.nature.com/articles/s41591-026-04440-4",
+    "journal": "Nature Medicine",
+    "source_type": "journal",
+    "date": "2026-06-08",
+    "summary": "Nature Medicine, Published online: 08 June 2026; doi:10.1038/s41591-026-04440-4 In the phase 2 EMBRAZE study, participants receiving tirzepatide and apitegromab lost less lean mass compared to participants receiving tirzepatide and placebo.",
+    "abstract": "Loss of lean mass in proportion to total weight loss is observed with incretin mimetic therapies such as tirzepatide and has the potential to adversely affect health and function. Apitegromab is an investigational, fully human monoclonal antibody that selectively inhibits myostatin activation and is, thereby, capable of increasing muscle mass. In the randomized, double-blind, placebo-controlled phase 2 EMBRAZE study, adults with overweight or obesity (n = 102) were randomized 1:1 to receive tirzepatide plus apitegromab (10 mg kg−1) or tirzepatide plus placebo. At week 24, apitegromab resulted in a least square mean (80% confidence interval (CI)) of 1.9 (1.2−2.7) kg less lean mass loss than placebo (P = 0.001), despite similar total body weight loss between groups, representing a 54.9% retention of lean mass relative to placebo. In participants receiving apitegromab, trough concentrations of apitegromab and total latent myostatin, a pharmacodynamic marker, both increased over time and reached a plateau after approximately 16 weeks. Incidence of adverse events (AEs) (% (95% CI)) was generally similar across apitegromab-treated participants and placebo-treated participants, with 39 of 51 (76% (63−86%)) and 36 of 51 (71% (57−81%)) participants experiencing an AE, respectively. Serious adverse events (SAEs) were balanced and experienced by one of 51 (2% (0−10%)) participants in each arm. In summary, this proof-of-concept study demonstrated that selective targeting of myostatin by apitegromab was well tolerated and effective in preserving lean mass when combined with tirzepatide. ClinicalTrials.gov identifier: NCT06445075 . In the phase 2 EMBRAZE study, participants receiving tirzepatide and apitegromab lost less lean mass compared to participants receiving tirzepatide and placebo.",
+    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41591-026-04440-4/MediaObjects/41591_2026_4440_Fig1_HTML.png",
     "topic": "default",
     "topic_color": "#60a5fa",
     "priority_score": 0
@@ -247,6 +364,19 @@
     "priority_score": 0
   },
   {
+    "title": "Does a distant alien world harbor promising signs of life? Most astrobiologists say no",
+    "link": "https://www.science.org/content/article/does-distant-alien-world-harbor-promising-signs-life-most-astrobiologists-say-no",
+    "journal": "Science",
+    "source_type": "journal",
+    "date": "2026-06-05T12:00:00Z",
+    "summary": "Poll of nearly 500 scientists reveals how rapid surveys can take researchers’ pulse on controversial topics",
+    "abstract": "Poll of nearly 500 scientists reveals how rapid surveys can take researchers’ pulse on controversial topics",
+    "image": "data:image/svg+xml;charset=utf-8,%0A%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23111827%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23374151%22/%3E%0A%20%20%20%20%3C/linearGradient%3E%0A%20%20%20%20%3Cfilter%20id%3D%22blur%22%3E%0A%20%20%20%20%20%20%3CfeGaussianBlur%20stdDeviation%3D%2230%22/%3E%0A%20%20%20%20%3C/filter%3E%0A%20%20%3C/defs%3E%0A%0A%20%20%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22url%28%23bg%29%22/%3E%0A%0A%20%20%3Ccircle%20cx%3D%221030%22%20cy%3D%22110%22%20r%3D%22170%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.18%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%20%20%3Ccircle%20cx%3D%22180%22%20cy%3D%22560%22%20r%3D%22150%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.16%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%0A%20%20%3Crect%20x%3D%2256%22%20y%3D%2252%22%20rx%3D%2218%22%20ry%3D%2218%22%20width%3D%22260%22%20height%3D%2254%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.08%29%22/%3E%0A%20%20%3Ctext%20x%3D%2284%22%20y%3D%2287%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2228%22%20fill%3D%22%23e5e7eb%22%3EScience%3C/text%3E%0A%0A%20%20%3Ctext%20x%3D%221010%22%20y%3D%22560%22%0A%20%20%20%20%20%20%20%20text-anchor%3D%22middle%22%0A%20%20%20%20%20%20%20%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%0A%20%20%20%20%20%20%20%20font-size%3D%22160%22%0A%20%20%20%20%20%20%20%20fill%3D%22%2360a5fa%22%0A%20%20%20%20%20%20%20%20opacity%3D%220.85%22%3E%0A%20%20%20%20%E2%80%A2%0A%20%20%3C/text%3E%0A%3C/svg%3E%0A",
+    "topic": "default",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
     "title": "Satellite maps of sinking coastlines come under scrutiny",
     "link": "https://www.science.org/content/article/satellite-maps-sinking-coastlines-come-under-scrutiny",
     "journal": "Science",
@@ -273,19 +403,6 @@
     "priority_score": 0
   },
   {
-    "title": "Does a distant alien world harbor promising signs of life? Most astrobiologists say no",
-    "link": "https://www.science.org/content/article/does-distant-alien-world-harbor-promising-signs-life-most-astrobiologists-say-no",
-    "journal": "Science",
-    "source_type": "journal",
-    "date": "2026-06-05T05:00:00Z",
-    "summary": "Poll of nearly 500 scientists reveals how rapid surveys can take researchers’ pulse on controversial topics",
-    "abstract": "Poll of nearly 500 scientists reveals how rapid surveys can take researchers’ pulse on controversial topics",
-    "image": "data:image/svg+xml;charset=utf-8,%0A%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23111827%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23374151%22/%3E%0A%20%20%20%20%3C/linearGradient%3E%0A%20%20%20%20%3Cfilter%20id%3D%22blur%22%3E%0A%20%20%20%20%20%20%3CfeGaussianBlur%20stdDeviation%3D%2230%22/%3E%0A%20%20%20%20%3C/filter%3E%0A%20%20%3C/defs%3E%0A%0A%20%20%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22url%28%23bg%29%22/%3E%0A%0A%20%20%3Ccircle%20cx%3D%221030%22%20cy%3D%22110%22%20r%3D%22170%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.18%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%20%20%3Ccircle%20cx%3D%22180%22%20cy%3D%22560%22%20r%3D%22150%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.16%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%0A%20%20%3Crect%20x%3D%2256%22%20y%3D%2252%22%20rx%3D%2218%22%20ry%3D%2218%22%20width%3D%22260%22%20height%3D%2254%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.08%29%22/%3E%0A%20%20%3Ctext%20x%3D%2284%22%20y%3D%2287%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2228%22%20fill%3D%22%23e5e7eb%22%3EScience%3C/text%3E%0A%0A%20%20%3Ctext%20x%3D%221010%22%20y%3D%22560%22%0A%20%20%20%20%20%20%20%20text-anchor%3D%22middle%22%0A%20%20%20%20%20%20%20%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%0A%20%20%20%20%20%20%20%20font-size%3D%22160%22%0A%20%20%20%20%20%20%20%20fill%3D%22%2360a5fa%22%0A%20%20%20%20%20%20%20%20opacity%3D%220.85%22%3E%0A%20%20%20%20%E2%80%A2%0A%20%20%3C/text%3E%0A%3C/svg%3E%0A",
-    "topic": "default",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
     "title": "Briefing chat: Spinosaurs with salt glands could have lived in marine environments",
     "link": "https://www.nature.com/articles/d41586-026-01831-y",
     "journal": "Nature",
@@ -299,53 +416,14 @@
     "priority_score": 0
   },
   {
-    "title": "First precise genome editing of human embryos triggers praise and alarm",
+    "title": "Precise genome editing of human embryos triggers praise and alarm",
     "link": "https://www.nature.com/articles/d41586-026-01827-8",
     "journal": "Nature",
     "source_type": "journal",
     "date": "2026-06-05",
-    "summary": "Nature, Published online: 05 June 2026; doi:10.1038/d41586-026-01827-8 The ‘base editing’ technique that researchers used is far from ready for the clinic, but critics worry it will spur a rush to commercialization.",
-    "abstract": "The ‘base editing’ technique that researchers used is far from ready for the clinic, but critics worry it will spur a rush to commercialization. The ‘base editing’ technique that researchers used is far from ready for the clinic, but critics worry it will spur a rush to commercialization.",
+    "summary": "Nature, Published online: 05 June 2026; doi:10.1038/d41586-026-01827-8 The ‘base editing’ technique that researchers used is far from ready for the clinic, but critics worry that it will spur a rush to commercialize the approach.",
+    "abstract": "The ‘base editing’ technique that researchers used is far from ready for the clinic, but critics worry that it will spur a rush to commercialize the approach. The ‘base editing’ technique that researchers used is far from ready for the clinic, but critics worry that it will spur a rush to commercialize the approach.",
     "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-01827-8/d41586-026-01827-8_52515634.jpg",
-    "topic": "default",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
-    "title": "Europe is ditching US tech — what does this mean for researchers?",
-    "link": "https://www.nature.com/articles/d41586-026-01610-9",
-    "journal": "Nature",
-    "source_type": "journal",
-    "date": "2026-06-05",
-    "summary": "Nature, Published online: 05 June 2026; doi:10.1038/d41586-026-01610-9 European governments are choosing European digital tools — and some universities and researchers are doing the same.",
-    "abstract": "Nature, Published online: 05 June 2026; doi:10.1038/d41586-026-01610-9 European governments are choosing European digital tools — and some universities and researchers are doing the same.",
-    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-01610-9/d41586-026-01610-9_52511024.jpg",
-    "topic": "default",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
-    "title": "Daily briefing: A spectacular flowery frame for the Milky Way",
-    "link": "https://www.nature.com/articles/d41586-026-01837-6",
-    "journal": "Nature",
-    "source_type": "journal",
-    "date": "2026-06-05",
-    "summary": "Nature, Published online: 05 June 2026; doi:10.1038/d41586-026-01837-6 Enjoy the month’s best science images. Plus, a smartphone’s selfie camera can monitor your heart rate and whether AI will drag astrophysics down to Earth.",
-    "abstract": "Enjoy the month’s best science images. Plus, a smartphone’s selfie camera can monitor your heart rate and whether AI will drag astrophysics down to Earth. Enjoy the month’s best science images. Plus, a smartphone’s selfie camera can monitor your heart rate and whether AI will drag astrophysics down to Earth.",
-    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-01837-6/d41586-026-01837-6_52522012.png",
-    "topic": "default",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
-    "title": "Electric vehicles cut pollution in China – and prevent 260,000 premature deaths",
-    "link": "https://www.nature.com/articles/d41586-026-01781-5",
-    "journal": "Nature",
-    "source_type": "journal",
-    "date": "2026-06-05",
-    "summary": "Nature, Published online: 05 June 2026; doi:10.1038/d41586-026-01781-5 Having fewer fossil-fuel powered cars on the road is reducing some pollutants, but not others.",
-    "abstract": "Nature, Published online: 05 June 2026; doi:10.1038/d41586-026-01781-5 Having fewer fossil-fuel powered cars on the road is reducing some pollutants, but not others.",
-    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-01781-5/d41586-026-01781-5_52506484.jpg",
     "topic": "default",
     "topic_color": "#60a5fa",
     "priority_score": 0
@@ -468,45 +546,6 @@
     "priority_score": 0
   },
   {
-    "title": "AAV gene therapy for homozygous familial hypercholesterolemia: a phase 1 trial",
-    "link": "https://www.nature.com/articles/s41591-026-04441-3",
-    "journal": "Nature Medicine",
-    "source_type": "journal",
-    "date": "2026-06-04",
-    "summary": "Nature Medicine, Published online: 04 June 2026; doi:10.1038/s41591-026-04441-3 After preclinical testing, a phase 1 trial involving three individuals with familial hypercholesterolemia demonstrated preliminary evidence for the safety and efficacy of AAV8-mediated LDL receptor gene therapy.",
-    "abstract": "Nature Medicine, Published online: 04 June 2026; doi:10.1038/s41591-026-04441-3 After preclinical testing, a phase 1 trial involving three individuals with familial hypercholesterolemia demonstrated preliminary evidence for the safety and efficacy of AAV8-mediated LDL receptor gene therapy.",
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41591-026-04441-3/MediaObjects/41591_2026_4441_Fig1_HTML.png",
-    "topic": "default",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
-    "title": "The representational geometry of emotional states in basolateral amygdala",
-    "link": "https://www.nature.com/articles/s41593-026-02315-y",
-    "journal": "Nature Neuroscience",
-    "source_type": "journal",
-    "date": "2026-06-03",
-    "summary": "Nature Neuroscience, Published online: 03 June 2026; doi:10.1038/s41593-026-02315-y O’Neill, Posani and colleagues show that while single amygdala neurons encode multiple emotional state-related variables (for example, valence, fear and safety), population-level geometry can enable one variable to be read out cleanly without interference.",
-    "abstract": "Nature Neuroscience, Published online: 03 June 2026; doi:10.1038/s41593-026-02315-y O’Neill, Posani and colleagues show that while single amygdala neurons encode multiple emotional state-related variables (for example, valence, fear and safety), population-level geometry can enable one variable to be read out cleanly without interference.",
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41593-026-02315-y/MediaObjects/41593_2026_2315_Fig1_HTML.png",
-    "topic": "neuroscience",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
-    "title": "A brainstem pathway underlying vagal modulation of somatic pain and affective states",
-    "link": "https://www.nature.com/articles/s41593-026-02313-0",
-    "journal": "Nature Neuroscience",
-    "source_type": "journal",
-    "date": "2026-06-03",
-    "summary": "Nature Neuroscience, Published online: 03 June 2026; doi:10.1038/s41593-026-02313-0 This study identifies a brainstem pathway through which vagus nerve stimulation reduces pain and negative affect, showing how the caudal nucleus of the solitary tract transforms pain signals and regulates pain-related dopamine responses.",
-    "abstract": "Nature Neuroscience, Published online: 03 June 2026; doi:10.1038/s41593-026-02313-0 This study identifies a brainstem pathway through which vagus nerve stimulation reduces pain and negative affect, showing how the caudal nucleus of the solitary tract transforms pain signals and regulates pain-related dopamine responses.",
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41593-026-02313-0/MediaObjects/41593_2026_2313_Fig1_HTML.png",
-    "topic": "neuroscience",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
     "title": "In This Issue",
     "link": "https://www.pnas.org/doi/abs/10.1073/iti2226123?af=R",
     "journal": "PNAS",
@@ -516,19 +555,6 @@
     "abstract": "Proceedings of the National Academy of Sciences, Volume 123, Issue 22, June 2026.",
     "image": "data:image/svg+xml;charset=utf-8,%0A%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23111827%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23374151%22/%3E%0A%20%20%20%20%3C/linearGradient%3E%0A%20%20%20%20%3Cfilter%20id%3D%22blur%22%3E%0A%20%20%20%20%20%20%3CfeGaussianBlur%20stdDeviation%3D%2230%22/%3E%0A%20%20%20%20%3C/filter%3E%0A%20%20%3C/defs%3E%0A%0A%20%20%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22url%28%23bg%29%22/%3E%0A%0A%20%20%3Ccircle%20cx%3D%221030%22%20cy%3D%22110%22%20r%3D%22170%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.18%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%20%20%3Ccircle%20cx%3D%22180%22%20cy%3D%22560%22%20r%3D%22150%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.16%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%0A%20%20%3Crect%20x%3D%2256%22%20y%3D%2252%22%20rx%3D%2218%22%20ry%3D%2218%22%20width%3D%22260%22%20height%3D%2254%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.08%29%22/%3E%0A%20%20%3Ctext%20x%3D%2284%22%20y%3D%2287%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2228%22%20fill%3D%22%23e5e7eb%22%3EPNAS%3C/text%3E%0A%0A%20%20%3Ctext%20x%3D%221010%22%20y%3D%22560%22%0A%20%20%20%20%20%20%20%20text-anchor%3D%22middle%22%0A%20%20%20%20%20%20%20%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%0A%20%20%20%20%20%20%20%20font-size%3D%22160%22%0A%20%20%20%20%20%20%20%20fill%3D%22%2360a5fa%22%0A%20%20%20%20%20%20%20%20opacity%3D%220.85%22%3E%0A%20%20%20%20%E2%80%A2%0A%20%20%3C/text%3E%0A%3C/svg%3E%0A",
     "topic": "default",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
-    "title": "Microbial reactivation of host androgens directs enteric neuronal regulation of gut motility",
-    "link": "https://www.nature.com/articles/s41593-026-02321-0",
-    "journal": "Nature Neuroscience",
-    "source_type": "journal",
-    "date": "2026-06-02",
-    "summary": "Nature Neuroscience, Published online: 02 June 2026; doi:10.1038/s41593-026-02321-0 This study shows that androgens signal to specific enteric neurons to stimulate gut motility. Bacterial metabolism of host-derived steroids generates the ligands, revealing a dynamic host–microbe interaction that influences nervous system function.",
-    "abstract": "Nature Neuroscience, Published online: 02 June 2026; doi:10.1038/s41593-026-02321-0 This study shows that androgens signal to specific enteric neurons to stimulate gut motility. Bacterial metabolism of host-derived steroids generates the ligands, revealing a dynamic host–microbe interaction that influences nervous system function.",
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41593-026-02321-0/MediaObjects/41593_2026_2321_Fig1_HTML.png",
-    "topic": "neuroscience",
     "topic_color": "#60a5fa",
     "priority_score": 0
   },
@@ -585,19 +611,6 @@
     "priority_score": 0
   },
   {
-    "title": "<span>T</span>owards a holistic understanding of pain in the biomarker age",
-    "link": "https://www.nature.com/articles/s41593-026-02323-y",
-    "journal": "Nature Neuroscience",
-    "source_type": "journal",
-    "date": "2026-06-01",
-    "summary": "Nature Neuroscience, Published online: 01 June 2026; doi:10.1038/s41593-026-02323-y Pain biomarkers cannot prove or disprove another person’s pain, but they need not be rejected as futile or reductionist. When developed within a bio-psycho-social framework and guided by epistemic humility and ethical safeguards, they can complement and enrich the voices of those living with pain rather than replace them.",
-    "abstract": "Nature Neuroscience, Published online: 01 June 2026; doi:10.1038/s41593-026-02323-y Pain biomarkers cannot prove or disprove another person’s pain, but they need not be rejected as futile or reductionist. When developed within a bio-psycho-social framework and guided by epistemic humility and ethical safeguards, they can complement and enrich the voices of those living with pain rather than replace them.",
-    "image": "data:image/svg+xml;charset=utf-8,%0A%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23111827%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23374151%22/%3E%0A%20%20%20%20%3C/linearGradient%3E%0A%20%20%20%20%3Cfilter%20id%3D%22blur%22%3E%0A%20%20%20%20%20%20%3CfeGaussianBlur%20stdDeviation%3D%2230%22/%3E%0A%20%20%20%20%3C/filter%3E%0A%20%20%3C/defs%3E%0A%0A%20%20%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22url%28%23bg%29%22/%3E%0A%0A%20%20%3Ccircle%20cx%3D%221030%22%20cy%3D%22110%22%20r%3D%22170%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.18%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%20%20%3Ccircle%20cx%3D%22180%22%20cy%3D%22560%22%20r%3D%22150%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.16%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%0A%20%20%3Crect%20x%3D%2256%22%20y%3D%2252%22%20rx%3D%2218%22%20ry%3D%2218%22%20width%3D%22260%22%20height%3D%2254%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.08%29%22/%3E%0A%20%20%3Ctext%20x%3D%2284%22%20y%3D%2287%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2228%22%20fill%3D%22%23e5e7eb%22%3ENature%20Neuroscience%3C/text%3E%0A%0A%20%20%3Ctext%20x%3D%221010%22%20y%3D%22560%22%0A%20%20%20%20%20%20%20%20text-anchor%3D%22middle%22%0A%20%20%20%20%20%20%20%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%0A%20%20%20%20%20%20%20%20font-size%3D%22160%22%0A%20%20%20%20%20%20%20%20fill%3D%22%2360a5fa%22%0A%20%20%20%20%20%20%20%20opacity%3D%220.85%22%3E%0A%20%20%20%20%E2%80%A2%0A%20%20%3C/text%3E%0A%3C/svg%3E%0A",
-    "topic": "neuroscience",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
     "title": "Editorial Expression of Concern: DOCK8 functions as an adaptor that links TLR-MyD88 signaling to B cell activation",
     "link": "https://www.nature.com/articles/s41590-026-02572-w",
     "journal": "Nature Immunology",
@@ -606,19 +619,6 @@
     "summary": "Nature Immunology, Published online: 01 June 2026; doi:10.1038/s41590-026-02572-w Editorial Expression of Concern: DOCK8 functions as an adaptor that links TLR-MyD88 signaling to B cell activation",
     "abstract": "Nature Immunology, Published online: 01 June 2026; doi:10.1038/s41590-026-02572-w Editorial Expression of Concern: DOCK8 functions as an adaptor that links TLR-MyD88 signaling to B cell activation",
     "image": "data:image/svg+xml;charset=utf-8,%0A%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23111827%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23374151%22/%3E%0A%20%20%20%20%3C/linearGradient%3E%0A%20%20%20%20%3Cfilter%20id%3D%22blur%22%3E%0A%20%20%20%20%20%20%3CfeGaussianBlur%20stdDeviation%3D%2230%22/%3E%0A%20%20%20%20%3C/filter%3E%0A%20%20%3C/defs%3E%0A%0A%20%20%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22url%28%23bg%29%22/%3E%0A%0A%20%20%3Ccircle%20cx%3D%221030%22%20cy%3D%22110%22%20r%3D%22170%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.18%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%20%20%3Ccircle%20cx%3D%22180%22%20cy%3D%22560%22%20r%3D%22150%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.16%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%0A%20%20%3Crect%20x%3D%2256%22%20y%3D%2252%22%20rx%3D%2218%22%20ry%3D%2218%22%20width%3D%22260%22%20height%3D%2254%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.08%29%22/%3E%0A%20%20%3Ctext%20x%3D%2284%22%20y%3D%2287%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2228%22%20fill%3D%22%23e5e7eb%22%3ENature%20Immunology%3C/text%3E%0A%0A%20%20%3Ctext%20x%3D%221010%22%20y%3D%22560%22%0A%20%20%20%20%20%20%20%20text-anchor%3D%22middle%22%0A%20%20%20%20%20%20%20%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%0A%20%20%20%20%20%20%20%20font-size%3D%22160%22%0A%20%20%20%20%20%20%20%20fill%3D%22%2360a5fa%22%0A%20%20%20%20%20%20%20%20opacity%3D%220.85%22%3E%0A%20%20%20%20%E2%80%A2%0A%20%20%3C/text%3E%0A%3C/svg%3E%0A",
-    "topic": "immunology",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
-    "title": "Regulatory factor X 7 limits Myc activity during B cell activation and suppresses Myc-dependent lymphomagenesis",
-    "link": "https://www.nature.com/articles/s41590-026-02526-2",
-    "journal": "Nature Immunology",
-    "source_type": "journal",
-    "date": "2026-06-01",
-    "summary": "Nature Immunology, Published online: 01 June 2026; doi:10.1038/s41590-026-02526-2 Guarda and colleagues investigate the role of the transcription factor RFX7 in B cell activation and lymphomagenesis. The findings indicate that Rfx7 regulates germinal center B cell, plasmablast generation and malignant transformation by restricting Myc activity.",
-    "abstract": "Nature Immunology, Published online: 01 June 2026; doi:10.1038/s41590-026-02526-2 Guarda and colleagues investigate the role of the transcription factor RFX7 in B cell activation and lymphomagenesis. The findings indicate that Rfx7 regulates germinal center B cell, plasmablast generation and malignant transformation by restricting Myc activity.",
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41590-026-02526-2/MediaObjects/41590_2026_2526_Fig1_HTML.png",
     "topic": "immunology",
     "topic_color": "#60a5fa",
     "priority_score": 0
