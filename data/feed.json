@@ -1,18 +1,5 @@
 [
   {
-    "title": "Human microglial transitions at the Aβ–tau inflection point associate with divergent pathways to dementia and resilience",
-    "link": "https://www.nature.com/articles/s41591-026-04393-8",
-    "journal": "Nature Medicine",
-    "source_type": "journal",
-    "date": "2026-06-04",
-    "summary": "Nature Medicine, Published online: 04 June 2026; doi:10.1038/s41591-026-04393-8 Microglia cellular changes underlie divergent resilience-associated mechanisms in human aging.",
-    "abstract": "Alzheimer’s disease (AD) is not an inevitable outcome of pathology but a dynamic process shaped by how brain cells respond to amyloid-β (Aβ) and tau. To disentangle these responses, we combined spatial transcriptomics and single-nucleus RNA sequencing of the superior frontal cortex from octogenarians living with or without dementia and from cognitively intact centenarians with comparable Aβ accumulation. We identified six distinct tissue domains representing a spatial pathological continuum of AD, with a key inflection point marked by a shift from Aβ-associated inflammatory changes to tau-associated cellular programs. This transition was accompanied by a change in microglial states, from early inflammatory to late antigen-presenting phenotypes, termed early and late plaque-induced gene (PIG) programs. Resilient individuals showed distinct pathological patterns: octogenarians without dementia lacked late PIGs, whereas centenarians showed late PIG activation that was uncoupled from tau accumulation. Together, these findings highlight divergent resilience-associated mechanisms in human aging and position microglial state transitions at the Aβ−tau interface as candidate points of resilience with potential therapeutic relevance. Microglia cellular changes underlie divergent resilience-associated mechanisms in human aging.",
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41591-026-04393-8/MediaObjects/41591_2026_4393_Fig1_HTML.png",
-    "topic": "microglia",
-    "topic_color": "#38bdf8",
-    "priority_score": 194
-  },
-  {
     "title": "Fed T cells",
     "link": "https://www.nature.com/articles/s41590-026-02552-0",
     "journal": "Nature Immunology",
@@ -78,6 +65,19 @@
     "priority_score": 52
   },
   {
+    "title": "The embryonic origins of site-specific arthritis",
+    "link": "https://www.nature.com/articles/s41590-026-02542-2",
+    "journal": "Nature Immunology",
+    "source_type": "journal",
+    "date": "2026-06-08",
+    "summary": "Nature Immunology, Published online: 08 June 2026; doi:10.1038/s41590-026-02542-2 Davidson et al. map the cellular and structural composition of developing joints and identify fibroblast populations that may predispose joints to inflammatory arthritis.",
+    "abstract": "Nature Immunology, Published online: 08 June 2026; doi:10.1038/s41590-026-02542-2 Davidson et al. map the cellular and structural composition of developing joints and identify fibroblast populations that may predispose joints to inflammatory arthritis.",
+    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41590-026-02542-2/MediaObjects/41590_2026_2542_Fig1_HTML.png",
+    "topic": "inflammation",
+    "topic_color": "#fb7185",
+    "priority_score": 29
+  },
+  {
     "title": "Taming the inflamed heart",
     "link": "https://www.nature.com/articles/d41591-026-00030-6",
     "journal": "Nature Medicine",
@@ -89,6 +89,71 @@
     "topic": "inflammation",
     "topic_color": "#fb7185",
     "priority_score": 29
+  },
+  {
+    "title": "Sustainability or dystopia? What past patterns tell us about where society is heading",
+    "link": "https://www.nature.com/articles/d41586-026-01821-0",
+    "journal": "Nature",
+    "source_type": "journal",
+    "date": "2026-06-08",
+    "summary": "Nature, Published online: 08 June 2026; doi:10.1038/d41586-026-01821-0 A new book applies principles of environmental tipping points to past societal transformations — and attempts to draw lessons about what the future holds today.",
+    "abstract": "A new book applies principles of environmental tipping points to past societal transformations — and attempts to draw lessons about what the future holds today. A new book applies principles of environmental tipping points to past societal transformations — and attempts to draw lessons about what the future holds today.",
+    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-01821-0/d41586-026-01821-0_52505914.jpg",
+    "topic": "default",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
+    "title": "Induction of cortical on/off periods in awake mice fulfills sleep functions",
+    "link": "https://www.nature.com/articles/s41593-026-02318-9",
+    "journal": "Nature Neuroscience",
+    "source_type": "journal",
+    "date": "2026-06-08",
+    "summary": "Nature Neuroscience, Published online: 08 June 2026; doi:10.1038/s41593-026-02318-9 Driessen et al. show that core benefits of sleep—reduced local sleep pressure, renormalized synaptic strength and memory consolidation—can be reproduced in awake, behaving mice by inducing sleep-like on/off activity patterns in cortex.",
+    "abstract": "Nature Neuroscience, Published online: 08 June 2026; doi:10.1038/s41593-026-02318-9 Driessen et al. show that core benefits of sleep—reduced local sleep pressure, renormalized synaptic strength and memory consolidation—can be reproduced in awake, behaving mice by inducing sleep-like on/off activity patterns in cortex.",
+    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41593-026-02318-9/MediaObjects/41593_2026_2318_Fig1_HTML.png",
+    "topic": "neuroscience",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
+    "title": "Effects of SGLT2 inhibition on incident heart failure in carriers of cardiomyopathy-associated genetic variants",
+    "link": "https://www.nature.com/articles/s41591-026-04439-x",
+    "journal": "Nature Medicine",
+    "source_type": "journal",
+    "date": "2026-06-08",
+    "summary": "Nature Medicine, Published online: 08 June 2026; doi:10.1038/s41591-026-04439-x In a whole-exome sequencing analysis, the beneficial effects of the SGLT2 inhibitor dapagliflozin in reducing the risk of future heart failure hospitalization in individuals with type 2 diabetes were markedly greater in individuals who carried a cardiomyopathy-associated genetic variant compared with noncarriers, suggesting a personalized preventative therapy based on genetic information.",
+    "abstract": "Nature Medicine, Published online: 08 June 2026; doi:10.1038/s41591-026-04439-x In a whole-exome sequencing analysis, the beneficial effects of the SGLT2 inhibitor dapagliflozin in reducing the risk of future heart failure hospitalization in individuals with type 2 diabetes were markedly greater in individuals who carried a cardiomyopathy-associated genetic variant compared with noncarriers, suggesting a personalized preventative therapy based on genetic information.",
+    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41591-026-04439-x/MediaObjects/41591_2026_4439_Fig1_HTML.png",
+    "topic": "default",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
+    "title": "Post-adjuvant chemotherapy in ctDNA-positive patients with resected colorectal cancer: a randomized phase 3 trial",
+    "link": "https://www.nature.com/articles/s41591-026-04428-0",
+    "journal": "Nature Medicine",
+    "source_type": "journal",
+    "date": "2026-06-08",
+    "summary": "Nature Medicine, Published online: 08 June 2026; doi:10.1038/s41591-026-04428-0 In the randomized, double-blind phase 3 ALTAIR trial, patients with resected colorectal cancer who became positive for circulating tumor DNA during post-adjuvant surveillance received trifluridine/tipiracil hydrochloride therapy, which did not significantly prolong disease-free survival compared with placebo.",
+    "abstract": "Nature Medicine, Published online: 08 June 2026; doi:10.1038/s41591-026-04428-0 In the randomized, double-blind phase 3 ALTAIR trial, patients with resected colorectal cancer who became positive for circulating tumor DNA during post-adjuvant surveillance received trifluridine/tipiracil hydrochloride therapy, which did not significantly prolong disease-free survival compared with placebo.",
+    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41591-026-04428-0/MediaObjects/41591_2026_4428_Fig1_HTML.png",
+    "topic": "default",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
+    "title": "Electronic cigarette use after smoking cessation and lung cancer risk",
+    "link": "https://www.nature.com/articles/s41591-026-04469-5",
+    "journal": "Nature Medicine",
+    "source_type": "journal",
+    "date": "2026-06-08",
+    "summary": "Nature Medicine, Published online: 08 June 2026; doi:10.1038/s41591-026-04469-5 A nationwide retrospective analysis of 4.5 million Korean adults found that electronic cigarette use after smoking cessation was associated with higher lung cancer incidence and mortality compared with complete smoking cessation.",
+    "abstract": "Nature Medicine, Published online: 08 June 2026; doi:10.1038/s41591-026-04469-5 A nationwide retrospective analysis of 4.5 million Korean adults found that electronic cigarette use after smoking cessation was associated with higher lung cancer incidence and mortality compared with complete smoking cessation.",
+    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41591-026-04469-5/MediaObjects/41591_2026_4469_Fig1_HTML.png",
+    "topic": "default",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
   },
   {
     "title": "Survodutide in adults with obesity and metabolic dysfunction-associated steatotic liver disease: SYNCHRONIZE-MASLD, a randomized, double-blind, placebo-controlled phase 3 trial",
@@ -429,32 +494,6 @@
     "priority_score": 0
   },
   {
-    "title": "Spinal cord stimulation for upper limb motor function in people with chronic post-stroke hemiparesis: a feasibility trial",
-    "link": "https://www.nature.com/articles/s41591-026-04435-1",
-    "journal": "Nature Medicine",
-    "source_type": "journal",
-    "date": "2026-06-04",
-    "summary": "Nature Medicine, Published online: 04 June 2026; doi:10.1038/s41591-026-04435-1 In this feasibility clinical trial, the authors show that epidural stimulation of the cervical spinal cord safely improved strength, function and spasticity in seven people with arm hemiparesis.",
-    "abstract": "Nature Medicine, Published online: 04 June 2026; doi:10.1038/s41591-026-04435-1 In this feasibility clinical trial, the authors show that epidural stimulation of the cervical spinal cord safely improved strength, function and spasticity in seven people with arm hemiparesis.",
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41591-026-04435-1/MediaObjects/41591_2026_4435_Fig1_HTML.png",
-    "topic": "default",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
-    "title": "Editorial Expression of Concern: Functional proteomic identification of DNA replication proteins by induced proteolysis <i>in vivo</i>",
-    "link": "https://www.nature.com/articles/s41586-026-10727-w",
-    "journal": "Nature",
-    "source_type": "journal",
-    "date": "2026-06-03",
-    "summary": "Nature, Published online: 03 June 2026; doi:10.1038/s41586-026-10727-w Editorial Expression of Concern: Functional proteomic identification of DNA replication proteins by induced proteolysis in vivo",
-    "abstract": "Nature, Published online: 03 June 2026; doi:10.1038/s41586-026-10727-w Editorial Expression of Concern: Functional proteomic identification of DNA replication proteins by induced proteolysis in vivo",
-    "image": "data:image/svg+xml;charset=utf-8,%0A%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23111827%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23374151%22/%3E%0A%20%20%20%20%3C/linearGradient%3E%0A%20%20%20%20%3Cfilter%20id%3D%22blur%22%3E%0A%20%20%20%20%20%20%3CfeGaussianBlur%20stdDeviation%3D%2230%22/%3E%0A%20%20%20%20%3C/filter%3E%0A%20%20%3C/defs%3E%0A%0A%20%20%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22url%28%23bg%29%22/%3E%0A%0A%20%20%3Ccircle%20cx%3D%221030%22%20cy%3D%22110%22%20r%3D%22170%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.18%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%20%20%3Ccircle%20cx%3D%22180%22%20cy%3D%22560%22%20r%3D%22150%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.16%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%0A%20%20%3Crect%20x%3D%2256%22%20y%3D%2252%22%20rx%3D%2218%22%20ry%3D%2218%22%20width%3D%22260%22%20height%3D%2254%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.08%29%22/%3E%0A%20%20%3Ctext%20x%3D%2284%22%20y%3D%2287%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2228%22%20fill%3D%22%23e5e7eb%22%3ENature%3C/text%3E%0A%0A%20%20%3Ctext%20x%3D%221010%22%20y%3D%22560%22%0A%20%20%20%20%20%20%20%20text-anchor%3D%22middle%22%0A%20%20%20%20%20%20%20%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%0A%20%20%20%20%20%20%20%20font-size%3D%22160%22%0A%20%20%20%20%20%20%20%20fill%3D%22%2360a5fa%22%0A%20%20%20%20%20%20%20%20opacity%3D%220.85%22%3E%0A%20%20%20%20%E2%80%A2%0A%20%20%3C/text%3E%0A%3C/svg%3E%0A",
-    "topic": "default",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
     "title": "The representational geometry of emotional states in basolateral amygdala",
     "link": "https://www.nature.com/articles/s41593-026-02315-y",
     "journal": "Nature Neuroscience",
@@ -477,19 +516,6 @@
     "abstract": "Nature Neuroscience, Published online: 03 June 2026; doi:10.1038/s41593-026-02313-0 This study identifies a brainstem pathway through which vagus nerve stimulation reduces pain and negative affect, showing how the caudal nucleus of the solitary tract transforms pain signals and regulates pain-related dopamine responses.",
     "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41593-026-02313-0/MediaObjects/41593_2026_2313_Fig1_HTML.png",
     "topic": "neuroscience",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
-    "title": "Reply to: Limited evidence of AI superiority in seasonal influenza vaccine strain selection",
-    "link": "https://www.nature.com/articles/s41591-026-04460-0",
-    "journal": "Nature Medicine",
-    "source_type": "journal",
-    "date": "2026-06-03",
-    "summary": "Nature Medicine, Published online: 03 June 2026; doi:10.1038/s41591-026-04460-0 Reply to: Limited evidence of AI superiority in seasonal influenza vaccine strain selection",
-    "abstract": "Nature Medicine, Published online: 03 June 2026; doi:10.1038/s41591-026-04460-0 Reply to: Limited evidence of AI superiority in seasonal influenza vaccine strain selection",
-    "image": "data:image/svg+xml;charset=utf-8,%0A%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23111827%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23374151%22/%3E%0A%20%20%20%20%3C/linearGradient%3E%0A%20%20%20%20%3Cfilter%20id%3D%22blur%22%3E%0A%20%20%20%20%20%20%3CfeGaussianBlur%20stdDeviation%3D%2230%22/%3E%0A%20%20%20%20%3C/filter%3E%0A%20%20%3C/defs%3E%0A%0A%20%20%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22url%28%23bg%29%22/%3E%0A%0A%20%20%3Ccircle%20cx%3D%221030%22%20cy%3D%22110%22%20r%3D%22170%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.18%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%20%20%3Ccircle%20cx%3D%22180%22%20cy%3D%22560%22%20r%3D%22150%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.16%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%0A%20%20%3Crect%20x%3D%2256%22%20y%3D%2252%22%20rx%3D%2218%22%20ry%3D%2218%22%20width%3D%22260%22%20height%3D%2254%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.08%29%22/%3E%0A%20%20%3Ctext%20x%3D%2284%22%20y%3D%2287%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2228%22%20fill%3D%22%23e5e7eb%22%3ENature%20Medicine%3C/text%3E%0A%0A%20%20%3Ctext%20x%3D%221010%22%20y%3D%22560%22%0A%20%20%20%20%20%20%20%20text-anchor%3D%22middle%22%0A%20%20%20%20%20%20%20%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%0A%20%20%20%20%20%20%20%20font-size%3D%22160%22%0A%20%20%20%20%20%20%20%20fill%3D%22%2360a5fa%22%0A%20%20%20%20%20%20%20%20opacity%3D%220.85%22%3E%0A%20%20%20%20%E2%80%A2%0A%20%20%3C/text%3E%0A%3C/svg%3E%0A",
-    "topic": "default",
     "topic_color": "#60a5fa",
     "priority_score": 0
   },
@@ -585,19 +611,6 @@
     "priority_score": 0
   },
   {
-    "title": "Why pain biomarkers cannot replace the patient experience",
-    "link": "https://www.nature.com/articles/s41593-026-02324-x",
-    "journal": "Nature Neuroscience",
-    "source_type": "journal",
-    "date": "2026-06-01",
-    "summary": "Nature Neuroscience, Published online: 01 June 2026; doi:10.1038/s41593-026-02324-x Using neuroimaging to understand the mechanisms of pain is an important task. But we must understand that the gold standard of measuring pain will always be the self-report.",
-    "abstract": "Nature Neuroscience, Published online: 01 June 2026; doi:10.1038/s41593-026-02324-x Using neuroimaging to understand the mechanisms of pain is an important task. But we must understand that the gold standard of measuring pain will always be the self-report.",
-    "image": "data:image/svg+xml;charset=utf-8,%0A%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23111827%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23374151%22/%3E%0A%20%20%20%20%3C/linearGradient%3E%0A%20%20%20%20%3Cfilter%20id%3D%22blur%22%3E%0A%20%20%20%20%20%20%3CfeGaussianBlur%20stdDeviation%3D%2230%22/%3E%0A%20%20%20%20%3C/filter%3E%0A%20%20%3C/defs%3E%0A%0A%20%20%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22url%28%23bg%29%22/%3E%0A%0A%20%20%3Ccircle%20cx%3D%221030%22%20cy%3D%22110%22%20r%3D%22170%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.18%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%20%20%3Ccircle%20cx%3D%22180%22%20cy%3D%22560%22%20r%3D%22150%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.16%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%0A%20%20%3Crect%20x%3D%2256%22%20y%3D%2252%22%20rx%3D%2218%22%20ry%3D%2218%22%20width%3D%22260%22%20height%3D%2254%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.08%29%22/%3E%0A%20%20%3Ctext%20x%3D%2284%22%20y%3D%2287%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2228%22%20fill%3D%22%23e5e7eb%22%3ENature%20Neuroscience%3C/text%3E%0A%0A%20%20%3Ctext%20x%3D%221010%22%20y%3D%22560%22%0A%20%20%20%20%20%20%20%20text-anchor%3D%22middle%22%0A%20%20%20%20%20%20%20%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%0A%20%20%20%20%20%20%20%20font-size%3D%22160%22%0A%20%20%20%20%20%20%20%20fill%3D%22%2360a5fa%22%0A%20%20%20%20%20%20%20%20opacity%3D%220.85%22%3E%0A%20%20%20%20%E2%80%A2%0A%20%20%3C/text%3E%0A%3C/svg%3E%0A",
-    "topic": "neuroscience",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
     "title": "Editorial Expression of Concern: DOCK8 functions as an adaptor that links TLR-MyD88 signaling to B cell activation",
     "link": "https://www.nature.com/articles/s41590-026-02572-w",
     "journal": "Nature Immunology",
@@ -606,19 +619,6 @@
     "summary": "Nature Immunology, Published online: 01 June 2026; doi:10.1038/s41590-026-02572-w Editorial Expression of Concern: DOCK8 functions as an adaptor that links TLR-MyD88 signaling to B cell activation",
     "abstract": "Nature Immunology, Published online: 01 June 2026; doi:10.1038/s41590-026-02572-w Editorial Expression of Concern: DOCK8 functions as an adaptor that links TLR-MyD88 signaling to B cell activation",
     "image": "data:image/svg+xml;charset=utf-8,%0A%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23111827%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23374151%22/%3E%0A%20%20%20%20%3C/linearGradient%3E%0A%20%20%20%20%3Cfilter%20id%3D%22blur%22%3E%0A%20%20%20%20%20%20%3CfeGaussianBlur%20stdDeviation%3D%2230%22/%3E%0A%20%20%20%20%3C/filter%3E%0A%20%20%3C/defs%3E%0A%0A%20%20%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22url%28%23bg%29%22/%3E%0A%0A%20%20%3Ccircle%20cx%3D%221030%22%20cy%3D%22110%22%20r%3D%22170%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.18%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%20%20%3Ccircle%20cx%3D%22180%22%20cy%3D%22560%22%20r%3D%22150%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.16%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%0A%20%20%3Crect%20x%3D%2256%22%20y%3D%2252%22%20rx%3D%2218%22%20ry%3D%2218%22%20width%3D%22260%22%20height%3D%2254%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.08%29%22/%3E%0A%20%20%3Ctext%20x%3D%2284%22%20y%3D%2287%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2228%22%20fill%3D%22%23e5e7eb%22%3ENature%20Immunology%3C/text%3E%0A%0A%20%20%3Ctext%20x%3D%221010%22%20y%3D%22560%22%0A%20%20%20%20%20%20%20%20text-anchor%3D%22middle%22%0A%20%20%20%20%20%20%20%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%0A%20%20%20%20%20%20%20%20font-size%3D%22160%22%0A%20%20%20%20%20%20%20%20fill%3D%22%2360a5fa%22%0A%20%20%20%20%20%20%20%20opacity%3D%220.85%22%3E%0A%20%20%20%20%E2%80%A2%0A%20%20%3C/text%3E%0A%3C/svg%3E%0A",
-    "topic": "immunology",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
-    "title": "Regulatory factor X 7 limits Myc activity during B cell activation and suppresses Myc-dependent lymphomagenesis",
-    "link": "https://www.nature.com/articles/s41590-026-02526-2",
-    "journal": "Nature Immunology",
-    "source_type": "journal",
-    "date": "2026-06-01",
-    "summary": "Nature Immunology, Published online: 01 June 2026; doi:10.1038/s41590-026-02526-2 Guarda and colleagues investigate the role of the transcription factor RFX7 in B cell activation and lymphomagenesis. The findings indicate that Rfx7 regulates germinal center B cell, plasmablast generation and malignant transformation by restricting Myc activity.",
-    "abstract": "Nature Immunology, Published online: 01 June 2026; doi:10.1038/s41590-026-02526-2 Guarda and colleagues investigate the role of the transcription factor RFX7 in B cell activation and lymphomagenesis. The findings indicate that Rfx7 regulates germinal center B cell, plasmablast generation and malignant transformation by restricting Myc activity.",
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41590-026-02526-2/MediaObjects/41590_2026_2526_Fig1_HTML.png",
     "topic": "immunology",
     "topic_color": "#60a5fa",
     "priority_score": 0
