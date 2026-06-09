@@ -52,6 +52,19 @@
     "priority_score": 96
   },
   {
+    "title": "A unicellular relative links aggregative multicellularity to animal origins",
+    "link": "https://www.nature.com/articles/s41586-026-10748-5",
+    "journal": "Nature",
+    "source_type": "journal",
+    "date": "2026-06-09",
+    "summary": "Nature, Published online: 09 June 2026; doi:10.1038/s41586-026-10748-5 A unicellular relative links aggregative multicellularity to animal origins",
+    "abstract": "How animals evolved complex multicellularity from their unicellular ancestors remains unanswered. Unicellular relatives of animals exhibit simple multicellularity through clonal division, formation of multinucleate coenocytes, or aggregation. 1 Therefore, animal multicellularity may have evolved from one (or a combination) of these behaviours. Aggregation has classically been dismissed as a means to complex multicellularity. 2 However, aggregation occurs in many extant animal cells and has also been recently described in three close unicellular relatives of animals (the choanoflagellates Salpingoeca rosetta and Choanoeca flexa, and the filasterean Capsaspora owczarzaki). 3-5 It is unclear whether aggregation in these species is derived or ancestral, and its relevance for animal origins remains unknown. To fill this gap, we investigated whether an additional close unicellular relative of animals can undergo aggregation. We discovered that the marine free-living bacterivorous filasterean Ministeria vibrans 6 forms homogeneous aggregates with reproducible kinetics that have long-term stability, and that improved feeding and mating may be evolutionary drivers of this aggregation. Notably, we found that homologs of many animal multicellularity genes involved in cell adhesion, signalling, and transcriptional regulation were deployed during the aggregation process, indicating that they may have been used for aggregation in the unicellular ancestors of animals before being co-opted into animal multicellular development. Thus, our results imply that aggregative multicellularity was key to the development of the multicellular animal genetic toolkit.",
+    "image": "data:image/svg+xml;charset=utf-8,%0A%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23111827%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23374151%22/%3E%0A%20%20%20%20%3C/linearGradient%3E%0A%20%20%20%20%3Cfilter%20id%3D%22blur%22%3E%0A%20%20%20%20%20%20%3CfeGaussianBlur%20stdDeviation%3D%2230%22/%3E%0A%20%20%20%20%3C/filter%3E%0A%20%20%3C/defs%3E%0A%0A%20%20%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22url%28%23bg%29%22/%3E%0A%0A%20%20%3Ccircle%20cx%3D%221030%22%20cy%3D%22110%22%20r%3D%22170%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.18%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%20%20%3Ccircle%20cx%3D%22180%22%20cy%3D%22560%22%20r%3D%22150%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.16%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%0A%20%20%3Crect%20x%3D%2256%22%20y%3D%2252%22%20rx%3D%2218%22%20ry%3D%2218%22%20width%3D%22260%22%20height%3D%2254%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.08%29%22/%3E%0A%20%20%3Ctext%20x%3D%2284%22%20y%3D%2287%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2228%22%20fill%3D%22%23e5e7eb%22%3ENature%3C/text%3E%0A%0A%20%20%3Ctext%20x%3D%221010%22%20y%3D%22560%22%0A%20%20%20%20%20%20%20%20text-anchor%3D%22middle%22%0A%20%20%20%20%20%20%20%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%0A%20%20%20%20%20%20%20%20font-size%3D%22160%22%0A%20%20%20%20%20%20%20%20fill%3D%22%2360a5fa%22%0A%20%20%20%20%20%20%20%20opacity%3D%220.85%22%3E%0A%20%20%20%20%E2%80%A2%0A%20%20%3C/text%3E%0A%3C/svg%3E%0A",
+    "topic": "Aging & Senescence",
+    "topic_color": "#60a5fa",
+    "priority_score": 81
+  },
+  {
     "title": "The embryonic origins of site-specific arthritis",
     "link": "https://www.nature.com/articles/s41590-026-02542-2",
     "journal": "Nature Immunology",
@@ -63,6 +76,32 @@
     "topic": "inflammation",
     "topic_color": "#fb7185",
     "priority_score": 29
+  },
+  {
+    "title": "Frozen squirrel poop rewrites rodent evolution, reveals new details about mammoths",
+    "link": "https://www.science.org/content/article/frozen-squirrel-poop-rewrites-rodent-evolution-reveals-new-details-about-mammoths",
+    "journal": "Science",
+    "source_type": "journal",
+    "date": "2026-06-09T11:00:00Z",
+    "summary": "DNA from ground squirrel coprolites offers an unusually detailed record of ice age ecosystems",
+    "abstract": "DNA from ground squirrel coprolites offers an unusually detailed record of ice age ecosystems",
+    "image": "data:image/svg+xml;charset=utf-8,%0A%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23111827%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23374151%22/%3E%0A%20%20%20%20%3C/linearGradient%3E%0A%20%20%20%20%3Cfilter%20id%3D%22blur%22%3E%0A%20%20%20%20%20%20%3CfeGaussianBlur%20stdDeviation%3D%2230%22/%3E%0A%20%20%20%20%3C/filter%3E%0A%20%20%3C/defs%3E%0A%0A%20%20%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22url%28%23bg%29%22/%3E%0A%0A%20%20%3Ccircle%20cx%3D%221030%22%20cy%3D%22110%22%20r%3D%22170%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.18%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%20%20%3Ccircle%20cx%3D%22180%22%20cy%3D%22560%22%20r%3D%22150%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.16%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%0A%20%20%3Crect%20x%3D%2256%22%20y%3D%2252%22%20rx%3D%2218%22%20ry%3D%2218%22%20width%3D%22260%22%20height%3D%2254%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.08%29%22/%3E%0A%20%20%3Ctext%20x%3D%2284%22%20y%3D%2287%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2228%22%20fill%3D%22%23e5e7eb%22%3EScience%3C/text%3E%0A%0A%20%20%3Ctext%20x%3D%221010%22%20y%3D%22560%22%0A%20%20%20%20%20%20%20%20text-anchor%3D%22middle%22%0A%20%20%20%20%20%20%20%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%0A%20%20%20%20%20%20%20%20font-size%3D%22160%22%0A%20%20%20%20%20%20%20%20fill%3D%22%2360a5fa%22%0A%20%20%20%20%20%20%20%20opacity%3D%220.85%22%3E%0A%20%20%20%20%E2%80%A2%0A%20%20%3C/text%3E%0A%3C/svg%3E%0A",
+    "topic": "default",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
+    "title": "Diabetes society officials resign after removal of Trump protesters from conference",
+    "link": "https://www.science.org/content/article/diabetes-society-officials-resign-after-removal-trump-protestors-conference",
+    "journal": "Science",
+    "source_type": "journal",
+    "date": "2026-06-09T09:55:00Z",
+    "summary": "As online support for the experts spreads, ADA members have resigned from their positions",
+    "abstract": "As online support for the experts spreads, ADA members have resigned from their positions",
+    "image": "data:image/svg+xml;charset=utf-8,%0A%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23111827%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23374151%22/%3E%0A%20%20%20%20%3C/linearGradient%3E%0A%20%20%20%20%3Cfilter%20id%3D%22blur%22%3E%0A%20%20%20%20%20%20%3CfeGaussianBlur%20stdDeviation%3D%2230%22/%3E%0A%20%20%20%20%3C/filter%3E%0A%20%20%3C/defs%3E%0A%0A%20%20%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22url%28%23bg%29%22/%3E%0A%0A%20%20%3Ccircle%20cx%3D%221030%22%20cy%3D%22110%22%20r%3D%22170%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.18%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%20%20%3Ccircle%20cx%3D%22180%22%20cy%3D%22560%22%20r%3D%22150%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.16%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%0A%20%20%3Crect%20x%3D%2256%22%20y%3D%2252%22%20rx%3D%2218%22%20ry%3D%2218%22%20width%3D%22260%22%20height%3D%2254%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.08%29%22/%3E%0A%20%20%3Ctext%20x%3D%2284%22%20y%3D%2287%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2228%22%20fill%3D%22%23e5e7eb%22%3EScience%3C/text%3E%0A%0A%20%20%3Ctext%20x%3D%221010%22%20y%3D%22560%22%0A%20%20%20%20%20%20%20%20text-anchor%3D%22middle%22%0A%20%20%20%20%20%20%20%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%0A%20%20%20%20%20%20%20%20font-size%3D%22160%22%0A%20%20%20%20%20%20%20%20fill%3D%22%2360a5fa%22%0A%20%20%20%20%20%20%20%20opacity%3D%220.85%22%3E%0A%20%20%20%20%E2%80%A2%0A%20%20%3C/text%3E%0A%3C/svg%3E%0A",
+    "topic": "default",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
   },
   {
     "title": "Author Correction: PTC-bearing mRNA elicits a genetic compensation response via Upf3a and COMPASS components",
@@ -190,19 +229,6 @@
     "summary": "Nature, Published online: 09 June 2026; doi:10.1038/d41586-026-01822-z A dazzling book explains our bodies’ dependence on sunlight for everything from sleep to skin and bone health.",
     "abstract": "Nature, Published online: 09 June 2026; doi:10.1038/d41586-026-01822-z A dazzling book explains our bodies’ dependence on sunlight for everything from sleep to skin and bone health.",
     "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-01822-z/d41586-026-01822-z_52510888.jpg",
-    "topic": "default",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
-    "title": "Scientists have a bad case of AI FOMO, Nature poll reveals",
-    "link": "https://www.nature.com/articles/d41586-026-01690-7",
-    "journal": "Nature",
-    "source_type": "journal",
-    "date": "2026-06-09",
-    "summary": "Nature, Published online: 09 June 2026; doi:10.1038/d41586-026-01690-7 Almost half of the scientists who responded said that they feel broadly negative towards artificial intelligence, but they think that some tools are better than others.",
-    "abstract": "Almost half of the scientists who responded said that they feel broadly negative towards artificial intelligence, but they think that some tools are better than others. Almost half of the scientists who responded said that they feel broadly negative towards artificial intelligence, but they think that some tools are better than others.",
-    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-01690-7/d41586-026-01690-7_52515808.jpg",
     "topic": "default",
     "topic_color": "#60a5fa",
     "priority_score": 0
@@ -397,7 +423,7 @@
     "date": "2026-06-08",
     "summary": "Nature Medicine, Published online: 08 June 2026; doi:10.1038/s41591-026-04439-x In a whole-exome sequencing analysis, the beneficial effects of the SGLT2 inhibitor dapagliflozin in reducing the risk of future heart failure hospitalization in individuals with type 2 diabetes were markedly greater in individuals who carried a cardiomyopathy-associated genetic variant compared with noncarriers, suggesting a personalized preventative therapy based on genetic information.",
     "abstract": "Nature Medicine, Published online: 08 June 2026; doi:10.1038/s41591-026-04439-x In a whole-exome sequencing analysis, the beneficial effects of the SGLT2 inhibitor dapagliflozin in reducing the risk of future heart failure hospitalization in individuals with type 2 diabetes were markedly greater in individuals who carried a cardiomyopathy-associated genetic variant compared with noncarriers, suggesting a personalized preventative therapy based on genetic information.",
-    "image": "data:image/svg+xml;charset=utf-8,%0A%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23111827%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23374151%22/%3E%0A%20%20%20%20%3C/linearGradient%3E%0A%20%20%20%20%3Cfilter%20id%3D%22blur%22%3E%0A%20%20%20%20%20%20%3CfeGaussianBlur%20stdDeviation%3D%2230%22/%3E%0A%20%20%20%20%3C/filter%3E%0A%20%20%3C/defs%3E%0A%0A%20%20%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22url%28%23bg%29%22/%3E%0A%0A%20%20%3Ccircle%20cx%3D%221030%22%20cy%3D%22110%22%20r%3D%22170%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.18%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%20%20%3Ccircle%20cx%3D%22180%22%20cy%3D%22560%22%20r%3D%22150%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.16%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%0A%20%20%3Crect%20x%3D%2256%22%20y%3D%2252%22%20rx%3D%2218%22%20ry%3D%2218%22%20width%3D%22260%22%20height%3D%2254%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.08%29%22/%3E%0A%20%20%3Ctext%20x%3D%2284%22%20y%3D%2287%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2228%22%20fill%3D%22%23e5e7eb%22%3ENature%20Medicine%3C/text%3E%0A%0A%20%20%3Ctext%20x%3D%221010%22%20y%3D%22560%22%0A%20%20%20%20%20%20%20%20text-anchor%3D%22middle%22%0A%20%20%20%20%20%20%20%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%0A%20%20%20%20%20%20%20%20font-size%3D%22160%22%0A%20%20%20%20%20%20%20%20fill%3D%22%2360a5fa%22%0A%20%20%20%20%20%20%20%20opacity%3D%220.85%22%3E%0A%20%20%20%20%E2%80%A2%0A%20%20%3C/text%3E%0A%3C/svg%3E%0A",
+    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41591-026-04439-x/MediaObjects/41591_2026_4439_Fig1_HTML.png",
     "topic": "default",
     "topic_color": "#60a5fa",
     "priority_score": 0
@@ -468,19 +494,6 @@
     "priority_score": 0
   },
   {
-    "title": "Does a distant alien world harbor promising signs of life? Most astrobiologists say no",
-    "link": "https://www.science.org/content/article/does-distant-alien-world-harbor-promising-signs-life-most-astrobiologists-say-no",
-    "journal": "Science",
-    "source_type": "journal",
-    "date": "2026-06-05T12:00:00Z",
-    "summary": "Poll of nearly 500 scientists reveals how rapid surveys can take researchers’ pulse on controversial topics",
-    "abstract": "Poll of nearly 500 scientists reveals how rapid surveys can take researchers’ pulse on controversial topics",
-    "image": "data:image/svg+xml;charset=utf-8,%0A%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23111827%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23374151%22/%3E%0A%20%20%20%20%3C/linearGradient%3E%0A%20%20%20%20%3Cfilter%20id%3D%22blur%22%3E%0A%20%20%20%20%20%20%3CfeGaussianBlur%20stdDeviation%3D%2230%22/%3E%0A%20%20%20%20%3C/filter%3E%0A%20%20%3C/defs%3E%0A%0A%20%20%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22url%28%23bg%29%22/%3E%0A%0A%20%20%3Ccircle%20cx%3D%221030%22%20cy%3D%22110%22%20r%3D%22170%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.18%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%20%20%3Ccircle%20cx%3D%22180%22%20cy%3D%22560%22%20r%3D%22150%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.16%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%0A%20%20%3Crect%20x%3D%2256%22%20y%3D%2252%22%20rx%3D%2218%22%20ry%3D%2218%22%20width%3D%22260%22%20height%3D%2254%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.08%29%22/%3E%0A%20%20%3Ctext%20x%3D%2284%22%20y%3D%2287%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2228%22%20fill%3D%22%23e5e7eb%22%3EScience%3C/text%3E%0A%0A%20%20%3Ctext%20x%3D%221010%22%20y%3D%22560%22%0A%20%20%20%20%20%20%20%20text-anchor%3D%22middle%22%0A%20%20%20%20%20%20%20%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%0A%20%20%20%20%20%20%20%20font-size%3D%22160%22%0A%20%20%20%20%20%20%20%20fill%3D%22%2360a5fa%22%0A%20%20%20%20%20%20%20%20opacity%3D%220.85%22%3E%0A%20%20%20%20%E2%80%A2%0A%20%20%3C/text%3E%0A%3C/svg%3E%0A",
-    "topic": "default",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
     "title": "Satellite maps of sinking coastlines come under scrutiny",
     "link": "https://www.science.org/content/article/satellite-maps-sinking-coastlines-come-under-scrutiny",
     "journal": "Science",
@@ -515,19 +528,6 @@
     "summary": "Nature Medicine, Published online: 05 June 2026; doi:10.1038/s41591-026-04476-6 As presented at the American Diabetes Association Meeting: this randomized phase 2b trial in 230 adults with overweight or obesity shows that aleniglipron, an oral small-molecule GLP1-RA, led to up to 11.3% body-weight loss compared with placebo after 36 weeks of treatment.",
     "abstract": "Nature Medicine, Published online: 05 June 2026; doi:10.1038/s41591-026-04476-6 As presented at the American Diabetes Association Meeting: this randomized phase 2b trial in 230 adults with overweight or obesity shows that aleniglipron, an oral small-molecule GLP1-RA, led to up to 11.3% body-weight loss compared with placebo after 36 weeks of treatment.",
     "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41591-026-04476-6/MediaObjects/41591_2026_4476_Fig1_HTML.png",
-    "topic": "default",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
-    "title": "AI executives join call for stricter regulation of synthetic biology",
-    "link": "https://www.science.org/content/article/ai-executives-join-call-stricter-regulation-synthetic-biology",
-    "journal": "Science",
-    "source_type": "journal",
-    "date": "2026-06-04T05:30:00Z",
-    "summary": "Letter urges Congress to require DNA firms to screen orders to prevent AI-aided bioweapons",
-    "abstract": "Letter urges Congress to require DNA firms to screen orders to prevent AI-aided bioweapons",
-    "image": "data:image/svg+xml;charset=utf-8,%0A%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23111827%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23374151%22/%3E%0A%20%20%20%20%3C/linearGradient%3E%0A%20%20%20%20%3Cfilter%20id%3D%22blur%22%3E%0A%20%20%20%20%20%20%3CfeGaussianBlur%20stdDeviation%3D%2230%22/%3E%0A%20%20%20%20%3C/filter%3E%0A%20%20%3C/defs%3E%0A%0A%20%20%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22url%28%23bg%29%22/%3E%0A%0A%20%20%3Ccircle%20cx%3D%221030%22%20cy%3D%22110%22%20r%3D%22170%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.18%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%20%20%3Ccircle%20cx%3D%22180%22%20cy%3D%22560%22%20r%3D%22150%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.16%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%0A%20%20%3Crect%20x%3D%2256%22%20y%3D%2252%22%20rx%3D%2218%22%20ry%3D%2218%22%20width%3D%22260%22%20height%3D%2254%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.08%29%22/%3E%0A%20%20%3Ctext%20x%3D%2284%22%20y%3D%2287%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2228%22%20fill%3D%22%23e5e7eb%22%3EScience%3C/text%3E%0A%0A%20%20%3Ctext%20x%3D%221010%22%20y%3D%22560%22%0A%20%20%20%20%20%20%20%20text-anchor%3D%22middle%22%0A%20%20%20%20%20%20%20%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%0A%20%20%20%20%20%20%20%20font-size%3D%22160%22%0A%20%20%20%20%20%20%20%20fill%3D%22%2360a5fa%22%0A%20%20%20%20%20%20%20%20opacity%3D%220.85%22%3E%0A%20%20%20%20%E2%80%A2%0A%20%20%3C/text%3E%0A%3C/svg%3E%0A",
     "topic": "default",
     "topic_color": "#60a5fa",
     "priority_score": 0
