@@ -52,19 +52,6 @@
     "priority_score": 96
   },
   {
-    "title": "GPR15-guided CD8<sup>+</sup> T regulatory cells control intestinal inflammation",
-    "link": "https://www.nature.com/articles/s41586-026-10749-4",
-    "journal": "Nature",
-    "source_type": "journal",
-    "date": "2026-06-08",
-    "summary": "Nature, Published online: 08 June 2026; doi:10.1038/s41586-026-10749-4 GPR15-guided CD8 + T regulatory cells control intestinal inflammation",
-    "abstract": "Inflammatory bowel disease (IBD) causes chronic suffering from gastrointestinal inflammation and dysfunction that can progress to colon cancer1,2. The disease prevalence is increasing and there is an urgent need to better understand its pathogenic mechanisms to improve treatment. We show that GPR15, a G protein-coupled receptor (GPCR) expressed in immune cells and previously described as an entry co-factor for human and simian immunodeficiency viruses3, is a marker and homing receptor for a subset of intramucosal GPR15-guided regulatory CD8+ T lymphocytes (CD8+ TIGR). Deleterious GPR15 gene variants in humans cause defective homing of CD8+ TIGR and are associated with severe early-onset IBD. Moreover, CD8+ TIGR cells are reduced in the intestinal mucosa of sporadic IBD patients. In mice, GPR15 deficiency impairs colonic homing of CD8+ TIGR cells, leading to accumulation of inflammatory macrophages and increased susceptibility to colitis. CD8+ TIGR cells potently kill macrophages activated by intestinal damage or disease using Fas ligand (FasL) and TNF-related weak inducer of apoptosis (TWEAK). The identification of CD8+ TIGR cells yields new insights into organ-specific immune regulation and potential therapeutics for IBD.",
-    "image": "data:image/svg+xml;charset=utf-8,%0A%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%231f2937%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%234b5563%22/%3E%0A%20%20%20%20%3C/linearGradient%3E%0A%20%20%20%20%3Cfilter%20id%3D%22blur%22%3E%0A%20%20%20%20%20%20%3CfeGaussianBlur%20stdDeviation%3D%2230%22/%3E%0A%20%20%20%20%3C/filter%3E%0A%20%20%3C/defs%3E%0A%0A%20%20%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22url%28%23bg%29%22/%3E%0A%0A%20%20%3Ccircle%20cx%3D%221030%22%20cy%3D%22110%22%20r%3D%22170%22%20fill%3D%22%23f59e0b%22%20opacity%3D%220.18%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%20%20%3Ccircle%20cx%3D%22180%22%20cy%3D%22560%22%20r%3D%22150%22%20fill%3D%22%23f59e0b%22%20opacity%3D%220.16%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%0A%20%20%3Crect%20x%3D%2256%22%20y%3D%2252%22%20rx%3D%2218%22%20ry%3D%2218%22%20width%3D%22260%22%20height%3D%2254%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.08%29%22/%3E%0A%20%20%3Ctext%20x%3D%2284%22%20y%3D%2287%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2228%22%20fill%3D%22%23e5e7eb%22%3ENature%3C/text%3E%0A%0A%20%20%3Ctext%20x%3D%221010%22%20y%3D%22560%22%0A%20%20%20%20%20%20%20%20text-anchor%3D%22middle%22%0A%20%20%20%20%20%20%20%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%0A%20%20%20%20%20%20%20%20font-size%3D%22160%22%0A%20%20%20%20%20%20%20%20fill%3D%22%23f59e0b%22%0A%20%20%20%20%20%20%20%20opacity%3D%220.85%22%3E%0A%20%20%20%20%E2%AC%A2%0A%20%20%3C/text%3E%0A%3C/svg%3E%0A",
-    "topic": "macrophage",
-    "topic_color": "#f59e0b",
-    "priority_score": 85
-  },
-  {
     "title": "The embryonic origins of site-specific arthritis",
     "link": "https://www.nature.com/articles/s41590-026-02542-2",
     "journal": "Nature Immunology",
@@ -72,10 +59,23 @@
     "date": "2026-06-08",
     "summary": "Nature Immunology, Published online: 08 June 2026; doi:10.1038/s41590-026-02542-2 Davidson et al. map the cellular and structural composition of developing joints and identify fibroblast populations that may predispose joints to inflammatory arthritis.",
     "abstract": "Nature Immunology, Published online: 08 June 2026; doi:10.1038/s41590-026-02542-2 Davidson et al. map the cellular and structural composition of developing joints and identify fibroblast populations that may predispose joints to inflammatory arthritis.",
-    "image": "data:image/svg+xml;charset=utf-8,%0A%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23450a0a%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23991b1b%22/%3E%0A%20%20%20%20%3C/linearGradient%3E%0A%20%20%20%20%3Cfilter%20id%3D%22blur%22%3E%0A%20%20%20%20%20%20%3CfeGaussianBlur%20stdDeviation%3D%2230%22/%3E%0A%20%20%20%20%3C/filter%3E%0A%20%20%3C/defs%3E%0A%0A%20%20%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22url%28%23bg%29%22/%3E%0A%0A%20%20%3Ccircle%20cx%3D%221030%22%20cy%3D%22110%22%20r%3D%22170%22%20fill%3D%22%23fb7185%22%20opacity%3D%220.18%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%20%20%3Ccircle%20cx%3D%22180%22%20cy%3D%22560%22%20r%3D%22150%22%20fill%3D%22%23fb7185%22%20opacity%3D%220.16%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%0A%20%20%3Crect%20x%3D%2256%22%20y%3D%2252%22%20rx%3D%2218%22%20ry%3D%2218%22%20width%3D%22260%22%20height%3D%2254%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.08%29%22/%3E%0A%20%20%3Ctext%20x%3D%2284%22%20y%3D%2287%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2228%22%20fill%3D%22%23e5e7eb%22%3ENature%20Immunology%3C/text%3E%0A%0A%20%20%3Ctext%20x%3D%221010%22%20y%3D%22560%22%0A%20%20%20%20%20%20%20%20text-anchor%3D%22middle%22%0A%20%20%20%20%20%20%20%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%0A%20%20%20%20%20%20%20%20font-size%3D%22160%22%0A%20%20%20%20%20%20%20%20fill%3D%22%23fb7185%22%0A%20%20%20%20%20%20%20%20opacity%3D%220.85%22%3E%0A%20%20%20%20%E2%96%B2%0A%20%20%3C/text%3E%0A%3C/svg%3E%0A",
+    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41590-026-02542-2/MediaObjects/41590_2026_2542_Fig1_HTML.png",
     "topic": "inflammation",
     "topic_color": "#fb7185",
     "priority_score": 29
+  },
+  {
+    "title": "Author Correction: PTC-bearing mRNA elicits a genetic compensation response via Upf3a and COMPASS components",
+    "link": "https://www.nature.com/articles/s41586-026-10769-0",
+    "journal": "Nature",
+    "source_type": "journal",
+    "date": "2026-06-09",
+    "summary": "Nature, Published online: 09 June 2026; doi:10.1038/s41586-026-10769-0 Author Correction: PTC-bearing mRNA elicits a genetic compensation response via Upf3a and COMPASS components",
+    "abstract": "Nature, Published online: 09 June 2026; doi:10.1038/s41586-026-10769-0 Author Correction: PTC-bearing mRNA elicits a genetic compensation response via Upf3a and COMPASS components",
+    "image": "data:image/svg+xml;charset=utf-8,%0A%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23111827%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23374151%22/%3E%0A%20%20%20%20%3C/linearGradient%3E%0A%20%20%20%20%3Cfilter%20id%3D%22blur%22%3E%0A%20%20%20%20%20%20%3CfeGaussianBlur%20stdDeviation%3D%2230%22/%3E%0A%20%20%20%20%3C/filter%3E%0A%20%20%3C/defs%3E%0A%0A%20%20%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22url%28%23bg%29%22/%3E%0A%0A%20%20%3Ccircle%20cx%3D%221030%22%20cy%3D%22110%22%20r%3D%22170%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.18%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%20%20%3Ccircle%20cx%3D%22180%22%20cy%3D%22560%22%20r%3D%22150%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.16%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%0A%20%20%3Crect%20x%3D%2256%22%20y%3D%2252%22%20rx%3D%2218%22%20ry%3D%2218%22%20width%3D%22260%22%20height%3D%2254%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.08%29%22/%3E%0A%20%20%3Ctext%20x%3D%2284%22%20y%3D%2287%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2228%22%20fill%3D%22%23e5e7eb%22%3ENature%3C/text%3E%0A%0A%20%20%3Ctext%20x%3D%221010%22%20y%3D%22560%22%0A%20%20%20%20%20%20%20%20text-anchor%3D%22middle%22%0A%20%20%20%20%20%20%20%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%0A%20%20%20%20%20%20%20%20font-size%3D%22160%22%0A%20%20%20%20%20%20%20%20fill%3D%22%2360a5fa%22%0A%20%20%20%20%20%20%20%20opacity%3D%220.85%22%3E%0A%20%20%20%20%E2%80%A2%0A%20%20%3C/text%3E%0A%3C/svg%3E%0A",
+    "topic": "default",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
   },
   {
     "title": "AI technology must serve human cognitive development, not the other way around",
@@ -86,6 +86,19 @@
     "summary": "Nature, Published online: 09 June 2026; doi:10.1038/d41586-026-01848-3 AI technology must serve human cognitive development, not the other way around",
     "abstract": "Nature, Published online: 09 June 2026; doi:10.1038/d41586-026-01848-3 AI technology must serve human cognitive development, not the other way around",
     "image": "data:image/svg+xml;charset=utf-8,%0A%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23111827%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23374151%22/%3E%0A%20%20%20%20%3C/linearGradient%3E%0A%20%20%20%20%3Cfilter%20id%3D%22blur%22%3E%0A%20%20%20%20%20%20%3CfeGaussianBlur%20stdDeviation%3D%2230%22/%3E%0A%20%20%20%20%3C/filter%3E%0A%20%20%3C/defs%3E%0A%0A%20%20%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22url%28%23bg%29%22/%3E%0A%0A%20%20%3Ccircle%20cx%3D%221030%22%20cy%3D%22110%22%20r%3D%22170%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.18%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%20%20%3Ccircle%20cx%3D%22180%22%20cy%3D%22560%22%20r%3D%22150%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.16%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%0A%20%20%3Crect%20x%3D%2256%22%20y%3D%2252%22%20rx%3D%2218%22%20ry%3D%2218%22%20width%3D%22260%22%20height%3D%2254%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.08%29%22/%3E%0A%20%20%3Ctext%20x%3D%2284%22%20y%3D%2287%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2228%22%20fill%3D%22%23e5e7eb%22%3ENature%3C/text%3E%0A%0A%20%20%3Ctext%20x%3D%221010%22%20y%3D%22560%22%0A%20%20%20%20%20%20%20%20text-anchor%3D%22middle%22%0A%20%20%20%20%20%20%20%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%0A%20%20%20%20%20%20%20%20font-size%3D%22160%22%0A%20%20%20%20%20%20%20%20fill%3D%22%2360a5fa%22%0A%20%20%20%20%20%20%20%20opacity%3D%220.85%22%3E%0A%20%20%20%20%E2%80%A2%0A%20%20%3C/text%3E%0A%3C/svg%3E%0A",
+    "topic": "default",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
+    "title": "A treasure trove of Neolithic necklace beads",
+    "link": "https://www.nature.com/articles/d41586-026-01810-3",
+    "journal": "Nature",
+    "source_type": "journal",
+    "date": "2026-06-09",
+    "summary": "Nature, Published online: 09 June 2026; doi:10.1038/d41586-026-01810-3 Archaeological findings from Italy, and machines with a life of their own, in our weekly dip into Nature’s archive.",
+    "abstract": "Nature, Published online: 09 June 2026; doi:10.1038/d41586-026-01810-3 Archaeological findings from Italy, and machines with a life of their own, in our weekly dip into Nature’s archive.",
+    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-01810-3/d41586-026-01810-3_15948434.jpg",
     "topic": "default",
     "topic_color": "#60a5fa",
     "priority_score": 0
@@ -143,6 +156,32 @@
     "priority_score": 0
   },
   {
+    "title": "Let’s talk about biomedical research kits",
+    "link": "https://www.nature.com/articles/d41586-026-00799-z",
+    "journal": "Nature",
+    "source_type": "journal",
+    "date": "2026-06-09",
+    "summary": "Nature, Published online: 09 June 2026; doi:10.1038/d41586-026-00799-z Although undoubtably helpful in many ways, experimental assay kits risk undermining the fundamentals of science. How can we course correct?",
+    "abstract": "Although undoubtably helpful in many ways, experimental assay kits risk undermining the fundamentals of science. How can we course correct? Although undoubtably helpful in many ways, experimental assay kits risk undermining the fundamentals of science. How can we course correct?",
+    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-00799-z/d41586-026-00799-z_52427212.jpg",
+    "topic": "default",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
+    "title": "Don’t compete, collaborate: why collective funding applications are the future",
+    "link": "https://www.nature.com/articles/d41586-026-01815-y",
+    "journal": "Nature",
+    "source_type": "journal",
+    "date": "2026-06-09",
+    "summary": "Nature, Published online: 09 June 2026; doi:10.1038/d41586-026-01815-y Scientists with disparate expertise writing grants together can identify knowledge gaps and drive progress — but systems must change to incentivize them.",
+    "abstract": "Scientists with disparate expertise writing grants together can identify knowledge gaps and drive progress — but systems must change to incentivize them. Scientists with disparate expertise writing grants together can identify knowledge gaps and drive progress — but systems must change to incentivize them.",
+    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-01815-y/d41586-026-01815-y_52339840.jpg",
+    "topic": "default",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
     "title": "The best way to start your day? The science backs naked cartwheels in the sun",
     "link": "https://www.nature.com/articles/d41586-026-01822-z",
     "journal": "Nature",
@@ -156,14 +195,14 @@
     "priority_score": 0
   },
   {
-    "title": "How ice forms is a mystery — now scientists are cracking the case",
-    "link": "https://www.nature.com/articles/d41586-026-01817-w",
+    "title": "Scientists have a bad case of AI FOMO, Nature poll reveals",
+    "link": "https://www.nature.com/articles/d41586-026-01690-7",
     "journal": "Nature",
     "source_type": "journal",
     "date": "2026-06-09",
-    "summary": "Nature, Published online: 09 June 2026; doi:10.1038/d41586-026-01817-w Theories about how ice crystals grow in cooling liquids are wildly inaccurate when compared with experimental data, but studies are starting to illuminate the earliest moments in freezing.",
-    "abstract": "Nature, Published online: 09 June 2026; doi:10.1038/d41586-026-01817-w Theories about how ice crystals grow in cooling liquids are wildly inaccurate when compared with experimental data, but studies are starting to illuminate the earliest moments in freezing.",
-    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-01817-w/d41586-026-01817-w_52506596.jpg",
+    "summary": "Nature, Published online: 09 June 2026; doi:10.1038/d41586-026-01690-7 Almost half of the scientists who responded said that they feel broadly negative towards artificial intelligence, but they think that some tools are better than others.",
+    "abstract": "Almost half of the scientists who responded said that they feel broadly negative towards artificial intelligence, but they think that some tools are better than others. Almost half of the scientists who responded said that they feel broadly negative towards artificial intelligence, but they think that some tools are better than others.",
+    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-01690-7/d41586-026-01690-7_52515808.jpg",
     "topic": "default",
     "topic_color": "#60a5fa",
     "priority_score": 0
@@ -273,45 +312,6 @@
     "priority_score": 0
   },
   {
-    "title": "Distributed control circuits across a brain-and-cord connectome",
-    "link": "https://www.nature.com/articles/s41586-026-10735-w",
-    "journal": "Nature",
-    "source_type": "journal",
-    "date": "2026-06-08",
-    "summary": "Nature, Published online: 08 June 2026; doi:10.1038/s41586-026-10735-w Distributed control circuits across a brain-and-cord connectome",
-    "abstract": "Just as genomes revolutionized molecular genetics, connectomes (maps of neurons and synapses) are transforming neuroscience. To date, the only organisms with complete connectomes are worms1–3, sea squirts4, and comb jellies5 (103–104 synapses). By contrast, the fruit fly is more complex (108 synaptic connections), with a brain that supports learning and spatial memory6,7 and an intricate ventral nerve cord analogous to the vertebrate spinal cord8–12. Here we report the first densely-reconstructed adult fly connectome that unites the brain and ventral nerve cord, and we leverage this resource to investigate principles of neural control. We show that effector neurons (motor neurons, endocrine cells, and efferent neurons targeting the viscera) are primarily influenced by sensory neurons in the same body part, forming local feedback loops. These local loops are linked by long-range circuits involving ascending and descending neurons organized into behavior-centric modules. Single ascending and descending neurons are often positioned to influence the voluntary movements of multiple body parts, together with the endocrine cells or visceral organs that support those movements. Brain regions involved in learning and navigation supervise these circuits. These results reveal an architecture that is distributed, parallelized, and embodied, reminiscent of distributed control architectures in engineered systems13,14.",
-    "image": "data:image/svg+xml;charset=utf-8,%0A%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23111827%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23374151%22/%3E%0A%20%20%20%20%3C/linearGradient%3E%0A%20%20%20%20%3Cfilter%20id%3D%22blur%22%3E%0A%20%20%20%20%20%20%3CfeGaussianBlur%20stdDeviation%3D%2230%22/%3E%0A%20%20%20%20%3C/filter%3E%0A%20%20%3C/defs%3E%0A%0A%20%20%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22url%28%23bg%29%22/%3E%0A%0A%20%20%3Ccircle%20cx%3D%221030%22%20cy%3D%22110%22%20r%3D%22170%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.18%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%20%20%3Ccircle%20cx%3D%22180%22%20cy%3D%22560%22%20r%3D%22150%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.16%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%0A%20%20%3Crect%20x%3D%2256%22%20y%3D%2252%22%20rx%3D%2218%22%20ry%3D%2218%22%20width%3D%22260%22%20height%3D%2254%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.08%29%22/%3E%0A%20%20%3Ctext%20x%3D%2284%22%20y%3D%2287%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2228%22%20fill%3D%22%23e5e7eb%22%3ENature%3C/text%3E%0A%0A%20%20%3Ctext%20x%3D%221010%22%20y%3D%22560%22%0A%20%20%20%20%20%20%20%20text-anchor%3D%22middle%22%0A%20%20%20%20%20%20%20%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%0A%20%20%20%20%20%20%20%20font-size%3D%22160%22%0A%20%20%20%20%20%20%20%20fill%3D%22%2360a5fa%22%0A%20%20%20%20%20%20%20%20opacity%3D%220.85%22%3E%0A%20%20%20%20%E2%80%A2%0A%20%20%3C/text%3E%0A%3C/svg%3E%0A",
-    "topic": "default",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
-    "title": "Targeting Cancer-Specific Mutations with RNA-Triggered Chromatin Shredding",
-    "link": "https://www.nature.com/articles/s41586-026-10738-7",
-    "journal": "Nature",
-    "source_type": "journal",
-    "date": "2026-06-08",
-    "summary": "Nature, Published online: 08 June 2026; doi:10.1038/s41586-026-10738-7 Targeting Cancer-Specific Mutations with RNA-Triggered Chromatin Shredding",
-    "abstract": "Genetic mutations that drive cancer often occur in tumor suppressor proteins, including the p53 transcription factor which is altered in ~40-50% of cases1,2. However, current therapies fail to target most such mutations because the mutant proteins typically lack defined drug-binding pockets, and restoring the endogenous function has proven challenging. Here, we programmed CRISPR-Cas12a2, an RNA-guided nuclease with trans-nucleolytic cleavage activities3,4, to selectively kill cancer cells by targeting cancer-specific transcripts. This approach limits cell growth by inducing trans shredding of chromatin, triggering DNA damage responses and cell death. Unlike existing methods, RNA-guided Cas12a2 senses cellular RNA signatures, enabling precise targeting of undruggable mutations. Transcript-activated chromatin shredding provides a new approach to precision disease treatments for undruggable targets.",
-    "image": "data:image/svg+xml;charset=utf-8,%0A%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23111827%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23374151%22/%3E%0A%20%20%20%20%3C/linearGradient%3E%0A%20%20%20%20%3Cfilter%20id%3D%22blur%22%3E%0A%20%20%20%20%20%20%3CfeGaussianBlur%20stdDeviation%3D%2230%22/%3E%0A%20%20%20%20%3C/filter%3E%0A%20%20%3C/defs%3E%0A%0A%20%20%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22url%28%23bg%29%22/%3E%0A%0A%20%20%3Ccircle%20cx%3D%221030%22%20cy%3D%22110%22%20r%3D%22170%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.18%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%20%20%3Ccircle%20cx%3D%22180%22%20cy%3D%22560%22%20r%3D%22150%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.16%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%0A%20%20%3Crect%20x%3D%2256%22%20y%3D%2252%22%20rx%3D%2218%22%20ry%3D%2218%22%20width%3D%22260%22%20height%3D%2254%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.08%29%22/%3E%0A%20%20%3Ctext%20x%3D%2284%22%20y%3D%2287%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2228%22%20fill%3D%22%23e5e7eb%22%3ENature%3C/text%3E%0A%0A%20%20%3Ctext%20x%3D%221010%22%20y%3D%22560%22%0A%20%20%20%20%20%20%20%20text-anchor%3D%22middle%22%0A%20%20%20%20%20%20%20%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%0A%20%20%20%20%20%20%20%20font-size%3D%22160%22%0A%20%20%20%20%20%20%20%20fill%3D%22%2360a5fa%22%0A%20%20%20%20%20%20%20%20opacity%3D%220.85%22%3E%0A%20%20%20%20%E2%80%A2%0A%20%20%3C/text%3E%0A%3C/svg%3E%0A",
-    "topic": "default",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
-    "title": "Daily briefing: Human embryo genomes precisely altered",
-    "link": "https://www.nature.com/articles/d41586-026-01852-7",
-    "journal": "Nature",
-    "source_type": "journal",
-    "date": "2026-06-08",
-    "summary": "Nature, Published online: 08 June 2026; doi:10.1038/d41586-026-01852-7 The use of 'base editing' to precisely tweak human embryos has divided researchers. Plus, the number of lives saved by less-polluting cars in China and how to tip the world towards a sustainable future.",
-    "abstract": "Nature, Published online: 08 June 2026; doi:10.1038/d41586-026-01852-7 The use of 'base editing' to precisely tweak human embryos has divided researchers. Plus, the number of lives saved by less-polluting cars in China and how to tip the world towards a sustainable future.",
-    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-01852-7/d41586-026-01852-7_52527902.png",
-    "topic": "default",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
     "title": "Repetition on the brain",
     "link": "https://www.nature.com/articles/s41593-026-02335-8",
     "journal": "Nature Neuroscience",
@@ -397,7 +397,7 @@
     "date": "2026-06-08",
     "summary": "Nature Medicine, Published online: 08 June 2026; doi:10.1038/s41591-026-04439-x In a whole-exome sequencing analysis, the beneficial effects of the SGLT2 inhibitor dapagliflozin in reducing the risk of future heart failure hospitalization in individuals with type 2 diabetes were markedly greater in individuals who carried a cardiomyopathy-associated genetic variant compared with noncarriers, suggesting a personalized preventative therapy based on genetic information.",
     "abstract": "Nature Medicine, Published online: 08 June 2026; doi:10.1038/s41591-026-04439-x In a whole-exome sequencing analysis, the beneficial effects of the SGLT2 inhibitor dapagliflozin in reducing the risk of future heart failure hospitalization in individuals with type 2 diabetes were markedly greater in individuals who carried a cardiomyopathy-associated genetic variant compared with noncarriers, suggesting a personalized preventative therapy based on genetic information.",
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41591-026-04439-x/MediaObjects/41591_2026_4439_Fig1_HTML.png",
+    "image": "data:image/svg+xml;charset=utf-8,%0A%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23111827%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23374151%22/%3E%0A%20%20%20%20%3C/linearGradient%3E%0A%20%20%20%20%3Cfilter%20id%3D%22blur%22%3E%0A%20%20%20%20%20%20%3CfeGaussianBlur%20stdDeviation%3D%2230%22/%3E%0A%20%20%20%20%3C/filter%3E%0A%20%20%3C/defs%3E%0A%0A%20%20%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22url%28%23bg%29%22/%3E%0A%0A%20%20%3Ccircle%20cx%3D%221030%22%20cy%3D%22110%22%20r%3D%22170%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.18%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%20%20%3Ccircle%20cx%3D%22180%22%20cy%3D%22560%22%20r%3D%22150%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.16%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%0A%20%20%3Crect%20x%3D%2256%22%20y%3D%2252%22%20rx%3D%2218%22%20ry%3D%2218%22%20width%3D%22260%22%20height%3D%2254%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.08%29%22/%3E%0A%20%20%3Ctext%20x%3D%2284%22%20y%3D%2287%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2228%22%20fill%3D%22%23e5e7eb%22%3ENature%20Medicine%3C/text%3E%0A%0A%20%20%3Ctext%20x%3D%221010%22%20y%3D%22560%22%0A%20%20%20%20%20%20%20%20text-anchor%3D%22middle%22%0A%20%20%20%20%20%20%20%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%0A%20%20%20%20%20%20%20%20font-size%3D%22160%22%0A%20%20%20%20%20%20%20%20fill%3D%22%2360a5fa%22%0A%20%20%20%20%20%20%20%20opacity%3D%220.85%22%3E%0A%20%20%20%20%E2%80%A2%0A%20%20%3C/text%3E%0A%3C/svg%3E%0A",
     "topic": "default",
     "topic_color": "#60a5fa",
     "priority_score": 0
