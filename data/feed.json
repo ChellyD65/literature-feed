@@ -78,6 +78,19 @@
     "priority_score": 29
   },
   {
+    "title": "Online tool that flags suspicious journals could warn researchers before submission",
+    "link": "https://www.nature.com/articles/d41586-026-01707-1",
+    "journal": "Nature",
+    "source_type": "journal",
+    "date": "2026-06-11",
+    "summary": "Nature, Published online: 11 June 2026; doi:10.1038/d41586-026-01707-1 The free platform, called Journal Trends, could also allow integrity sleuths to spot low-quality publications.",
+    "abstract": "Nature, Published online: 11 June 2026; doi:10.1038/d41586-026-01707-1 The free platform, called Journal Trends, could also allow integrity sleuths to spot low-quality publications.",
+    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-01707-1/d41586-026-01707-1_52505884.jpg",
+    "topic": "default",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
     "title": "‘Weird and capricious’: Experts struggle to understand new list of political jobs at science agencies",
     "link": "https://www.science.org/content/article/weird-and-capricious-experts-struggle-understand-new-list-political-jobs-science",
     "journal": "Science",
@@ -281,19 +294,6 @@
     "summary": "Nature, Published online: 10 June 2026; doi:10.1038/s41586-026-10646-w A co-optimized AI hardware–software system using resistive-memory computing improves energy efficiency and parallelism for sparse signal reconstruction in imaging and three-dimensional vision applications.",
     "abstract": "Nature, Published online: 10 June 2026; doi:10.1038/s41586-026-10646-w A co-optimized AI hardware–software system using resistive-memory computing improves energy efficiency and parallelism for sparse signal reconstruction in imaging and three-dimensional vision applications.",
     "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-10646-w/MediaObjects/41586_2026_10646_Fig1_HTML.png",
-    "topic": "default",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
-    "title": "Gene ancestries reveal diverse microbial associations during eukaryogenesis",
-    "link": "https://www.nature.com/articles/s41586-026-10639-9",
-    "journal": "Nature",
-    "source_type": "journal",
-    "date": "2026-06-10",
-    "summary": "Nature, Published online: 10 June 2026; doi:10.1038/s41586-026-10639-9 Phylogenomic reconstruction of the proteome of the last eukaryotic common ancestor sheds light on the origin of eukaryotes, indicating an important role of horizontal transfer of genes from diverse bacterial and viral donors.",
-    "abstract": "Nature, Published online: 10 June 2026; doi:10.1038/s41586-026-10639-9 Phylogenomic reconstruction of the proteome of the last eukaryotic common ancestor sheds light on the origin of eukaryotes, indicating an important role of horizontal transfer of genes from diverse bacterial and viral donors.",
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-10639-9/MediaObjects/41586_2026_10639_Fig1_HTML.png",
     "topic": "default",
     "topic_color": "#60a5fa",
     "priority_score": 0
