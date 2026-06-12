@@ -91,6 +91,19 @@
     "priority_score": 29
   },
   {
+    "title": "Why we seek to fly: Books in brief",
+    "link": "https://www.nature.com/articles/d41586-026-01911-z",
+    "journal": "Nature",
+    "source_type": "journal",
+    "date": "2026-06-12",
+    "summary": "Nature, Published online: 12 June 2026; doi:10.1038/d41586-026-01911-z Andrew Robinson reviews five of the best science picks.",
+    "abstract": "Nature, Published online: 12 June 2026; doi:10.1038/d41586-026-01911-z Andrew Robinson reviews five of the best science picks.",
+    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-01911-z/d41586-026-01911-z_52538524.jpg",
+    "topic": "default",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
     "title": "I advise the Vatican and the UN on AI — don’t dismiss the Pope’s message as theology",
     "link": "https://www.nature.com/articles/d41586-026-01876-z",
     "journal": "Nature",
@@ -139,6 +152,19 @@
     "abstract": "Nature Immunology, Published online: 12 June 2026; doi:10.1038/s41590-026-02545-z Here the authors characterize mRNA-based tuberculosis vaccine candidates BNT164a1 and BNT164b1 and show that they are immunogenic, well tolerated and efficacious in preclinical animal models.",
     "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41590-026-02545-z/MediaObjects/41590_2026_2545_Fig1_HTML.png",
     "topic": "immunology",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
+    "title": "The Hong Kong Genome Project is a flagship initiative for precision medicine in Chinese populations",
+    "link": "https://www.nature.com/articles/s41591-026-04421-7",
+    "journal": "Nature Medicine",
+    "source_type": "journal",
+    "date": "2026-06-12",
+    "summary": "Nature Medicine, Published online: 12 June 2026; doi:10.1038/s41591-026-04421-7 The Hong Kong Genome Project established a genome sequencing database that provides improved diagnoses for patients and more efficient, population-tailored carrier status screening. Actionable pharmacogenomic variants were identified in almost all participants, informing drug prescriptions. This work establishes a genomic resource and a transferable model for equitable precision medicine in underrepresented populations worldwide.",
+    "abstract": "Nature Medicine, Published online: 12 June 2026; doi:10.1038/s41591-026-04421-7 The Hong Kong Genome Project established a genome sequencing database that provides improved diagnoses for patients and more efficient, population-tailored carrier status screening. Actionable pharmacogenomic variants were identified in almost all participants, informing drug prescriptions. This work establishes a genomic resource and a transferable model for equitable precision medicine in underrepresented populations worldwide.",
+    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41591-026-04421-7/MediaObjects/41591_2026_4421_Fig1_HTML.png",
+    "topic": "default",
     "topic_color": "#60a5fa",
     "priority_score": 0
   },
@@ -429,19 +455,6 @@
     "priority_score": 0
   },
   {
-    "title": "SIRT7 regulates dosage compensation and safeguards the female X&#xa0;chromosome",
-    "link": "https://www.nature.com/articles/s41586-026-10645-x",
-    "journal": "Nature",
-    "source_type": "journal",
-    "date": "2026-06-10",
-    "summary": "Nature, Published online: 10 June 2026; doi:10.1038/s41586-026-10645-x SIRT7 safeguards X-chromosome integrity and dosage balance with autosomes.",
-    "abstract": "Sirtuins are deacetylases implicated in stress responses and longevity in mammals1,2. Although their differential impact on disease for the two sexes has been noted3–7, the underlying reasons are unclear. Here, using Sirt7 as a model in mice, we examine the mechanisms leading to sex differences and find that Sirt7−/− female mice have decreased fitness throughout their lifespan. Notably, SIRT7 preferentially localizes to the sex chromosomes. In female individuals, SIRT7 loss affects X-chromosome inactivation, the first arm of dosage compensation that equalizes X-linked gene expression between males and females8–10. Xist is overexpressed and gene silencing becomes more efficient. However, SIRT7 loss has greatest impact on the active X (Xa) chromosome. The Xa chromosome becomes hyperacetylated at Lys36 of histone H3, structurally disorganized, prone to DNA damage and overexpressed. Increased Xa-chromosome expression leads to genome imbalance and augmented X-chromosome upregulation—the second arm of dosage compensation that balances X-chromosome versus autosomal gene expression. These data reveal an essential crosstalk between sirtuins and the sex chromosomes, with SIRT7 safeguarding X-chromosome integrity and dosage balance with autosomes. We propose that the sex bias in SIRT7 biology can be explained in part by unequal effects on the sex chromosomes. SIRT7 safeguards X-chromosome integrity and dosage balance with autosomes.",
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-10645-x/MediaObjects/41586_2026_10645_Fig1_HTML.png",
-    "topic": "default",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
     "title": "Triple-N dataset: large-scale fMRI-guided dense recordings of nonhuman primate neural responses to natural scenes",
     "link": "https://www.nature.com/articles/s41593-026-02322-z",
     "journal": "Nature Neuroscience",
@@ -528,19 +541,6 @@
     "summary": "Nature Medicine, Published online: 09 June 2026; doi:10.1038/s41591-026-04482-8 Bundibugyo Ebola without vaccines or therapeutics: why public health fundamentals matter more than border closures",
     "abstract": "Nature Medicine, Published online: 09 June 2026; doi:10.1038/s41591-026-04482-8 Bundibugyo Ebola without vaccines or therapeutics: why public health fundamentals matter more than border closures",
     "image": "data:image/svg+xml;charset=utf-8,%0A%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23111827%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23374151%22/%3E%0A%20%20%20%20%3C/linearGradient%3E%0A%20%20%20%20%3Cfilter%20id%3D%22blur%22%3E%0A%20%20%20%20%20%20%3CfeGaussianBlur%20stdDeviation%3D%2230%22/%3E%0A%20%20%20%20%3C/filter%3E%0A%20%20%3C/defs%3E%0A%0A%20%20%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22url%28%23bg%29%22/%3E%0A%0A%20%20%3Ccircle%20cx%3D%221030%22%20cy%3D%22110%22%20r%3D%22170%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.18%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%20%20%3Ccircle%20cx%3D%22180%22%20cy%3D%22560%22%20r%3D%22150%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.16%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%0A%20%20%3Crect%20x%3D%2256%22%20y%3D%2252%22%20rx%3D%2218%22%20ry%3D%2218%22%20width%3D%22260%22%20height%3D%2254%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.08%29%22/%3E%0A%20%20%3Ctext%20x%3D%2284%22%20y%3D%2287%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2228%22%20fill%3D%22%23e5e7eb%22%3ENature%20Medicine%3C/text%3E%0A%0A%20%20%3Ctext%20x%3D%221010%22%20y%3D%22560%22%0A%20%20%20%20%20%20%20%20text-anchor%3D%22middle%22%0A%20%20%20%20%20%20%20%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%0A%20%20%20%20%20%20%20%20font-size%3D%22160%22%0A%20%20%20%20%20%20%20%20fill%3D%22%2360a5fa%22%0A%20%20%20%20%20%20%20%20opacity%3D%220.85%22%3E%0A%20%20%20%20%E2%80%A2%0A%20%20%3C/text%3E%0A%3C/svg%3E%0A",
-    "topic": "default",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
-    "title": "Adjuvanted inactivated rabies virus-vectored Lassa virus vaccine in healthy adults: a phase 1 trial",
-    "link": "https://www.nature.com/articles/s41591-026-04429-z",
-    "journal": "Nature Medicine",
-    "source_type": "journal",
-    "date": "2026-06-09",
-    "summary": "Nature Medicine, Published online: 09 June 2026; doi:10.1038/s41591-026-04429-z An interim report of a first-in-human phase 1 trial found an adjuvanted, combination inactivated rabies-vectored, Lassa fever vaccine (LASSARAB + 3D-6-acyl PHAD-SE) to be safe and induced immunogenicity to both Lassa and rabies viruses in healthy participants.",
-    "abstract": "Nature Medicine, Published online: 09 June 2026; doi:10.1038/s41591-026-04429-z An interim report of a first-in-human phase 1 trial found an adjuvanted, combination inactivated rabies-vectored, Lassa fever vaccine (LASSARAB + 3D-6-acyl PHAD-SE) to be safe and induced immunogenicity to both Lassa and rabies viruses in healthy participants.",
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41591-026-04429-z/MediaObjects/41591_2026_4429_Fig1_HTML.png",
     "topic": "default",
     "topic_color": "#60a5fa",
     "priority_score": 0
