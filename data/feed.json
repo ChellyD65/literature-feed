@@ -1,16 +1,29 @@
 [
   {
-    "title": "Microglia at a key inflection point in Alzheimer’s disease",
-    "link": "https://www.nature.com/articles/s41591-026-04409-3",
-    "journal": "Nature Medicine",
+    "title": "Publisher Correction: TGFβ signaling mediates microglial resilience to spatiotemporally restricted myelin degeneration",
+    "link": "https://www.nature.com/articles/s41593-026-02361-6",
+    "journal": "Nature Neuroscience",
     "source_type": "journal",
-    "date": "2026-06-11",
-    "summary": "Nature Medicine, Published online: 11 June 2026; doi:10.1038/s41591-026-04409-3 We analyzed brains from octogenarians and cognitively resilient centenarians to understand why some individuals with substantial Alzheimer’s disease pathology develop dementia whereas others remain cognitively intact. Spatial transcriptomics revealed gene expression changes in discrete tissue domains surrounding amyloid plaques and tau pathology that distinguish early, clinically silent, disease from later stages associated with cognitive decline.",
-    "abstract": "Nature Medicine, Published online: 11 June 2026; doi:10.1038/s41591-026-04409-3 We analyzed brains from octogenarians and cognitively resilient centenarians to understand why some individuals with substantial Alzheimer’s disease pathology develop dementia whereas others remain cognitively intact. Spatial transcriptomics revealed gene expression changes in discrete tissue domains surrounding amyloid plaques and tau pathology that distinguish early, clinically silent, disease from later stages associated with cognitive decline.",
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41591-026-04409-3/MediaObjects/41591_2026_4409_Fig1_HTML.png",
+    "date": "2026-06-15",
+    "summary": "Nature Neuroscience, Published online: 15 June 2026; doi:10.1038/s41593-026-02361-6 Publisher Correction: TGFβ signaling mediates microglial resilience to spatiotemporally restricted myelin degeneration",
+    "abstract": "Nature Neuroscience, Published online: 15 June 2026; doi:10.1038/s41593-026-02361-6 Publisher Correction: TGFβ signaling mediates microglial resilience to spatiotemporally restricted myelin degeneration",
+    "image": "data:image/svg+xml;charset=utf-8,%0A%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%230f172a%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%230b3b5a%22/%3E%0A%20%20%20%20%3C/linearGradient%3E%0A%20%20%20%20%3Cfilter%20id%3D%22blur%22%3E%0A%20%20%20%20%20%20%3CfeGaussianBlur%20stdDeviation%3D%2230%22/%3E%0A%20%20%20%20%3C/filter%3E%0A%20%20%3C/defs%3E%0A%0A%20%20%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22url%28%23bg%29%22/%3E%0A%0A%20%20%3Ccircle%20cx%3D%221030%22%20cy%3D%22110%22%20r%3D%22170%22%20fill%3D%22%2338bdf8%22%20opacity%3D%220.18%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%20%20%3Ccircle%20cx%3D%22180%22%20cy%3D%22560%22%20r%3D%22150%22%20fill%3D%22%2338bdf8%22%20opacity%3D%220.16%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%0A%20%20%3Crect%20x%3D%2256%22%20y%3D%2252%22%20rx%3D%2218%22%20ry%3D%2218%22%20width%3D%22260%22%20height%3D%2254%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.08%29%22/%3E%0A%20%20%3Ctext%20x%3D%2284%22%20y%3D%2287%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2228%22%20fill%3D%22%23e5e7eb%22%3ENature%20Neuroscience%3C/text%3E%0A%0A%20%20%3Ctext%20x%3D%221010%22%20y%3D%22560%22%0A%20%20%20%20%20%20%20%20text-anchor%3D%22middle%22%0A%20%20%20%20%20%20%20%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%0A%20%20%20%20%20%20%20%20font-size%3D%22160%22%0A%20%20%20%20%20%20%20%20fill%3D%22%2338bdf8%22%0A%20%20%20%20%20%20%20%20opacity%3D%220.85%22%3E%0A%20%20%20%20%E2%9C%B6%0A%20%20%3C/text%3E%0A%3C/svg%3E%0A",
     "topic": "microglia",
     "topic_color": "#38bdf8",
-    "priority_score": 150
+    "priority_score": 172
+  },
+  {
+    "title": "Pyoderma gangrenosum caused by the molecular uncoupling of OTULIN catalytic activity and LUBAC binding",
+    "link": "https://www.nature.com/articles/s41590-026-02568-6",
+    "journal": "Nature Immunology",
+    "source_type": "journal",
+    "date": "2026-06-15",
+    "summary": "Nature Immunology, Published online: 15 June 2026; doi:10.1038/s41590-026-02568-6 Some patients with pyoderma gangrenosum harbor a mutation (R57C) in OTULIN that disrupts the interaction between OTULIN and LUBAC leading to hyperactivation in monocytes and enhanced susceptibility of keratinocytes to TNF-induced, caspase-dependent cell death. One patient treated with anti-TNF therapy showed clinical remission of skin ulceration.",
+    "abstract": "Nature Immunology, Published online: 15 June 2026; doi:10.1038/s41590-026-02568-6 Some patients with pyoderma gangrenosum harbor a mutation (R57C) in OTULIN that disrupts the interaction between OTULIN and LUBAC leading to hyperactivation in monocytes and enhanced susceptibility of keratinocytes to TNF-induced, caspase-dependent cell death. One patient treated with anti-TNF therapy showed clinical remission of skin ulceration.",
+    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41590-026-02568-6/MediaObjects/41590_2026_2568_Fig1_HTML.png",
+    "topic": "Immunology",
+    "topic_color": "#60a5fa",
+    "priority_score": 93
   },
   {
     "title": "Blood signatures of cell type-specific aging forecast disease risk and resilience",
@@ -37,6 +50,19 @@
     "topic": "retina",
     "topic_color": "#f472b6",
     "priority_score": 89
+  },
+  {
+    "title": "A temporal map of B cell diversification mechanisms in mice",
+    "link": "https://www.nature.com/articles/s41590-026-02563-x",
+    "journal": "Nature Immunology",
+    "source_type": "journal",
+    "date": "2026-06-15",
+    "summary": "Nature Immunology, Published online: 15 June 2026; doi:10.1038/s41590-026-02563-x Here, the authors conduct integrated multiomics analysis of B cell activation, differentiation and diversification responses to malaria infection and provide a graphical user interface for readers to mine these data.",
+    "abstract": "Nature Immunology, Published online: 15 June 2026; doi:10.1038/s41590-026-02563-x Here, the authors conduct integrated multiomics analysis of B cell activation, differentiation and diversification responses to malaria infection and provide a graphical user interface for readers to mine these data.",
+    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41590-026-02563-x/MediaObjects/41590_2026_2563_Fig1_HTML.png",
+    "topic": "High-Signal Discovery",
+    "topic_color": "#60a5fa",
+    "priority_score": 81
   },
   {
     "title": "Human vaccine responses regulated by parallel cytokine pathways",
@@ -104,17 +130,17 @@
     "priority_score": 35
   },
   {
-    "title": "The embryonic origins of site-specific arthritis",
-    "link": "https://www.nature.com/articles/s41590-026-02542-2",
-    "journal": "Nature Immunology",
+    "title": "Nanocrystal-tailored recombination for all-perovskite tandem solar modules",
+    "link": "https://www.nature.com/articles/s41586-026-10768-1",
+    "journal": "Nature",
     "source_type": "journal",
-    "date": "2026-06-08",
-    "summary": "Nature Immunology, Published online: 08 June 2026; doi:10.1038/s41590-026-02542-2 Davidson et al. map the cellular and structural composition of developing joints and identify fibroblast populations that may predispose joints to inflammatory arthritis.",
-    "abstract": "Nature Immunology, Published online: 08 June 2026; doi:10.1038/s41590-026-02542-2 Davidson et al. map the cellular and structural composition of developing joints and identify fibroblast populations that may predispose joints to inflammatory arthritis.",
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41590-026-02542-2/MediaObjects/41590_2026_2542_Fig1_HTML.png",
-    "topic": "inflammation",
-    "topic_color": "#fb7185",
-    "priority_score": 29
+    "date": "2026-06-15",
+    "summary": "Nature, Published online: 15 June 2026; doi:10.1038/s41586-026-10768-1 Nanocrystal-tailored recombination for all-perovskite tandem solar modules",
+    "abstract": "The commercialization of all-perovskite tandem solar modules is hindered by the reliance on the conventional gold-based tunnel recombination junction (TRJ)1,2. Specifically, this TRJ introduces substantial near-infrared parasitic absorption3 and suffers from interfacial instability4, limiting both photocurrent generation and operational durability. Here, we develop a solution-processed interconnecting layer based on surface-engineered indium oxide (In2O3) nanocrystals featuring high optical transparency, wherein controlled nanocrystal morphology and tailored ligand chemistry enable smooth interfacial contact and favorable energy level alignment. Critically, we introduce a phosphonic acid additive into the lead–tin (Pb–Sn) perovskite precursor, which synergistically improves the electronic contact with the In2O3 recombination layer, thereby enhancing hole extraction. In addition, the additive regulates perovskite crystallization to mitigate residual strain during film formation, ensuring high-quality large-area deposits. This coordinated interfacial and crystallization engineering strategy simultaneously enhances carrier recombination efficiency at the interconnection layer, improves carrier extraction, and promotes large-area film uniformity in all-perovskite tandems. As a result, a 65-cm2 all-perovskite tandem solar module achieves a certified power conversion efficiency of 26.2%5, with an open-circuit voltage of 2.182 V, a fill factor of 77.4%, and a short-circuit current density of 15.6 mA cm-2 in terms of averaged subcell performance, measured by Japan Electrical Safety and Environment Technology Laboratories (JET). This marks a significant advance toward scalable perovskite tandem photovoltaics.",
+    "image": "data:image/svg+xml;charset=utf-8,%0A%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23111827%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23374151%22/%3E%0A%20%20%20%20%3C/linearGradient%3E%0A%20%20%20%20%3Cfilter%20id%3D%22blur%22%3E%0A%20%20%20%20%20%20%3CfeGaussianBlur%20stdDeviation%3D%2230%22/%3E%0A%20%20%20%20%3C/filter%3E%0A%20%20%3C/defs%3E%0A%0A%20%20%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22url%28%23bg%29%22/%3E%0A%0A%20%20%3Ccircle%20cx%3D%221030%22%20cy%3D%22110%22%20r%3D%22170%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.18%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%20%20%3Ccircle%20cx%3D%22180%22%20cy%3D%22560%22%20r%3D%22150%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.16%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%0A%20%20%3Crect%20x%3D%2256%22%20y%3D%2252%22%20rx%3D%2218%22%20ry%3D%2218%22%20width%3D%22260%22%20height%3D%2254%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.08%29%22/%3E%0A%20%20%3Ctext%20x%3D%2284%22%20y%3D%2287%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2228%22%20fill%3D%22%23e5e7eb%22%3ENature%3C/text%3E%0A%0A%20%20%3Ctext%20x%3D%221010%22%20y%3D%22560%22%0A%20%20%20%20%20%20%20%20text-anchor%3D%22middle%22%0A%20%20%20%20%20%20%20%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%0A%20%20%20%20%20%20%20%20font-size%3D%22160%22%0A%20%20%20%20%20%20%20%20fill%3D%22%2360a5fa%22%0A%20%20%20%20%20%20%20%20opacity%3D%220.85%22%3E%0A%20%20%20%20%E2%80%A2%0A%20%20%3C/text%3E%0A%3C/svg%3E%0A",
+    "topic": "default",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
   },
   {
     "title": "Bones of Iron Age skeleton were whittled into tools",
@@ -130,6 +156,19 @@
     "priority_score": 0
   },
   {
+    "title": "Sperm quality improves in people taking potent obesity drugs",
+    "link": "https://www.nature.com/articles/d41586-026-01867-0",
+    "journal": "Nature",
+    "source_type": "journal",
+    "date": "2026-06-15",
+    "summary": "Nature, Published online: 15 June 2026; doi:10.1038/d41586-026-01867-0 Preliminary study finds that testosterone levels increase or stabilize in people taking GLP-1 medications.",
+    "abstract": "Nature, Published online: 15 June 2026; doi:10.1038/d41586-026-01867-0 Preliminary study finds that testosterone levels increase or stabilize in people taking GLP-1 medications.",
+    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-01867-0/d41586-026-01867-0_52538586.jpg",
+    "topic": "default",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
     "title": "Why people should work together to shape the economy",
     "link": "https://www.nature.com/articles/d41586-026-01889-8",
     "journal": "Nature",
@@ -138,6 +177,19 @@
     "summary": "Nature, Published online: 15 June 2026; doi:10.1038/d41586-026-01889-8 An economist sets out how communities can direct economic decisions and not just endure their consequences.",
     "abstract": "Nature, Published online: 15 June 2026; doi:10.1038/d41586-026-01889-8 An economist sets out how communities can direct economic decisions and not just endure their consequences.",
     "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-01889-8/d41586-026-01889-8_52539668.jpg",
+    "topic": "default",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
+    "title": "At-home brain implant gives man with motor neuron disease his daily life back",
+    "link": "https://www.nature.com/articles/d41586-026-01863-4",
+    "journal": "Nature",
+    "source_type": "journal",
+    "date": "2026-06-15",
+    "summary": "Nature, Published online: 15 June 2026; doi:10.1038/d41586-026-01863-4 The device has helped a man with motor neuron disease communicate and control his computer for nearly two years.",
+    "abstract": "Nature, Published online: 15 June 2026; doi:10.1038/d41586-026-01863-4 The device has helped a man with motor neuron disease communicate and control his computer for nearly two years.",
+    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-01863-4/d41586-026-01863-4_52657838.jpg",
     "topic": "default",
     "topic_color": "#60a5fa",
     "priority_score": 0
@@ -208,6 +260,19 @@
     "priority_score": 0
   },
   {
+    "title": "mRNA-based influenza vaccine expands the B cell response breadth in humans",
+    "link": "https://www.nature.com/articles/s41590-026-02569-5",
+    "journal": "Nature Immunology",
+    "source_type": "journal",
+    "date": "2026-06-15",
+    "summary": "Nature Immunology, Published online: 15 June 2026; doi:10.1038/s41590-026-02569-5 This study compares the humoral response of individuals who received inactivated influenza vaccines to that of individuals who received an mRNA-based quadrivalent influenza vaccine. The mRNA-based vaccine induced prolonged germinal center responses, more antibodies and increased numbers of memory B cells.",
+    "abstract": "Nature Immunology, Published online: 15 June 2026; doi:10.1038/s41590-026-02569-5 This study compares the humoral response of individuals who received inactivated influenza vaccines to that of individuals who received an mRNA-based quadrivalent influenza vaccine. The mRNA-based vaccine induced prolonged germinal center responses, more antibodies and increased numbers of memory B cells.",
+    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41590-026-02569-5/MediaObjects/41590_2026_2569_Fig1_HTML.png",
+    "topic": "immunology",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
     "title": "Plasma proteomic signatures of cellular aging predict human disease",
     "link": "https://www.nature.com/articles/s41591-026-04446-y",
     "journal": "Nature Medicine",
@@ -216,6 +281,19 @@
     "summary": "Nature Medicine, Published online: 15 June 2026; doi:10.1038/s41591-026-04446-y The biological age of individual cell types can be evaluated using plasma proteomics, revealing diverse aging profiles across more than 40 cell types and links between the accelerated aging of specific cell types and disease.",
     "abstract": "Nature Medicine, Published online: 15 June 2026; doi:10.1038/s41591-026-04446-y The biological age of individual cell types can be evaluated using plasma proteomics, revealing diverse aging profiles across more than 40 cell types and links between the accelerated aging of specific cell types and disease.",
     "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41591-026-04446-y/MediaObjects/41591_2026_4446_Fig1_HTML.png",
+    "topic": "default",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
+    "title": "Long-term independent use of an intracortical brain–computer interface for speech and cursor control",
+    "link": "https://www.nature.com/articles/s41591-026-04414-6",
+    "journal": "Nature Medicine",
+    "source_type": "journal",
+    "date": "2026-06-15",
+    "summary": "Nature Medicine, Published online: 15 June 2026; doi:10.1038/s41591-026-04414-6 An automated intracortical brain–computer interface, used at home with no researcher intervention, provides long-term and accurate restoration of speech-based communication and cursor-based computer usage in a person with severe dysarthria due to amyotrophic lateral sclerosis.",
+    "abstract": "Nature Medicine, Published online: 15 June 2026; doi:10.1038/s41591-026-04414-6 An automated intracortical brain–computer interface, used at home with no researcher intervention, provides long-term and accurate restoration of speech-based communication and cursor-based computer usage in a person with severe dysarthria due to amyotrophic lateral sclerosis.",
+    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41591-026-04414-6/MediaObjects/41591_2026_4414_Fig1_HTML.png",
     "topic": "default",
     "topic_color": "#60a5fa",
     "priority_score": 0
@@ -307,32 +385,6 @@
     "summary": "Nature, Published online: 12 June 2026; doi:10.1038/d41586-026-01902-0 Video blogger’s viral accusations of data manipulation in Nature journals have sparked intense debate and speedy institutional investigations.",
     "abstract": "Video blogger’s viral accusations of data manipulation in Nature journals have sparked intense debate and speedy institutional investigations. Video blogger’s viral accusations of data manipulation in Nature journals have sparked intense debate and speedy institutional investigations.",
     "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-01902-0/d41586-026-01902-0_52543952.jpg",
-    "topic": "default",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
-    "title": "Humans outperform AI at this highly rigorous mathematics test",
-    "link": "https://www.nature.com/articles/d41586-026-01888-9",
-    "journal": "Nature",
-    "source_type": "journal",
-    "date": "2026-06-12",
-    "summary": "Nature, Published online: 12 June 2026; doi:10.1038/d41586-026-01888-9 A new benchmark pitting AI against previously unseen maths problems shows that systems still fall short of top human expertise.",
-    "abstract": "A new benchmark pitting AI against previously unseen maths problems shows that systems still fall short of top human expertise. A new benchmark pitting AI against previously unseen maths problems shows that systems still fall short of top human expertise.",
-    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-01888-9/d41586-026-01888-9_52539566.jpg",
-    "topic": "default",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
-    "title": "An innovative technology boosts image quality for protein structures",
-    "link": "https://www.nature.com/articles/d41586-026-01858-1",
-    "journal": "Nature",
-    "source_type": "journal",
-    "date": "2026-06-12",
-    "summary": "Nature, Published online: 12 June 2026; doi:10.1038/d41586-026-01858-1 After years of effort, two research teams have developed ‘laser phase plate’ systems that could help cryo-electron-microscopy users to generate high-quality structures for a broad range of proteins.",
-    "abstract": "Nature, Published online: 12 June 2026; doi:10.1038/d41586-026-01858-1 After years of effort, two research teams have developed ‘laser phase plate’ systems that could help cryo-electron-microscopy users to generate high-quality structures for a broad range of proteins.",
-    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-01858-1/d41586-026-01858-1_52539526.jpg",
     "topic": "default",
     "topic_color": "#60a5fa",
     "priority_score": 0
@@ -494,19 +546,6 @@
     "priority_score": 0
   },
   {
-    "title": "Author Correction: Plasticity and language in the anaesthetized human hippocampus",
-    "link": "https://www.nature.com/articles/s41586-026-10784-1",
-    "journal": "Nature",
-    "source_type": "journal",
-    "date": "2026-06-11",
-    "summary": "Nature, Published online: 11 June 2026; doi:10.1038/s41586-026-10784-1 Author Correction: Plasticity and language in the anaesthetized human hippocampus",
-    "abstract": "Nature, Published online: 11 June 2026; doi:10.1038/s41586-026-10784-1 Author Correction: Plasticity and language in the anaesthetized human hippocampus",
-    "image": "data:image/svg+xml;charset=utf-8,%0A%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23111827%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23374151%22/%3E%0A%20%20%20%20%3C/linearGradient%3E%0A%20%20%20%20%3Cfilter%20id%3D%22blur%22%3E%0A%20%20%20%20%20%20%3CfeGaussianBlur%20stdDeviation%3D%2230%22/%3E%0A%20%20%20%20%3C/filter%3E%0A%20%20%3C/defs%3E%0A%0A%20%20%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22url%28%23bg%29%22/%3E%0A%0A%20%20%3Ccircle%20cx%3D%221030%22%20cy%3D%22110%22%20r%3D%22170%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.18%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%20%20%3Ccircle%20cx%3D%22180%22%20cy%3D%22560%22%20r%3D%22150%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.16%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%0A%20%20%3Crect%20x%3D%2256%22%20y%3D%2252%22%20rx%3D%2218%22%20ry%3D%2218%22%20width%3D%22260%22%20height%3D%2254%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.08%29%22/%3E%0A%20%20%3Ctext%20x%3D%2284%22%20y%3D%2287%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2228%22%20fill%3D%22%23e5e7eb%22%3ENature%3C/text%3E%0A%0A%20%20%3Ctext%20x%3D%221010%22%20y%3D%22560%22%0A%20%20%20%20%20%20%20%20text-anchor%3D%22middle%22%0A%20%20%20%20%20%20%20%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%0A%20%20%20%20%20%20%20%20font-size%3D%22160%22%0A%20%20%20%20%20%20%20%20fill%3D%22%2360a5fa%22%0A%20%20%20%20%20%20%20%20opacity%3D%220.85%22%3E%0A%20%20%20%20%E2%80%A2%0A%20%20%3C/text%3E%0A%3C/svg%3E%0A",
-    "topic": "default",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
     "title": "Study finds sharp decline in Black, Hispanic researchers receiving NIH funding",
     "link": "https://www.science.org/content/article/study-finds-sharp-decline-black-hispanic-researchers-receiving-nih-funding",
     "journal": "Science",
@@ -572,19 +611,6 @@
     "priority_score": 0
   },
   {
-    "title": "Human learning of noninvasive brain–computer interfaces via manifold geometry",
-    "link": "https://www.nature.com/articles/s41593-026-02311-2",
-    "journal": "Nature Neuroscience",
-    "source_type": "journal",
-    "date": "2026-06-09",
-    "summary": "Nature Neuroscience, Published online: 09 June 2026; doi:10.1038/s41593-026-02311-2 Busch et al. use nonlinear neural manifolds to help humans gain rapid control over a noninvasive brain–computer interface, allowing them to learn how to play a video game with real-time fMRI neurofeedback from cognitive brain regions.",
-    "abstract": "Nature Neuroscience, Published online: 09 June 2026; doi:10.1038/s41593-026-02311-2 Busch et al. use nonlinear neural manifolds to help humans gain rapid control over a noninvasive brain–computer interface, allowing them to learn how to play a video game with real-time fMRI neurofeedback from cognitive brain regions.",
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41593-026-02311-2/MediaObjects/41593_2026_2311_Fig1_HTML.png",
-    "topic": "neuroscience",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
     "title": "Kernel embeddings and the separation of measure phenomenon",
     "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2522504123?af=R",
     "journal": "PNAS",
@@ -620,32 +646,6 @@
     "abstract": "Proceedings of the National Academy of Sciences, Volume 123, Issue 23, June 2026. SignificanceThe vibrancy of United States university science and engineering research depends on the competitive interactions of research faculty who win federal grants for support. Mean field game theory gives a framework for understanding the impact of ...",
     "image": "data:image/svg+xml;charset=utf-8,%0A%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23111827%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23374151%22/%3E%0A%20%20%20%20%3C/linearGradient%3E%0A%20%20%20%20%3Cfilter%20id%3D%22blur%22%3E%0A%20%20%20%20%20%20%3CfeGaussianBlur%20stdDeviation%3D%2230%22/%3E%0A%20%20%20%20%3C/filter%3E%0A%20%20%3C/defs%3E%0A%0A%20%20%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22url%28%23bg%29%22/%3E%0A%0A%20%20%3Ccircle%20cx%3D%221030%22%20cy%3D%22110%22%20r%3D%22170%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.18%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%20%20%3Ccircle%20cx%3D%22180%22%20cy%3D%22560%22%20r%3D%22150%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.16%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%0A%20%20%3Crect%20x%3D%2256%22%20y%3D%2252%22%20rx%3D%2218%22%20ry%3D%2218%22%20width%3D%22260%22%20height%3D%2254%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.08%29%22/%3E%0A%20%20%3Ctext%20x%3D%2284%22%20y%3D%2287%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2228%22%20fill%3D%22%23e5e7eb%22%3EPNAS%3C/text%3E%0A%0A%20%20%3Ctext%20x%3D%221010%22%20y%3D%22560%22%0A%20%20%20%20%20%20%20%20text-anchor%3D%22middle%22%0A%20%20%20%20%20%20%20%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%0A%20%20%20%20%20%20%20%20font-size%3D%22160%22%0A%20%20%20%20%20%20%20%20fill%3D%22%2360a5fa%22%0A%20%20%20%20%20%20%20%20opacity%3D%220.85%22%3E%0A%20%20%20%20%E2%80%A2%0A%20%20%3C/text%3E%0A%3C/svg%3E%0A",
     "topic": "default",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
-    "title": "Affinity maturation of AAN-I-IFNs",
-    "link": "https://www.nature.com/articles/s41590-026-02553-z",
-    "journal": "Nature Immunology",
-    "source_type": "journal",
-    "date": "2026-06-02",
-    "summary": "Nature Immunology, Published online: 02 June 2026; doi:10.1038/s41590-026-02553-z Affinity maturation of AAN-I-IFNs",
-    "abstract": "Nature Immunology, Published online: 02 June 2026; doi:10.1038/s41590-026-02553-z Affinity maturation of AAN-I-IFNs",
-    "image": "data:image/svg+xml;charset=utf-8,%0A%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23111827%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23374151%22/%3E%0A%20%20%20%20%3C/linearGradient%3E%0A%20%20%20%20%3Cfilter%20id%3D%22blur%22%3E%0A%20%20%20%20%20%20%3CfeGaussianBlur%20stdDeviation%3D%2230%22/%3E%0A%20%20%20%20%3C/filter%3E%0A%20%20%3C/defs%3E%0A%0A%20%20%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22url%28%23bg%29%22/%3E%0A%0A%20%20%3Ccircle%20cx%3D%221030%22%20cy%3D%22110%22%20r%3D%22170%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.18%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%20%20%3Ccircle%20cx%3D%22180%22%20cy%3D%22560%22%20r%3D%22150%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.16%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%0A%20%20%3Crect%20x%3D%2256%22%20y%3D%2252%22%20rx%3D%2218%22%20ry%3D%2218%22%20width%3D%22260%22%20height%3D%2254%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.08%29%22/%3E%0A%20%20%3Ctext%20x%3D%2284%22%20y%3D%2287%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2228%22%20fill%3D%22%23e5e7eb%22%3ENature%20Immunology%3C/text%3E%0A%0A%20%20%3Ctext%20x%3D%221010%22%20y%3D%22560%22%0A%20%20%20%20%20%20%20%20text-anchor%3D%22middle%22%0A%20%20%20%20%20%20%20%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%0A%20%20%20%20%20%20%20%20font-size%3D%22160%22%0A%20%20%20%20%20%20%20%20fill%3D%22%2360a5fa%22%0A%20%20%20%20%20%20%20%20opacity%3D%220.85%22%3E%0A%20%20%20%20%E2%80%A2%0A%20%20%3C/text%3E%0A%3C/svg%3E%0A",
-    "topic": "immunology",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
-    "title": "OXPHOS fuels cDC1s",
-    "link": "https://www.nature.com/articles/s41590-026-02551-1",
-    "journal": "Nature Immunology",
-    "source_type": "journal",
-    "date": "2026-06-02",
-    "summary": "Nature Immunology, Published online: 02 June 2026; doi:10.1038/s41590-026-02551-1 OXPHOS fuels cDC1s",
-    "abstract": "Nature Immunology, Published online: 02 June 2026; doi:10.1038/s41590-026-02551-1 OXPHOS fuels cDC1s",
-    "image": "data:image/svg+xml;charset=utf-8,%0A%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23111827%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23374151%22/%3E%0A%20%20%20%20%3C/linearGradient%3E%0A%20%20%20%20%3Cfilter%20id%3D%22blur%22%3E%0A%20%20%20%20%20%20%3CfeGaussianBlur%20stdDeviation%3D%2230%22/%3E%0A%20%20%20%20%3C/filter%3E%0A%20%20%3C/defs%3E%0A%0A%20%20%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22url%28%23bg%29%22/%3E%0A%0A%20%20%3Ccircle%20cx%3D%221030%22%20cy%3D%22110%22%20r%3D%22170%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.18%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%20%20%3Ccircle%20cx%3D%22180%22%20cy%3D%22560%22%20r%3D%22150%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.16%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%0A%20%20%3Crect%20x%3D%2256%22%20y%3D%2252%22%20rx%3D%2218%22%20ry%3D%2218%22%20width%3D%22260%22%20height%3D%2254%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.08%29%22/%3E%0A%20%20%3Ctext%20x%3D%2284%22%20y%3D%2287%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2228%22%20fill%3D%22%23e5e7eb%22%3ENature%20Immunology%3C/text%3E%0A%0A%20%20%3Ctext%20x%3D%221010%22%20y%3D%22560%22%0A%20%20%20%20%20%20%20%20text-anchor%3D%22middle%22%0A%20%20%20%20%20%20%20%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%0A%20%20%20%20%20%20%20%20font-size%3D%22160%22%0A%20%20%20%20%20%20%20%20fill%3D%22%2360a5fa%22%0A%20%20%20%20%20%20%20%20opacity%3D%220.85%22%3E%0A%20%20%20%20%E2%80%A2%0A%20%20%3C/text%3E%0A%3C/svg%3E%0A",
-    "topic": "immunology",
     "topic_color": "#60a5fa",
     "priority_score": 0
   },
