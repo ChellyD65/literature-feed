@@ -13,6 +13,19 @@
     "priority_score": 172
   },
   {
+    "title": "CAR T cells take on precancers",
+    "link": "https://www.nature.com/articles/s41591-026-04473-9",
+    "journal": "Nature Medicine",
+    "source_type": "journal",
+    "date": "2026-06-17",
+    "summary": "Nature Medicine, Published online: 17 June 2026; doi:10.1038/s41591-026-04473-9 CAR T cell therapy can induce deep responses but also severe toxicities in patients with smoldering myeloma, an asymptomatic cancer precursor; given the potential risks and benefits, its success depends on careful patient selection.",
+    "abstract": "Nature Medicine, Published online: 17 June 2026; doi:10.1038/s41591-026-04473-9 CAR T cell therapy can induce deep responses but also severe toxicities in patients with smoldering myeloma, an asymptomatic cancer precursor; given the potential risks and benefits, its success depends on careful patient selection.",
+    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41591-026-04473-9/MediaObjects/41591_2026_4473_Fig1_HTML.png",
+    "topic": "Immunology",
+    "topic_color": "#60a5fa",
+    "priority_score": 133
+  },
+  {
     "title": "Pyoderma gangrenosum caused by the molecular uncoupling of OTULIN catalytic activity and LUBAC binding",
     "link": "https://www.nature.com/articles/s41590-026-02568-6",
     "journal": "Nature Immunology",
@@ -117,17 +130,17 @@
     "priority_score": 50
   },
   {
-    "title": "Activity-dependent adaptive deep brain stimulation improves gait in Parkinson’s disease",
-    "link": "https://www.nature.com/articles/s41591-026-04432-4",
+    "title": "Why large-scale randomized trials of live-attenuated shingles vaccination for dementia prevention are urgently needed",
+    "link": "https://www.nature.com/articles/s41591-026-04474-8",
     "journal": "Nature Medicine",
     "source_type": "journal",
-    "date": "2026-06-15",
-    "summary": "Nature Medicine, Published online: 15 June 2026; doi:10.1038/s41591-026-04432-4 Neural decoding algorithms that leverage physiological principles of locomotor encoding support activity-dependent deep brain stimulation therapies that improve locomotor deficits in people with Parkinson’s disease.",
-    "abstract": "Nature Medicine, Published online: 15 June 2026; doi:10.1038/s41591-026-04432-4 Neural decoding algorithms that leverage physiological principles of locomotor encoding support activity-dependent deep brain stimulation therapies that improve locomotor deficits in people with Parkinson’s disease.",
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41591-026-04432-4/MediaObjects/41591_2026_4432_Fig1_HTML.png",
+    "date": "2026-06-17",
+    "summary": "Nature Medicine, Published online: 17 June 2026; doi:10.1038/s41591-026-04474-8 In my view, we have never had as robust a body of evidence from observational data on an intervention for dementia as we do for live-attenuated shingles vaccination. Both a recent US National Institutes of Health expert workshop and an international expert consensus on Alzheimer’s disease drug repurposing identified large-scale randomized trials of shingles vaccination for dementia prevention as the crucial next step for the field.",
+    "abstract": "Nature Medicine, Published online: 17 June 2026; doi:10.1038/s41591-026-04474-8 In my view, we have never had as robust a body of evidence from observational data on an intervention for dementia as we do for live-attenuated shingles vaccination. Both a recent US National Institutes of Health expert workshop and an international expert consensus on Alzheimer’s disease drug repurposing identified large-scale randomized trials of shingles vaccination for dementia prevention as the crucial next step for the field.",
+    "image": "data:image/svg+xml;charset=utf-8,%0A%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%2327272a%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2352525b%22/%3E%0A%20%20%20%20%3C/linearGradient%3E%0A%20%20%20%20%3Cfilter%20id%3D%22blur%22%3E%0A%20%20%20%20%20%20%3CfeGaussianBlur%20stdDeviation%3D%2230%22/%3E%0A%20%20%20%20%3C/filter%3E%0A%20%20%3C/defs%3E%0A%0A%20%20%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22url%28%23bg%29%22/%3E%0A%0A%20%20%3Ccircle%20cx%3D%221030%22%20cy%3D%22110%22%20r%3D%22170%22%20fill%3D%22%23fda4af%22%20opacity%3D%220.18%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%20%20%3Ccircle%20cx%3D%22180%22%20cy%3D%22560%22%20r%3D%22150%22%20fill%3D%22%23fda4af%22%20opacity%3D%220.16%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%0A%20%20%3Crect%20x%3D%2256%22%20y%3D%2252%22%20rx%3D%2218%22%20ry%3D%2218%22%20width%3D%22260%22%20height%3D%2254%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.08%29%22/%3E%0A%20%20%3Ctext%20x%3D%2284%22%20y%3D%2287%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2228%22%20fill%3D%22%23e5e7eb%22%3ENature%20Medicine%3C/text%3E%0A%0A%20%20%3Ctext%20x%3D%221010%22%20y%3D%22560%22%0A%20%20%20%20%20%20%20%20text-anchor%3D%22middle%22%0A%20%20%20%20%20%20%20%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%0A%20%20%20%20%20%20%20%20font-size%3D%22160%22%0A%20%20%20%20%20%20%20%20fill%3D%22%23fda4af%22%0A%20%20%20%20%20%20%20%20opacity%3D%220.85%22%3E%0A%20%20%20%20%E2%97%88%0A%20%20%3C/text%3E%0A%3C/svg%3E%0A",
     "topic": "neurodegeneration",
     "topic_color": "#fda4af",
-    "priority_score": 50
+    "priority_score": 35
   },
   {
     "title": "Cerebellar aging is spatially heterogeneous and supports cognitive resilience in later life",
@@ -143,6 +156,32 @@
     "priority_score": 35
   },
   {
+    "title": "New space telescope will map galaxies’ ghostly halos and streams",
+    "link": "https://www.science.org/content/article/new-space-telescope-will-map-galaxies-ghostly-halos-and-streams",
+    "journal": "Science",
+    "source_type": "journal",
+    "date": "2026-06-17T04:00:00Z",
+    "summary": "European Space Agency mission will trace the relics of ancient mergers and probe the dark matter shaping galaxy growth",
+    "abstract": "European Space Agency mission will trace the relics of ancient mergers and probe the dark matter shaping galaxy growth",
+    "image": "data:image/svg+xml;charset=utf-8,%0A%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23111827%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23374151%22/%3E%0A%20%20%20%20%3C/linearGradient%3E%0A%20%20%20%20%3Cfilter%20id%3D%22blur%22%3E%0A%20%20%20%20%20%20%3CfeGaussianBlur%20stdDeviation%3D%2230%22/%3E%0A%20%20%20%20%3C/filter%3E%0A%20%20%3C/defs%3E%0A%0A%20%20%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22url%28%23bg%29%22/%3E%0A%0A%20%20%3Ccircle%20cx%3D%221030%22%20cy%3D%22110%22%20r%3D%22170%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.18%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%20%20%3Ccircle%20cx%3D%22180%22%20cy%3D%22560%22%20r%3D%22150%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.16%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%0A%20%20%3Crect%20x%3D%2256%22%20y%3D%2252%22%20rx%3D%2218%22%20ry%3D%2218%22%20width%3D%22260%22%20height%3D%2254%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.08%29%22/%3E%0A%20%20%3Ctext%20x%3D%2284%22%20y%3D%2287%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2228%22%20fill%3D%22%23e5e7eb%22%3EScience%3C/text%3E%0A%0A%20%20%3Ctext%20x%3D%221010%22%20y%3D%22560%22%0A%20%20%20%20%20%20%20%20text-anchor%3D%22middle%22%0A%20%20%20%20%20%20%20%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%0A%20%20%20%20%20%20%20%20font-size%3D%22160%22%0A%20%20%20%20%20%20%20%20fill%3D%22%2360a5fa%22%0A%20%20%20%20%20%20%20%20opacity%3D%220.85%22%3E%0A%20%20%20%20%E2%80%A2%0A%20%20%3C/text%3E%0A%3C/svg%3E%0A",
+    "topic": "default",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
+    "title": "The EU needs to back its ambition to end animal testing with cash",
+    "link": "https://www.nature.com/articles/d41586-026-01882-1",
+    "journal": "Nature",
+    "source_type": "journal",
+    "date": "2026-06-17",
+    "summary": "Nature, Published online: 17 June 2026; doi:10.1038/d41586-026-01882-1 The European Union has declared that it wants to stop using animals in chemical safety testing. Its goal will need a timeline and a serious funding commitment.",
+    "abstract": "The European Union has declared that it wants to stop using animals in chemical safety testing. Its goal will need a timeline and a serious funding commitment. The European Union has declared that it wants to stop using animals in chemical safety testing. Its goal will need a timeline and a serious funding commitment.",
+    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-01882-1/d41586-026-01882-1_52662714.jpg",
+    "topic": "default",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
     "title": "Should nicotine be regulated like a narcotic? A Pacific nation makes the case",
     "link": "https://www.nature.com/articles/d41586-026-01903-z",
     "journal": "Nature",
@@ -151,6 +190,32 @@
     "summary": "Nature, Published online: 17 June 2026; doi:10.1038/d41586-026-01903-z Existing global efforts to reduce harms caused by smoking have targeted tobacco smoking, but vapes containing nicotine are also harmful.",
     "abstract": "Existing global efforts to reduce harms caused by smoking have targeted tobacco smoking, but vapes containing nicotine are also harmful. Existing global efforts to reduce harms caused by smoking have targeted tobacco smoking, but vapes containing nicotine are also harmful.",
     "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-01903-z/d41586-026-01903-z_52543812.jpg",
+    "topic": "default",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
+    "title": "These ‘master’ proteins protect us from deadly mutations — and could inspire new drugs",
+    "link": "https://www.nature.com/articles/d41586-026-01883-0",
+    "journal": "Nature",
+    "source_type": "journal",
+    "date": "2026-06-17",
+    "summary": "Nature, Published online: 17 June 2026; doi:10.1038/d41586-026-01883-0 Biology has clever ways to mask the effects of potentially harmful gene mutations. Scientists are investigating how this ‘buffering’ works — and how to exploit it.",
+    "abstract": "Biology has clever ways to mask the effects of potentially harmful gene mutations. Scientists are investigating how this ‘buffering’ works — and how to exploit it. Biology has clever ways to mask the effects of potentially harmful gene mutations. Scientists are investigating how this ‘buffering’ works — and how to exploit it.",
+    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-01883-0/d41586-026-01883-0_52662750.jpg",
+    "topic": "default",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
+    "title": "Medical innovation in LMICs: can India lead the way?",
+    "link": "https://www.nature.com/articles/s41591-026-04499-z",
+    "journal": "Nature Medicine",
+    "source_type": "journal",
+    "date": "2026-06-17",
+    "summary": "Nature Medicine, Published online: 17 June 2026; doi:10.1038/s41591-026-04499-z With its biomedicine at an inflection point, India can seize the opportunity to scale up research and development at home and offer a distinct model of biomedical innovation for the global south.",
+    "abstract": "Nature Medicine, Published online: 17 June 2026; doi:10.1038/s41591-026-04499-z With its biomedicine at an inflection point, India can seize the opportunity to scale up research and development at home and offer a distinct model of biomedical innovation for the global south.",
+    "image": "data:image/svg+xml;charset=utf-8,%0A%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23111827%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23374151%22/%3E%0A%20%20%20%20%3C/linearGradient%3E%0A%20%20%20%20%3Cfilter%20id%3D%22blur%22%3E%0A%20%20%20%20%20%20%3CfeGaussianBlur%20stdDeviation%3D%2230%22/%3E%0A%20%20%20%20%3C/filter%3E%0A%20%20%3C/defs%3E%0A%0A%20%20%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22url%28%23bg%29%22/%3E%0A%0A%20%20%3Ccircle%20cx%3D%221030%22%20cy%3D%22110%22%20r%3D%22170%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.18%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%20%20%3Ccircle%20cx%3D%22180%22%20cy%3D%22560%22%20r%3D%22150%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.16%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%0A%20%20%3Crect%20x%3D%2256%22%20y%3D%2252%22%20rx%3D%2218%22%20ry%3D%2218%22%20width%3D%22260%22%20height%3D%2254%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.08%29%22/%3E%0A%20%20%3Ctext%20x%3D%2284%22%20y%3D%2287%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2228%22%20fill%3D%22%23e5e7eb%22%3ENature%20Medicine%3C/text%3E%0A%0A%20%20%3Ctext%20x%3D%221010%22%20y%3D%22560%22%0A%20%20%20%20%20%20%20%20text-anchor%3D%22middle%22%0A%20%20%20%20%20%20%20%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%0A%20%20%20%20%20%20%20%20font-size%3D%22160%22%0A%20%20%20%20%20%20%20%20fill%3D%22%2360a5fa%22%0A%20%20%20%20%20%20%20%20opacity%3D%220.85%22%3E%0A%20%20%20%20%E2%80%A2%0A%20%20%3C/text%3E%0A%3C/svg%3E%0A",
     "topic": "default",
     "topic_color": "#60a5fa",
     "priority_score": 0
@@ -390,32 +455,6 @@
     "priority_score": 0
   },
   {
-    "title": "The latest benefit of obesity drugs: boosting testosterone and sperm quality",
-    "link": "https://www.nature.com/articles/d41586-026-01867-0",
-    "journal": "Nature",
-    "source_type": "journal",
-    "date": "2026-06-15",
-    "summary": "Nature, Published online: 15 June 2026; doi:10.1038/d41586-026-01867-0 Preliminary study finds that testosterone levels increase or stabilize in people taking GLP-1 medications.",
-    "abstract": "Nature, Published online: 15 June 2026; doi:10.1038/d41586-026-01867-0 Preliminary study finds that testosterone levels increase or stabilize in people taking GLP-1 medications.",
-    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-01867-0/d41586-026-01867-0_52538586.jpg",
-    "topic": "default",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
-    "title": "Daily briefing: Iron-Age human bones were made into tools before interment",
-    "link": "https://www.nature.com/articles/d41586-026-01929-3",
-    "journal": "Nature",
-    "source_type": "journal",
-    "date": "2026-06-15",
-    "summary": "Nature, Published online: 15 June 2026; doi:10.1038/d41586-026-01929-3 Newly uncovered bones hint at how Iron Age Britons treated their dead. Plus, AI models have failed to beat human mathematicians at research-level problems and the everyday items that make great scientific tools.",
-    "abstract": "Nature, Published online: 15 June 2026; doi:10.1038/d41586-026-01929-3 Newly uncovered bones hint at how Iron Age Britons treated their dead. Plus, AI models have failed to beat human mathematicians at research-level problems and the everyday items that make great scientific tools.",
-    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-01929-3/d41586-026-01929-3_52669042.jpg",
-    "topic": "default",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
     "title": "Author Correction: Shared receptors in axon guidance: SAX-3/Robo signals via UNC-34/Enabled and a Netrin-independent UNC-40/DCC function",
     "link": "https://www.nature.com/articles/s41593-026-02351-8",
     "journal": "Nature Neuroscience",
@@ -476,19 +515,6 @@
     "summary": "Nature Medicine, Published online: 15 June 2026; doi:10.1038/s41591-026-04446-y The biological age of individual cell types can be evaluated using plasma proteomics, revealing diverse aging profiles across more than 40 cell types and links between the accelerated aging of specific cell types and disease.",
     "abstract": "Nature Medicine, Published online: 15 June 2026; doi:10.1038/s41591-026-04446-y The biological age of individual cell types can be evaluated using plasma proteomics, revealing diverse aging profiles across more than 40 cell types and links between the accelerated aging of specific cell types and disease.",
     "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41591-026-04446-y/MediaObjects/41591_2026_4446_Fig1_HTML.png",
-    "topic": "default",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
-    "title": "Long-term independent use of an intracortical brain–computer interface for speech and cursor control",
-    "link": "https://www.nature.com/articles/s41591-026-04414-6",
-    "journal": "Nature Medicine",
-    "source_type": "journal",
-    "date": "2026-06-15",
-    "summary": "Nature Medicine, Published online: 15 June 2026; doi:10.1038/s41591-026-04414-6 An automated intracortical brain–computer interface, used at home with no researcher intervention, provides long-term and accurate restoration of speech-based communication and cursor-based computer usage in a person with severe dysarthria due to amyotrophic lateral sclerosis.",
-    "abstract": "Nature Medicine, Published online: 15 June 2026; doi:10.1038/s41591-026-04414-6 An automated intracortical brain–computer interface, used at home with no researcher intervention, provides long-term and accurate restoration of speech-based communication and cursor-based computer usage in a person with severe dysarthria due to amyotrophic lateral sclerosis.",
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41591-026-04414-6/MediaObjects/41591_2026_4414_Fig1_HTML.png",
     "topic": "default",
     "topic_color": "#60a5fa",
     "priority_score": 0
@@ -559,19 +585,6 @@
     "priority_score": 0
   },
   {
-    "title": "The Hong Kong Genome Project is a flagship initiative for precision medicine in Chinese populations",
-    "link": "https://www.nature.com/articles/s41591-026-04421-7",
-    "journal": "Nature Medicine",
-    "source_type": "journal",
-    "date": "2026-06-12",
-    "summary": "Nature Medicine, Published online: 12 June 2026; doi:10.1038/s41591-026-04421-7 The Hong Kong Genome Project established a genome sequencing database that provides improved diagnoses for patients and more efficient, population-tailored carrier status screening. Actionable pharmacogenomic variants were identified in almost all participants, informing drug prescriptions. This work establishes a genomic resource and a transferable model for equitable precision medicine in underrepresented populations worldwide.",
-    "abstract": "Nature Medicine, Published online: 12 June 2026; doi:10.1038/s41591-026-04421-7 The Hong Kong Genome Project established a genome sequencing database that provides improved diagnoses for patients and more efficient, population-tailored carrier status screening. Actionable pharmacogenomic variants were identified in almost all participants, informing drug prescriptions. This work establishes a genomic resource and a transferable model for equitable precision medicine in underrepresented populations worldwide.",
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41591-026-04421-7/MediaObjects/41591_2026_4421_Fig1_HTML.png",
-    "topic": "default",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
     "title": "After years of opposition, Mexico’s president is reconsidering fracking",
     "link": "https://www.science.org/content/article/after-years-opposition-mexico-s-president-reconsidering-fracking",
     "journal": "Science",
@@ -605,19 +618,6 @@
     "date": "2026-06-11T03:45:00Z",
     "summary": "Goblin sharks have never before been filmed in their natural habitat",
     "abstract": "Goblin sharks have never before been filmed in their natural habitat",
-    "image": "data:image/svg+xml;charset=utf-8,%0A%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23111827%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23374151%22/%3E%0A%20%20%20%20%3C/linearGradient%3E%0A%20%20%20%20%3Cfilter%20id%3D%22blur%22%3E%0A%20%20%20%20%20%20%3CfeGaussianBlur%20stdDeviation%3D%2230%22/%3E%0A%20%20%20%20%3C/filter%3E%0A%20%20%3C/defs%3E%0A%0A%20%20%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22url%28%23bg%29%22/%3E%0A%0A%20%20%3Ccircle%20cx%3D%221030%22%20cy%3D%22110%22%20r%3D%22170%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.18%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%20%20%3Ccircle%20cx%3D%22180%22%20cy%3D%22560%22%20r%3D%22150%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.16%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%0A%20%20%3Crect%20x%3D%2256%22%20y%3D%2252%22%20rx%3D%2218%22%20ry%3D%2218%22%20width%3D%22260%22%20height%3D%2254%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.08%29%22/%3E%0A%20%20%3Ctext%20x%3D%2284%22%20y%3D%2287%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2228%22%20fill%3D%22%23e5e7eb%22%3EScience%3C/text%3E%0A%0A%20%20%3Ctext%20x%3D%221010%22%20y%3D%22560%22%0A%20%20%20%20%20%20%20%20text-anchor%3D%22middle%22%0A%20%20%20%20%20%20%20%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%0A%20%20%20%20%20%20%20%20font-size%3D%22160%22%0A%20%20%20%20%20%20%20%20fill%3D%22%2360a5fa%22%0A%20%20%20%20%20%20%20%20opacity%3D%220.85%22%3E%0A%20%20%20%20%E2%80%A2%0A%20%20%3C/text%3E%0A%3C/svg%3E%0A",
-    "topic": "default",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
-    "title": "The ocean current that warms Europe may be more resilient than feared",
-    "link": "https://www.science.org/content/article/ocean-current-warms-europe-may-be-more-resilient-feared",
-    "journal": "Science",
-    "source_type": "journal",
-    "date": "2026-06-11T02:00:00Z",
-    "summary": "Studies of the Atlantic's circulation find signs of both weakening and unexpected stability in the face of global warming",
-    "abstract": "Studies of the Atlantic's circulation find signs of both weakening and unexpected stability in the face of global warming",
     "image": "data:image/svg+xml;charset=utf-8,%0A%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23111827%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23374151%22/%3E%0A%20%20%20%20%3C/linearGradient%3E%0A%20%20%20%20%3Cfilter%20id%3D%22blur%22%3E%0A%20%20%20%20%20%20%3CfeGaussianBlur%20stdDeviation%3D%2230%22/%3E%0A%20%20%20%20%3C/filter%3E%0A%20%20%3C/defs%3E%0A%0A%20%20%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22url%28%23bg%29%22/%3E%0A%0A%20%20%3Ccircle%20cx%3D%221030%22%20cy%3D%22110%22%20r%3D%22170%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.18%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%20%20%3Ccircle%20cx%3D%22180%22%20cy%3D%22560%22%20r%3D%22150%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.16%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%0A%20%20%3Crect%20x%3D%2256%22%20y%3D%2252%22%20rx%3D%2218%22%20ry%3D%2218%22%20width%3D%22260%22%20height%3D%2254%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.08%29%22/%3E%0A%20%20%3Ctext%20x%3D%2284%22%20y%3D%2287%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2228%22%20fill%3D%22%23e5e7eb%22%3EScience%3C/text%3E%0A%0A%20%20%3Ctext%20x%3D%221010%22%20y%3D%22560%22%0A%20%20%20%20%20%20%20%20text-anchor%3D%22middle%22%0A%20%20%20%20%20%20%20%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%0A%20%20%20%20%20%20%20%20font-size%3D%22160%22%0A%20%20%20%20%20%20%20%20fill%3D%22%2360a5fa%22%0A%20%20%20%20%20%20%20%20opacity%3D%220.85%22%3E%0A%20%20%20%20%E2%80%A2%0A%20%20%3C/text%3E%0A%3C/svg%3E%0A",
     "topic": "default",
     "topic_color": "#60a5fa",
