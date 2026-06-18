@@ -156,6 +156,19 @@
     "priority_score": 35
   },
   {
+    "title": "Cell transplant across the tree of life hints at how animals emerged",
+    "link": "https://www.nature.com/articles/d41586-026-01910-0",
+    "journal": "Nature",
+    "source_type": "journal",
+    "date": "2026-06-18",
+    "summary": "Nature, Published online: 18 June 2026; doi:10.1038/d41586-026-01910-0 Embryonic ‘organizer cells’ can tell embryos of various phyla what kind of body to build.",
+    "abstract": "Nature, Published online: 18 June 2026; doi:10.1038/d41586-026-01910-0 Embryonic ‘organizer cells’ can tell embryos of various phyla what kind of body to build.",
+    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-01910-0/d41586-026-01910-0_52695530.jpg",
+    "topic": "default",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
     "title": "A space telescope is falling to Earth. NASA is racing to rescue it",
     "link": "https://www.science.org/content/article/space-telescope-falling-earth-nasa-racing-rescue-it",
     "journal": "Science",
@@ -359,19 +372,6 @@
     "summary": "Nature, Published online: 17 June 2026; doi:10.1038/s41586-026-10676-4 A new quantum computer, Quantinuum Helios, which is a 98-qubit trapped-ion quantum processor built on the QCCD architecture, demonstrates performance well beyond classical capabilities and provides a path for scaling up quantum computing.",
     "abstract": "Nature, Published online: 17 June 2026; doi:10.1038/s41586-026-10676-4 A new quantum computer, Quantinuum Helios, which is a 98-qubit trapped-ion quantum processor built on the QCCD architecture, demonstrates performance well beyond classical capabilities and provides a path for scaling up quantum computing.",
     "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-10676-4/MediaObjects/41586_2026_10676_Fig1_HTML.png",
-    "topic": "default",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
-    "title": "Fast formation to reinforce lithium-rich cathodes",
-    "link": "https://www.nature.com/articles/s41586-025-09553-3",
-    "journal": "Nature",
-    "source_type": "journal",
-    "date": "2026-06-17",
-    "summary": "Nature, Published online: 17 June 2026; doi:10.1038/s41586-025-09553-3 Fast formation in lithium-ion batteries outperforms conventional slow formation, lowering costs and improving battery capacity, stability and cycle life, offering broader application to electrode systems.",
-    "abstract": "Nature, Published online: 17 June 2026; doi:10.1038/s41586-025-09553-3 Fast formation in lithium-ion batteries outperforms conventional slow formation, lowering costs and improving battery capacity, stability and cycle life, offering broader application to electrode systems.",
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-025-09553-3/MediaObjects/41586_2025_9553_Fig1_HTML.png",
     "topic": "default",
     "topic_color": "#60a5fa",
     "priority_score": 0
