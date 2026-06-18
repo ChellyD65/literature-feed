@@ -26,6 +26,19 @@
     "priority_score": 133
   },
   {
+    "title": "Why regulatory T cells fail to control inflammation in rheumatoid arthritis",
+    "link": "https://www.nature.com/articles/s41590-026-02546-y",
+    "journal": "Nature Immunology",
+    "source_type": "journal",
+    "date": "2026-06-18",
+    "summary": "Nature Immunology, Published online: 18 June 2026; doi:10.1038/s41590-026-02546-y Regulatory T cells are responsible for suppressing inflammation, yet they fail to do so in rheumatoid arthritis. We show that signals in the local tissue environment can drive these cells into either protective or dysfunctional states.",
+    "abstract": "Nature Immunology, Published online: 18 June 2026; doi:10.1038/s41590-026-02546-y Regulatory T cells are responsible for suppressing inflammation, yet they fail to do so in rheumatoid arthritis. We show that signals in the local tissue environment can drive these cells into either protective or dysfunctional states.",
+    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41590-026-02546-y/MediaObjects/41590_2026_2546_Fig1_HTML.png",
+    "topic": "inflammation",
+    "topic_color": "#fb7185",
+    "priority_score": 94
+  },
+  {
     "title": "Pyoderma gangrenosum caused by the molecular uncoupling of OTULIN catalytic activity and LUBAC binding",
     "link": "https://www.nature.com/articles/s41590-026-02568-6",
     "journal": "Nature Immunology",
@@ -154,6 +167,32 @@
     "topic": "neurodegeneration",
     "topic_color": "#fda4af",
     "priority_score": 35
+  },
+  {
+    "title": "Clues to the sloth’s sloth found in its genome",
+    "link": "https://www.nature.com/articles/d41586-026-01869-y",
+    "journal": "Nature",
+    "source_type": "journal",
+    "date": "2026-06-18",
+    "summary": "Nature, Published online: 18 June 2026; doi:10.1038/d41586-026-01869-y Sequencing shows duplication of genes that affect mitochondria, the organelles that provide energy for cells.",
+    "abstract": "Nature, Published online: 18 June 2026; doi:10.1038/d41586-026-01869-y Sequencing shows duplication of genes that affect mitochondria, the organelles that provide energy for cells.",
+    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-01869-y/d41586-026-01869-y_52538932.jpg",
+    "topic": "default",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
+    "title": "Brexit tore apart European science — now the research rifts are healing",
+    "link": "https://www.nature.com/articles/d41586-026-01841-w",
+    "journal": "Nature",
+    "source_type": "journal",
+    "date": "2026-06-18",
+    "summary": "Nature, Published online: 18 June 2026; doi:10.1038/d41586-026-01841-w The UK’s share of EU research funding is climbing, but lost networks will be harder to recover.",
+    "abstract": "Nature, Published online: 18 June 2026; doi:10.1038/d41586-026-01841-w The UK’s share of EU research funding is climbing, but lost networks will be harder to recover.",
+    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-01841-w/d41586-026-01841-w_52670622.jpg",
+    "topic": "default",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
   },
   {
     "title": "Cell transplant across the tree of life hints at how animals emerged",
@@ -346,32 +385,6 @@
     "summary": "Nature, Published online: 17 June 2026; doi:10.1038/s41586-026-10617-1 A prototype differential atom interferometer operates at the standard quantum limit with no excess noise beyond atom shot noise, achieving performance in line with the specifications for future long-baseline atom interferometers.",
     "abstract": "Nature, Published online: 17 June 2026; doi:10.1038/s41586-026-10617-1 A prototype differential atom interferometer operates at the standard quantum limit with no excess noise beyond atom shot noise, achieving performance in line with the specifications for future long-baseline atom interferometers.",
     "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-10617-1/MediaObjects/41586_2026_10617_Fig1_HTML.png",
-    "topic": "default",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
-    "title": "Structure of the pre-initiation complex explains CMGE biogenesis",
-    "link": "https://www.nature.com/articles/s41586-026-10657-7",
-    "journal": "Nature",
-    "source_type": "journal",
-    "date": "2026-06-17",
-    "summary": "Nature, Published online: 17 June 2026; doi:10.1038/s41586-026-10657-7 Cryo-electron microscopy and biochemical reconstitution experiments in yeast provide insight into the assembly of the CMGE complex, a helicase that establishes bidirectional DNA replication in eukaryotic cells, and elucidate the role of the firing factor Sld2.",
-    "abstract": "Nature, Published online: 17 June 2026; doi:10.1038/s41586-026-10657-7 Cryo-electron microscopy and biochemical reconstitution experiments in yeast provide insight into the assembly of the CMGE complex, a helicase that establishes bidirectional DNA replication in eukaryotic cells, and elucidate the role of the firing factor Sld2.",
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-10657-7/MediaObjects/41586_2026_10657_Fig1_HTML.png",
-    "topic": "default",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
-    "title": "A 98-qubit trapped-ion quantum computer with all-to-all connectivity",
-    "link": "https://www.nature.com/articles/s41586-026-10676-4",
-    "journal": "Nature",
-    "source_type": "journal",
-    "date": "2026-06-17",
-    "summary": "Nature, Published online: 17 June 2026; doi:10.1038/s41586-026-10676-4 A new quantum computer, Quantinuum Helios, which is a 98-qubit trapped-ion quantum processor built on the QCCD architecture, demonstrates performance well beyond classical capabilities and provides a path for scaling up quantum computing.",
-    "abstract": "Nature, Published online: 17 June 2026; doi:10.1038/s41586-026-10676-4 A new quantum computer, Quantinuum Helios, which is a 98-qubit trapped-ion quantum processor built on the QCCD architecture, demonstrates performance well beyond classical capabilities and provides a path for scaling up quantum computing.",
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-10676-4/MediaObjects/41586_2026_10676_Fig1_HTML.png",
     "topic": "default",
     "topic_color": "#60a5fa",
     "priority_score": 0
@@ -606,19 +619,6 @@
     "summary": "Nature Immunology, Published online: 12 June 2026; doi:10.1038/s41590-026-02562-y The identification of an alveolar epithelial-like subset of medullary thymic epithelial cells (mTECs) reveals a key mechanism that orchestrates mTEC heterogeneity, thereby maintaining central immune tolerance.",
     "abstract": "Nature Immunology, Published online: 12 June 2026; doi:10.1038/s41590-026-02562-y The identification of an alveolar epithelial-like subset of medullary thymic epithelial cells (mTECs) reveals a key mechanism that orchestrates mTEC heterogeneity, thereby maintaining central immune tolerance.",
     "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41590-026-02562-y/MediaObjects/41590_2026_2562_Fig1_HTML.png",
-    "topic": "immunology",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
-    "title": "mRNA-based tuberculosis vaccines BNT164a1 and BNT164b1 are immunogenic, well tolerated and efficacious in rodent models",
-    "link": "https://www.nature.com/articles/s41590-026-02545-z",
-    "journal": "Nature Immunology",
-    "source_type": "journal",
-    "date": "2026-06-12",
-    "summary": "Nature Immunology, Published online: 12 June 2026; doi:10.1038/s41590-026-02545-z Here the authors characterize mRNA-based tuberculosis vaccine candidates BNT164a1 and BNT164b1 and show that they are immunogenic, well tolerated and efficacious in preclinical animal models.",
-    "abstract": "Nature Immunology, Published online: 12 June 2026; doi:10.1038/s41590-026-02545-z Here the authors characterize mRNA-based tuberculosis vaccine candidates BNT164a1 and BNT164b1 and show that they are immunogenic, well tolerated and efficacious in preclinical animal models.",
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41590-026-02545-z/MediaObjects/41590_2026_2545_Fig1_HTML.png",
     "topic": "immunology",
     "topic_color": "#60a5fa",
     "priority_score": 0
