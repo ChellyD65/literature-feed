@@ -182,6 +182,32 @@
     "priority_score": 0
   },
   {
+    "title": "It slices! It dices! Sashimi-Bot handles seafood with ease",
+    "link": "https://www.nature.com/articles/d41586-026-01871-4",
+    "journal": "Nature",
+    "source_type": "journal",
+    "date": "2026-06-18",
+    "summary": "Nature, Published online: 18 June 2026; doi:10.1038/d41586-026-01871-4 Fillets of raw fish are irregular in shape and floppy in texture, but a robot with three arms has learnt how to manipulate a salmon loin.",
+    "abstract": "Fillets of raw fish are irregular in shape and floppy in texture, but a robot with three arms has learnt how to manipulate a salmon loin. Fillets of raw fish are irregular in shape and floppy in texture, but a robot with three arms has learnt how to manipulate a salmon loin.",
+    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-01871-4/d41586-026-01871-4_52544164.gif",
+    "topic": "default",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
+    "title": "Is AI ruining our skills? Early results are in — and they’re not good",
+    "link": "https://www.nature.com/articles/d41586-026-01947-1",
+    "journal": "Nature",
+    "source_type": "journal",
+    "date": "2026-06-18",
+    "summary": "Nature, Published online: 18 June 2026; doi:10.1038/d41586-026-01947-1 Reliance on artificial-intelligence tools degrades the abilities of physicians and software engineers, studies show.",
+    "abstract": "Nature, Published online: 18 June 2026; doi:10.1038/d41586-026-01947-1 Reliance on artificial-intelligence tools degrades the abilities of physicians and software engineers, studies show.",
+    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-01947-1/d41586-026-01947-1_52722978.jpg",
+    "topic": "default",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
     "title": "Brexit tore apart European science — now the research rifts are healing",
     "link": "https://www.nature.com/articles/d41586-026-01841-w",
     "journal": "Nature",
@@ -359,32 +385,6 @@
     "summary": "Nature, Published online: 17 June 2026; doi:10.1038/s41586-026-10638-w A new polaritonic optical method that uses the mid-infrared out-of-plane hyperbolic polaritons mode is described and experimentally validated to allow the examination of picometre-scale interlayer deformations, providing a bridge between nanomechanics and photonics.",
     "abstract": "Nature, Published online: 17 June 2026; doi:10.1038/s41586-026-10638-w A new polaritonic optical method that uses the mid-infrared out-of-plane hyperbolic polaritons mode is described and experimentally validated to allow the examination of picometre-scale interlayer deformations, providing a bridge between nanomechanics and photonics.",
     "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-10638-w/MediaObjects/41586_2026_10638_Fig1_HTML.png",
-    "topic": "default",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
-    "title": "Optical fibre gripper for high-performance 3D micromanipulation",
-    "link": "https://www.nature.com/articles/s41586-026-10673-7",
-    "journal": "Nature",
-    "source_type": "journal",
-    "date": "2026-06-17",
-    "summary": "Nature, Published online: 17 June 2026; doi:10.1038/s41586-026-10673-7 A miniature three-dimensional optical fibre gripper enables powerful, precise micromanipulation of particles and single cells in confined spaces, bridging the gap between optical and mechanical tweezers.",
-    "abstract": "Nature, Published online: 17 June 2026; doi:10.1038/s41586-026-10673-7 A miniature three-dimensional optical fibre gripper enables powerful, precise micromanipulation of particles and single cells in confined spaces, bridging the gap between optical and mechanical tweezers.",
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-10673-7/MediaObjects/41586_2026_10673_Fig1_HTML.png",
-    "topic": "default",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
-    "title": "A prototype differential atom interferometer for fundamental physics",
-    "link": "https://www.nature.com/articles/s41586-026-10617-1",
-    "journal": "Nature",
-    "source_type": "journal",
-    "date": "2026-06-17",
-    "summary": "Nature, Published online: 17 June 2026; doi:10.1038/s41586-026-10617-1 A prototype differential atom interferometer operates at the standard quantum limit with no excess noise beyond atom shot noise, achieving performance in line with the specifications for future long-baseline atom interferometers.",
-    "abstract": "Nature, Published online: 17 June 2026; doi:10.1038/s41586-026-10617-1 A prototype differential atom interferometer operates at the standard quantum limit with no excess noise beyond atom shot noise, achieving performance in line with the specifications for future long-baseline atom interferometers.",
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-10617-1/MediaObjects/41586_2026_10617_Fig1_HTML.png",
     "topic": "default",
     "topic_color": "#60a5fa",
     "priority_score": 0
