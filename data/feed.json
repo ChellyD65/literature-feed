@@ -169,6 +169,19 @@
     "priority_score": 35
   },
   {
+    "title": "Stem cells banish severe autoimmune disease for 15 years",
+    "link": "https://www.nature.com/articles/d41586-026-01925-7",
+    "journal": "Nature",
+    "source_type": "journal",
+    "date": "2026-06-19",
+    "summary": "Nature, Published online: 19 June 2026; doi:10.1038/d41586-026-01925-7 Two people were the first to receive the therapy for a condition that damages the spinal cord and optic nerve.",
+    "abstract": "Nature, Published online: 19 June 2026; doi:10.1038/d41586-026-01925-7 Two people were the first to receive the therapy for a condition that damages the spinal cord and optic nerve.",
+    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-01925-7/d41586-026-01925-7_52717922.jpg",
+    "topic": "default",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
     "title": "New NIH security rules for genomic data sets are slowing research, prompting workarounds",
     "link": "https://www.science.org/content/article/new-nih-security-rules-genomic-data-sets-are-slowing-research-prompting-workarounds",
     "journal": "Science",
@@ -424,19 +437,6 @@
     "summary": "Nature, Published online: 17 June 2026; doi:10.1038/s41586-026-10614-4 Although Antarctic ice loss projections diverge widely by 2100, this Perspective shows that present-day rates robustly predict mid-century sea level rise, providing a firm basis for near-term planning, while highlighting priorities for model development aimed at resolving longer-term sea level rise uncertainty.",
     "abstract": "Nature, Published online: 17 June 2026; doi:10.1038/s41586-026-10614-4 Although Antarctic ice loss projections diverge widely by 2100, this Perspective shows that present-day rates robustly predict mid-century sea level rise, providing a firm basis for near-term planning, while highlighting priorities for model development aimed at resolving longer-term sea level rise uncertainty.",
     "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-10614-4/MediaObjects/41586_2026_10614_Fig1_HTML.png",
-    "topic": "default",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
-    "title": "A distant brown dwarf coplanar to a warm Jupiter and a hot super-Earth",
-    "link": "https://www.nature.com/articles/s41586-026-10586-5",
-    "journal": "Nature",
-    "source_type": "journal",
-    "date": "2026-06-17",
-    "summary": "Nature, Published online: 17 June 2026; doi:10.1038/s41586-026-10586-5 Analysis of long-term radial velocity data and transit time variations, induced by a super-Earth, a warm Jupiter and a brown dwarf in a coplanar orbit around the relatively young star TOI201.",
-    "abstract": "Nature, Published online: 17 June 2026; doi:10.1038/s41586-026-10586-5 Analysis of long-term radial velocity data and transit time variations, induced by a super-Earth, a warm Jupiter and a brown dwarf in a coplanar orbit around the relatively young star TOI201.",
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-10586-5/MediaObjects/41586_2026_10586_Fig1_HTML.png",
     "topic": "default",
     "topic_color": "#60a5fa",
     "priority_score": 0
