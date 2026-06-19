@@ -13,6 +13,19 @@
     "priority_score": 172
   },
   {
+    "title": "A fatty acid amide activates myeloid cells and improves neurovascular outcomes in retinal degeneration",
+    "link": "https://www.nature.com/articles/s41593-026-02341-w",
+    "journal": "Nature Neuroscience",
+    "source_type": "journal",
+    "date": "2026-06-19",
+    "summary": "Nature Neuroscience, Published online: 19 June 2026; doi:10.1038/s41593-026-02341-w Erucamide, a fatty acid amide reduced in degenerating retinas, activates myeloid cells via TMEM19 to release neurotrophic and angiogenic factors, rescuing photoreceptors and vasculature in mouse models of retinal degeneration.",
+    "abstract": "Nature Neuroscience, Published online: 19 June 2026; doi:10.1038/s41593-026-02341-w Erucamide, a fatty acid amide reduced in degenerating retinas, activates myeloid cells via TMEM19 to release neurotrophic and angiogenic factors, rescuing photoreceptors and vasculature in mouse models of retinal degeneration.",
+    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41593-026-02341-w/MediaObjects/41593_2026_2341_Fig1_HTML.png",
+    "topic": "retina",
+    "topic_color": "#f472b6",
+    "priority_score": 133
+  },
+  {
     "title": "Author Correction: MAGE-A4/MAGE-A8-targeted TCR-based bispecific T cell engager in recurrent and/or refractory solid tumors: a phase 1 trial",
     "link": "https://www.nature.com/articles/s41591-026-04519-y",
     "journal": "Nature Medicine",
@@ -91,32 +104,6 @@
     "priority_score": 81
   },
   {
-    "title": "Human vaccine responses regulated by parallel cytokine pathways",
-    "link": "https://www.nature.com/articles/s41590-026-02547-x",
-    "journal": "Nature Immunology",
-    "source_type": "journal",
-    "date": "2026-06-12",
-    "summary": "Nature Immunology, Published online: 12 June 2026; doi:10.1038/s41590-026-02547-x Chen and colleagues identify that baseline IFNβ levels correlate with antibody responses to inactivated influenza vaccines in humans, and show that type I IFNs, IL-12 and IL-21 functionally enhance antibody responses in human organoids.",
-    "abstract": "Nature Immunology, Published online: 12 June 2026; doi:10.1038/s41590-026-02547-x Chen and colleagues identify that baseline IFNβ levels correlate with antibody responses to inactivated influenza vaccines in humans, and show that type I IFNs, IL-12 and IL-21 functionally enhance antibody responses in human organoids.",
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41590-026-02547-x/MediaObjects/41590_2026_2547_Fig1_HTML.png",
-    "topic": "inflammation",
-    "topic_color": "#fb7185",
-    "priority_score": 77
-  },
-  {
-    "title": "Cerebrovascular vulnerability and fibrosis in human brain aneurysms",
-    "link": "https://www.nature.com/articles/s41593-026-02326-9",
-    "journal": "Nature Neuroscience",
-    "source_type": "journal",
-    "date": "2026-06-10",
-    "summary": "Nature Neuroscience, Published online: 10 June 2026; doi:10.1038/s41593-026-02326-9 A cell and spatial atlas of human brain aneurysms identifies an interaction between scarring fibroblasts and inflammatory macrophages linked to vessel wall remodeling, disease progression and rupture leading to stroke.",
-    "abstract": "Nature Neuroscience, Published online: 10 June 2026; doi:10.1038/s41593-026-02326-9 A cell and spatial atlas of human brain aneurysms identifies an interaction between scarring fibroblasts and inflammatory macrophages linked to vessel wall remodeling, disease progression and rupture leading to stroke.",
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41593-026-02326-9/MediaObjects/41593_2026_2326_Fig1_HTML.png",
-    "topic": "macrophage",
-    "topic_color": "#f59e0b",
-    "priority_score": 69
-  },
-  {
     "title": "Functional and dysfunctional T regulatory cell states in human tissues in RA and other autoimmune arthritic diseases",
     "link": "https://www.nature.com/articles/s41590-026-02540-4",
     "journal": "Nature Immunology",
@@ -156,17 +143,56 @@
     "priority_score": 35
   },
   {
-    "title": "Cerebellar aging is spatially heterogeneous and supports cognitive resilience in later life",
-    "link": "https://www.nature.com/articles/s41593-026-02289-x",
-    "journal": "Nature Neuroscience",
+    "title": "Researchers caught in the crossfire as companies and government grapple over AI safety",
+    "link": "https://www.science.org/content/article/researchers-caught-crossfire-companies-and-government-grapple-over-ai-safety",
+    "journal": "Science",
     "source_type": "journal",
-    "date": "2026-06-10",
-    "summary": "Nature Neuroscience, Published online: 10 June 2026; doi:10.1038/s41593-026-02289-x The cerebellum ages unevenly, with some regions showing preservation that may help protect the brain from decline. The authors show that large cerebellar volume is associated with stronger cognitive resilience in healthy aging and Alzheimer’s disease.",
-    "abstract": "Nature Neuroscience, Published online: 10 June 2026; doi:10.1038/s41593-026-02289-x The cerebellum ages unevenly, with some regions showing preservation that may help protect the brain from decline. The authors show that large cerebellar volume is associated with stronger cognitive resilience in healthy aging and Alzheimer’s disease.",
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41593-026-02289-x/MediaObjects/41593_2026_2289_Fig1_HTML.png",
-    "topic": "neurodegeneration",
-    "topic_color": "#fda4af",
-    "priority_score": 35
+    "date": "2026-06-19T11:00:00Z",
+    "summary": "After tumultuous Fable 5 takedown, scientists fear AI safety rules could reshape open research",
+    "abstract": "After tumultuous Fable 5 takedown, scientists fear AI safety rules could reshape open research",
+    "image": "data:image/svg+xml;charset=utf-8,%0A%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23111827%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23374151%22/%3E%0A%20%20%20%20%3C/linearGradient%3E%0A%20%20%20%20%3Cfilter%20id%3D%22blur%22%3E%0A%20%20%20%20%20%20%3CfeGaussianBlur%20stdDeviation%3D%2230%22/%3E%0A%20%20%20%20%3C/filter%3E%0A%20%20%3C/defs%3E%0A%0A%20%20%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22url%28%23bg%29%22/%3E%0A%0A%20%20%3Ccircle%20cx%3D%221030%22%20cy%3D%22110%22%20r%3D%22170%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.18%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%20%20%3Ccircle%20cx%3D%22180%22%20cy%3D%22560%22%20r%3D%22150%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.16%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%0A%20%20%3Crect%20x%3D%2256%22%20y%3D%2252%22%20rx%3D%2218%22%20ry%3D%2218%22%20width%3D%22260%22%20height%3D%2254%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.08%29%22/%3E%0A%20%20%3Ctext%20x%3D%2284%22%20y%3D%2287%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2228%22%20fill%3D%22%23e5e7eb%22%3EScience%3C/text%3E%0A%0A%20%20%3Ctext%20x%3D%221010%22%20y%3D%22560%22%0A%20%20%20%20%20%20%20%20text-anchor%3D%22middle%22%0A%20%20%20%20%20%20%20%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%0A%20%20%20%20%20%20%20%20font-size%3D%22160%22%0A%20%20%20%20%20%20%20%20fill%3D%22%2360a5fa%22%0A%20%20%20%20%20%20%20%20opacity%3D%220.85%22%3E%0A%20%20%20%20%E2%80%A2%0A%20%20%3C/text%3E%0A%3C/svg%3E%0A",
+    "topic": "default",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
+    "title": "‘Light in a bottle’ liquid can harvest and store energy from multiple sources",
+    "link": "https://www.science.org/content/article/light-bottle-liquid-can-harvest-and-store-energy-multiple-sources",
+    "journal": "Science",
+    "source_type": "journal",
+    "date": "2026-06-19T08:00:00Z",
+    "summary": "Substance’s “remarkable” behavior could lead to devices powered by energy-rich gels",
+    "abstract": "Substance’s “remarkable” behavior could lead to devices powered by energy-rich gels",
+    "image": "data:image/svg+xml;charset=utf-8,%0A%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23111827%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23374151%22/%3E%0A%20%20%20%20%3C/linearGradient%3E%0A%20%20%20%20%3Cfilter%20id%3D%22blur%22%3E%0A%20%20%20%20%20%20%3CfeGaussianBlur%20stdDeviation%3D%2230%22/%3E%0A%20%20%20%20%3C/filter%3E%0A%20%20%3C/defs%3E%0A%0A%20%20%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22url%28%23bg%29%22/%3E%0A%0A%20%20%3Ccircle%20cx%3D%221030%22%20cy%3D%22110%22%20r%3D%22170%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.18%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%20%20%3Ccircle%20cx%3D%22180%22%20cy%3D%22560%22%20r%3D%22150%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.16%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%0A%20%20%3Crect%20x%3D%2256%22%20y%3D%2252%22%20rx%3D%2218%22%20ry%3D%2218%22%20width%3D%22260%22%20height%3D%2254%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.08%29%22/%3E%0A%20%20%3Ctext%20x%3D%2284%22%20y%3D%2287%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2228%22%20fill%3D%22%23e5e7eb%22%3EScience%3C/text%3E%0A%0A%20%20%3Ctext%20x%3D%221010%22%20y%3D%22560%22%0A%20%20%20%20%20%20%20%20text-anchor%3D%22middle%22%0A%20%20%20%20%20%20%20%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%0A%20%20%20%20%20%20%20%20font-size%3D%22160%22%0A%20%20%20%20%20%20%20%20fill%3D%22%2360a5fa%22%0A%20%20%20%20%20%20%20%20opacity%3D%220.85%22%3E%0A%20%20%20%20%E2%80%A2%0A%20%20%3C/text%3E%0A%3C/svg%3E%0A",
+    "topic": "default",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
+    "title": "Author Correction: Autophagic cell death restricts chromosomal instability during replicative crisis",
+    "link": "https://www.nature.com/articles/s41586-026-10812-0",
+    "journal": "Nature",
+    "source_type": "journal",
+    "date": "2026-06-19",
+    "summary": "Nature, Published online: 19 June 2026; doi:10.1038/s41586-026-10812-0 Author Correction: Autophagic cell death restricts chromosomal instability during replicative crisis",
+    "abstract": "Nature, Published online: 19 June 2026; doi:10.1038/s41586-026-10812-0 Author Correction: Autophagic cell death restricts chromosomal instability during replicative crisis",
+    "image": "data:image/svg+xml;charset=utf-8,%0A%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23111827%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23374151%22/%3E%0A%20%20%20%20%3C/linearGradient%3E%0A%20%20%20%20%3Cfilter%20id%3D%22blur%22%3E%0A%20%20%20%20%20%20%3CfeGaussianBlur%20stdDeviation%3D%2230%22/%3E%0A%20%20%20%20%3C/filter%3E%0A%20%20%3C/defs%3E%0A%0A%20%20%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22url%28%23bg%29%22/%3E%0A%0A%20%20%3Ccircle%20cx%3D%221030%22%20cy%3D%22110%22%20r%3D%22170%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.18%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%20%20%3Ccircle%20cx%3D%22180%22%20cy%3D%22560%22%20r%3D%22150%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.16%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%0A%20%20%3Crect%20x%3D%2256%22%20y%3D%2252%22%20rx%3D%2218%22%20ry%3D%2218%22%20width%3D%22260%22%20height%3D%2254%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.08%29%22/%3E%0A%20%20%3Ctext%20x%3D%2284%22%20y%3D%2287%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2228%22%20fill%3D%22%23e5e7eb%22%3ENature%3C/text%3E%0A%0A%20%20%3Ctext%20x%3D%221010%22%20y%3D%22560%22%0A%20%20%20%20%20%20%20%20text-anchor%3D%22middle%22%0A%20%20%20%20%20%20%20%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%0A%20%20%20%20%20%20%20%20font-size%3D%22160%22%0A%20%20%20%20%20%20%20%20fill%3D%22%2360a5fa%22%0A%20%20%20%20%20%20%20%20opacity%3D%220.85%22%3E%0A%20%20%20%20%E2%80%A2%0A%20%20%3C/text%3E%0A%3C/svg%3E%0A",
+    "topic": "default",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
+    "title": "Briefing Chat: Testosterone and sperm might get a boost from obesity drugs",
+    "link": "https://www.nature.com/articles/d41586-026-01963-1",
+    "journal": "Nature",
+    "source_type": "journal",
+    "date": "2026-06-19",
+    "summary": "Nature, Published online: 19 June 2026; doi:10.1038/d41586-026-01963-1 Nature staff discuss preliminary data on the effects of GLP-1 drugs on male fertility, plus a two-year trial of a brain–computer interface.",
+    "abstract": "Nature, Published online: 19 June 2026; doi:10.1038/d41586-026-01963-1 Nature staff discuss preliminary data on the effects of GLP-1 drugs on male fertility, plus a two-year trial of a brain–computer interface.",
+    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-01963-1/d41586-026-01963-1_52744664.jpg",
+    "topic": "default",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
   },
   {
     "title": "Stem cells banish severe autoimmune disease for 15 years",
@@ -178,6 +204,45 @@
     "abstract": "Nature, Published online: 19 June 2026; doi:10.1038/d41586-026-01925-7 Two people were the first to receive the therapy for a condition that damages the spinal cord and optic nerve.",
     "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-01925-7/d41586-026-01925-7_52717922.jpg",
     "topic": "default",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
+    "title": "Voltage dynamics of cortical dendrites in vivo",
+    "link": "https://www.nature.com/articles/s41593-026-02339-4",
+    "journal": "Nature Neuroscience",
+    "source_type": "journal",
+    "date": "2026-06-19",
+    "summary": "Nature Neuroscience, Published online: 19 June 2026; doi:10.1038/s41593-026-02339-4 Simultaneous voltage imaging of soma and dendrites in layer 2/3 cortical neurons in live mice reveals rich dynamics of spike back-propagation, with amplitude shaped by spiking history, dendrite location and behavioral state.",
+    "abstract": "Nature Neuroscience, Published online: 19 June 2026; doi:10.1038/s41593-026-02339-4 Simultaneous voltage imaging of soma and dendrites in layer 2/3 cortical neurons in live mice reveals rich dynamics of spike back-propagation, with amplitude shaped by spiking history, dendrite location and behavioral state.",
+    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41593-026-02339-4/MediaObjects/41593_2026_2339_Fig1_HTML.png",
+    "topic": "neuroscience",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
+    "title": "Tryptamine from wake-active monoaminergic neurons regulates sleep homeostasis",
+    "link": "https://www.nature.com/articles/s41593-026-02332-x",
+    "journal": "Nature Neuroscience",
+    "source_type": "journal",
+    "date": "2026-06-19",
+    "summary": "Nature Neuroscience, Published online: 19 June 2026; doi:10.1038/s41593-026-02332-x Cao et al. identify tryptamine as a sleep signal in mice. Wake-active monoaminergic neurons release tryptamine, which binds to GPR139 in POA neurons that suppress wake-promoting neurons. GPR139 agonists could be a new class of sleep medication.",
+    "abstract": "Nature Neuroscience, Published online: 19 June 2026; doi:10.1038/s41593-026-02332-x Cao et al. identify tryptamine as a sleep signal in mice. Wake-active monoaminergic neurons release tryptamine, which binds to GPR139 in POA neurons that suppress wake-promoting neurons. GPR139 agonists could be a new class of sleep medication.",
+    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41593-026-02332-x/MediaObjects/41593_2026_2332_Fig1_HTML.png",
+    "topic": "neuroscience",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
+    "title": "Runx–CBFβ regulates the development of tolerogenic Thetis cells",
+    "link": "https://www.nature.com/articles/s41590-026-02566-8",
+    "journal": "Nature Immunology",
+    "source_type": "journal",
+    "date": "2026-06-19",
+    "summary": "Nature Immunology, Published online: 19 June 2026; doi:10.1038/s41590-026-02566-8 Taniuchi and Brown and colleagues report that the Runx–CBFβ transcription factor complex plays a crucial role in the development of intestinal RORγt+ antigen-presenting cells, which are required to promote tolerance to food and gut commensal microorganisms.",
+    "abstract": "Nature Immunology, Published online: 19 June 2026; doi:10.1038/s41590-026-02566-8 Taniuchi and Brown and colleagues report that the Runx–CBFβ transcription factor complex plays a crucial role in the development of intestinal RORγt+ antigen-presenting cells, which are required to promote tolerance to food and gut commensal microorganisms.",
+    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41590-026-02566-8/MediaObjects/41590_2026_2566_Fig1_HTML.png",
+    "topic": "immunology",
     "topic_color": "#60a5fa",
     "priority_score": 0
   },
@@ -351,19 +416,6 @@
     "priority_score": 0
   },
   {
-    "title": "New space telescope will map galaxies’ ghostly halos and streams",
-    "link": "https://www.science.org/content/article/new-space-telescope-will-map-galaxies-ghostly-halos-and-streams",
-    "journal": "Science",
-    "source_type": "journal",
-    "date": "2026-06-17T04:00:00Z",
-    "summary": "European Space Agency mission will trace the relics of ancient mergers and probe the dark matter shaping galaxy growth",
-    "abstract": "European Space Agency mission will trace the relics of ancient mergers and probe the dark matter shaping galaxy growth",
-    "image": "data:image/svg+xml;charset=utf-8,%0A%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23111827%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23374151%22/%3E%0A%20%20%20%20%3C/linearGradient%3E%0A%20%20%20%20%3Cfilter%20id%3D%22blur%22%3E%0A%20%20%20%20%20%20%3CfeGaussianBlur%20stdDeviation%3D%2230%22/%3E%0A%20%20%20%20%3C/filter%3E%0A%20%20%3C/defs%3E%0A%0A%20%20%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22url%28%23bg%29%22/%3E%0A%0A%20%20%3Ccircle%20cx%3D%221030%22%20cy%3D%22110%22%20r%3D%22170%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.18%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%20%20%3Ccircle%20cx%3D%22180%22%20cy%3D%22560%22%20r%3D%22150%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.16%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%0A%20%20%3Crect%20x%3D%2256%22%20y%3D%2252%22%20rx%3D%2218%22%20ry%3D%2218%22%20width%3D%22260%22%20height%3D%2254%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.08%29%22/%3E%0A%20%20%3Ctext%20x%3D%2284%22%20y%3D%2287%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2228%22%20fill%3D%22%23e5e7eb%22%3EScience%3C/text%3E%0A%0A%20%20%3Ctext%20x%3D%221010%22%20y%3D%22560%22%0A%20%20%20%20%20%20%20%20text-anchor%3D%22middle%22%0A%20%20%20%20%20%20%20%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%0A%20%20%20%20%20%20%20%20font-size%3D%22160%22%0A%20%20%20%20%20%20%20%20fill%3D%22%2360a5fa%22%0A%20%20%20%20%20%20%20%20opacity%3D%220.85%22%3E%0A%20%20%20%20%E2%80%A2%0A%20%20%3C/text%3E%0A%3C/svg%3E%0A",
-    "topic": "default",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
     "title": "Do animals perceive time differently from humans?",
     "link": "https://www.science.org/content/article/do-animals-perceive-time-differently-humans",
     "journal": "Science",
@@ -416,32 +468,6 @@
     "priority_score": 0
   },
   {
-    "title": "DNA from hunter-gatherer teeth reveals secrets of ancient plague",
-    "link": "https://www.nature.com/articles/d41586-026-01941-7",
-    "journal": "Nature",
-    "source_type": "journal",
-    "date": "2026-06-17",
-    "summary": "Nature, Published online: 17 June 2026; doi:10.1038/d41586-026-01941-7 Analysis shows evidence of deadly outbreaks 5,500 years ago — plus, a prototype dark-matter detector.",
-    "abstract": "Nature, Published online: 17 June 2026; doi:10.1038/d41586-026-01941-7 Analysis shows evidence of deadly outbreaks 5,500 years ago — plus, a prototype dark-matter detector.",
-    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-01941-7/d41586-026-01941-7_52669894.jpg",
-    "topic": "default",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
-    "title": "Emergent decadal predictability in Antarctic contribution to sea-level rise",
-    "link": "https://www.nature.com/articles/s41586-026-10614-4",
-    "journal": "Nature",
-    "source_type": "journal",
-    "date": "2026-06-17",
-    "summary": "Nature, Published online: 17 June 2026; doi:10.1038/s41586-026-10614-4 Although Antarctic ice loss projections diverge widely by 2100, this Perspective shows that present-day rates robustly predict mid-century sea level rise, providing a firm basis for near-term planning, while highlighting priorities for model development aimed at resolving longer-term sea level rise uncertainty.",
-    "abstract": "Nature, Published online: 17 June 2026; doi:10.1038/s41586-026-10614-4 Although Antarctic ice loss projections diverge widely by 2100, this Perspective shows that present-day rates robustly predict mid-century sea level rise, providing a firm basis for near-term planning, while highlighting priorities for model development aimed at resolving longer-term sea level rise uncertainty.",
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-10614-4/MediaObjects/41586_2026_10614_Fig1_HTML.png",
-    "topic": "default",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
     "title": "Medical innovation in LMICs: can India lead the way?",
     "link": "https://www.nature.com/articles/s41591-026-04499-z",
     "journal": "Nature Medicine",
@@ -476,19 +502,6 @@
     "summary": "Proceedings of the National Academy of Sciences, Volume 123, Issue 24, June 2026.",
     "abstract": "Proceedings of the National Academy of Sciences, Volume 123, Issue 24, June 2026.",
     "image": "data:image/svg+xml;charset=utf-8,%0A%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23111827%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23374151%22/%3E%0A%20%20%20%20%3C/linearGradient%3E%0A%20%20%20%20%3Cfilter%20id%3D%22blur%22%3E%0A%20%20%20%20%20%20%3CfeGaussianBlur%20stdDeviation%3D%2230%22/%3E%0A%20%20%20%20%3C/filter%3E%0A%20%20%3C/defs%3E%0A%0A%20%20%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22url%28%23bg%29%22/%3E%0A%0A%20%20%3Ccircle%20cx%3D%221030%22%20cy%3D%22110%22%20r%3D%22170%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.18%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%20%20%3Ccircle%20cx%3D%22180%22%20cy%3D%22560%22%20r%3D%22150%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.16%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%0A%20%20%3Crect%20x%3D%2256%22%20y%3D%2252%22%20rx%3D%2218%22%20ry%3D%2218%22%20width%3D%22260%22%20height%3D%2254%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.08%29%22/%3E%0A%20%20%3Ctext%20x%3D%2284%22%20y%3D%2287%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2228%22%20fill%3D%22%23e5e7eb%22%3EPNAS%3C/text%3E%0A%0A%20%20%3Ctext%20x%3D%221010%22%20y%3D%22560%22%0A%20%20%20%20%20%20%20%20text-anchor%3D%22middle%22%0A%20%20%20%20%20%20%20%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%0A%20%20%20%20%20%20%20%20font-size%3D%22160%22%0A%20%20%20%20%20%20%20%20fill%3D%22%2360a5fa%22%0A%20%20%20%20%20%20%20%20opacity%3D%220.85%22%3E%0A%20%20%20%20%E2%80%A2%0A%20%20%3C/text%3E%0A%3C/svg%3E%0A",
-    "topic": "default",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
-    "title": "Russia’s plan to drill superdeep holes in Arctic revives controversial theory of ‘endless oil’",
-    "link": "https://www.science.org/content/article/russia-s-plan-drill-superdeep-holes-arctic-revives-controversial-theory-endless-oil",
-    "journal": "Science",
-    "source_type": "journal",
-    "date": "2026-06-16T03:30:00Z",
-    "summary": "Soviet-era theory touted by Putin’s former campaign manager claims oil deposits can form without organic matter",
-    "abstract": "Soviet-era theory touted by Putin’s former campaign manager claims oil deposits can form without organic matter",
-    "image": "data:image/svg+xml;charset=utf-8,%0A%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23111827%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23374151%22/%3E%0A%20%20%20%20%3C/linearGradient%3E%0A%20%20%20%20%3Cfilter%20id%3D%22blur%22%3E%0A%20%20%20%20%20%20%3CfeGaussianBlur%20stdDeviation%3D%2230%22/%3E%0A%20%20%20%20%3C/filter%3E%0A%20%20%3C/defs%3E%0A%0A%20%20%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22url%28%23bg%29%22/%3E%0A%0A%20%20%3Ccircle%20cx%3D%221030%22%20cy%3D%22110%22%20r%3D%22170%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.18%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%20%20%3Ccircle%20cx%3D%22180%22%20cy%3D%22560%22%20r%3D%22150%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.16%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%0A%20%20%3Crect%20x%3D%2256%22%20y%3D%2252%22%20rx%3D%2218%22%20ry%3D%2218%22%20width%3D%22260%22%20height%3D%2254%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.08%29%22/%3E%0A%20%20%3Ctext%20x%3D%2284%22%20y%3D%2287%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2228%22%20fill%3D%22%23e5e7eb%22%3EScience%3C/text%3E%0A%0A%20%20%3Ctext%20x%3D%221010%22%20y%3D%22560%22%0A%20%20%20%20%20%20%20%20text-anchor%3D%22middle%22%0A%20%20%20%20%20%20%20%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%0A%20%20%20%20%20%20%20%20font-size%3D%22160%22%0A%20%20%20%20%20%20%20%20fill%3D%22%2360a5fa%22%0A%20%20%20%20%20%20%20%20opacity%3D%220.85%22%3E%0A%20%20%20%20%E2%80%A2%0A%20%20%3C/text%3E%0A%3C/svg%3E%0A",
     "topic": "default",
     "topic_color": "#60a5fa",
     "priority_score": 0
@@ -594,19 +607,6 @@
     "abstract": "Nature Immunology, Published online: 15 June 2026; doi:10.1038/s41590-026-02569-5 This study compares the humoral response of individuals who received inactivated influenza vaccines to that of individuals who received an mRNA-based quadrivalent influenza vaccine. The mRNA-based vaccine induced prolonged germinal center responses, more antibodies and increased numbers of memory B cells.",
     "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41590-026-02569-5/MediaObjects/41590_2026_2569_Fig1_HTML.png",
     "topic": "immunology",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
-    "title": "Striatal pathways dissociably control action counting and goal-directed steering",
-    "link": "https://www.nature.com/articles/s41593-026-02330-z",
-    "journal": "Nature Neuroscience",
-    "source_type": "journal",
-    "date": "2026-06-12",
-    "summary": "Nature Neuroscience, Published online: 12 June 2026; doi:10.1038/s41593-026-02330-z Striatal direct and indirect pathways jointly control how many actions are performed during counting, and how animals move toward specific goals. These pathways implement a push–pull controller for discrete action counting as well as continuous movement control.",
-    "abstract": "Nature Neuroscience, Published online: 12 June 2026; doi:10.1038/s41593-026-02330-z Striatal direct and indirect pathways jointly control how many actions are performed during counting, and how animals move toward specific goals. These pathways implement a push–pull controller for discrete action counting as well as continuous movement control.",
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41593-026-02330-z/MediaObjects/41593_2026_2330_Fig1_HTML.png",
-    "topic": "neuroscience",
     "topic_color": "#60a5fa",
     "priority_score": 0
   },
