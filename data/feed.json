@@ -52,32 +52,6 @@
     "priority_score": 133
   },
   {
-    "title": "CAR T cells take on precancers",
-    "link": "https://www.nature.com/articles/s41591-026-04473-9",
-    "journal": "Nature Medicine",
-    "source_type": "journal",
-    "date": "2026-06-17",
-    "summary": "Nature Medicine, Published online: 17 June 2026; doi:10.1038/s41591-026-04473-9 CAR T cell therapy can induce deep responses but also severe toxicities in patients with smoldering myeloma, an asymptomatic cancer precursor; given the potential risks and benefits, its success depends on careful patient selection.",
-    "abstract": "Nature Medicine, Published online: 17 June 2026; doi:10.1038/s41591-026-04473-9 CAR T cell therapy can induce deep responses but also severe toxicities in patients with smoldering myeloma, an asymptomatic cancer precursor; given the potential risks and benefits, its success depends on careful patient selection.",
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41591-026-04473-9/MediaObjects/41591_2026_4473_Fig1_HTML.png",
-    "topic": "Immunology",
-    "topic_color": "#60a5fa",
-    "priority_score": 133
-  },
-  {
-    "title": "When regulators become helpers",
-    "link": "https://www.nature.com/articles/s41590-026-02564-w",
-    "journal": "Nature Immunology",
-    "source_type": "journal",
-    "date": "2026-06-22",
-    "summary": "Nature Immunology, Published online: 22 June 2026; doi:10.1038/s41590-026-02564-w Memory regulatory T cells can shed their suppressive identity and become T follicular helper-like effector cells during recurrent malaria, identifying an unexpected mechanism that links immune regulation with protective humoral immunity.",
-    "abstract": "Nature Immunology, Published online: 22 June 2026; doi:10.1038/s41590-026-02564-w Memory regulatory T cells can shed their suppressive identity and become T follicular helper-like effector cells during recurrent malaria, identifying an unexpected mechanism that links immune regulation with protective humoral immunity.",
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41590-026-02564-w/MediaObjects/41590_2026_2564_Fig1_HTML.png",
-    "topic": "Immunology",
-    "topic_color": "#60a5fa",
-    "priority_score": 93
-  },
-  {
     "title": "Functional asymmetry and essential structural roles of PDE6α and PDE6β subunits in rod–photoreceptor integrity",
     "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2604088123?af=R",
     "journal": "PNAS",
@@ -102,6 +76,71 @@
     "topic": "inflammation",
     "topic_color": "#fb7185",
     "priority_score": 29
+  },
+  {
+    "title": "‘Us’ not ‘them’: scientists must use their skills to help stop polarization and division",
+    "link": "https://www.nature.com/articles/d41586-026-01952-4",
+    "journal": "Nature",
+    "source_type": "journal",
+    "date": "2026-06-24",
+    "summary": "Nature, Published online: 24 June 2026; doi:10.1038/d41586-026-01952-4 Researchers who study what divides people also have the tools to explore strategies to unite them.",
+    "abstract": "Nature, Published online: 24 June 2026; doi:10.1038/d41586-026-01952-4 Researchers who study what divides people also have the tools to explore strategies to unite them.",
+    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-01952-4/d41586-026-01952-4_52798876.jpg",
+    "topic": "default",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
+    "title": "Why science needs the humanities more than ever",
+    "link": "https://www.nature.com/articles/d41586-026-01958-y",
+    "journal": "Nature",
+    "source_type": "journal",
+    "date": "2026-06-24",
+    "summary": "Nature, Published online: 24 June 2026; doi:10.1038/d41586-026-01958-y From AI to biotechnology, today’s scientific breakthroughs raise ethical and social challenges that technical expertise alone cannot solve.",
+    "abstract": "From AI to biotechnology, today’s scientific breakthroughs raise ethical and social challenges that technical expertise alone cannot solve. From AI to biotechnology, today’s scientific breakthroughs raise ethical and social challenges that technical expertise alone cannot solve.",
+    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-01958-y/d41586-026-01958-y_52697200.jpg",
+    "topic": "default",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
+    "title": "Airway immune signatures of protection and disease progression in recent human tuberculosis household contacts",
+    "link": "https://www.nature.com/articles/s41590-026-02544-0",
+    "journal": "Nature Immunology",
+    "source_type": "journal",
+    "date": "2026-06-24",
+    "summary": "Nature Immunology, Published online: 24 June 2026; doi:10.1038/s41590-026-02544-0 The local immune factors dictating whether individuals who have been infected with Mycobacterium tuberculosis remain healthy or progress to active tuberculosis (TB) have not been defined. Here O’Garra and colleagues analyze early human airway responses in TB household contacts to reveal immune signatures of protection and disease progression.",
+    "abstract": "Nature Immunology, Published online: 24 June 2026; doi:10.1038/s41590-026-02544-0 The local immune factors dictating whether individuals who have been infected with Mycobacterium tuberculosis remain healthy or progress to active tuberculosis (TB) have not been defined. Here O’Garra and colleagues analyze early human airway responses in TB household contacts to reveal immune signatures of protection and disease progression.",
+    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41590-026-02544-0/MediaObjects/41590_2026_2544_Fig1_HTML.png",
+    "topic": "immunology",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
+    "title": "Inspiring, shaping and sustaining an African research &amp; development agenda",
+    "link": "https://www.nature.com/articles/s41591-026-04480-w",
+    "journal": "Nature Medicine",
+    "source_type": "journal",
+    "date": "2026-06-24",
+    "summary": "Nature Medicine, Published online: 24 June 2026; doi:10.1038/s41591-026-04480-w Why Africa needs regional R&D hubs for basic science and translation research to accelerate local manufacturing.",
+    "abstract": "Nature Medicine, Published online: 24 June 2026; doi:10.1038/s41591-026-04480-w Why Africa needs regional R&D hubs for basic science and translation research to accelerate local manufacturing.",
+    "image": "data:image/svg+xml;charset=utf-8,%0A%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23111827%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23374151%22/%3E%0A%20%20%20%20%3C/linearGradient%3E%0A%20%20%20%20%3Cfilter%20id%3D%22blur%22%3E%0A%20%20%20%20%20%20%3CfeGaussianBlur%20stdDeviation%3D%2230%22/%3E%0A%20%20%20%20%3C/filter%3E%0A%20%20%3C/defs%3E%0A%0A%20%20%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22url%28%23bg%29%22/%3E%0A%0A%20%20%3Ccircle%20cx%3D%221030%22%20cy%3D%22110%22%20r%3D%22170%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.18%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%20%20%3Ccircle%20cx%3D%22180%22%20cy%3D%22560%22%20r%3D%22150%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.16%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%0A%20%20%3Crect%20x%3D%2256%22%20y%3D%2252%22%20rx%3D%2218%22%20ry%3D%2218%22%20width%3D%22260%22%20height%3D%2254%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.08%29%22/%3E%0A%20%20%3Ctext%20x%3D%2284%22%20y%3D%2287%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2228%22%20fill%3D%22%23e5e7eb%22%3ENature%20Medicine%3C/text%3E%0A%0A%20%20%3Ctext%20x%3D%221010%22%20y%3D%22560%22%0A%20%20%20%20%20%20%20%20text-anchor%3D%22middle%22%0A%20%20%20%20%20%20%20%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%0A%20%20%20%20%20%20%20%20font-size%3D%22160%22%0A%20%20%20%20%20%20%20%20fill%3D%22%2360a5fa%22%0A%20%20%20%20%20%20%20%20opacity%3D%220.85%22%3E%0A%20%20%20%20%E2%80%A2%0A%20%20%3C/text%3E%0A%3C/svg%3E%0A",
+    "topic": "default",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
+    "title": "Automated reanalysis of genomic data for rare disease diagnostics at scale",
+    "link": "https://www.nature.com/articles/s41591-026-04477-5",
+    "journal": "Nature Medicine",
+    "source_type": "journal",
+    "date": "2026-06-24",
+    "summary": "Nature Medicine, Published online: 24 June 2026; doi:10.1038/s41591-026-04477-5 Talos, a new tool for the automated analysis of genomic data, demonstrates the feasibility and diagnostic utility of systematic reanalyses of data in rare diseases.",
+    "abstract": "Reanalysis of genomic data in rare disease is highly effective in increasing diagnostic yields but remains limited by manual approaches. Automation and optimization for high specificity will be necessary to ensure scalability, adoption and sustainability of iterative reanalysis. We developed Talos, an open-source tool that automates variant prioritization by integrating dynamically updated gene−disease and variant-level evidence with inheritance-aware filtering and validated its performance using data from 1,089 individuals with rare disease. Trio-based analysis identified 90% of known diagnoses, returning 1.3 variants per case on average. Variant burden reduced to one variant per 200 cases on iterative monthly reanalysis. Application to an unselected cohort of 4,735 undiagnosed individuals identified 241 diagnoses (5.1% yield): 78 (32%) due to new gene−disease relationships, 54 (22%) due to new variant-level evidence and 109 (45%) due to improved analysis strategies. Our automated, iterative reanalysis model demonstrates the feasibility of delivering frequent, systematic reanalysis at scale. Talos, a new tool for the automated analysis of genomic data, demonstrates the feasibility and diagnostic utility of systematic reanalyses of data in rare diseases.",
+    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41591-026-04477-5/MediaObjects/41591_2026_4477_Fig1_HTML.png",
+    "topic": "default",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
   },
   {
     "title": "How AI, $1 billion, and a transparent fish could transform neuroscience",
@@ -260,19 +299,6 @@
     "priority_score": 0
   },
   {
-    "title": "Making samples one billion times bigger lets simple microscopes pinpoint amino acids",
-    "link": "https://www.nature.com/articles/d41586-026-01842-9",
-    "journal": "Nature",
-    "source_type": "journal",
-    "date": "2026-06-23",
-    "summary": "Nature, Published online: 23 June 2026; doi:10.1038/d41586-026-01842-9 Stretching protein samples in all directions pulls molecules farther apart, allowing them to be visualized using only light microscopy.",
-    "abstract": "Stretching protein samples in all directions pulls molecules farther apart, allowing them to be visualized using only light microscopy. Stretching protein samples in all directions pulls molecules farther apart, allowing them to be visualized using only light microscopy.",
-    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-01842-9/d41586-026-01842-9_52538424.jpg",
-    "topic": "default",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
     "title": "Author Correction: Cerebellar aging is spatially heterogeneous and supports cognitive resilience in later life",
     "link": "https://www.nature.com/articles/s41593-026-02374-1",
     "journal": "Nature Neuroscience",
@@ -385,19 +411,6 @@
     "summary": "Chemical signature of 3I/ATLAS suggests it formed early in the history of the Milky Way",
     "abstract": "Chemical signature of 3I/ATLAS suggests it formed early in the history of the Milky Way",
     "image": "data:image/svg+xml;charset=utf-8,%0A%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23111827%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23374151%22/%3E%0A%20%20%20%20%3C/linearGradient%3E%0A%20%20%20%20%3Cfilter%20id%3D%22blur%22%3E%0A%20%20%20%20%20%20%3CfeGaussianBlur%20stdDeviation%3D%2230%22/%3E%0A%20%20%20%20%3C/filter%3E%0A%20%20%3C/defs%3E%0A%0A%20%20%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22url%28%23bg%29%22/%3E%0A%0A%20%20%3Ccircle%20cx%3D%221030%22%20cy%3D%22110%22%20r%3D%22170%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.18%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%20%20%3Ccircle%20cx%3D%22180%22%20cy%3D%22560%22%20r%3D%22150%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.16%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%0A%20%20%3Crect%20x%3D%2256%22%20y%3D%2252%22%20rx%3D%2218%22%20ry%3D%2218%22%20width%3D%22260%22%20height%3D%2254%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.08%29%22/%3E%0A%20%20%3Ctext%20x%3D%2284%22%20y%3D%2287%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2228%22%20fill%3D%22%23e5e7eb%22%3EScience%3C/text%3E%0A%0A%20%20%3Ctext%20x%3D%221010%22%20y%3D%22560%22%0A%20%20%20%20%20%20%20%20text-anchor%3D%22middle%22%0A%20%20%20%20%20%20%20%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%0A%20%20%20%20%20%20%20%20font-size%3D%22160%22%0A%20%20%20%20%20%20%20%20fill%3D%22%2360a5fa%22%0A%20%20%20%20%20%20%20%20opacity%3D%220.85%22%3E%0A%20%20%20%20%E2%80%A2%0A%20%20%3C/text%3E%0A%3C/svg%3E%0A",
-    "topic": "default",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
-    "title": "C-glycoside synthesis via radical cross-coupling of glycohydrazides",
-    "link": "https://www.nature.com/articles/s41586-026-10807-x",
-    "journal": "Nature",
-    "source_type": "journal",
-    "date": "2026-06-22",
-    "summary": "Nature, Published online: 22 June 2026; doi:10.1038/s41586-026-10807-x C-glycoside synthesis via radical cross-coupling of glycohydrazides",
-    "abstract": "Carbohydrates are among the most abundant and structurally diverse biomolecules in nature, playing central roles in energy storage, molecular recognition, and cell signaling. Within this domain, C-glycosides1-3, in which the oxygen atom of the glycosidic bond in O-glycosides is replaced by carbon, have emerged as valuable motifs in medicinal chemistry due to their resistance to enzymatic hydrolysis2,4. Of particular importance are C-aryl glycosides, exemplified by the SGLT2 inhibitors dapagliflozin, canagliflozin, and empagliflozin, which are frontline therapies for type 2 diabetes5-7. However, scalable syntheses of C-aryl glycosides have traditionally relied on protected sugar derivatives, lengthy sequences, or conventional cross-couplings that often suffer from poor selectivity, limited scope, and extensive protecting-group manipulation6. Herein, we report a practical approach to C-aryl glycosides using glycosyl sulfonyl hydrazides as redox-neutral radical precursors for cross-coupling. Prepared directly from unprotected native sugars, these reagents generate glycosyl radicals under mild conditions and enable efficient access to diverse C-aryl glycosides, including all approved SGLT2 inhibitors, natural products such as salmochelins and neopetrosins, and medicinally relevant probes. Beyond anomeric functionalization, this platform enables C–C bond formation at multiple positions on carbohydrate scaffolds and supports stereoretentive radical coupling that can override inherent stereochemical biases, expanding practical access to carbohydrate-derived therapeutics and chemical tools.",
-    "image": "data:image/svg+xml;charset=utf-8,%0A%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23111827%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23374151%22/%3E%0A%20%20%20%20%3C/linearGradient%3E%0A%20%20%20%20%3Cfilter%20id%3D%22blur%22%3E%0A%20%20%20%20%20%20%3CfeGaussianBlur%20stdDeviation%3D%2230%22/%3E%0A%20%20%20%20%3C/filter%3E%0A%20%20%3C/defs%3E%0A%0A%20%20%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22url%28%23bg%29%22/%3E%0A%0A%20%20%3Ccircle%20cx%3D%221030%22%20cy%3D%22110%22%20r%3D%22170%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.18%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%20%20%3Ccircle%20cx%3D%22180%22%20cy%3D%22560%22%20r%3D%22150%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.16%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%0A%20%20%3Crect%20x%3D%2256%22%20y%3D%2252%22%20rx%3D%2218%22%20ry%3D%2218%22%20width%3D%22260%22%20height%3D%2254%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.08%29%22/%3E%0A%20%20%3Ctext%20x%3D%2284%22%20y%3D%2287%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2228%22%20fill%3D%22%23e5e7eb%22%3ENature%3C/text%3E%0A%0A%20%20%3Ctext%20x%3D%221010%22%20y%3D%22560%22%0A%20%20%20%20%20%20%20%20text-anchor%3D%22middle%22%0A%20%20%20%20%20%20%20%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%0A%20%20%20%20%20%20%20%20font-size%3D%22160%22%0A%20%20%20%20%20%20%20%20fill%3D%22%2360a5fa%22%0A%20%20%20%20%20%20%20%20opacity%3D%220.85%22%3E%0A%20%20%20%20%E2%80%A2%0A%20%20%3C/text%3E%0A%3C/svg%3E%0A",
     "topic": "default",
     "topic_color": "#60a5fa",
     "priority_score": 0
@@ -554,19 +567,6 @@
     "summary": "Final political hurdle overcome, easing regulation of certain modified plants",
     "abstract": "Final political hurdle overcome, easing regulation of certain modified plants",
     "image": "data:image/svg+xml;charset=utf-8,%0A%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23111827%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23374151%22/%3E%0A%20%20%20%20%3C/linearGradient%3E%0A%20%20%20%20%3Cfilter%20id%3D%22blur%22%3E%0A%20%20%20%20%20%20%3CfeGaussianBlur%20stdDeviation%3D%2230%22/%3E%0A%20%20%20%20%3C/filter%3E%0A%20%20%3C/defs%3E%0A%0A%20%20%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22url%28%23bg%29%22/%3E%0A%0A%20%20%3Ccircle%20cx%3D%221030%22%20cy%3D%22110%22%20r%3D%22170%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.18%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%20%20%3Ccircle%20cx%3D%22180%22%20cy%3D%22560%22%20r%3D%22150%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.16%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%0A%20%20%3Crect%20x%3D%2256%22%20y%3D%2252%22%20rx%3D%2218%22%20ry%3D%2218%22%20width%3D%22260%22%20height%3D%2254%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.08%29%22/%3E%0A%20%20%3Ctext%20x%3D%2284%22%20y%3D%2287%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2228%22%20fill%3D%22%23e5e7eb%22%3EScience%3C/text%3E%0A%0A%20%20%3Ctext%20x%3D%221010%22%20y%3D%22560%22%0A%20%20%20%20%20%20%20%20text-anchor%3D%22middle%22%0A%20%20%20%20%20%20%20%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%0A%20%20%20%20%20%20%20%20font-size%3D%22160%22%0A%20%20%20%20%20%20%20%20fill%3D%22%2360a5fa%22%0A%20%20%20%20%20%20%20%20opacity%3D%220.85%22%3E%0A%20%20%20%20%E2%80%A2%0A%20%20%3C/text%3E%0A%3C/svg%3E%0A",
-    "topic": "default",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
-    "title": "Medical innovation in LMICs: can India lead the way?",
-    "link": "https://www.nature.com/articles/s41591-026-04499-z",
-    "journal": "Nature Medicine",
-    "source_type": "journal",
-    "date": "2026-06-17",
-    "summary": "Nature Medicine, Published online: 17 June 2026; doi:10.1038/s41591-026-04499-z With its biomedicine at an inflection point, India can seize the opportunity to scale up research and development at home and offer a distinct model of biomedical innovation for the global south.",
-    "abstract": "Nature Medicine, Published online: 17 June 2026; doi:10.1038/s41591-026-04499-z With its biomedicine at an inflection point, India can seize the opportunity to scale up research and development at home and offer a distinct model of biomedical innovation for the global south.",
-    "image": "data:image/svg+xml;charset=utf-8,%0A%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23111827%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23374151%22/%3E%0A%20%20%20%20%3C/linearGradient%3E%0A%20%20%20%20%3Cfilter%20id%3D%22blur%22%3E%0A%20%20%20%20%20%20%3CfeGaussianBlur%20stdDeviation%3D%2230%22/%3E%0A%20%20%20%20%3C/filter%3E%0A%20%20%3C/defs%3E%0A%0A%20%20%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22url%28%23bg%29%22/%3E%0A%0A%20%20%3Ccircle%20cx%3D%221030%22%20cy%3D%22110%22%20r%3D%22170%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.18%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%20%20%3Ccircle%20cx%3D%22180%22%20cy%3D%22560%22%20r%3D%22150%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.16%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%0A%20%20%3Crect%20x%3D%2256%22%20y%3D%2252%22%20rx%3D%2218%22%20ry%3D%2218%22%20width%3D%22260%22%20height%3D%2254%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.08%29%22/%3E%0A%20%20%3Ctext%20x%3D%2284%22%20y%3D%2287%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2228%22%20fill%3D%22%23e5e7eb%22%3ENature%20Medicine%3C/text%3E%0A%0A%20%20%3Ctext%20x%3D%221010%22%20y%3D%22560%22%0A%20%20%20%20%20%20%20%20text-anchor%3D%22middle%22%0A%20%20%20%20%20%20%20%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%0A%20%20%20%20%20%20%20%20font-size%3D%22160%22%0A%20%20%20%20%20%20%20%20fill%3D%22%2360a5fa%22%0A%20%20%20%20%20%20%20%20opacity%3D%220.85%22%3E%0A%20%20%20%20%E2%80%A2%0A%20%20%3C/text%3E%0A%3C/svg%3E%0A",
     "topic": "default",
     "topic_color": "#60a5fa",
     "priority_score": 0
