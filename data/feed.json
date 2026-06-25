@@ -65,19 +65,6 @@
     "priority_score": 133
   },
   {
-    "title": "When regulators become helpers",
-    "link": "https://www.nature.com/articles/s41590-026-02564-w",
-    "journal": "Nature Immunology",
-    "source_type": "journal",
-    "date": "2026-06-22",
-    "summary": "Nature Immunology, Published online: 22 June 2026; doi:10.1038/s41590-026-02564-w Memory regulatory T cells can shed their suppressive identity and become T follicular helper-like effector cells during recurrent malaria, identifying an unexpected mechanism that links immune regulation with protective humoral immunity.",
-    "abstract": "Nature Immunology, Published online: 22 June 2026; doi:10.1038/s41590-026-02564-w Memory regulatory T cells can shed their suppressive identity and become T follicular helper-like effector cells during recurrent malaria, identifying an unexpected mechanism that links immune regulation with protective humoral immunity.",
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41590-026-02564-w/MediaObjects/41590_2026_2564_Fig1_HTML.png",
-    "topic": "Immunology",
-    "topic_color": "#60a5fa",
-    "priority_score": 93
-  },
-  {
     "title": "Functional asymmetry and essential structural roles of PDE6α and PDE6β subunits in rod–photoreceptor integrity",
     "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2604088123?af=R",
     "journal": "PNAS",
@@ -334,6 +321,19 @@
     "abstract": "Nature, Published online: 24 June 2026; doi:10.1038/s41586-026-10704-3 Global high-resolution mapping shows widespread seagrass loss and degradation since 2019, with most meadows outside protected areas, highlighting urgent conservation and climate-policy needs.",
     "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-10704-3/MediaObjects/41586_2026_10704_Fig1_HTML.png",
     "topic": "default",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
+    "title": "Airway immune signatures of protection and disease progression in recent human tuberculosis household contacts",
+    "link": "https://www.nature.com/articles/s41590-026-02544-0",
+    "journal": "Nature Immunology",
+    "source_type": "journal",
+    "date": "2026-06-24",
+    "summary": "Nature Immunology, Published online: 24 June 2026; doi:10.1038/s41590-026-02544-0 The local immune factors dictating whether individuals who have been infected with Mycobacterium tuberculosis remain healthy or progress to active tuberculosis (TB) have not been defined. Here O’Garra and colleagues analyze early human airway responses in TB household contacts to reveal immune signatures of protection and disease progression.",
+    "abstract": "Nature Immunology, Published online: 24 June 2026; doi:10.1038/s41590-026-02544-0 The local immune factors dictating whether individuals who have been infected with Mycobacterium tuberculosis remain healthy or progress to active tuberculosis (TB) have not been defined. Here O’Garra and colleagues analyze early human airway responses in TB household contacts to reveal immune signatures of protection and disease progression.",
+    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41590-026-02544-0/MediaObjects/41590_2026_2544_Fig1_HTML.png",
+    "topic": "immunology",
     "topic_color": "#60a5fa",
     "priority_score": 0
   },
