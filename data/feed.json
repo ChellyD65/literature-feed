@@ -143,6 +143,32 @@
     "priority_score": 41
   },
   {
+    "title": "Can you actually do a nine-to-five PhD? <i>Nature</i> readers weigh in",
+    "link": "https://www.nature.com/articles/d41586-026-01773-5",
+    "journal": "Nature",
+    "source_type": "journal",
+    "date": "2026-07-02",
+    "summary": "Nature, Published online: 02 July 2026; doi:10.1038/d41586-026-01773-5 Nature readers share their PhD time-management woes.",
+    "abstract": "Nature, Published online: 02 July 2026; doi:10.1038/d41586-026-01773-5 Nature readers share their PhD time-management woes.",
+    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-01773-5/d41586-026-01773-5_52544334.jpg",
+    "topic": "default",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
+    "title": "Incoming US science academy chief vows to ‘double down’ on research",
+    "link": "https://www.nature.com/articles/d41586-026-02088-1",
+    "journal": "Nature",
+    "source_type": "journal",
+    "date": "2026-07-02",
+    "summary": "Nature, Published online: 02 July 2026; doi:10.1038/d41586-026-02088-1 New leader of the National Academy of Sciences Neil Shubin warns: ‘a society that loses science loses the future’.",
+    "abstract": "Nature, Published online: 02 July 2026; doi:10.1038/d41586-026-02088-1 New leader of the National Academy of Sciences Neil Shubin warns: ‘a society that loses science loses the future’.",
+    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-02088-1/d41586-026-02088-1_52831818.jpg",
+    "topic": "default",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
     "title": "Neural timescales from a computational perspective",
     "link": "https://www.nature.com/articles/s41593-026-02343-8",
     "journal": "Nature Neuroscience",
@@ -320,32 +346,6 @@
     "summary": "Nature, Published online: 01 July 2026; doi:10.1038/s41586-026-10707-0 Cross-sectional scanning tunnelling microscopy shows a 2 nm carrier transfer length in bismuth-contacted monolayer MoS2 transistors, defining metal-contact scaling limits for sub-10 nm 2D electronic devices.",
     "abstract": "Nature, Published online: 01 July 2026; doi:10.1038/s41586-026-10707-0 Cross-sectional scanning tunnelling microscopy shows a 2 nm carrier transfer length in bismuth-contacted monolayer MoS2 transistors, defining metal-contact scaling limits for sub-10 nm 2D electronic devices.",
     "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-10707-0/MediaObjects/41586_2026_10707_Fig1_HTML.png",
-    "topic": "default",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
-    "title": "Restoring cortical disinhibition improves Huntington’s disease phenotypes",
-    "link": "https://www.nature.com/articles/s41586-026-10671-9",
-    "journal": "Nature",
-    "source_type": "journal",
-    "date": "2026-07-01",
-    "summary": "Nature, Published online: 01 July 2026; doi:10.1038/s41586-026-10671-9 In a mouse model of Huntington’s disease, targeted modulation of neuronal activity restores network function and improves motor deficits.",
-    "abstract": "Huntington’s disease (HD) is a devastating movement disorder without a cure at present1. Although the monogenic basis of HD is well defined2, the complex downstream effects that underlie behavioural symptoms are poorly understood. These effects include cortical dysfunction3,4, yet the roles of specific cortical neuronal subtypes in HD symptoms remain largely unexplored. Here we used longitudinal in vivo two-photon calcium imaging to examine the activity of three cortical inhibitory neuron (IN) subtypes and excitatory corticostriatal (CStr) projection neurons in the motor cortex of the transgenic R6/2 HD mouse model throughout disease progression. We found that motor deficits in R6/2 mice were accompanied by neuron subtype-specific abnormalities in movement-related activity. This included marked hypoactivity of vasoactive intestinal peptide (VIP)-INs and CStr neurons, which was also observed in the knock-in zQ175DN HD mouse model. Optogenetic activation of VIP-INs in R6/2 mice restored healthy levels of activity in VIP-INs and their downstream CStr neurons and ameliorated motor deficits in R6/2 mice; behavioural improvements persisted for days after stimulation. Our findings highlight cortical INs as a potential therapeutic target for HD. In a mouse model of Huntington’s disease, targeted modulation of neuronal activity restores network function and improves motor deficits.",
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-10671-9/MediaObjects/41586_2026_10671_Fig1_HTML.png",
-    "topic": "default",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
-    "title": "Tin perovskite transistors stabilized through volatile coordination",
-    "link": "https://www.nature.com/articles/s41586-026-10714-1",
-    "journal": "Nature",
-    "source_type": "journal",
-    "date": "2026-07-01",
-    "summary": "Nature, Published online: 01 July 2026; doi:10.1038/s41586-026-10714-1 A volatile-assisted coordination strategy regulates surface defect chemistry and self-doping, thus stabilizing the stoichiometry of tin perovskite semiconductors, resulting in transistors that can maintain stable operation for a month at temperatures of 100 °C.",
-    "abstract": "Nature, Published online: 01 July 2026; doi:10.1038/s41586-026-10714-1 A volatile-assisted coordination strategy regulates surface defect chemistry and self-doping, thus stabilizing the stoichiometry of tin perovskite semiconductors, resulting in transistors that can maintain stable operation for a month at temperatures of 100 °C.",
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-10714-1/MediaObjects/41586_2026_10714_Fig1_HTML.png",
     "topic": "default",
     "topic_color": "#60a5fa",
     "priority_score": 0
