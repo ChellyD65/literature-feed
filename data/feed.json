@@ -26,19 +26,6 @@
     "priority_score": 133
   },
   {
-    "title": "Multi-antigen-targeting T cells in pediatric central nervous system tumors: a phase 1 trial",
-    "link": "https://www.nature.com/articles/s41591-026-04449-9",
-    "journal": "Nature Medicine",
-    "source_type": "journal",
-    "date": "2026-06-30",
-    "summary": "Nature Medicine, Published online: 30 June 2026; doi:10.1038/s41591-026-04449-9 In the phase 1 ReMIND trial of tumor-associated antigen-specific T cells in patients with pediatric central nervous system tumors, treatment was generally well tolerated with one complete response and three long-term responders.",
-    "abstract": "Nature Medicine, Published online: 30 June 2026; doi:10.1038/s41591-026-04449-9 In the phase 1 ReMIND trial of tumor-associated antigen-specific T cells in patients with pediatric central nervous system tumors, treatment was generally well tolerated with one complete response and three long-term responders.",
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41591-026-04449-9/MediaObjects/41591_2026_4449_Fig1_HTML.png",
-    "topic": "Immunology",
-    "topic_color": "#60a5fa",
-    "priority_score": 133
-  },
-  {
     "title": "A secreted endosymbiont protein essential for colonizing host cells",
     "link": "https://www.nature.com/articles/s41586-026-10711-4",
     "journal": "Nature",
@@ -143,6 +130,32 @@
     "priority_score": 41
   },
   {
+    "title": "Electrodeposited self-assembled molecules for perovskite photovoltaics",
+    "link": "https://www.nature.com/articles/s41586-026-10844-6",
+    "journal": "Nature",
+    "source_type": "journal",
+    "date": "2026-07-02",
+    "summary": "Nature, Published online: 02 July 2026; doi:10.1038/s41586-026-10844-6 Electrodeposited self-assembled molecules for perovskite photovoltaics",
+    "abstract": "Preventing the detachment of self-assembled molecules (SAMs) and enhancing their passivation effect on perovskites are critical challenges for improving the performance and stability of perovskite solar cells (PSCs)1–3. Electrodeposited SAMs provide a route to improve coverage uniformity and anchoring robustness on conductive substrates beyond the limitations of conventional solution processing. Here, we use potential-cycled electrodeposition to promote molecular rearrangement and re-anchoring of SAMs, resulting in a uniform and dense layer on an indium tin oxide (ITO) substrate with enhanced anchoring capability. Building on this base SAM, functional units are grown via electrochemical oxidative coupling to form tailored coupled carbazole phosphonic SAMs, yielding power conversion efficiencies of 26.8% for lab-scale solar cells and 21.3% for solar modules (65 cm2).",
+    "image": "data:image/svg+xml;charset=utf-8,%0A%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23111827%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23374151%22/%3E%0A%20%20%20%20%3C/linearGradient%3E%0A%20%20%20%20%3Cfilter%20id%3D%22blur%22%3E%0A%20%20%20%20%20%20%3CfeGaussianBlur%20stdDeviation%3D%2230%22/%3E%0A%20%20%20%20%3C/filter%3E%0A%20%20%3C/defs%3E%0A%0A%20%20%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22url%28%23bg%29%22/%3E%0A%0A%20%20%3Ccircle%20cx%3D%221030%22%20cy%3D%22110%22%20r%3D%22170%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.18%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%20%20%3Ccircle%20cx%3D%22180%22%20cy%3D%22560%22%20r%3D%22150%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.16%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%0A%20%20%3Crect%20x%3D%2256%22%20y%3D%2252%22%20rx%3D%2218%22%20ry%3D%2218%22%20width%3D%22260%22%20height%3D%2254%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.08%29%22/%3E%0A%20%20%3Ctext%20x%3D%2284%22%20y%3D%2287%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2228%22%20fill%3D%22%23e5e7eb%22%3ENature%3C/text%3E%0A%0A%20%20%3Ctext%20x%3D%221010%22%20y%3D%22560%22%0A%20%20%20%20%20%20%20%20text-anchor%3D%22middle%22%0A%20%20%20%20%20%20%20%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%0A%20%20%20%20%20%20%20%20font-size%3D%22160%22%0A%20%20%20%20%20%20%20%20fill%3D%22%2360a5fa%22%0A%20%20%20%20%20%20%20%20opacity%3D%220.85%22%3E%0A%20%20%20%20%E2%80%A2%0A%20%20%3C/text%3E%0A%3C/svg%3E%0A",
+    "topic": "default",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
+    "title": "Author Correction: Synthesis of enantioenriched atropisomers by biocatalytic deracemization",
+    "link": "https://www.nature.com/articles/s41586-026-10854-4",
+    "journal": "Nature",
+    "source_type": "journal",
+    "date": "2026-07-02",
+    "summary": "Nature, Published online: 02 July 2026; doi:10.1038/s41586-026-10854-4 Author Correction: Synthesis of enantioenriched atropisomers by biocatalytic deracemization",
+    "abstract": "Nature, Published online: 02 July 2026; doi:10.1038/s41586-026-10854-4 Author Correction: Synthesis of enantioenriched atropisomers by biocatalytic deracemization",
+    "image": "data:image/svg+xml;charset=utf-8,%0A%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23111827%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23374151%22/%3E%0A%20%20%20%20%3C/linearGradient%3E%0A%20%20%20%20%3Cfilter%20id%3D%22blur%22%3E%0A%20%20%20%20%20%20%3CfeGaussianBlur%20stdDeviation%3D%2230%22/%3E%0A%20%20%20%20%3C/filter%3E%0A%20%20%3C/defs%3E%0A%0A%20%20%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22url%28%23bg%29%22/%3E%0A%0A%20%20%3Ccircle%20cx%3D%221030%22%20cy%3D%22110%22%20r%3D%22170%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.18%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%20%20%3Ccircle%20cx%3D%22180%22%20cy%3D%22560%22%20r%3D%22150%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.16%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%0A%20%20%3Crect%20x%3D%2256%22%20y%3D%2252%22%20rx%3D%2218%22%20ry%3D%2218%22%20width%3D%22260%22%20height%3D%2254%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.08%29%22/%3E%0A%20%20%3Ctext%20x%3D%2284%22%20y%3D%2287%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2228%22%20fill%3D%22%23e5e7eb%22%3ENature%3C/text%3E%0A%0A%20%20%3Ctext%20x%3D%221010%22%20y%3D%22560%22%0A%20%20%20%20%20%20%20%20text-anchor%3D%22middle%22%0A%20%20%20%20%20%20%20%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%0A%20%20%20%20%20%20%20%20font-size%3D%22160%22%0A%20%20%20%20%20%20%20%20fill%3D%22%2360a5fa%22%0A%20%20%20%20%20%20%20%20opacity%3D%220.85%22%3E%0A%20%20%20%20%E2%80%A2%0A%20%20%3C/text%3E%0A%3C/svg%3E%0A",
+    "topic": "default",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
     "title": "Can you actually do a nine-to-five PhD? <i>Nature</i> readers weigh in",
     "link": "https://www.nature.com/articles/d41586-026-01773-5",
     "journal": "Nature",
@@ -178,6 +191,19 @@
     "abstract": "Nature Neuroscience, Published online: 02 July 2026; doi:10.1038/s41593-026-02343-8 This review integrates computational approaches to provide a unified view on how data analysis methods, biophysical mechanistic models and machine learning approaches can help to uncover the origins and functions of neural timescales.",
     "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41593-026-02343-8/MediaObjects/41593_2026_2343_Fig1_HTML.png",
     "topic": "neuroscience",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
+    "title": "Why high scores do not mean application readiness for health AI",
+    "link": "https://www.nature.com/articles/s41591-026-04500-9",
+    "journal": "Nature Medicine",
+    "source_type": "journal",
+    "date": "2026-07-02",
+    "summary": "Nature Medicine, Published online: 02 July 2026; doi:10.1038/s41591-026-04500-9 Large language models achieve high scores on health application benchmarks, yet adversarial stress tests now reveal prevalent brittleness — shortcut reliance, fragile visual grounding and fabricated reasoning traces — which exposes substantial gaps between benchmark performance and the robustness evidence needed to support claims of readiness for medical decision-support and patient-facing applications.",
+    "abstract": "Nature Medicine, Published online: 02 July 2026; doi:10.1038/s41591-026-04500-9 Large language models achieve high scores on health application benchmarks, yet adversarial stress tests now reveal prevalent brittleness — shortcut reliance, fragile visual grounding and fabricated reasoning traces — which exposes substantial gaps between benchmark performance and the robustness evidence needed to support claims of readiness for medical decision-support and patient-facing applications.",
+    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41591-026-04500-9/MediaObjects/41591_2026_4500_Fig1_HTML.png",
+    "topic": "default",
     "topic_color": "#60a5fa",
     "priority_score": 0
   },
@@ -320,32 +346,6 @@
     "summary": "Nature, Published online: 01 July 2026; doi:10.1038/s41586-026-10723-0 Hydrogen-bonding networks engineered with isomeric molecules enable stable, saturated blue perovskite LEDs with record external quantum efficiencies up to 22.0%, advancing high-performance full-colour display technologies.",
     "abstract": "Nature, Published online: 01 July 2026; doi:10.1038/s41586-026-10723-0 Hydrogen-bonding networks engineered with isomeric molecules enable stable, saturated blue perovskite LEDs with record external quantum efficiencies up to 22.0%, advancing high-performance full-colour display technologies.",
     "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-10723-0/MediaObjects/41586_2026_10723_Fig1_HTML.png",
-    "topic": "default",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
-    "title": "Targeted enzyme discovery using metal-coordination mining",
-    "link": "https://www.nature.com/articles/s41586-026-10716-z",
-    "journal": "Nature",
-    "source_type": "journal",
-    "date": "2026-07-01",
-    "summary": "Nature, Published online: 01 July 2026; doi:10.1038/s41586-026-10716-z A methodology for mining protein structure databases on the basis of the distinct intrinsic structures of metal-binding active sites in enzymes enables the discovery of new families of radical halogenases.",
-    "abstract": "Nature, Published online: 01 July 2026; doi:10.1038/s41586-026-10716-z A methodology for mining protein structure databases on the basis of the distinct intrinsic structures of metal-binding active sites in enzymes enables the discovery of new families of radical halogenases.",
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-10716-z/MediaObjects/41586_2026_10716_Fig1_HTML.png",
-    "topic": "default",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
-    "title": "Directly probing the carrier transfer length in 2D-material transistors",
-    "link": "https://www.nature.com/articles/s41586-026-10707-0",
-    "journal": "Nature",
-    "source_type": "journal",
-    "date": "2026-07-01",
-    "summary": "Nature, Published online: 01 July 2026; doi:10.1038/s41586-026-10707-0 Cross-sectional scanning tunnelling microscopy shows a 2 nm carrier transfer length in bismuth-contacted monolayer MoS2 transistors, defining metal-contact scaling limits for sub-10 nm 2D electronic devices.",
-    "abstract": "Nature, Published online: 01 July 2026; doi:10.1038/s41586-026-10707-0 Cross-sectional scanning tunnelling microscopy shows a 2 nm carrier transfer length in bismuth-contacted monolayer MoS2 transistors, defining metal-contact scaling limits for sub-10 nm 2D electronic devices.",
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-10707-0/MediaObjects/41586_2026_10707_Fig1_HTML.png",
     "topic": "default",
     "topic_color": "#60a5fa",
     "priority_score": 0
