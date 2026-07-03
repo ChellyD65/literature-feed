@@ -13,17 +13,43 @@
     "priority_score": 172
   },
   {
-    "title": "A secreted endosymbiont protein essential for colonizing host cells",
-    "link": "https://www.nature.com/articles/s41586-026-10711-4",
-    "journal": "Nature",
+    "title": "Mechanosensing by T cells promotes a tissue-resident memory transcriptional program",
+    "link": "https://www.nature.com/articles/s41590-026-02581-9",
+    "journal": "Nature Immunology",
     "source_type": "journal",
-    "date": "2026-07-01",
-    "summary": "Nature, Published online: 01 July 2026; doi:10.1038/s41586-026-10711-4 SyeA was present in the Buchnera ancestor, is secreted into the host cytoplasm, is homologous to secreted effectors of bacterial pathogens and is essential for Buchnera transmission.",
-    "abstract": "Nature, Published online: 01 July 2026; doi:10.1038/s41586-026-10711-4 SyeA was present in the Buchnera ancestor, is secreted into the host cytoplasm, is homologous to secreted effectors of bacterial pathogens and is essential for Buchnera transmission.",
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-10711-4/MediaObjects/41586_2026_10711_Fig1_HTML.png",
+    "date": "2026-07-03",
+    "summary": "Nature Immunology, Published online: 03 July 2026; doi:10.1038/s41590-026-02581-9 Mandl and colleagues show that increased mechanical input drives transcriptional changes associated with a core tissue-resident program in activated CD8+ T cells.",
+    "abstract": "Cell migration and strategic positioning within tissues is critical for the rapid mobilization of a T cell response. T cells must remain motile in both lymphoid and nonlymphoid tissues, which vary widely in mechanical properties such as stiffness. Here we showed that activated T cells sensed mechanical cues and responded with changes in cell morphology, nuclear envelope composition and initiation of DNA repair to protect their genomic material from force-mediated damage. Increased mechanical input also drove the transcriptional reprogramming of activated T cells, including changes in many of the core genes shared by tissue-resident memory T cells across diverse tissues, by modulating the expression of the tissue-resident memory T cell-associated transcription factors Klf2, Runx3 and Hic1. Thus, mechanosensing by activated T cells impacted T cell fate, promoting a transcriptional program associated with tissue residency. Mandl and colleagues show that increased mechanical input drives transcriptional changes associated with a core tissue-resident program in activated CD8+ T cells.",
+    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41590-026-02581-9/MediaObjects/41590_2026_2581_Fig1_HTML.png",
     "topic": "Immunology",
     "topic_color": "#60a5fa",
-    "priority_score": 120
+    "priority_score": 133
+  },
+  {
+    "title": "Pregnancy-induced tissue-resident memory-like T cells contribute to tumor control in breast cancer",
+    "link": "https://www.nature.com/articles/s41590-026-02579-3",
+    "journal": "Nature Immunology",
+    "source_type": "journal",
+    "date": "2026-07-03",
+    "summary": "Nature Immunology, Published online: 03 July 2026; doi:10.1038/s41590-026-02579-3 Here the authors identify an abundance of a tissue-resident memory-like T cell population in the breasts of women who have given birth. These cells can contribute to tumor control and may thereby provide a link between pregnancy and reduced risk of breast cancer.",
+    "abstract": "Nature Immunology, Published online: 03 July 2026; doi:10.1038/s41590-026-02579-3 Here the authors identify an abundance of a tissue-resident memory-like T cell population in the breasts of women who have given birth. These cells can contribute to tumor control and may thereby provide a link between pregnancy and reduced risk of breast cancer.",
+    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41590-026-02579-3/MediaObjects/41590_2026_2579_Fig1_HTML.png",
+    "topic": "Immunology",
+    "topic_color": "#60a5fa",
+    "priority_score": 133
+  },
+  {
+    "title": "Generalizable AI predicts immunotherapy outcomes across cancers and treatments",
+    "link": "https://www.nature.com/articles/s41591-026-04502-7",
+    "journal": "Nature Medicine",
+    "source_type": "journal",
+    "date": "2026-07-03",
+    "summary": "Nature Medicine, Published online: 03 July 2026; doi:10.1038/s41591-026-04502-7 COMPASS is a pan-cancer foundation model that predicts immunotherapy response, across cancer types and treatments, from bulk tumor transcriptomes.",
+    "abstract": "Immune checkpoint inhibitors (ICIs) are a standard treatment across cancers, yet most patients do not respond, and existing biomarkers generalize poorly across tumor types and therapies. Here we present COMPASS, a pan-cancer foundation model that predicts immunotherapy response from bulk tumor transcriptomes using a concept bottleneck transformer. COMPASS encodes gene expression through 44 biologically grounded immune concepts representing immune cell states, tumor−microenvironment interaction and signaling pathways. Trained on 10,184 tumors across 33 cancer types, COMPASS achieves better average performance than 22 methods across 16 clinical cohorts spanning seven cancers and six ICIs, improving accuracy by 8.5% and area under the precision-recall curve by 15.7% on average across cohorts. COMPASS generalizes to cancer types and treatments not represented during fine-tuning and may inform indication selection and patient stratification. In survival analyses, patients classified by COMPASS as responders had longer overall survival (hazard ratio = 4.7, P < 0.0001). Personalized response maps connect gene expression to immune concepts, identifying programs associated with response and resistance; in immune-inflamed non-responders, COMPASS highlights programs including TGFβ signaling, endothelial exclusion, CD4+ T cell dysfunction and B cell deficiency. COMPASS predicts immunotherapy response and provides hypothesis-generating mechanistic insight for trial design and translational studies. COMPASS is a pan-cancer foundation model that predicts immunotherapy response, across cancer types and treatments, from bulk tumor transcriptomes.",
+    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41591-026-04502-7/MediaObjects/41591_2026_4502_Fig1_HTML.png",
+    "topic": "Immunology",
+    "topic_color": "#60a5fa",
+    "priority_score": 93
   },
   {
     "title": "Nanoscale regulation of ROS signaling at the plasma membrane tunes the plant response to osmotic stress",
@@ -37,19 +63,6 @@
     "topic": "Immunology",
     "topic_color": "#60a5fa",
     "priority_score": 93
-  },
-  {
-    "title": "The neuroimmune system and cognition",
-    "link": "https://www.nature.com/articles/s41590-026-02560-0",
-    "journal": "Nature Immunology",
-    "source_type": "journal",
-    "date": "2026-06-29",
-    "summary": "Nature Immunology, Published online: 29 June 2026; doi:10.1038/s41590-026-02560-0 Klein discusses recent understanding of the role of immune molecules in molecular mechanisms of memory formation.",
-    "abstract": "The neuroimmune system, an extensive bidirectional communication system between neural cells and immune cells, utilizes evolutionarily conserved molecules, including cytokines, chemokines and trophic factors that participate as mediators in both directions. While the initial discovery of classic immune molecules in the brain was interpreted as neuroinflammation, a broad literature demonstrates their essential roles in cognition during homeostatic brain function. These mechanisms include neural correlates of learning and memory, such as strengthening of neuronal networks and the generation of new neurons and synaptic connections. These processes take place throughout the brain, especially in the hippocampus, a major component of the brain of humans and other vertebrates that consolidates short-term memory into long-term memory and supports spatial navigation. This Review explores recent developments and understanding of immune molecules that orchestrate and participate in molecular mechanisms of memory formation. It also considers their potential efficacy as new targets to treat memory disorders. Klein discusses recent understanding of the role of immune molecules in molecular mechanisms of memory formation.",
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41590-026-02560-0/MediaObjects/41590_2026_2560_Fig1_HTML.png",
-    "topic": "inflammation",
-    "topic_color": "#fb7185",
-    "priority_score": 73
   },
   {
     "title": "Blood-based circular RNAs for early diagnosis of Alzheimer’s disease",
@@ -91,19 +104,6 @@
     "priority_score": 50
   },
   {
-    "title": "Epigenetic mechanisms of inflammatory memory in the central nervous system",
-    "link": "https://www.nature.com/articles/s41590-026-02541-3",
-    "journal": "Nature Immunology",
-    "source_type": "journal",
-    "date": "2026-06-29",
-    "summary": "Nature Immunology, Published online: 29 June 2026; doi:10.1038/s41590-026-02541-3 Ye and Quintana discuss emerging evidence of inflammatory memory in the CNS and discuss its underlying mechanisms.",
-    "abstract": "Inflammatory memory enables cells to remember prior inflammatory signals, shaping their responses to subsequent challenges. While this phenomenon has been extensively characterized in immune cells and various tissues, recent reports suggest that both immune and nonimmune cells in the central nervous system (CNS) also exhibit inflammatory memory. In this Perspective, we synthesize emerging evidence of inflammatory memory in the CNS and discuss its underlying mechanisms. We highlight how epigenomic reprogramming through histone and DNA modifications, the recruitment of epigenetic regulators and nucleosome remodeling drive changes in gene expression kinetics central to inflammatory memory. We also examine mechanisms that maintain or reset inflammatory memory. By identifying shared principles and CNS-specific features, we propose conceptual frameworks to advance our understanding of CNS inflammatory memory and its implications for health and disease. Ye and Quintana discuss emerging evidence of inflammatory memory in the CNS and discuss its underlying mechanisms.",
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41590-026-02541-3/MediaObjects/41590_2026_2541_Fig1_HTML.png",
-    "topic": "inflammation",
-    "topic_color": "#fb7185",
-    "priority_score": 41
-  },
-  {
     "title": "China boosts prestigious grants for young scientists — will it ease competition?",
     "link": "https://www.nature.com/articles/d41586-026-01989-5",
     "journal": "Nature",
@@ -112,6 +112,32 @@
     "summary": "Nature, Published online: 03 July 2026; doi:10.1038/d41586-026-01989-5 The National Natural Science Foundation of China says it will fund an extra 12,000 projects from this year.",
     "abstract": "Nature, Published online: 03 July 2026; doi:10.1038/d41586-026-01989-5 The National Natural Science Foundation of China says it will fund an extra 12,000 projects from this year.",
     "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-01989-5/d41586-026-01989-5_52792300.jpg",
+    "topic": "default",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
+    "title": "Lassa fever countermeasures gather pace",
+    "link": "https://www.nature.com/articles/s41591-026-04478-4",
+    "journal": "Nature Medicine",
+    "source_type": "journal",
+    "date": "2026-07-03",
+    "summary": "Nature Medicine, Published online: 03 July 2026; doi:10.1038/s41591-026-04478-4 Two early phase clinical trials represent progress in Lassa fever vaccine and therapeutic development, including the first interventional treatment trial in decades.",
+    "abstract": "Nature Medicine, Published online: 03 July 2026; doi:10.1038/s41591-026-04478-4 Two early phase clinical trials represent progress in Lassa fever vaccine and therapeutic development, including the first interventional treatment trial in decades.",
+    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41591-026-04478-4/MediaObjects/41591_2026_4478_Figa_HTML.png",
+    "topic": "default",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
+    "title": "Immune aging biomarkers for clinical trials",
+    "link": "https://www.nature.com/articles/s41591-026-04493-5",
+    "journal": "Nature Medicine",
+    "source_type": "journal",
+    "date": "2026-07-03",
+    "summary": "Nature Medicine, Published online: 03 July 2026; doi:10.1038/s41591-026-04493-5 The authors present a framework for the selection of immune aging biomarkers suitable for clinical trials in geroscience, alongside a translational roadmap for biomarker development to support the next generation of clinical studies on immune aging.",
+    "abstract": "Nature Medicine, Published online: 03 July 2026; doi:10.1038/s41591-026-04493-5 The authors present a framework for the selection of immune aging biomarkers suitable for clinical trials in geroscience, alongside a translational roadmap for biomarker development to support the next generation of clinical studies on immune aging.",
+    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41591-026-04493-5/MediaObjects/41591_2026_4493_Fig1_HTML.png",
     "topic": "default",
     "topic_color": "#60a5fa",
     "priority_score": 0
@@ -216,6 +242,19 @@
     "summary": "Nature, Published online: 02 July 2026; doi:10.1038/d41586-026-02034-1 A particle detected at the South Pole was born in a galaxy that churned out stars when the Universe was young.",
     "abstract": "Nature, Published online: 02 July 2026; doi:10.1038/d41586-026-02034-1 A particle detected at the South Pole was born in a galaxy that churned out stars when the Universe was young.",
     "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-02034-1/d41586-026-02034-1_52836086.jpg",
+    "topic": "default",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
+    "title": "Daily briefing: ‘Cyborg’ cockroaches breathe underwater with printed suit",
+    "link": "https://www.nature.com/articles/d41586-026-02108-0",
+    "journal": "Nature",
+    "source_type": "journal",
+    "date": "2026-07-02",
+    "summary": "Nature, Published online: 02 July 2026; doi:10.1038/d41586-026-02108-0 The insects could explore underwater for up to three hours. Plus, fake cancer studies rake in the citations and how scientists can build trust by recognizing their biases.",
+    "abstract": "The insects could explore underwater for up to three hours. Plus, fake cancer studies rake in the citations and how scientists can build trust by recognizing their biases. The insects could explore underwater for up to three hours. Plus, fake cancer studies rake in the citations and how scientists can build trust by recognizing their biases.",
+    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-02108-0/d41586-026-02108-0_52909720.png",
     "topic": "default",
     "topic_color": "#60a5fa",
     "priority_score": 0
@@ -481,19 +520,6 @@
     "priority_score": 0
   },
   {
-    "title": "Innate immune responsiveness predicts enhanced cellular immunity and symptomatic disease after controlled human influenza infection",
-    "link": "https://www.nature.com/articles/s41591-026-04483-7",
-    "journal": "Nature Medicine",
-    "source_type": "journal",
-    "date": "2026-07-01",
-    "summary": "Nature Medicine, Published online: 01 July 2026; doi:10.1038/s41591-026-04483-7 Local and systemic immune profiling after a controlled human influenza infection challenge in humans found that the participants with increased innate cell responsiveness were more likely to become symptomatically infected.",
-    "abstract": "Nature Medicine, Published online: 01 July 2026; doi:10.1038/s41591-026-04483-7 Local and systemic immune profiling after a controlled human influenza infection challenge in humans found that the participants with increased innate cell responsiveness were more likely to become symptomatically infected.",
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41591-026-04483-7/MediaObjects/41591_2026_4483_Fig1_HTML.png",
-    "topic": "default",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
     "title": "In This Issue",
     "link": "https://www.pnas.org/doi/abs/10.1073/iti2626123?af=R",
     "journal": "PNAS",
@@ -516,32 +542,6 @@
     "abstract": "Nature Neuroscience, Published online: 30 June 2026; doi:10.1038/s41593-026-02344-7 Complete neuromuscular connectomes across development show that motor neuron recruitment order shapes both local and long-distance synapse elimination, leaving adult wiring as a structural record of the activity patterns that formed it.",
     "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41593-026-02344-7/MediaObjects/41593_2026_2344_Fig1_HTML.png",
     "topic": "neuroscience",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
-    "title": "Author Correction: Digital AVATAR therapy for distressing voices in psychosis: the phase 2/3 AVATAR2 trial",
-    "link": "https://www.nature.com/articles/s41591-026-04540-1",
-    "journal": "Nature Medicine",
-    "source_type": "journal",
-    "date": "2026-06-30",
-    "summary": "Nature Medicine, Published online: 30 June 2026; doi:10.1038/s41591-026-04540-1 Author Correction: Digital AVATAR therapy for distressing voices in psychosis: the phase 2/3 AVATAR2 trial",
-    "abstract": "Nature Medicine, Published online: 30 June 2026; doi:10.1038/s41591-026-04540-1 Author Correction: Digital AVATAR therapy for distressing voices in psychosis: the phase 2/3 AVATAR2 trial",
-    "image": "data:image/svg+xml;charset=utf-8,%0A%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23111827%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23374151%22/%3E%0A%20%20%20%20%3C/linearGradient%3E%0A%20%20%20%20%3Cfilter%20id%3D%22blur%22%3E%0A%20%20%20%20%20%20%3CfeGaussianBlur%20stdDeviation%3D%2230%22/%3E%0A%20%20%20%20%3C/filter%3E%0A%20%20%3C/defs%3E%0A%0A%20%20%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22url%28%23bg%29%22/%3E%0A%0A%20%20%3Ccircle%20cx%3D%221030%22%20cy%3D%22110%22%20r%3D%22170%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.18%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%20%20%3Ccircle%20cx%3D%22180%22%20cy%3D%22560%22%20r%3D%22150%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.16%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%0A%20%20%3Crect%20x%3D%2256%22%20y%3D%2252%22%20rx%3D%2218%22%20ry%3D%2218%22%20width%3D%22260%22%20height%3D%2254%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.08%29%22/%3E%0A%20%20%3Ctext%20x%3D%2284%22%20y%3D%2287%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2228%22%20fill%3D%22%23e5e7eb%22%3ENature%20Medicine%3C/text%3E%0A%0A%20%20%3Ctext%20x%3D%221010%22%20y%3D%22560%22%0A%20%20%20%20%20%20%20%20text-anchor%3D%22middle%22%0A%20%20%20%20%20%20%20%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%0A%20%20%20%20%20%20%20%20font-size%3D%22160%22%0A%20%20%20%20%20%20%20%20fill%3D%22%2360a5fa%22%0A%20%20%20%20%20%20%20%20opacity%3D%220.85%22%3E%0A%20%20%20%20%E2%80%A2%0A%20%20%3C/text%3E%0A%3C/svg%3E%0A",
-    "topic": "default",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
-    "title": "<b>Agents AMIE and MIRA advance medical AI capabilities</b>",
-    "link": "https://www.nature.com/articles/d41591-026-00034-2",
-    "journal": "Nature Medicine",
-    "source_type": "journal",
-    "date": "2026-06-30",
-    "summary": "Nature Medicine, Published online: 30 June 2026; doi:10.1038/d41591-026-00034-2 Two studies show that agentic artificial intelligence (AI) models could aid decision-making at various stages of patient management, including diagnosis, treatment and hospital admission, but neither model is ready yet for real-world clinical use.",
-    "abstract": "Nature Medicine, Published online: 30 June 2026; doi:10.1038/d41591-026-00034-2 Two studies show that agentic artificial intelligence (AI) models could aid decision-making at various stages of patient management, including diagnosis, treatment and hospital admission, but neither model is ready yet for real-world clinical use.",
-    "image": "https://media.nature.com/lw1200/magazine-assets/d41591-026-00034-2/d41591-026-00034-2_52857458.jpg",
-    "topic": "default",
     "topic_color": "#60a5fa",
     "priority_score": 0
   },
