@@ -26,19 +26,6 @@
     "priority_score": 120
   },
   {
-    "title": "Replication-stress-induced chromatin loops protect fork stability",
-    "link": "https://www.nature.com/articles/s41586-026-10695-1",
-    "journal": "Nature",
-    "source_type": "journal",
-    "date": "2026-07-01",
-    "summary": "Nature, Published online: 01 July 2026; doi:10.1038/s41586-026-10695-1 Replication stress induces the formation of transient chromatin loops that enclose de novo heterochromatin-enriched stalled replication forks.",
-    "abstract": "Replication stress poses a major threat to genome integrity, yet how higher-order chromatin organization contributes to replication fork protection remains unclear1,2. Here we show that replication stress induces the formation of transient chromatin loops that enclose de novo heterochromatin-enriched stalled replication forks3. Stressed forks preferentially stall at convergent CTCF motifs, triggering stress-dependent CTCF enrichment that constrains loop extrusion and stabilizes these structures. Loop stabilization requires both CTCF anchoring and G9a-dependent heterochromatin (trimethylation of Lys9 of histone H3 (H3K9me3)) deposition on nascent DNA within the loop body. These loops function as protective scaffolds that shield stalled and reversed forks from degradation by multiple nucleases. By contrast, combined loss of stress-induced heterochromatin and CTCF enrichment destabilizes the loop scaffold, exposing multiple entry points for nucleolytic attack and resulting in extensive nascent-strand degradation through mechanisms distinct from classical fork-reversal-dependent pathways. This protective architecture is similarly critical in BRCA2-deficient cells, in which replication-stress-associated loops predominantly safeguard replication initiation zones, while nascent DNA outside these loops undergoes massive degradation and remains highly susceptible to mutations. Our study elucidates the fundamental role of replication-stress-induced three-dimensional genome reorganization in preserving replication fork stability, thereby mitigating mutagenesis and genomic instability. Replication stress induces the formation of transient chromatin loops that enclose de novo heterochromatin-enriched stalled replication forks.",
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-10695-1/MediaObjects/41586_2026_10695_Fig1_HTML.png",
-    "topic": "Immunology",
-    "topic_color": "#60a5fa",
-    "priority_score": 93
-  },
-  {
     "title": "Nanoscale regulation of ROS signaling at the plasma membrane tunes the plant response to osmotic stress",
     "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2529740123?af=R",
     "journal": "PNAS",
@@ -115,6 +102,19 @@
     "topic": "inflammation",
     "topic_color": "#fb7185",
     "priority_score": 41
+  },
+  {
+    "title": "China boosts prestigious grants for young scientists — will it ease competition?",
+    "link": "https://www.nature.com/articles/d41586-026-01989-5",
+    "journal": "Nature",
+    "source_type": "journal",
+    "date": "2026-07-03",
+    "summary": "Nature, Published online: 03 July 2026; doi:10.1038/d41586-026-01989-5 The National Natural Science Foundation of China says it will fund an extra 12,000 projects from this year.",
+    "abstract": "Nature, Published online: 03 July 2026; doi:10.1038/d41586-026-01989-5 The National Natural Science Foundation of China says it will fund an extra 12,000 projects from this year.",
+    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-01989-5/d41586-026-01989-5_52792300.jpg",
+    "topic": "default",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
   },
   {
     "title": "Being a taller tree doesn’t doom you to drought after all",
