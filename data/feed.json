@@ -13,32 +13,6 @@
     "priority_score": 172
   },
   {
-    "title": "Mechanosensing by T cells promotes a tissue-resident memory transcriptional program",
-    "link": "https://www.nature.com/articles/s41590-026-02581-9",
-    "journal": "Nature Immunology",
-    "source_type": "journal",
-    "date": "2026-07-03",
-    "summary": "Nature Immunology, Published online: 03 July 2026; doi:10.1038/s41590-026-02581-9 Mandl and colleagues show that increased mechanical input drives transcriptional changes associated with a core tissue-resident program in activated CD8+ T cells.",
-    "abstract": "Cell migration and strategic positioning within tissues is critical for the rapid mobilization of a T cell response. T cells must remain motile in both lymphoid and nonlymphoid tissues, which vary widely in mechanical properties such as stiffness. Here we showed that activated T cells sensed mechanical cues and responded with changes in cell morphology, nuclear envelope composition and initiation of DNA repair to protect their genomic material from force-mediated damage. Increased mechanical input also drove the transcriptional reprogramming of activated T cells, including changes in many of the core genes shared by tissue-resident memory T cells across diverse tissues, by modulating the expression of the tissue-resident memory T cell-associated transcription factors Klf2, Runx3 and Hic1. Thus, mechanosensing by activated T cells impacted T cell fate, promoting a transcriptional program associated with tissue residency. Mandl and colleagues show that increased mechanical input drives transcriptional changes associated with a core tissue-resident program in activated CD8+ T cells.",
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41590-026-02581-9/MediaObjects/41590_2026_2581_Fig1_HTML.png",
-    "topic": "Immunology",
-    "topic_color": "#60a5fa",
-    "priority_score": 133
-  },
-  {
-    "title": "Pregnancy-induced tissue-resident memory-like T cells contribute to tumor control in breast cancer",
-    "link": "https://www.nature.com/articles/s41590-026-02579-3",
-    "journal": "Nature Immunology",
-    "source_type": "journal",
-    "date": "2026-07-03",
-    "summary": "Nature Immunology, Published online: 03 July 2026; doi:10.1038/s41590-026-02579-3 Here the authors identify an abundance of a tissue-resident memory-like T cell population in the breasts of women who have given birth. These cells can contribute to tumor control and may thereby provide a link between pregnancy and reduced risk of breast cancer.",
-    "abstract": "Nature Immunology, Published online: 03 July 2026; doi:10.1038/s41590-026-02579-3 Here the authors identify an abundance of a tissue-resident memory-like T cell population in the breasts of women who have given birth. These cells can contribute to tumor control and may thereby provide a link between pregnancy and reduced risk of breast cancer.",
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41590-026-02579-3/MediaObjects/41590_2026_2579_Fig1_HTML.png",
-    "topic": "Immunology",
-    "topic_color": "#60a5fa",
-    "priority_score": 133
-  },
-  {
     "title": "Generalizable AI predicts immunotherapy outcomes across cancers and treatments",
     "link": "https://www.nature.com/articles/s41591-026-04502-7",
     "journal": "Nature Medicine",
@@ -63,6 +37,19 @@
     "topic": "Immunology",
     "topic_color": "#60a5fa",
     "priority_score": 93
+  },
+  {
+    "title": "The neuroimmune system and cognition",
+    "link": "https://www.nature.com/articles/s41590-026-02560-0",
+    "journal": "Nature Immunology",
+    "source_type": "journal",
+    "date": "2026-06-29",
+    "summary": "Nature Immunology, Published online: 29 June 2026; doi:10.1038/s41590-026-02560-0 Klein discusses recent understanding of the role of immune molecules in molecular mechanisms of memory formation.",
+    "abstract": "The neuroimmune system, an extensive bidirectional communication system between neural cells and immune cells, utilizes evolutionarily conserved molecules, including cytokines, chemokines and trophic factors that participate as mediators in both directions. While the initial discovery of classic immune molecules in the brain was interpreted as neuroinflammation, a broad literature demonstrates their essential roles in cognition during homeostatic brain function. These mechanisms include neural correlates of learning and memory, such as strengthening of neuronal networks and the generation of new neurons and synaptic connections. These processes take place throughout the brain, especially in the hippocampus, a major component of the brain of humans and other vertebrates that consolidates short-term memory into long-term memory and supports spatial navigation. This Review explores recent developments and understanding of immune molecules that orchestrate and participate in molecular mechanisms of memory formation. It also considers their potential efficacy as new targets to treat memory disorders. Klein discusses recent understanding of the role of immune molecules in molecular mechanisms of memory formation.",
+    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41590-026-02560-0/MediaObjects/41590_2026_2560_Fig1_HTML.png",
+    "topic": "inflammation",
+    "topic_color": "#fb7185",
+    "priority_score": 73
   },
   {
     "title": "Blood-based circular RNAs for early diagnosis of Alzheimer’s disease",
@@ -102,6 +89,19 @@
     "topic": "neurodegeneration",
     "topic_color": "#fda4af",
     "priority_score": 50
+  },
+  {
+    "title": "Epigenetic mechanisms of inflammatory memory in the central nervous system",
+    "link": "https://www.nature.com/articles/s41590-026-02541-3",
+    "journal": "Nature Immunology",
+    "source_type": "journal",
+    "date": "2026-06-29",
+    "summary": "Nature Immunology, Published online: 29 June 2026; doi:10.1038/s41590-026-02541-3 Ye and Quintana discuss emerging evidence of inflammatory memory in the CNS and discuss its underlying mechanisms.",
+    "abstract": "Inflammatory memory enables cells to remember prior inflammatory signals, shaping their responses to subsequent challenges. While this phenomenon has been extensively characterized in immune cells and various tissues, recent reports suggest that both immune and nonimmune cells in the central nervous system (CNS) also exhibit inflammatory memory. In this Perspective, we synthesize emerging evidence of inflammatory memory in the CNS and discuss its underlying mechanisms. We highlight how epigenomic reprogramming through histone and DNA modifications, the recruitment of epigenetic regulators and nucleosome remodeling drive changes in gene expression kinetics central to inflammatory memory. We also examine mechanisms that maintain or reset inflammatory memory. By identifying shared principles and CNS-specific features, we propose conceptual frameworks to advance our understanding of CNS inflammatory memory and its implications for health and disease. Ye and Quintana discuss emerging evidence of inflammatory memory in the CNS and discuss its underlying mechanisms.",
+    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41590-026-02541-3/MediaObjects/41590_2026_2541_Fig1_HTML.png",
+    "topic": "inflammation",
+    "topic_color": "#fb7185",
+    "priority_score": 41
   },
   {
     "title": "China boosts prestigious grants for young scientists — will it ease competition?",
