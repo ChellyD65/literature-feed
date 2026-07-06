@@ -1,18 +1,5 @@
 [
   {
-    "title": "Mitochondrial stress response drives microglial senescence",
-    "link": "https://www.nature.com/articles/s41593-026-02264-6",
-    "journal": "Nature Neuroscience",
-    "source_type": "journal",
-    "date": "2026-06-26",
-    "summary": "Nature Neuroscience, Published online: 26 June 2026; doi:10.1038/s41593-026-02264-6 The mitochondrial unfolded protein response (UPRmt) drives microglial senescence and disrupts essential glia–neuron communication. By triggering lipid droplet accumulation and dysregulating the S-adenosylmethionine–polyamine axis, UPRmt fuels the senescence-associated secretory pathway, impairs synaptic pruning and accelerates misfolded protein pathology. In this issue of Nature Neuroscience, Perez et al. identify UPRmt as a primary driver of metabolic vulnerability in human microglia.",
-    "abstract": "Nature Neuroscience, Published online: 26 June 2026; doi:10.1038/s41593-026-02264-6 The mitochondrial unfolded protein response (UPRmt) drives microglial senescence and disrupts essential glia–neuron communication. By triggering lipid droplet accumulation and dysregulating the S-adenosylmethionine–polyamine axis, UPRmt fuels the senescence-associated secretory pathway, impairs synaptic pruning and accelerates misfolded protein pathology. In this issue of Nature Neuroscience, Perez et al. identify UPRmt as a primary driver of metabolic vulnerability in human microglia.",
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41593-026-02264-6/MediaObjects/41593_2026_2264_Fig1_HTML.png",
-    "topic": "microglia",
-    "topic_color": "#38bdf8",
-    "priority_score": 172
-  },
-  {
     "title": "Exhausted CD8<sup>+</sup> T cell subsets differ a TAD",
     "link": "https://www.nature.com/articles/s41590-026-02583-7",
     "journal": "Nature Immunology",
@@ -52,6 +39,19 @@
     "priority_score": 133
   },
   {
+    "title": "Pregnancy-induced tissue-resident memory-like T cells contribute to tumor control in breast cancer",
+    "link": "https://www.nature.com/articles/s41590-026-02579-3",
+    "journal": "Nature Immunology",
+    "source_type": "journal",
+    "date": "2026-07-03",
+    "summary": "Nature Immunology, Published online: 03 July 2026; doi:10.1038/s41590-026-02579-3 Here the authors identify an abundance of a tissue-resident memory-like T cell population in the breasts of women who have given birth. These cells can contribute to tumor control and may thereby provide a link between pregnancy and reduced risk of breast cancer.",
+    "abstract": "Nature Immunology, Published online: 03 July 2026; doi:10.1038/s41590-026-02579-3 Here the authors identify an abundance of a tissue-resident memory-like T cell population in the breasts of women who have given birth. These cells can contribute to tumor control and may thereby provide a link between pregnancy and reduced risk of breast cancer.",
+    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41590-026-02579-3/MediaObjects/41590_2026_2579_Fig1_HTML.png",
+    "topic": "Immunology",
+    "topic_color": "#60a5fa",
+    "priority_score": 133
+  },
+  {
     "title": "Exhausted CD8<sup>+</sup> T cell fate is programmed by dynamic CTCF-mediated enhancer activation and invariant CTCF-imposed barriers",
     "link": "https://www.nature.com/articles/s41590-026-02585-5",
     "journal": "Nature Immunology",
@@ -63,6 +63,19 @@
     "topic": "Immunology",
     "topic_color": "#60a5fa",
     "priority_score": 120
+  },
+  {
+    "title": "Author Correction: Prefrontal engrams of long-term fear memory perpetuate pain perception",
+    "link": "https://www.nature.com/articles/s41593-026-02386-x",
+    "journal": "Nature Neuroscience",
+    "source_type": "journal",
+    "date": "2026-07-06",
+    "summary": "Nature Neuroscience, Published online: 06 July 2026; doi:10.1038/s41593-026-02386-x Author Correction: Prefrontal engrams of long-term fear memory perpetuate pain perception",
+    "abstract": "Nature Neuroscience, Published online: 06 July 2026; doi:10.1038/s41593-026-02386-x Author Correction: Prefrontal engrams of long-term fear memory perpetuate pain perception",
+    "image": "data:image/svg+xml;charset=utf-8,%0A%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%233b0764%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%236d28d9%22/%3E%0A%20%20%20%20%3C/linearGradient%3E%0A%20%20%20%20%3Cfilter%20id%3D%22blur%22%3E%0A%20%20%20%20%20%20%3CfeGaussianBlur%20stdDeviation%3D%2230%22/%3E%0A%20%20%20%20%3C/filter%3E%0A%20%20%3C/defs%3E%0A%0A%20%20%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22url%28%23bg%29%22/%3E%0A%0A%20%20%3Ccircle%20cx%3D%221030%22%20cy%3D%22110%22%20r%3D%22170%22%20fill%3D%22%23f472b6%22%20opacity%3D%220.18%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%20%20%3Ccircle%20cx%3D%22180%22%20cy%3D%22560%22%20r%3D%22150%22%20fill%3D%22%23f472b6%22%20opacity%3D%220.16%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%0A%20%20%3Crect%20x%3D%2256%22%20y%3D%2252%22%20rx%3D%2218%22%20ry%3D%2218%22%20width%3D%22260%22%20height%3D%2254%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.08%29%22/%3E%0A%20%20%3Ctext%20x%3D%2284%22%20y%3D%2287%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2228%22%20fill%3D%22%23e5e7eb%22%3ENature%20Neuroscience%3C/text%3E%0A%0A%20%20%3Ctext%20x%3D%221010%22%20y%3D%22560%22%0A%20%20%20%20%20%20%20%20text-anchor%3D%22middle%22%0A%20%20%20%20%20%20%20%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%0A%20%20%20%20%20%20%20%20font-size%3D%22160%22%0A%20%20%20%20%20%20%20%20fill%3D%22%23f472b6%22%0A%20%20%20%20%20%20%20%20opacity%3D%220.85%22%3E%0A%20%20%20%20%E2%97%90%0A%20%20%3C/text%3E%0A%3C/svg%3E%0A",
+    "topic": "retina",
+    "topic_color": "#f472b6",
+    "priority_score": 106
   },
   {
     "title": "Generalizable AI predicts immunotherapy outcomes across cancers and treatments",
@@ -117,6 +130,19 @@
     "priority_score": 52
   },
   {
+    "title": "Glycosylation in Alzheimer’s disease",
+    "link": "https://www.nature.com/articles/s41593-026-02373-2",
+    "journal": "Nature Neuroscience",
+    "source_type": "journal",
+    "date": "2026-07-06",
+    "summary": "Nature Neuroscience, Published online: 06 July 2026; doi:10.1038/s41593-026-02373-2 Glycosylation in Alzheimer’s disease",
+    "abstract": "Nature Neuroscience, Published online: 06 July 2026; doi:10.1038/s41593-026-02373-2 Glycosylation in Alzheimer’s disease",
+    "image": "data:image/svg+xml;charset=utf-8,%0A%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%2327272a%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2352525b%22/%3E%0A%20%20%20%20%3C/linearGradient%3E%0A%20%20%20%20%3Cfilter%20id%3D%22blur%22%3E%0A%20%20%20%20%20%20%3CfeGaussianBlur%20stdDeviation%3D%2230%22/%3E%0A%20%20%20%20%3C/filter%3E%0A%20%20%3C/defs%3E%0A%0A%20%20%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22url%28%23bg%29%22/%3E%0A%0A%20%20%3Ccircle%20cx%3D%221030%22%20cy%3D%22110%22%20r%3D%22170%22%20fill%3D%22%23fda4af%22%20opacity%3D%220.18%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%20%20%3Ccircle%20cx%3D%22180%22%20cy%3D%22560%22%20r%3D%22150%22%20fill%3D%22%23fda4af%22%20opacity%3D%220.16%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%0A%20%20%3Crect%20x%3D%2256%22%20y%3D%2252%22%20rx%3D%2218%22%20ry%3D%2218%22%20width%3D%22260%22%20height%3D%2254%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.08%29%22/%3E%0A%20%20%3Ctext%20x%3D%2284%22%20y%3D%2287%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2228%22%20fill%3D%22%23e5e7eb%22%3ENature%20Neuroscience%3C/text%3E%0A%0A%20%20%3Ctext%20x%3D%221010%22%20y%3D%22560%22%0A%20%20%20%20%20%20%20%20text-anchor%3D%22middle%22%0A%20%20%20%20%20%20%20%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%0A%20%20%20%20%20%20%20%20font-size%3D%22160%22%0A%20%20%20%20%20%20%20%20fill%3D%22%23fda4af%22%0A%20%20%20%20%20%20%20%20opacity%3D%220.85%22%3E%0A%20%20%20%20%E2%97%88%0A%20%20%3C/text%3E%0A%3C/svg%3E%0A",
+    "topic": "neurodegeneration",
+    "topic_color": "#fda4af",
+    "priority_score": 50
+  },
+  {
     "title": "Author Correction: Spinal cord Tau pathology induces tactile deficits and cognitive impairment in Alzheimer’s disease via dysregulation of CCK neurons",
     "link": "https://www.nature.com/articles/s41593-026-02356-3",
     "journal": "Nature Neuroscience",
@@ -128,19 +154,6 @@
     "topic": "neurodegeneration",
     "topic_color": "#fda4af",
     "priority_score": 50
-  },
-  {
-    "title": "British ‘First Fleet’ brought smallpox to Australia—and may have killed millions",
-    "link": "https://www.science.org/content/article/precontact-australia-nid",
-    "journal": "Science",
-    "source_type": "journal",
-    "date": "2026-07-06T05:00:00Z",
-    "summary": "Two papers pin the deadly disease’s introduction on British colonists and suggest the continent held far more people than previously believed",
-    "abstract": "Two papers pin the deadly disease’s introduction on British colonists and suggest the continent held far more people than previously believed",
-    "image": "data:image/svg+xml;charset=utf-8,%0A%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23111827%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23374151%22/%3E%0A%20%20%20%20%3C/linearGradient%3E%0A%20%20%20%20%3Cfilter%20id%3D%22blur%22%3E%0A%20%20%20%20%20%20%3CfeGaussianBlur%20stdDeviation%3D%2230%22/%3E%0A%20%20%20%20%3C/filter%3E%0A%20%20%3C/defs%3E%0A%0A%20%20%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22url%28%23bg%29%22/%3E%0A%0A%20%20%3Ccircle%20cx%3D%221030%22%20cy%3D%22110%22%20r%3D%22170%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.18%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%20%20%3Ccircle%20cx%3D%22180%22%20cy%3D%22560%22%20r%3D%22150%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.16%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%0A%20%20%3Crect%20x%3D%2256%22%20y%3D%2252%22%20rx%3D%2218%22%20ry%3D%2218%22%20width%3D%22260%22%20height%3D%2254%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.08%29%22/%3E%0A%20%20%3Ctext%20x%3D%2284%22%20y%3D%2287%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2228%22%20fill%3D%22%23e5e7eb%22%3EScience%3C/text%3E%0A%0A%20%20%3Ctext%20x%3D%221010%22%20y%3D%22560%22%0A%20%20%20%20%20%20%20%20text-anchor%3D%22middle%22%0A%20%20%20%20%20%20%20%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%0A%20%20%20%20%20%20%20%20font-size%3D%22160%22%0A%20%20%20%20%20%20%20%20fill%3D%22%2360a5fa%22%0A%20%20%20%20%20%20%20%20opacity%3D%220.85%22%3E%0A%20%20%20%20%E2%80%A2%0A%20%20%3C/text%3E%0A%3C/svg%3E%0A",
-    "topic": "default",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
   },
   {
     "title": "Universities are relying on AI-detection software to catch cheating. How well do the programs work?",
@@ -182,6 +195,58 @@
     "priority_score": 0
   },
   {
+    "title": "Hypothalamic specification in a dish",
+    "link": "https://www.nature.com/articles/s41593-026-02370-5",
+    "journal": "Nature Neuroscience",
+    "source_type": "journal",
+    "date": "2026-07-06",
+    "summary": "Nature Neuroscience, Published online: 06 July 2026; doi:10.1038/s41593-026-02370-5 Hypothalamic specification in a dish",
+    "abstract": "Nature Neuroscience, Published online: 06 July 2026; doi:10.1038/s41593-026-02370-5 Hypothalamic specification in a dish",
+    "image": "data:image/svg+xml;charset=utf-8,%0A%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23111827%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23374151%22/%3E%0A%20%20%20%20%3C/linearGradient%3E%0A%20%20%20%20%3Cfilter%20id%3D%22blur%22%3E%0A%20%20%20%20%20%20%3CfeGaussianBlur%20stdDeviation%3D%2230%22/%3E%0A%20%20%20%20%3C/filter%3E%0A%20%20%3C/defs%3E%0A%0A%20%20%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22url%28%23bg%29%22/%3E%0A%0A%20%20%3Ccircle%20cx%3D%221030%22%20cy%3D%22110%22%20r%3D%22170%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.18%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%20%20%3Ccircle%20cx%3D%22180%22%20cy%3D%22560%22%20r%3D%22150%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.16%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%0A%20%20%3Crect%20x%3D%2256%22%20y%3D%2252%22%20rx%3D%2218%22%20ry%3D%2218%22%20width%3D%22260%22%20height%3D%2254%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.08%29%22/%3E%0A%20%20%3Ctext%20x%3D%2284%22%20y%3D%2287%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2228%22%20fill%3D%22%23e5e7eb%22%3ENature%20Neuroscience%3C/text%3E%0A%0A%20%20%3Ctext%20x%3D%221010%22%20y%3D%22560%22%0A%20%20%20%20%20%20%20%20text-anchor%3D%22middle%22%0A%20%20%20%20%20%20%20%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%0A%20%20%20%20%20%20%20%20font-size%3D%22160%22%0A%20%20%20%20%20%20%20%20fill%3D%22%2360a5fa%22%0A%20%20%20%20%20%20%20%20opacity%3D%220.85%22%3E%0A%20%20%20%20%E2%80%A2%0A%20%20%3C/text%3E%0A%3C/svg%3E%0A",
+    "topic": "neuroscience",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
+    "title": "Author Correction: A route for cerebrospinal fluid flow through leptomeningeal arterial–venous overlaps enables macromolecule and fluid shunting",
+    "link": "https://www.nature.com/articles/s41593-026-02385-y",
+    "journal": "Nature Neuroscience",
+    "source_type": "journal",
+    "date": "2026-07-06",
+    "summary": "Nature Neuroscience, Published online: 06 July 2026; doi:10.1038/s41593-026-02385-y Author Correction: A route for cerebrospinal fluid flow through leptomeningeal arterial–venous overlaps enables macromolecule and fluid shunting",
+    "abstract": "Nature Neuroscience, Published online: 06 July 2026; doi:10.1038/s41593-026-02385-y Author Correction: A route for cerebrospinal fluid flow through leptomeningeal arterial–venous overlaps enables macromolecule and fluid shunting",
+    "image": "data:image/svg+xml;charset=utf-8,%0A%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23111827%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23374151%22/%3E%0A%20%20%20%20%3C/linearGradient%3E%0A%20%20%20%20%3Cfilter%20id%3D%22blur%22%3E%0A%20%20%20%20%20%20%3CfeGaussianBlur%20stdDeviation%3D%2230%22/%3E%0A%20%20%20%20%3C/filter%3E%0A%20%20%3C/defs%3E%0A%0A%20%20%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22url%28%23bg%29%22/%3E%0A%0A%20%20%3Ccircle%20cx%3D%221030%22%20cy%3D%22110%22%20r%3D%22170%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.18%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%20%20%3Ccircle%20cx%3D%22180%22%20cy%3D%22560%22%20r%3D%22150%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.16%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%0A%20%20%3Crect%20x%3D%2256%22%20y%3D%2252%22%20rx%3D%2218%22%20ry%3D%2218%22%20width%3D%22260%22%20height%3D%2254%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.08%29%22/%3E%0A%20%20%3Ctext%20x%3D%2284%22%20y%3D%2287%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2228%22%20fill%3D%22%23e5e7eb%22%3ENature%20Neuroscience%3C/text%3E%0A%0A%20%20%3Ctext%20x%3D%221010%22%20y%3D%22560%22%0A%20%20%20%20%20%20%20%20text-anchor%3D%22middle%22%0A%20%20%20%20%20%20%20%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%0A%20%20%20%20%20%20%20%20font-size%3D%22160%22%0A%20%20%20%20%20%20%20%20fill%3D%22%2360a5fa%22%0A%20%20%20%20%20%20%20%20opacity%3D%220.85%22%3E%0A%20%20%20%20%E2%80%A2%0A%20%20%3C/text%3E%0A%3C/svg%3E%0A",
+    "topic": "neuroscience",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
+    "title": "Clarity in clearance pathways",
+    "link": "https://www.nature.com/articles/s41593-026-02371-4",
+    "journal": "Nature Neuroscience",
+    "source_type": "journal",
+    "date": "2026-07-06",
+    "summary": "Nature Neuroscience, Published online: 06 July 2026; doi:10.1038/s41593-026-02371-4 Clarity in clearance pathways",
+    "abstract": "Nature Neuroscience, Published online: 06 July 2026; doi:10.1038/s41593-026-02371-4 Clarity in clearance pathways",
+    "image": "data:image/svg+xml;charset=utf-8,%0A%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23111827%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23374151%22/%3E%0A%20%20%20%20%3C/linearGradient%3E%0A%20%20%20%20%3Cfilter%20id%3D%22blur%22%3E%0A%20%20%20%20%20%20%3CfeGaussianBlur%20stdDeviation%3D%2230%22/%3E%0A%20%20%20%20%3C/filter%3E%0A%20%20%3C/defs%3E%0A%0A%20%20%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22url%28%23bg%29%22/%3E%0A%0A%20%20%3Ccircle%20cx%3D%221030%22%20cy%3D%22110%22%20r%3D%22170%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.18%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%20%20%3Ccircle%20cx%3D%22180%22%20cy%3D%22560%22%20r%3D%22150%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.16%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%0A%20%20%3Crect%20x%3D%2256%22%20y%3D%2252%22%20rx%3D%2218%22%20ry%3D%2218%22%20width%3D%22260%22%20height%3D%2254%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.08%29%22/%3E%0A%20%20%3Ctext%20x%3D%2284%22%20y%3D%2287%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2228%22%20fill%3D%22%23e5e7eb%22%3ENature%20Neuroscience%3C/text%3E%0A%0A%20%20%3Ctext%20x%3D%221010%22%20y%3D%22560%22%0A%20%20%20%20%20%20%20%20text-anchor%3D%22middle%22%0A%20%20%20%20%20%20%20%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%0A%20%20%20%20%20%20%20%20font-size%3D%22160%22%0A%20%20%20%20%20%20%20%20fill%3D%22%2360a5fa%22%0A%20%20%20%20%20%20%20%20opacity%3D%220.85%22%3E%0A%20%20%20%20%E2%80%A2%0A%20%20%3C/text%3E%0A%3C/svg%3E%0A",
+    "topic": "neuroscience",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
+    "title": "Neuropixels harness the light",
+    "link": "https://www.nature.com/articles/s41593-026-02372-3",
+    "journal": "Nature Neuroscience",
+    "source_type": "journal",
+    "date": "2026-07-06",
+    "summary": "Nature Neuroscience, Published online: 06 July 2026; doi:10.1038/s41593-026-02372-3 Neuropixels harness the light",
+    "abstract": "Nature Neuroscience, Published online: 06 July 2026; doi:10.1038/s41593-026-02372-3 Neuropixels harness the light",
+    "image": "data:image/svg+xml;charset=utf-8,%0A%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23111827%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23374151%22/%3E%0A%20%20%20%20%3C/linearGradient%3E%0A%20%20%20%20%3Cfilter%20id%3D%22blur%22%3E%0A%20%20%20%20%20%20%3CfeGaussianBlur%20stdDeviation%3D%2230%22/%3E%0A%20%20%20%20%3C/filter%3E%0A%20%20%3C/defs%3E%0A%0A%20%20%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22url%28%23bg%29%22/%3E%0A%0A%20%20%3Ccircle%20cx%3D%221030%22%20cy%3D%22110%22%20r%3D%22170%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.18%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%20%20%3Ccircle%20cx%3D%22180%22%20cy%3D%22560%22%20r%3D%22150%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.16%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%0A%20%20%3Crect%20x%3D%2256%22%20y%3D%2252%22%20rx%3D%2218%22%20ry%3D%2218%22%20width%3D%22260%22%20height%3D%2254%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.08%29%22/%3E%0A%20%20%3Ctext%20x%3D%2284%22%20y%3D%2287%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2228%22%20fill%3D%22%23e5e7eb%22%3ENature%20Neuroscience%3C/text%3E%0A%0A%20%20%3Ctext%20x%3D%221010%22%20y%3D%22560%22%0A%20%20%20%20%20%20%20%20text-anchor%3D%22middle%22%0A%20%20%20%20%20%20%20%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%0A%20%20%20%20%20%20%20%20font-size%3D%22160%22%0A%20%20%20%20%20%20%20%20fill%3D%22%2360a5fa%22%0A%20%20%20%20%20%20%20%20opacity%3D%220.85%22%3E%0A%20%20%20%20%E2%80%A2%0A%20%20%3C/text%3E%0A%3C/svg%3E%0A",
+    "topic": "neuroscience",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
     "title": "Author Correction: An atlas of genetic effects on cellular composition of the tumor microenvironment",
     "link": "https://www.nature.com/articles/s41590-026-02602-7",
     "journal": "Nature Immunology",
@@ -216,6 +281,19 @@
     "summary": "Nature Medicine, Published online: 06 July 2026; doi:10.1038/s41591-026-04551-y Author Correction: Teclistamab-based induction treatment in transplant-eligible, newly diagnosed multiple myeloma: a phase 2 trial",
     "abstract": "Nature Medicine, Published online: 06 July 2026; doi:10.1038/s41591-026-04551-y Author Correction: Teclistamab-based induction treatment in transplant-eligible, newly diagnosed multiple myeloma: a phase 2 trial",
     "image": "data:image/svg+xml;charset=utf-8,%0A%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23111827%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23374151%22/%3E%0A%20%20%20%20%3C/linearGradient%3E%0A%20%20%20%20%3Cfilter%20id%3D%22blur%22%3E%0A%20%20%20%20%20%20%3CfeGaussianBlur%20stdDeviation%3D%2230%22/%3E%0A%20%20%20%20%3C/filter%3E%0A%20%20%3C/defs%3E%0A%0A%20%20%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22url%28%23bg%29%22/%3E%0A%0A%20%20%3Ccircle%20cx%3D%221030%22%20cy%3D%22110%22%20r%3D%22170%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.18%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%20%20%3Ccircle%20cx%3D%22180%22%20cy%3D%22560%22%20r%3D%22150%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.16%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%0A%20%20%3Crect%20x%3D%2256%22%20y%3D%2252%22%20rx%3D%2218%22%20ry%3D%2218%22%20width%3D%22260%22%20height%3D%2254%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.08%29%22/%3E%0A%20%20%3Ctext%20x%3D%2284%22%20y%3D%2287%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2228%22%20fill%3D%22%23e5e7eb%22%3ENature%20Medicine%3C/text%3E%0A%0A%20%20%3Ctext%20x%3D%221010%22%20y%3D%22560%22%0A%20%20%20%20%20%20%20%20text-anchor%3D%22middle%22%0A%20%20%20%20%20%20%20%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%0A%20%20%20%20%20%20%20%20font-size%3D%22160%22%0A%20%20%20%20%20%20%20%20fill%3D%22%2360a5fa%22%0A%20%20%20%20%20%20%20%20opacity%3D%220.85%22%3E%0A%20%20%20%20%E2%80%A2%0A%20%20%3C/text%3E%0A%3C/svg%3E%0A",
+    "topic": "default",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
+    "title": "Daily briefing: How cooperation built the world",
+    "link": "https://www.nature.com/articles/d41586-026-02116-0",
+    "journal": "Nature",
+    "source_type": "journal",
+    "date": "2026-07-03",
+    "summary": "Nature, Published online: 03 July 2026; doi:10.1038/d41586-026-02116-0 Collaboration in nature has often been overlooked in favour of competition, argues science journalist Rowan Hooper. Plus, what’s really happening with trust in science.",
+    "abstract": "Collaboration in nature has often been overlooked in favour of competition, argues science journalist Rowan Hooper. Plus, what’s really happening with trust in science. Collaboration in nature has often been overlooked in favour of competition, argues science journalist Rowan Hooper. Plus, what’s really happening with trust in science.",
+    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-02116-0/d41586-026-02116-0_52920944.png",
     "topic": "default",
     "topic_color": "#60a5fa",
     "priority_score": 0
@@ -455,6 +533,19 @@
     "priority_score": 0
   },
   {
+    "title": "Proposed new satellite fleets could overwhelm the night sky",
+    "link": "https://www.science.org/content/article/proposed-new-satellite-fleets-could-overwhelm-night-sky",
+    "journal": "Science",
+    "source_type": "journal",
+    "date": "2026-07-01T08:00:00Z",
+    "summary": "Orbiting data centers and sunlight reflectors would scupper astronomy by leaving streaks on telescope images and brightening skies, study finds",
+    "abstract": "Orbiting data centers and sunlight reflectors would scupper astronomy by leaving streaks on telescope images and brightening skies, study finds",
+    "image": "data:image/svg+xml;charset=utf-8,%0A%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23111827%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23374151%22/%3E%0A%20%20%20%20%3C/linearGradient%3E%0A%20%20%20%20%3Cfilter%20id%3D%22blur%22%3E%0A%20%20%20%20%20%20%3CfeGaussianBlur%20stdDeviation%3D%2230%22/%3E%0A%20%20%20%20%3C/filter%3E%0A%20%20%3C/defs%3E%0A%0A%20%20%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22url%28%23bg%29%22/%3E%0A%0A%20%20%3Ccircle%20cx%3D%221030%22%20cy%3D%22110%22%20r%3D%22170%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.18%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%20%20%3Ccircle%20cx%3D%22180%22%20cy%3D%22560%22%20r%3D%22150%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.16%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%0A%20%20%3Crect%20x%3D%2256%22%20y%3D%2252%22%20rx%3D%2218%22%20ry%3D%2218%22%20width%3D%22260%22%20height%3D%2254%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.08%29%22/%3E%0A%20%20%3Ctext%20x%3D%2284%22%20y%3D%2287%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2228%22%20fill%3D%22%23e5e7eb%22%3EScience%3C/text%3E%0A%0A%20%20%3Ctext%20x%3D%221010%22%20y%3D%22560%22%0A%20%20%20%20%20%20%20%20text-anchor%3D%22middle%22%0A%20%20%20%20%20%20%20%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%0A%20%20%20%20%20%20%20%20font-size%3D%22160%22%0A%20%20%20%20%20%20%20%20fill%3D%22%2360a5fa%22%0A%20%20%20%20%20%20%20%20opacity%3D%220.85%22%3E%0A%20%20%20%20%E2%80%A2%0A%20%20%3C/text%3E%0A%3C/svg%3E%0A",
+    "topic": "default",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
     "title": "Paleontologist Neil Shubin vows to keep National Academy of Sciences relevant",
     "link": "https://www.science.org/content/article/paleontologist-neil-shubin-vows-keep-national-academy-sciences-relevant",
     "journal": "Science",
@@ -494,58 +585,6 @@
     "priority_score": 0
   },
   {
-    "title": "Togetherness: How co-operation built the world",
-    "link": "https://www.nature.com/articles/d41586-026-02067-6",
-    "journal": "Nature",
-    "source_type": "journal",
-    "date": "2026-07-01",
-    "summary": "Nature, Published online: 01 July 2026; doi:10.1038/d41586-026-02067-6 Science journalist Rowan Hooper joins us to talk about symbiosis and the importance of organisms working together.",
-    "abstract": "Nature, Published online: 01 July 2026; doi:10.1038/d41586-026-02067-6 Science journalist Rowan Hooper joins us to talk about symbiosis and the importance of organisms working together.",
-    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-02067-6/d41586-026-02067-6_52858370.jpg",
-    "topic": "default",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
-    "title": "Just how goal-directed are hippocampal theta sweeps, anyway?",
-    "link": "https://www.nature.com/articles/s41593-026-02366-1",
-    "journal": "Nature Neuroscience",
-    "source_type": "journal",
-    "date": "2026-07-01",
-    "summary": "Nature Neuroscience, Published online: 01 July 2026; doi:10.1038/s41593-026-02366-1 Planning is a cognitive process that is thought to be grounded in hippocampal sequences, but recent studies have suggested that a simpler mechanism, fundamentally incompatible with those planning hypotheses, underlies these sequences. Two studies in this issue of Nature Neuroscience provide the first steps to resolving that controversy.",
-    "abstract": "Nature Neuroscience, Published online: 01 July 2026; doi:10.1038/s41593-026-02366-1 Planning is a cognitive process that is thought to be grounded in hippocampal sequences, but recent studies have suggested that a simpler mechanism, fundamentally incompatible with those planning hypotheses, underlies these sequences. Two studies in this issue of Nature Neuroscience provide the first steps to resolving that controversy.",
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41593-026-02366-1/MediaObjects/41593_2026_2366_Fig1_HTML.png",
-    "topic": "neuroscience",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
-    "title": "Goal-directed hippocampal theta sweeps during memory-guided navigation",
-    "link": "https://www.nature.com/articles/s41593-026-02364-3",
-    "journal": "Nature Neuroscience",
-    "source_type": "journal",
-    "date": "2026-07-01",
-    "summary": "Nature Neuroscience, Published online: 01 July 2026; doi:10.1038/s41593-026-02364-3 Hippocampal neural activity sweeps toward remembered goals on internal maps during navigation. These goal-directed sweeps coordinate with prefrontal cortex activity and are preferentially replayed offline, supporting flexible memory-guided planning.",
-    "abstract": "Nature Neuroscience, Published online: 01 July 2026; doi:10.1038/s41593-026-02364-3 Hippocampal neural activity sweeps toward remembered goals on internal maps during navigation. These goal-directed sweeps coordinate with prefrontal cortex activity and are preferentially replayed offline, supporting flexible memory-guided planning.",
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41593-026-02364-3/MediaObjects/41593_2026_2364_Fig1_HTML.png",
-    "topic": "neuroscience",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
-    "title": "Hippocampal theta sweeps indicate goal direction during navigation",
-    "link": "https://www.nature.com/articles/s41593-026-02365-2",
-    "journal": "Nature Neuroscience",
-    "source_type": "journal",
-    "date": "2026-07-01",
-    "summary": "Nature Neuroscience, Published online: 01 July 2026; doi:10.1038/s41593-026-02365-2 Yu et al. show that hippocampal theta sweeps encode goal direction during memory-guided navigation, independent of movement or head direction and correlating with performance, providing a neural substrate for online spatial planning.",
-    "abstract": "Nature Neuroscience, Published online: 01 July 2026; doi:10.1038/s41593-026-02365-2 Yu et al. show that hippocampal theta sweeps encode goal direction during memory-guided navigation, independent of movement or head direction and correlating with performance, providing a neural substrate for online spatial planning.",
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41593-026-02365-2/MediaObjects/41593_2026_2365_Fig1_HTML.png",
-    "topic": "neuroscience",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
     "title": "Biological aging might help to explain the rising risk of early-onset cancer",
     "link": "https://www.nature.com/articles/s41591-026-04517-0",
     "journal": "Nature Medicine",
@@ -572,32 +611,6 @@
     "priority_score": 0
   },
   {
-    "title": "Connectomic evidence that ordered activity drives neuromuscular network formation",
-    "link": "https://www.nature.com/articles/s41593-026-02344-7",
-    "journal": "Nature Neuroscience",
-    "source_type": "journal",
-    "date": "2026-06-30",
-    "summary": "Nature Neuroscience, Published online: 30 June 2026; doi:10.1038/s41593-026-02344-7 Complete neuromuscular connectomes across development show that motor neuron recruitment order shapes both local and long-distance synapse elimination, leaving adult wiring as a structural record of the activity patterns that formed it.",
-    "abstract": "Nature Neuroscience, Published online: 30 June 2026; doi:10.1038/s41593-026-02344-7 Complete neuromuscular connectomes across development show that motor neuron recruitment order shapes both local and long-distance synapse elimination, leaving adult wiring as a structural record of the activity patterns that formed it.",
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41593-026-02344-7/MediaObjects/41593_2026_2344_Fig1_HTML.png",
-    "topic": "neuroscience",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
-    "title": "Noninvasive decoding of typed sentences from human brain activity",
-    "link": "https://www.nature.com/articles/s41593-026-02303-2",
-    "journal": "Nature Neuroscience",
-    "source_type": "journal",
-    "date": "2026-06-29",
-    "summary": "Nature Neuroscience, Published online: 29 June 2026; doi:10.1038/s41593-026-02303-2 Here the authors introduce Brain2Qwerty, a deep learning model that decodes typed sentences from non-invasive brain activity with character error rate down to 18%. This opens a pathway for non-invasive communication neuroprostheses.",
-    "abstract": "Nature Neuroscience, Published online: 29 June 2026; doi:10.1038/s41593-026-02303-2 Here the authors introduce Brain2Qwerty, a deep learning model that decodes typed sentences from non-invasive brain activity with character error rate down to 18%. This opens a pathway for non-invasive communication neuroprostheses.",
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41593-026-02303-2/MediaObjects/41593_2026_2303_Fig1_HTML.png",
-    "topic": "neuroscience",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
     "title": "Embryonic senescence",
     "link": "https://www.nature.com/articles/s41590-026-02589-1",
     "journal": "Nature Immunology",
@@ -618,19 +631,6 @@
     "date": "2026-06-29",
     "summary": "Nature Immunology, Published online: 29 June 2026; doi:10.1038/s41590-026-02587-3 Eosinophils are mothers’ helpers",
     "abstract": "Nature Immunology, Published online: 29 June 2026; doi:10.1038/s41590-026-02587-3 Eosinophils are mothers’ helpers",
-    "image": "data:image/svg+xml;charset=utf-8,%0A%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23111827%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23374151%22/%3E%0A%20%20%20%20%3C/linearGradient%3E%0A%20%20%20%20%3Cfilter%20id%3D%22blur%22%3E%0A%20%20%20%20%20%20%3CfeGaussianBlur%20stdDeviation%3D%2230%22/%3E%0A%20%20%20%20%3C/filter%3E%0A%20%20%3C/defs%3E%0A%0A%20%20%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22url%28%23bg%29%22/%3E%0A%0A%20%20%3Ccircle%20cx%3D%221030%22%20cy%3D%22110%22%20r%3D%22170%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.18%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%20%20%3Ccircle%20cx%3D%22180%22%20cy%3D%22560%22%20r%3D%22150%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.16%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%0A%20%20%3Crect%20x%3D%2256%22%20y%3D%2252%22%20rx%3D%2218%22%20ry%3D%2218%22%20width%3D%22260%22%20height%3D%2254%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.08%29%22/%3E%0A%20%20%3Ctext%20x%3D%2284%22%20y%3D%2287%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2228%22%20fill%3D%22%23e5e7eb%22%3ENature%20Immunology%3C/text%3E%0A%0A%20%20%3Ctext%20x%3D%221010%22%20y%3D%22560%22%0A%20%20%20%20%20%20%20%20text-anchor%3D%22middle%22%0A%20%20%20%20%20%20%20%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%0A%20%20%20%20%20%20%20%20font-size%3D%22160%22%0A%20%20%20%20%20%20%20%20fill%3D%22%2360a5fa%22%0A%20%20%20%20%20%20%20%20opacity%3D%220.85%22%3E%0A%20%20%20%20%E2%80%A2%0A%20%20%3C/text%3E%0A%3C/svg%3E%0A",
-    "topic": "immunology",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
-    "title": "Editorial Expression of Concern: Recognition of the nonclassical MHC class I molecule H2-M3 by the receptor Ly49A regulates the licensing and activation of NK cells",
-    "link": "https://www.nature.com/articles/s41590-026-02597-1",
-    "journal": "Nature Immunology",
-    "source_type": "journal",
-    "date": "2026-06-29",
-    "summary": "Nature Immunology, Published online: 29 June 2026; doi:10.1038/s41590-026-02597-1 Editorial Expression of Concern: Recognition of the nonclassical MHC class I molecule H2-M3 by the receptor Ly49A regulates the licensing and activation of NK cells",
-    "abstract": "Nature Immunology, Published online: 29 June 2026; doi:10.1038/s41590-026-02597-1 Editorial Expression of Concern: Recognition of the nonclassical MHC class I molecule H2-M3 by the receptor Ly49A regulates the licensing and activation of NK cells",
     "image": "data:image/svg+xml;charset=utf-8,%0A%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23111827%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23374151%22/%3E%0A%20%20%20%20%3C/linearGradient%3E%0A%20%20%20%20%3Cfilter%20id%3D%22blur%22%3E%0A%20%20%20%20%20%20%3CfeGaussianBlur%20stdDeviation%3D%2230%22/%3E%0A%20%20%20%20%3C/filter%3E%0A%20%20%3C/defs%3E%0A%0A%20%20%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22url%28%23bg%29%22/%3E%0A%0A%20%20%3Ccircle%20cx%3D%221030%22%20cy%3D%22110%22%20r%3D%22170%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.18%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%20%20%3Ccircle%20cx%3D%22180%22%20cy%3D%22560%22%20r%3D%22150%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.16%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%0A%20%20%3Crect%20x%3D%2256%22%20y%3D%2252%22%20rx%3D%2218%22%20ry%3D%2218%22%20width%3D%22260%22%20height%3D%2254%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.08%29%22/%3E%0A%20%20%3Ctext%20x%3D%2284%22%20y%3D%2287%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2228%22%20fill%3D%22%23e5e7eb%22%3ENature%20Immunology%3C/text%3E%0A%0A%20%20%3Ctext%20x%3D%221010%22%20y%3D%22560%22%0A%20%20%20%20%20%20%20%20text-anchor%3D%22middle%22%0A%20%20%20%20%20%20%20%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%0A%20%20%20%20%20%20%20%20font-size%3D%22160%22%0A%20%20%20%20%20%20%20%20fill%3D%22%2360a5fa%22%0A%20%20%20%20%20%20%20%20opacity%3D%220.85%22%3E%0A%20%20%20%20%E2%80%A2%0A%20%20%3C/text%3E%0A%3C/svg%3E%0A",
     "topic": "immunology",
     "topic_color": "#60a5fa",
