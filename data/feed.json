@@ -65,19 +65,6 @@
     "priority_score": 120
   },
   {
-    "title": "Longitudinal multiomics profiling of extracorporeal cross-circulation with pig liver xenografts in human decedents",
-    "link": "https://www.nature.com/articles/s41591-026-04511-6",
-    "journal": "Nature Medicine",
-    "source_type": "journal",
-    "date": "2026-07-07",
-    "summary": "Nature Medicine, Published online: 07 July 2026; doi:10.1038/s41591-026-04511-6 Multiomics profiling of extracorporeal cross-circulation with gene-edited pig liver xenografts in four human decedents provides comprehensive information on immune, coagulation and metabolic parameters that will help in the clinical development of this strategy for delivering hepatic support to patients with liver failure.",
-    "abstract": "Nature Medicine, Published online: 07 July 2026; doi:10.1038/s41591-026-04511-6 Multiomics profiling of extracorporeal cross-circulation with gene-edited pig liver xenografts in four human decedents provides comprehensive information on immune, coagulation and metabolic parameters that will help in the clinical development of this strategy for delivering hepatic support to patients with liver failure.",
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41591-026-04511-6/MediaObjects/41591_2026_4511_Fig1_HTML.png",
-    "topic": "High-Signal Discovery",
-    "topic_color": "#60a5fa",
-    "priority_score": 116
-  },
-  {
     "title": "Author Correction: Prefrontal engrams of long-term fear memory perpetuate pain perception",
     "link": "https://www.nature.com/articles/s41593-026-02386-x",
     "journal": "Nature Neuroscience",
@@ -193,6 +180,71 @@
     "topic": "inflammation",
     "topic_color": "#fb7185",
     "priority_score": 45
+  },
+  {
+    "title": "A second chance for gene therapy to restore natural hearing",
+    "link": "https://www.nature.com/articles/s41591-026-04512-5",
+    "journal": "Nature Medicine",
+    "source_type": "journal",
+    "date": "2026-07-09",
+    "summary": "Nature Medicine, Published online: 09 July 2026; doi:10.1038/s41591-026-04512-5 The immune-privileged environment of the inner ear permits sequential bilateral gene therapy for one form of congenital deafness, which adds to growing evidence of the feasibility, safety and efficacy of this innovative curative treatment.",
+    "abstract": "Nature Medicine, Published online: 09 July 2026; doi:10.1038/s41591-026-04512-5 The immune-privileged environment of the inner ear permits sequential bilateral gene therapy for one form of congenital deafness, which adds to growing evidence of the feasibility, safety and efficacy of this innovative curative treatment.",
+    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41591-026-04512-5/MediaObjects/41591_2026_4512_Fig1_HTML.png",
+    "topic": "default",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
+    "title": "Challenges and future directions for multiple sclerosis after the 2024 McDonald diagnostic criteria",
+    "link": "https://www.nature.com/articles/s41591-026-04490-8",
+    "journal": "Nature Medicine",
+    "source_type": "journal",
+    "date": "2026-07-09",
+    "summary": "Nature Medicine, Published online: 09 July 2026; doi:10.1038/s41591-026-04490-8 The 2024 revision of the McDonald diagnostic criteria is an important step toward earlier and more inclusive diagnosis of multiple sclerosis. Realizing its full potential will require continued refinement of biomarkers, disease stratification and clinical trial approaches.",
+    "abstract": "Nature Medicine, Published online: 09 July 2026; doi:10.1038/s41591-026-04490-8 The 2024 revision of the McDonald diagnostic criteria is an important step toward earlier and more inclusive diagnosis of multiple sclerosis. Realizing its full potential will require continued refinement of biomarkers, disease stratification and clinical trial approaches.",
+    "image": "data:image/svg+xml;charset=utf-8,%0A%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23111827%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23374151%22/%3E%0A%20%20%20%20%3C/linearGradient%3E%0A%20%20%20%20%3Cfilter%20id%3D%22blur%22%3E%0A%20%20%20%20%20%20%3CfeGaussianBlur%20stdDeviation%3D%2230%22/%3E%0A%20%20%20%20%3C/filter%3E%0A%20%20%3C/defs%3E%0A%0A%20%20%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22url%28%23bg%29%22/%3E%0A%0A%20%20%3Ccircle%20cx%3D%221030%22%20cy%3D%22110%22%20r%3D%22170%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.18%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%20%20%3Ccircle%20cx%3D%22180%22%20cy%3D%22560%22%20r%3D%22150%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.16%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%0A%20%20%3Crect%20x%3D%2256%22%20y%3D%2252%22%20rx%3D%2218%22%20ry%3D%2218%22%20width%3D%22260%22%20height%3D%2254%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.08%29%22/%3E%0A%20%20%3Ctext%20x%3D%2284%22%20y%3D%2287%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2228%22%20fill%3D%22%23e5e7eb%22%3ENature%20Medicine%3C/text%3E%0A%0A%20%20%3Ctext%20x%3D%221010%22%20y%3D%22560%22%0A%20%20%20%20%20%20%20%20text-anchor%3D%22middle%22%0A%20%20%20%20%20%20%20%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%0A%20%20%20%20%20%20%20%20font-size%3D%22160%22%0A%20%20%20%20%20%20%20%20fill%3D%22%2360a5fa%22%0A%20%20%20%20%20%20%20%20opacity%3D%220.85%22%3E%0A%20%20%20%20%E2%80%A2%0A%20%20%3C/text%3E%0A%3C/svg%3E%0A",
+    "topic": "default",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
+    "title": "When the real world becomes the trial",
+    "link": "https://www.nature.com/articles/s41591-026-04484-6",
+    "journal": "Nature Medicine",
+    "source_type": "journal",
+    "date": "2026-07-09",
+    "summary": "Nature Medicine, Published online: 09 July 2026; doi:10.1038/s41591-026-04484-6 Once confined to post-market surveillance, real-world evidence is now being used to emulate trials, guide approvals and even run studies in real time, forcing a rethink of what constitutes a clinical trial.",
+    "abstract": "Nature Medicine, Published online: 09 July 2026; doi:10.1038/s41591-026-04484-6 Once confined to post-market surveillance, real-world evidence is now being used to emulate trials, guide approvals and even run studies in real time, forcing a rethink of what constitutes a clinical trial.",
+    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41591-026-04484-6/MediaObjects/41591_2026_4484_Figa_HTML.png",
+    "topic": "default",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
+    "title": "KRAS-G12D inhibitor HRS-4642 plus chemotherapy in advanced <i>KRAS</i><sup>G12D</sup>-mutant pancreatic cancer: a phase 1b/2 trial",
+    "link": "https://www.nature.com/articles/s41591-026-04538-9",
+    "journal": "Nature Medicine",
+    "source_type": "journal",
+    "date": "2026-07-09",
+    "summary": "Nature Medicine, Published online: 09 July 2026; doi:10.1038/s41591-026-04538-9 In phase 1b/2 trial, the treatment of patients with metastatic KRASG12D-mutant pancreatic cancer, the intravenously delivered KRAS-G12D inhibitor HRS-4642 plus nab-paclitaxel and gemcitabine led to encouraging clinical response rates that support investigation in larger trials.",
+    "abstract": "Nature Medicine, Published online: 09 July 2026; doi:10.1038/s41591-026-04538-9 In phase 1b/2 trial, the treatment of patients with metastatic KRASG12D-mutant pancreatic cancer, the intravenously delivered KRAS-G12D inhibitor HRS-4642 plus nab-paclitaxel and gemcitabine led to encouraging clinical response rates that support investigation in larger trials.",
+    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41591-026-04538-9/MediaObjects/41591_2026_4538_Fig1_HTML.png",
+    "topic": "default",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
+    "title": "Biological aging clocks in health and disease",
+    "link": "https://www.nature.com/articles/s41591-026-04495-3",
+    "journal": "Nature Medicine",
+    "source_type": "journal",
+    "date": "2026-07-09",
+    "summary": "Nature Medicine, Published online: 09 July 2026; doi:10.1038/s41591-026-04495-3 This review outlines the state of the art of biological clocks and how they could help understand pathobiology, reduce the burden of disease and extend healthspan.",
+    "abstract": "There are extensive ongoing efforts to slow or even reverse human aging, such as with epigenetic cellular reprogramming, thymus rejuvenation or senolytics. In parallel, new and diverse metrics—known as biological clocks—have been discovered and shown to track the pace of aging in an individual and their organs, tissues and cells. These clocks have multiple potential use cases, including identifying people at high risk of disease, serving as a foundation for prevention or early detection, and determining whether lifestyle factors or an intervention can modulate the aging process. This review provides a critical appraisal of the progress that is being made with biological clocks and how they might ultimately help understand pathobiology, reduce the burden of disease and extend healthspan. This review outlines the state of the art of biological clocks and how they could help understand pathobiology, reduce the burden of disease and extend healthspan.",
+    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41591-026-04495-3/MediaObjects/41591_2026_4495_Fig1_HTML.png",
+    "topic": "default",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
   },
   {
     "title": "Detection schemes could deter putting nuclear warheads in space",
@@ -481,19 +533,6 @@
     "priority_score": 0
   },
   {
-    "title": "Spatiotemporal diffusion of the 2024 Oropouche outbreak in Cuba",
-    "link": "https://www.nature.com/articles/s41591-026-04411-9",
-    "journal": "Nature Medicine",
-    "source_type": "journal",
-    "date": "2026-07-07",
-    "summary": "Nature Medicine, Published online: 07 July 2026; doi:10.1038/s41591-026-04411-9 Whole genomes of Oropouche virus were sequenced in Cuba from people infected during the 2024 outbreak, and phylogenetic analyses suggest that this Cuban subclade was introduced through a single introduction from Brazil in early 2024.",
-    "abstract": "Nature Medicine, Published online: 07 July 2026; doi:10.1038/s41591-026-04411-9 Whole genomes of Oropouche virus were sequenced in Cuba from people infected during the 2024 outbreak, and phylogenetic analyses suggest that this Cuban subclade was introduced through a single introduction from Brazil in early 2024.",
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41591-026-04411-9/MediaObjects/41591_2026_4411_Fig1_HTML.png",
-    "topic": "default",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
     "title": "Philosophers call for their journals to require conflict of interest disclosures",
     "link": "https://www.science.org/content/article/philosophers-call-their-journals-require-conflict-interest-disclosures",
     "journal": "Science",
@@ -568,45 +607,6 @@
     "abstract": "Nature Immunology, Published online: 06 July 2026; doi:10.1038/s41590-026-02602-7 Author Correction: An atlas of genetic effects on cellular composition of the tumor microenvironment",
     "image": "data:image/svg+xml;charset=utf-8,%0A%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23111827%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23374151%22/%3E%0A%20%20%20%20%3C/linearGradient%3E%0A%20%20%20%20%3Cfilter%20id%3D%22blur%22%3E%0A%20%20%20%20%20%20%3CfeGaussianBlur%20stdDeviation%3D%2230%22/%3E%0A%20%20%20%20%3C/filter%3E%0A%20%20%3C/defs%3E%0A%0A%20%20%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22url%28%23bg%29%22/%3E%0A%0A%20%20%3Ccircle%20cx%3D%221030%22%20cy%3D%22110%22%20r%3D%22170%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.18%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%20%20%3Ccircle%20cx%3D%22180%22%20cy%3D%22560%22%20r%3D%22150%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.16%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%0A%20%20%3Crect%20x%3D%2256%22%20y%3D%2252%22%20rx%3D%2218%22%20ry%3D%2218%22%20width%3D%22260%22%20height%3D%2254%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.08%29%22/%3E%0A%20%20%3Ctext%20x%3D%2284%22%20y%3D%2287%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2228%22%20fill%3D%22%23e5e7eb%22%3ENature%20Immunology%3C/text%3E%0A%0A%20%20%3Ctext%20x%3D%221010%22%20y%3D%22560%22%0A%20%20%20%20%20%20%20%20text-anchor%3D%22middle%22%0A%20%20%20%20%20%20%20%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%0A%20%20%20%20%20%20%20%20font-size%3D%22160%22%0A%20%20%20%20%20%20%20%20fill%3D%22%2360a5fa%22%0A%20%20%20%20%20%20%20%20opacity%3D%220.85%22%3E%0A%20%20%20%20%E2%80%A2%0A%20%20%3C/text%3E%0A%3C/svg%3E%0A",
     "topic": "immunology",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
-    "title": "Data rights are the missing pillar for modernizing consent in medicine",
-    "link": "https://www.nature.com/articles/s41591-026-04506-3",
-    "journal": "Nature Medicine",
-    "source_type": "journal",
-    "date": "2026-07-06",
-    "summary": "Nature Medicine, Published online: 06 July 2026; doi:10.1038/s41591-026-04506-3 Data rights are the missing pillar for modernizing consent in medicine",
-    "abstract": "Nature Medicine, Published online: 06 July 2026; doi:10.1038/s41591-026-04506-3 Data rights are the missing pillar for modernizing consent in medicine",
-    "image": "data:image/svg+xml;charset=utf-8,%0A%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23111827%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23374151%22/%3E%0A%20%20%20%20%3C/linearGradient%3E%0A%20%20%20%20%3Cfilter%20id%3D%22blur%22%3E%0A%20%20%20%20%20%20%3CfeGaussianBlur%20stdDeviation%3D%2230%22/%3E%0A%20%20%20%20%3C/filter%3E%0A%20%20%3C/defs%3E%0A%0A%20%20%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22url%28%23bg%29%22/%3E%0A%0A%20%20%3Ccircle%20cx%3D%221030%22%20cy%3D%22110%22%20r%3D%22170%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.18%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%20%20%3Ccircle%20cx%3D%22180%22%20cy%3D%22560%22%20r%3D%22150%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.16%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%0A%20%20%3Crect%20x%3D%2256%22%20y%3D%2252%22%20rx%3D%2218%22%20ry%3D%2218%22%20width%3D%22260%22%20height%3D%2254%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.08%29%22/%3E%0A%20%20%3Ctext%20x%3D%2284%22%20y%3D%2287%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2228%22%20fill%3D%22%23e5e7eb%22%3ENature%20Medicine%3C/text%3E%0A%0A%20%20%3Ctext%20x%3D%221010%22%20y%3D%22560%22%0A%20%20%20%20%20%20%20%20text-anchor%3D%22middle%22%0A%20%20%20%20%20%20%20%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%0A%20%20%20%20%20%20%20%20font-size%3D%22160%22%0A%20%20%20%20%20%20%20%20fill%3D%22%2360a5fa%22%0A%20%20%20%20%20%20%20%20opacity%3D%220.85%22%3E%0A%20%20%20%20%E2%80%A2%0A%20%20%3C/text%3E%0A%3C/svg%3E%0A",
-    "topic": "default",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
-    "title": "Author Correction: Teclistamab-based induction treatment in transplant-eligible, newly diagnosed multiple myeloma: a phase 2 trial",
-    "link": "https://www.nature.com/articles/s41591-026-04551-y",
-    "journal": "Nature Medicine",
-    "source_type": "journal",
-    "date": "2026-07-06",
-    "summary": "Nature Medicine, Published online: 06 July 2026; doi:10.1038/s41591-026-04551-y Author Correction: Teclistamab-based induction treatment in transplant-eligible, newly diagnosed multiple myeloma: a phase 2 trial",
-    "abstract": "Nature Medicine, Published online: 06 July 2026; doi:10.1038/s41591-026-04551-y Author Correction: Teclistamab-based induction treatment in transplant-eligible, newly diagnosed multiple myeloma: a phase 2 trial",
-    "image": "data:image/svg+xml;charset=utf-8,%0A%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23111827%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23374151%22/%3E%0A%20%20%20%20%3C/linearGradient%3E%0A%20%20%20%20%3Cfilter%20id%3D%22blur%22%3E%0A%20%20%20%20%20%20%3CfeGaussianBlur%20stdDeviation%3D%2230%22/%3E%0A%20%20%20%20%3C/filter%3E%0A%20%20%3C/defs%3E%0A%0A%20%20%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22url%28%23bg%29%22/%3E%0A%0A%20%20%3Ccircle%20cx%3D%221030%22%20cy%3D%22110%22%20r%3D%22170%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.18%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%20%20%3Ccircle%20cx%3D%22180%22%20cy%3D%22560%22%20r%3D%22150%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.16%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%0A%20%20%3Crect%20x%3D%2256%22%20y%3D%2252%22%20rx%3D%2218%22%20ry%3D%2218%22%20width%3D%22260%22%20height%3D%2254%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.08%29%22/%3E%0A%20%20%3Ctext%20x%3D%2284%22%20y%3D%2287%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2228%22%20fill%3D%22%23e5e7eb%22%3ENature%20Medicine%3C/text%3E%0A%0A%20%20%3Ctext%20x%3D%221010%22%20y%3D%22560%22%0A%20%20%20%20%20%20%20%20text-anchor%3D%22middle%22%0A%20%20%20%20%20%20%20%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%0A%20%20%20%20%20%20%20%20font-size%3D%22160%22%0A%20%20%20%20%20%20%20%20fill%3D%22%2360a5fa%22%0A%20%20%20%20%20%20%20%20opacity%3D%220.85%22%3E%0A%20%20%20%20%E2%80%A2%0A%20%20%3C/text%3E%0A%3C/svg%3E%0A",
-    "topic": "default",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
-    "title": "Lassa fever countermeasures gather pace",
-    "link": "https://www.nature.com/articles/s41591-026-04478-4",
-    "journal": "Nature Medicine",
-    "source_type": "journal",
-    "date": "2026-07-03",
-    "summary": "Nature Medicine, Published online: 03 July 2026; doi:10.1038/s41591-026-04478-4 Two early phase clinical trials represent progress in Lassa fever vaccine and therapeutic development, including the first interventional treatment trial in decades.",
-    "abstract": "Nature Medicine, Published online: 03 July 2026; doi:10.1038/s41591-026-04478-4 Two early phase clinical trials represent progress in Lassa fever vaccine and therapeutic development, including the first interventional treatment trial in decades.",
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41591-026-04478-4/MediaObjects/41591_2026_4478_Figa_HTML.png",
-    "topic": "default",
     "topic_color": "#60a5fa",
     "priority_score": 0
   },
