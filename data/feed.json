@@ -182,6 +182,19 @@
     "priority_score": 45
   },
   {
+    "title": "Found: the toxic killer that caused an ocean catastrophe",
+    "link": "https://www.nature.com/articles/d41586-026-02112-4",
+    "journal": "Nature",
+    "source_type": "journal",
+    "date": "2026-07-09",
+    "summary": "Nature, Published online: 09 July 2026; doi:10.1038/d41586-026-02112-4 Scientists identify an alga species as the culprit behind the deaths of more than one million marine animals.",
+    "abstract": "Nature, Published online: 09 July 2026; doi:10.1038/d41586-026-02112-4 Scientists identify an alga species as the culprit behind the deaths of more than one million marine animals.",
+    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-02112-4/d41586-026-02112-4_52921196.jpg",
+    "topic": "default",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
     "title": "Pair of ‘super-puff’ planets are lighter than candy floss",
     "link": "https://www.nature.com/articles/d41586-026-02114-2",
     "journal": "Nature",
@@ -203,6 +216,32 @@
     "summary": "Nature, Published online: 09 July 2026; doi:10.1038/d41586-026-01242-z Nature spoke to three students from China’s first cohort of PhD candidates who are allowed to graduate with products instead of papers.",
     "abstract": "Nature spoke to three students from China’s first cohort of PhD candidates who are allowed to graduate with products instead of papers. Nature spoke to three students from China’s first cohort of PhD candidates who are allowed to graduate with products instead of papers.",
     "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-01242-z/d41586-026-01242-z_52820870.png",
+    "topic": "default",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
+    "title": "Whoops! Most arXiv papers contain information never meant to be shared",
+    "link": "https://www.nature.com/articles/d41586-026-02057-8",
+    "journal": "Nature",
+    "source_type": "journal",
+    "date": "2026-07-09",
+    "summary": "Nature, Published online: 09 July 2026; doi:10.1038/d41586-026-02057-8 Passwords, GPS coordinates and private conversations have all been found in the metadata and source files of millions of preprint submissions.",
+    "abstract": "Passwords, GPS coordinates and private conversations have all been found in the metadata and source files of millions of preprint submissions. Passwords, GPS coordinates and private conversations have all been found in the metadata and source files of millions of preprint submissions.",
+    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-02057-8/d41586-026-02057-8_52858422.jpg",
+    "topic": "default",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
+    "title": "‘This time, it’s the other way around’: how Indonesia is reclaiming the science of human history",
+    "link": "https://www.nature.com/articles/d41586-026-01357-3",
+    "journal": "Nature",
+    "source_type": "journal",
+    "date": "2026-07-09",
+    "summary": "Nature, Published online: 09 July 2026; doi:10.1038/d41586-026-01357-3 After a massive restructuring of its research ecosystem, Indonesia is taking the lead on its own palaeontological research.",
+    "abstract": "Nature, Published online: 09 July 2026; doi:10.1038/d41586-026-01357-3 After a massive restructuring of its research ecosystem, Indonesia is taking the lead on its own palaeontological research.",
+    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-01357-3/d41586-026-01357-3_52839038.jpg",
     "topic": "default",
     "topic_color": "#60a5fa",
     "priority_score": 0
@@ -411,45 +450,6 @@
     "summary": "Nature, Published online: 08 July 2026; doi:10.1038/s41586-026-10759-2 By integrating reinforcement learning with quantum error correction, a quantum computer continuously self-calibrates during computation, achieving record logical error rates and enhanced resilience to drift.",
     "abstract": "Nature, Published online: 08 July 2026; doi:10.1038/s41586-026-10759-2 By integrating reinforcement learning with quantum error correction, a quantum computer continuously self-calibrates during computation, achieving record logical error rates and enhanced resilience to drift.",
     "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-10759-2/MediaObjects/41586_2026_10759_Fig1_HTML.png",
-    "topic": "default",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
-    "title": "Large language models can predict the results of social science experiments",
-    "link": "https://www.nature.com/articles/s41586-026-10742-x",
-    "journal": "Nature",
-    "source_type": "journal",
-    "date": "2026-07-08",
-    "summary": "Nature, Published online: 08 July 2026; doi:10.1038/s41586-026-10742-x Large language models can be used to estimate the results of social science experiments about as accurately as a group of human forecasters—even for experiments published after the models were trained—although they tended to overestimate effect sizes.",
-    "abstract": "Nature, Published online: 08 July 2026; doi:10.1038/s41586-026-10742-x Large language models can be used to estimate the results of social science experiments about as accurately as a group of human forecasters—even for experiments published after the models were trained—although they tended to overestimate effect sizes.",
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-10742-x/MediaObjects/41586_2026_10742_Fig1_HTML.png",
-    "topic": "default",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
-    "title": "Ancient feeding-related neuropeptides regulate alloparenting in ants",
-    "link": "https://www.nature.com/articles/s41586-026-10747-6",
-    "journal": "Nature",
-    "source_type": "journal",
-    "date": "2026-07-08",
-    "summary": "Nature, Published online: 08 July 2026; doi:10.1038/s41586-026-10747-6 Pharmacological screening and behavioural assays in ants identify two specific neuropeptides that have key and opposite effects in regulating brood care, and that link nutritional state to age-dependent changes in parenting behaviour.",
-    "abstract": "Nature, Published online: 08 July 2026; doi:10.1038/s41586-026-10747-6 Pharmacological screening and behavioural assays in ants identify two specific neuropeptides that have key and opposite effects in regulating brood care, and that link nutritional state to age-dependent changes in parenting behaviour.",
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-10747-6/MediaObjects/41586_2026_10747_Fig1_HTML.png",
-    "topic": "default",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
-    "title": "Anatomy of a seafloor spreading event captured by in situ seismogeodesy",
-    "link": "https://www.nature.com/articles/s41586-026-10785-0",
-    "journal": "Nature",
-    "source_type": "journal",
-    "date": "2026-07-08",
-    "summary": "Nature, Published online: 08 July 2026; doi:10.1038/s41586-026-10785-0 By combining hydroacoustic, direct-path ranging and bottom-pressure measurements, in situ observations of a rifting event at a segment of the Southeast Indian Ridge are reported, providing insight into seafloor spreading events on yearly timescales.",
-    "abstract": "Nature, Published online: 08 July 2026; doi:10.1038/s41586-026-10785-0 By combining hydroacoustic, direct-path ranging and bottom-pressure measurements, in situ observations of a rifting event at a segment of the Southeast Indian Ridge are reported, providing insight into seafloor spreading events on yearly timescales.",
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-10785-0/MediaObjects/41586_2026_10785_Fig1_HTML.png",
     "topic": "default",
     "topic_color": "#60a5fa",
     "priority_score": 0
