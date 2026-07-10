@@ -52,6 +52,19 @@
     "priority_score": 106
   },
   {
+    "title": "Briefing Chat: The 30 year-legacy of a science icon – Dolly the sheep",
+    "link": "https://www.nature.com/articles/d41586-026-02185-1",
+    "journal": "Nature",
+    "source_type": "journal",
+    "date": "2026-07-10",
+    "summary": "Nature, Published online: 10 July 2026; doi:10.1038/d41586-026-02185-1 Nature staff discuss the landmark moment when a mammal was first cloned from an adult cell — plus, the first direct observation of ocean-floor crust being created.",
+    "abstract": "Nature, Published online: 10 July 2026; doi:10.1038/d41586-026-02185-1 Nature staff discuss the landmark moment when a mammal was first cloned from an adult cell — plus, the first direct observation of ocean-floor crust being created.",
+    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-02185-1/d41586-026-02185-1_52941224.jpg",
+    "topic": "Immunology",
+    "topic_color": "#60a5fa",
+    "priority_score": 93
+  },
+  {
     "title": "ALOX15 orchestrates mitochondrial antiviral immunity and serves as a host target for anti-influenza therapy",
     "link": "https://www.nature.com/articles/s41590-026-02584-6",
     "journal": "Nature Immunology",
@@ -489,19 +502,6 @@
     "summary": "Nature, Published online: 08 July 2026; doi:10.1038/s41586-026-10796-x A systematic evaluation shows that contemporary humanoid robots can perform laparoscopic surgical tasks through teleoperation, highlighting both their promise and key technical challenges before clinical deployment.",
     "abstract": "Nature, Published online: 08 July 2026; doi:10.1038/s41586-026-10796-x A systematic evaluation shows that contemporary humanoid robots can perform laparoscopic surgical tasks through teleoperation, highlighting both their promise and key technical challenges before clinical deployment.",
     "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-10796-x/MediaObjects/41586_2026_10796_Fig1_HTML.png",
-    "topic": "default",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
-    "title": "Single-phase gradient-solvation-electrolyte-stabilized Li metal batteries",
-    "link": "https://www.nature.com/articles/s41586-026-10732-z",
-    "journal": "Nature",
-    "source_type": "journal",
-    "date": "2026-07-08",
-    "summary": "Nature, Published online: 08 July 2026; doi:10.1038/s41586-026-10732-z A targeted ligand anti-solvent is incorporated into an anion-rich ether-based electrolyte and used to achieve lithium metal batteries with a long cycle life, high energy density and high capacity retention.",
-    "abstract": "Nature, Published online: 08 July 2026; doi:10.1038/s41586-026-10732-z A targeted ligand anti-solvent is incorporated into an anion-rich ether-based electrolyte and used to achieve lithium metal batteries with a long cycle life, high energy density and high capacity retention.",
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-10732-z/MediaObjects/41586_2026_10732_Fig1_HTML.png",
     "topic": "default",
     "topic_color": "#60a5fa",
     "priority_score": 0
