@@ -169,6 +169,45 @@
     "priority_score": 29
   },
   {
+    "title": "How voluntary work can boost your career in science",
+    "link": "https://www.nature.com/articles/d41586-026-01339-5",
+    "journal": "Nature",
+    "source_type": "journal",
+    "date": "2026-07-13",
+    "summary": "Nature, Published online: 13 July 2026; doi:10.1038/d41586-026-01339-5 Supporting charities can bring career benefits and provide valuable social connections.",
+    "abstract": "Nature, Published online: 13 July 2026; doi:10.1038/d41586-026-01339-5 Supporting charities can bring career benefits and provide valuable social connections.",
+    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-01339-5/d41586-026-01339-5_52669124.jpg",
+    "topic": "default",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
+    "title": "The rise of evidence-based medicine and the ‘mavericks’ who championed it",
+    "link": "https://www.nature.com/articles/d41586-026-02153-9",
+    "journal": "Nature",
+    "source_type": "journal",
+    "date": "2026-07-13",
+    "summary": "Nature, Published online: 13 July 2026; doi:10.1038/d41586-026-02153-9 An impeccably researched account describes how clinical trials have transformed health and social policy.",
+    "abstract": "Nature, Published online: 13 July 2026; doi:10.1038/d41586-026-02153-9 An impeccably researched account describes how clinical trials have transformed health and social policy.",
+    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-02153-9/d41586-026-02153-9_52926934.jpg",
+    "topic": "default",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
+    "title": "An anti-PMEL antibody−drug conjugate with a G<sub>q/1</sub><sub>1</sub> inhibitor payload in <i>GNAQ</i>/<i>GNA11</i>-mutant melanomas: a phase 1 trial",
+    "link": "https://www.nature.com/articles/s41591-026-04518-z",
+    "journal": "Nature Medicine",
+    "source_type": "journal",
+    "date": "2026-07-13",
+    "summary": "Nature Medicine, Published online: 13 July 2026; doi:10.1038/s41591-026-04518-z In a phase 1 trial, treatment with the antibody−drug conjugate DYP688, targeting PMEL and delivering a Gq/11 inhibitor, in patients with GNAQ/GNA11-mutant metastatic uveal melanoma or other GNAQ/GNA11-mutant melanomas, showed acceptable safety and encouraging preliminary efficacy, with supporting biomarker data for proof of mechanism.",
+    "abstract": "Nature Medicine, Published online: 13 July 2026; doi:10.1038/s41591-026-04518-z In a phase 1 trial, treatment with the antibody−drug conjugate DYP688, targeting PMEL and delivering a Gq/11 inhibitor, in patients with GNAQ/GNA11-mutant metastatic uveal melanoma or other GNAQ/GNA11-mutant melanomas, showed acceptable safety and encouraging preliminary efficacy, with supporting biomarker data for proof of mechanism.",
+    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41591-026-04518-z/MediaObjects/41591_2026_4518_Fig1_HTML.png",
+    "topic": "default",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
     "title": "Spain's largest research organization confronts its dark past",
     "link": "https://www.science.org/content/article/largest-research-organization-spain-confronts-its-dark-past",
     "journal": "Science",
@@ -377,7 +416,7 @@
     "priority_score": 0
   },
   {
-    "title": "Pair of ‘super-puff’ planets are lighter than candy floss",
+    "title": "Pair of ‘super-puff’ planets are lighter than candyfloss",
     "link": "https://www.nature.com/articles/d41586-026-02114-2",
     "journal": "Nature",
     "source_type": "journal",
@@ -398,32 +437,6 @@
     "summary": "Nature, Published online: 09 July 2026; doi:10.1038/d41586-026-01242-z Nature spoke to three students from China’s first cohort of PhD candidates who are allowed to graduate with products instead of papers.",
     "abstract": "Nature spoke to three students from China’s first cohort of PhD candidates who are allowed to graduate with products instead of papers. Nature spoke to three students from China’s first cohort of PhD candidates who are allowed to graduate with products instead of papers.",
     "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-01242-z/d41586-026-01242-z_52820870.png",
-    "topic": "default",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
-    "title": "Daily briefing: Mutation lets octopuses make proteins with precision",
-    "link": "https://www.nature.com/articles/d41586-026-02177-1",
-    "journal": "Nature",
-    "source_type": "journal",
-    "date": "2026-07-09",
-    "summary": "Nature, Published online: 09 July 2026; doi:10.1038/d41586-026-02177-1 A break in these octopuses’ protein-making machinery boosts their accuracy. Plus, a Nobel-prizewinner has left the United States for China and the effects of microgravity on the brain.",
-    "abstract": "Nature, Published online: 09 July 2026; doi:10.1038/d41586-026-02177-1 A break in these octopuses’ protein-making machinery boosts their accuracy. Plus, a Nobel-prizewinner has left the United States for China and the effects of microgravity on the brain.",
-    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-02177-1/d41586-026-02177-1_52947534.png",
-    "topic": "default",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
-    "title": "Whoops! Most arXiv papers contain information never meant to be shared",
-    "link": "https://www.nature.com/articles/d41586-026-02057-8",
-    "journal": "Nature",
-    "source_type": "journal",
-    "date": "2026-07-09",
-    "summary": "Nature, Published online: 09 July 2026; doi:10.1038/d41586-026-02057-8 Passwords, GPS coordinates and private conversations have all been found in the metadata and source files of millions of preprint submissions.",
-    "abstract": "Passwords, GPS coordinates and private conversations have all been found in the metadata and source files of millions of preprint submissions. Passwords, GPS coordinates and private conversations have all been found in the metadata and source files of millions of preprint submissions.",
-    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-02057-8/d41586-026-02057-8_52858422.jpg",
     "topic": "default",
     "topic_color": "#60a5fa",
     "priority_score": 0
@@ -476,19 +489,6 @@
     "summary": "Nature Medicine, Published online: 09 July 2026; doi:10.1038/s41591-026-04538-9 In phase 1b/2 trial, the treatment of patients with metastatic KRASG12D-mutant pancreatic cancer, the intravenously delivered KRAS-G12D inhibitor HRS-4642 plus nab-paclitaxel and gemcitabine led to encouraging clinical response rates that support investigation in larger trials.",
     "abstract": "Nature Medicine, Published online: 09 July 2026; doi:10.1038/s41591-026-04538-9 In phase 1b/2 trial, the treatment of patients with metastatic KRASG12D-mutant pancreatic cancer, the intravenously delivered KRAS-G12D inhibitor HRS-4642 plus nab-paclitaxel and gemcitabine led to encouraging clinical response rates that support investigation in larger trials.",
     "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41591-026-04538-9/MediaObjects/41591_2026_4538_Fig1_HTML.png",
-    "topic": "default",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
-    "title": "Biological aging clocks in health and disease",
-    "link": "https://www.nature.com/articles/s41591-026-04495-3",
-    "journal": "Nature Medicine",
-    "source_type": "journal",
-    "date": "2026-07-09",
-    "summary": "Nature Medicine, Published online: 09 July 2026; doi:10.1038/s41591-026-04495-3 This review outlines the state of the art of biological clocks and how they could help understand pathobiology, reduce the burden of disease and extend healthspan.",
-    "abstract": "There are extensive ongoing efforts to slow or even reverse human aging, such as with epigenetic cellular reprogramming, thymus rejuvenation or senolytics. In parallel, new and diverse metrics—known as biological clocks—have been discovered and shown to track the pace of aging in an individual and their organs, tissues and cells. These clocks have multiple potential use cases, including identifying people at high risk of disease, serving as a foundation for prevention or early detection, and determining whether lifestyle factors or an intervention can modulate the aging process. This review provides a critical appraisal of the progress that is being made with biological clocks and how they might ultimately help understand pathobiology, reduce the burden of disease and extend healthspan. This review outlines the state of the art of biological clocks and how they could help understand pathobiology, reduce the burden of disease and extend healthspan.",
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41591-026-04495-3/MediaObjects/41591_2026_4495_Fig1_HTML.png",
     "topic": "default",
     "topic_color": "#60a5fa",
     "priority_score": 0
