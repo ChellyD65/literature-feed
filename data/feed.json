@@ -65,6 +65,19 @@
     "priority_score": 116
   },
   {
+    "title": "<b>Mining antigens for a universal malaria vaccine</b>",
+    "link": "https://www.nature.com/articles/d41591-026-00036-0",
+    "journal": "Nature Medicine",
+    "source_type": "journal",
+    "date": "2026-07-16",
+    "summary": "Nature Medicine, Published online: 16 July 2026; doi:10.1038/d41591-026-00036-0 Using immunopeptidomics, researchers identify conserved Plasmodium T cell antigens, revealing potential for cross-stage, cross-species malaria vaccine development.",
+    "abstract": "Using immunopeptidomics, researchers identify conserved Plasmodium T cell antigens, revealing potential for cross-stage, cross-species malaria vaccine development. Using immunopeptidomics, researchers identify conserved Plasmodium T cell antigens, revealing potential for cross-stage, cross-species malaria vaccine development.",
+    "image": "https://media.nature.com/lw1200/magazine-assets/d41591-026-00036-0/d41591-026-00036-0_52981254.jpg",
+    "topic": "Immunology",
+    "topic_color": "#60a5fa",
+    "priority_score": 93
+  },
+  {
     "title": "ALOX15 orchestrates mitochondrial antiviral immunity and serves as a host target for anti-influenza therapy",
     "link": "https://www.nature.com/articles/s41590-026-02584-6",
     "journal": "Nature Immunology",
@@ -156,7 +169,7 @@
     "priority_score": 29
   },
   {
-    "title": "Why do astronauts' bodies waste away? Space Station study points to mitochondria",
+    "title": "Why do astronauts’ bodies waste away? Space-station study points to mitochondria",
     "link": "https://www.nature.com/articles/d41586-026-02089-0",
     "journal": "Nature",
     "source_type": "journal",
@@ -164,6 +177,45 @@
     "summary": "Nature, Published online: 16 July 2026; doi:10.1038/d41586-026-02089-0 Human cells cultured in microgravity produced fewer mitochondrial proteins.",
     "abstract": "Nature, Published online: 16 July 2026; doi:10.1038/d41586-026-02089-0 Human cells cultured in microgravity produced fewer mitochondrial proteins.",
     "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-02089-0/d41586-026-02089-0_52897398.jpg",
+    "topic": "default",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
+    "title": "AI is set to completely transform cybersecurity — here’s how researchers must prepare",
+    "link": "https://www.nature.com/articles/d41586-026-02214-z",
+    "journal": "Nature",
+    "source_type": "journal",
+    "date": "2026-07-16",
+    "summary": "Nature, Published online: 16 July 2026; doi:10.1038/d41586-026-02214-z As automated tools accelerate both the discovery and the exploitation of software vulnerabilities, organizations must redesign their defences and workflows to keep pace.",
+    "abstract": "As automated tools accelerate both the discovery and the exploitation of software vulnerabilities, organizations must redesign their defences and workflows to keep pace. As automated tools accelerate both the discovery and the exploitation of software vulnerabilities, organizations must redesign their defences and workflows to keep pace.",
+    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-02214-z/d41586-026-02214-z_52970508.jpg",
+    "topic": "default",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
+    "title": "A global capital for AI safety is emerging — and it's not in Silicon Valley",
+    "link": "https://www.nature.com/articles/d41586-026-01389-9",
+    "journal": "Nature",
+    "source_type": "journal",
+    "date": "2026-07-16",
+    "summary": "Nature, Published online: 16 July 2026; doi:10.1038/d41586-026-01389-9 The United Kingdom is gaining influence through its growing AI-safety ecosystem.",
+    "abstract": "Nature, Published online: 16 July 2026; doi:10.1038/d41586-026-01389-9 The United Kingdom is gaining influence through its growing AI-safety ecosystem.",
+    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-01389-9/d41586-026-01389-9_52935334.jpg",
+    "topic": "default",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
+    "title": "Will making ‘replication studies’ easier to find help science self-correct?",
+    "link": "https://www.nature.com/articles/d41586-026-02175-3",
+    "journal": "Nature",
+    "source_type": "journal",
+    "date": "2026-07-16",
+    "summary": "Nature, Published online: 16 July 2026; doi:10.1038/d41586-026-02175-3 Project on peer-review platform Pubpeer aims to make replication studies more visible.",
+    "abstract": "Nature, Published online: 16 July 2026; doi:10.1038/d41586-026-02175-3 Project on peer-review platform Pubpeer aims to make replication studies more visible.",
+    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-02175-3/d41586-026-02175-3_52959296.jpg",
     "topic": "default",
     "topic_color": "#60a5fa",
     "priority_score": 0
@@ -377,45 +429,6 @@
     "priority_score": 0
   },
   {
-    "title": "Food systems transformation would reshape global agriculture",
-    "link": "https://www.nature.com/articles/s41586-026-10775-2",
-    "journal": "Nature",
-    "source_type": "journal",
-    "date": "2026-07-15",
-    "summary": "Nature, Published online: 15 July 2026; doi:10.1038/s41586-026-10775-2 Scenario simulations using global economic models show that by 2050 the transformation of food systems towards healthy diets, improved productivity and halving of food waste result in a restructuring of global agriculture.",
-    "abstract": "Nature, Published online: 15 July 2026; doi:10.1038/s41586-026-10775-2 Scenario simulations using global economic models show that by 2050 the transformation of food systems towards healthy diets, improved productivity and halving of food waste result in a restructuring of global agriculture.",
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-10775-2/MediaObjects/41586_2026_10775_Fig1_HTML.png",
-    "topic": "default",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
-    "title": "Quantum statistical plasmonic metacrystals",
-    "link": "https://www.nature.com/articles/s41586-026-10782-3",
-    "journal": "Nature",
-    "source_type": "journal",
-    "date": "2026-07-15",
-    "summary": "Nature, Published online: 15 July 2026; doi:10.1038/s41586-026-10782-3 A new class of materials, quantum statistical plasmonic metacrystals, is described, which can selectively transmit different types of light based only on their quantum coherence, showing bands of allowed and forbidden photon statistics.",
-    "abstract": "Nature, Published online: 15 July 2026; doi:10.1038/s41586-026-10782-3 A new class of materials, quantum statistical plasmonic metacrystals, is described, which can selectively transmit different types of light based only on their quantum coherence, showing bands of allowed and forbidden photon statistics.",
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-10782-3/MediaObjects/41586_2026_10782_Fig1_HTML.png",
-    "topic": "default",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
-    "title": "Ammonia pressure controls colloidal metal nitride synthesis in molten salts",
-    "link": "https://www.nature.com/articles/s41586-026-10801-3",
-    "journal": "Nature",
-    "source_type": "journal",
-    "date": "2026-07-15",
-    "summary": "Nature, Published online: 15 July 2026; doi:10.1038/s41586-026-10801-3 A molten salt, high-pressure synthesis method enables solution-based production of diverse refractory metal nitride nanocrystals, expanding access to technologically important nitride materials for advanced applications.",
-    "abstract": "Nature, Published online: 15 July 2026; doi:10.1038/s41586-026-10801-3 A molten salt, high-pressure synthesis method enables solution-based production of diverse refractory metal nitride nanocrystals, expanding access to technologically important nitride materials for advanced applications.",
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-10801-3/MediaObjects/41586_2026_10801_Fig1_HTML.png",
-    "topic": "default",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
     "title": "When caution becomes harm",
     "link": "https://www.nature.com/articles/s41591-026-04526-z",
     "journal": "Nature Medicine",
@@ -463,19 +476,6 @@
     "summary": "Nature Medicine, Published online: 15 July 2026; doi:10.1038/s41591-026-04491-7 In a human clinical trial, repeated administration of an oligonucleotide–siRNA conjugate targeting SOD1 exhibited a favorable safety profile in six patients with SOD1-ALS.",
     "abstract": "Nature Medicine, Published online: 15 July 2026; doi:10.1038/s41591-026-04491-7 In a human clinical trial, repeated administration of an oligonucleotide–siRNA conjugate targeting SOD1 exhibited a favorable safety profile in six patients with SOD1-ALS.",
     "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41591-026-04491-7/MediaObjects/41591_2026_4491_Fig1_HTML.png",
-    "topic": "default",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
-    "title": "A turning point for gene editing in severe blood disorders",
-    "link": "https://www.nature.com/articles/d41591-026-00035-1",
-    "journal": "Nature Medicine",
-    "source_type": "journal",
-    "date": "2026-07-15",
-    "summary": "Nature Medicine, Published online: 15 July 2026; doi:10.1038/d41591-026-00035-1 Positive results from several trials with ex vivo gene editing suggest that reactivating fetal hemoglobin in sickle cell disease and β-thalassemia is now a reliable therapeutic strategy after years of uncertainty.",
-    "abstract": "Nature Medicine, Published online: 15 July 2026; doi:10.1038/d41591-026-00035-1 Positive results from several trials with ex vivo gene editing suggest that reactivating fetal hemoglobin in sickle cell disease and β-thalassemia is now a reliable therapeutic strategy after years of uncertainty.",
-    "image": "https://media.nature.com/lw1200/magazine-assets/d41591-026-00035-1/d41591-026-00035-1_52232668.jpg",
     "topic": "default",
     "topic_color": "#60a5fa",
     "priority_score": 0
