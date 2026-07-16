@@ -13,6 +13,32 @@
     "priority_score": 164
   },
   {
+    "title": "Microglia prune developing cortical blood vessels through PD-1 signaling",
+    "link": "https://www.nature.com/articles/s41593-026-02378-x",
+    "journal": "Nature Neuroscience",
+    "source_type": "journal",
+    "date": "2026-07-16",
+    "summary": "Nature Neuroscience, Published online: 16 July 2026; doi:10.1038/s41593-026-02378-x Visualizing microglia and blood vessels in postnatal mouse cortex reveals that microglia contact and prune vessels, which is mediated by PD-L1–PD-1 signaling.",
+    "abstract": "During cerebrovascular development, an initial surplus of vessels is generated and subsequently refined through selective elimination to establish an efficient vascular network. Microglia are pivotal regulators of synaptic refinement and brain circuitry maturation, and despite their close interactions with cerebral vessels, whether and how they contribute to cerebrovascular pruning remains unclear. Here, to address this, we visualized and manipulated microglia–vessel interactions in the frontal cortex of postnatal day 11 mice. We found that microglia progressively approach cerebral vessels and subsequently mediate their pruning. Furthermore, we identify the PD-L1–PD-1 signaling axis as a regulator of microglia-mediated vascular pruning via microglial CD5L secretion. Altogether, our findings uncover a role for microglia in targeting redundant vasculature to facilitate vascular network formation during brain development. Visualizing microglia and blood vessels in postnatal mouse cortex reveals that microglia contact and prune vessels, which is mediated by PD-L1–PD-1 signaling.",
+    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41593-026-02378-x/MediaObjects/41593_2026_2378_Fig1_HTML.png",
+    "topic": "microglia",
+    "topic_color": "#38bdf8",
+    "priority_score": 147
+  },
+  {
+    "title": "Innate immunity at the crossroads of protection and pathology: insights from the Aegean",
+    "link": "https://www.nature.com/articles/s41590-026-02601-8",
+    "journal": "Nature Immunology",
+    "source_type": "journal",
+    "date": "2026-07-16",
+    "summary": "Nature Immunology, Published online: 16 July 2026; doi:10.1038/s41590-026-02601-8 The 21st International Aegean Conference on Innate Immunity showcased advances that position innate immunity as a multiscale regulatory system integrating environmental, metabolic, epigenetic and genetic inputs.",
+    "abstract": "Nature Immunology, Published online: 16 July 2026; doi:10.1038/s41590-026-02601-8 The 21st International Aegean Conference on Innate Immunity showcased advances that position innate immunity as a multiscale regulatory system integrating environmental, metabolic, epigenetic and genetic inputs.",
+    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41590-026-02601-8/MediaObjects/41590_2026_2601_Fig1_HTML.png",
+    "topic": "Immunology",
+    "topic_color": "#60a5fa",
+    "priority_score": 133
+  },
+  {
     "title": "Exhausted CD8<sup>+</sup> T cell subsets differ a TAD",
     "link": "https://www.nature.com/articles/s41590-026-02583-7",
     "journal": "Nature Immunology",
@@ -21,19 +47,6 @@
     "summary": "Nature Immunology, Published online: 06 July 2026; doi:10.1038/s41590-026-02583-7 Lineage choices that maintain and diversify exhausted CD8+ T cells under chronic antigen exposure are driven by epigenetic rewiring. CTCF-mediated spatial chromatin reorganization is shown to regulate subset-specific architecture and gene expression programs, guiding differentiation of stem-like and effector exhausted CD8+ T cells.",
     "abstract": "Nature Immunology, Published online: 06 July 2026; doi:10.1038/s41590-026-02583-7 Lineage choices that maintain and diversify exhausted CD8+ T cells under chronic antigen exposure are driven by epigenetic rewiring. CTCF-mediated spatial chromatin reorganization is shown to regulate subset-specific architecture and gene expression programs, guiding differentiation of stem-like and effector exhausted CD8+ T cells.",
     "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41590-026-02583-7/MediaObjects/41590_2026_2583_Fig1_HTML.png",
-    "topic": "Immunology",
-    "topic_color": "#60a5fa",
-    "priority_score": 133
-  },
-  {
-    "title": "Mapping self-associating chromatin hubs identifies Id proteins as key determinants of exhausted CD8<sup>+</sup> T cell fate",
-    "link": "https://www.nature.com/articles/s41590-026-02578-4",
-    "journal": "Nature Immunology",
-    "source_type": "journal",
-    "date": "2026-07-06",
-    "summary": "Nature Immunology, Published online: 06 July 2026; doi:10.1038/s41590-026-02578-4 Xue et al. describe the dynamics of chromatin architecture during exhausted CD8+ T cell fate decisions and identify Id proteins as key regulators.",
-    "abstract": "Within days of exposure to chronic viral infections, activated CD8+ T cells differentiate into Tcf1−Slamf6loTim3hi exhaustion-prone effector T (TEX_EFF) cells or self-renewing Tcf1+Slamf6hiTim3lo precursor exhausted T (TPEX) cells. Here we showed that early CD8+ TEX cell fates were imprinted by forming subset-specific, self-associating chromatin hubs. Chromatin hub assembly coincided with effector or stemness gene induction and identified the transcription cofactors Id2 and Id3 as key regulators that promoted CD8+ TEX_EFF and CD8+ TPEX cell fates, respectively. Id2 drove CD8+ TEX_EFF cell specification by activating effector genes, while suppressing genes involved in exhaustion and stemness. In contrast, Id3-repressed effector genes but upregulated IL-7Rα and AhR, thereby maintaining the CD8+ TPEX cell pool. Mechanistically, Id2 and Id3 exhibited a distinct impact on the chromatin accessibility landscape in early CD8+ TEX cells by engaging Runx3 and Tcf1 transcription factors along with E proteins. These findings indicated that reshaping chromatin architecture represents a critical means for specifying CD8+ TEX cell fates and ensuring lineage stability. Xue et al. describe the dynamics of chromatin architecture during exhausted CD8+ T cell fate decisions and identify Id proteins as key regulators.",
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41590-026-02578-4/MediaObjects/41590_2026_2578_Fig1_HTML.png",
     "topic": "Immunology",
     "topic_color": "#60a5fa",
     "priority_score": 133
@@ -141,6 +154,32 @@
     "topic": "inflammation",
     "topic_color": "#fb7185",
     "priority_score": 29
+  },
+  {
+    "title": "Why do astronauts' bodies waste away? Space Station study points to mitochondria",
+    "link": "https://www.nature.com/articles/d41586-026-02089-0",
+    "journal": "Nature",
+    "source_type": "journal",
+    "date": "2026-07-16",
+    "summary": "Nature, Published online: 16 July 2026; doi:10.1038/d41586-026-02089-0 Human cells cultured in microgravity produced fewer mitochondrial proteins.",
+    "abstract": "Nature, Published online: 16 July 2026; doi:10.1038/d41586-026-02089-0 Human cells cultured in microgravity produced fewer mitochondrial proteins.",
+    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-02089-0/d41586-026-02089-0_52897398.jpg",
+    "topic": "default",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
+    "title": "Englumafusp alfa plus glofitamab in B cell non-Hodgkin lymphoma: a phase 1 trial",
+    "link": "https://www.nature.com/articles/s41591-026-04533-0",
+    "journal": "Nature Medicine",
+    "source_type": "journal",
+    "date": "2026-07-16",
+    "summary": "Nature Medicine, Published online: 16 July 2026; doi:10.1038/s41591-026-04533-0 Combining the CD19–4-1BBL co-stimulatory molecule englumafusp alfa with the bispecific antibody glofitamab in patients with relapsed or refractory aggressive B cell non-Hodgkin lymphoma showed acceptable safety signals and encouraging preliminary clinical responses, with mechanistic data supporting the rational choice of therapy.",
+    "abstract": "Nature Medicine, Published online: 16 July 2026; doi:10.1038/s41591-026-04533-0 Combining the CD19–4-1BBL co-stimulatory molecule englumafusp alfa with the bispecific antibody glofitamab in patients with relapsed or refractory aggressive B cell non-Hodgkin lymphoma showed acceptable safety signals and encouraging preliminary clinical responses, with mechanistic data supporting the rational choice of therapy.",
+    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41591-026-04533-0/MediaObjects/41591_2026_4533_Fig1_HTML.png",
+    "topic": "default",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
   },
   {
     "title": "Tree-killing beetle is spreading to urban forests around the world",
@@ -364,19 +403,6 @@
     "priority_score": 0
   },
   {
-    "title": "Scalable quasi-pure MOF membranes for energy-efficient gas separations",
-    "link": "https://www.nature.com/articles/s41586-026-10655-9",
-    "journal": "Nature",
-    "source_type": "journal",
-    "date": "2026-07-15",
-    "summary": "Nature, Published online: 15 July 2026; doi:10.1038/s41586-026-10655-9 Scalable quasi-pure metal–organic framework membranes achieve near-intrinsic separation performance, enabling energy-efficient industrial gas separations with major cost reductions compared with distillation.",
-    "abstract": "Nature, Published online: 15 July 2026; doi:10.1038/s41586-026-10655-9 Scalable quasi-pure metal–organic framework membranes achieve near-intrinsic separation performance, enabling energy-efficient industrial gas separations with major cost reductions compared with distillation.",
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-10655-9/MediaObjects/41586_2026_10655_Fig1_HTML.png",
-    "topic": "default",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
     "title": "When caution becomes harm",
     "link": "https://www.nature.com/articles/s41591-026-04526-z",
     "journal": "Nature Medicine",
@@ -546,19 +572,6 @@
     "priority_score": 0
   },
   {
-    "title": "Author Correction: The STARD-AI reporting guideline for diagnostic accuracy studies using artificial intelligence",
-    "link": "https://www.nature.com/articles/s41591-026-04570-9",
-    "journal": "Nature Medicine",
-    "source_type": "journal",
-    "date": "2026-07-13",
-    "summary": "Nature Medicine, Published online: 13 July 2026; doi:10.1038/s41591-026-04570-9 Author Correction: The STARD-AI reporting guideline for diagnostic accuracy studies using artificial intelligence",
-    "abstract": "Nature Medicine, Published online: 13 July 2026; doi:10.1038/s41591-026-04570-9 Author Correction: The STARD-AI reporting guideline for diagnostic accuracy studies using artificial intelligence",
-    "image": "data:image/svg+xml;charset=utf-8,%0A%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23111827%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23374151%22/%3E%0A%20%20%20%20%3C/linearGradient%3E%0A%20%20%20%20%3Cfilter%20id%3D%22blur%22%3E%0A%20%20%20%20%20%20%3CfeGaussianBlur%20stdDeviation%3D%2230%22/%3E%0A%20%20%20%20%3C/filter%3E%0A%20%20%3C/defs%3E%0A%0A%20%20%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22url%28%23bg%29%22/%3E%0A%0A%20%20%3Ccircle%20cx%3D%221030%22%20cy%3D%22110%22%20r%3D%22170%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.18%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%20%20%3Ccircle%20cx%3D%22180%22%20cy%3D%22560%22%20r%3D%22150%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.16%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%0A%20%20%3Crect%20x%3D%2256%22%20y%3D%2252%22%20rx%3D%2218%22%20ry%3D%2218%22%20width%3D%22260%22%20height%3D%2254%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.08%29%22/%3E%0A%20%20%3Ctext%20x%3D%2284%22%20y%3D%2287%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2228%22%20fill%3D%22%23e5e7eb%22%3ENature%20Medicine%3C/text%3E%0A%0A%20%20%3Ctext%20x%3D%221010%22%20y%3D%22560%22%0A%20%20%20%20%20%20%20%20text-anchor%3D%22middle%22%0A%20%20%20%20%20%20%20%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%0A%20%20%20%20%20%20%20%20font-size%3D%22160%22%0A%20%20%20%20%20%20%20%20fill%3D%22%2360a5fa%22%0A%20%20%20%20%20%20%20%20opacity%3D%220.85%22%3E%0A%20%20%20%20%E2%80%A2%0A%20%20%3C/text%3E%0A%3C/svg%3E%0A",
-    "topic": "default",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
     "title": "Louis E. Brus (1943–2026): A consummate physical chemist and a pioneer in the exploration of spectroscopy of materials at the nanoscale",
     "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2617634123?af=R",
     "journal": "PNAS",
@@ -696,19 +709,6 @@
     "date": "2026-07-06",
     "summary": "Nature Neuroscience, Published online: 06 July 2026; doi:10.1038/s41593-026-02385-y Author Correction: A route for cerebrospinal fluid flow through leptomeningeal arterial–venous overlaps enables macromolecule and fluid shunting",
     "abstract": "Nature Neuroscience, Published online: 06 July 2026; doi:10.1038/s41593-026-02385-y Author Correction: A route for cerebrospinal fluid flow through leptomeningeal arterial–venous overlaps enables macromolecule and fluid shunting",
-    "image": "data:image/svg+xml;charset=utf-8,%0A%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23111827%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23374151%22/%3E%0A%20%20%20%20%3C/linearGradient%3E%0A%20%20%20%20%3Cfilter%20id%3D%22blur%22%3E%0A%20%20%20%20%20%20%3CfeGaussianBlur%20stdDeviation%3D%2230%22/%3E%0A%20%20%20%20%3C/filter%3E%0A%20%20%3C/defs%3E%0A%0A%20%20%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22url%28%23bg%29%22/%3E%0A%0A%20%20%3Ccircle%20cx%3D%221030%22%20cy%3D%22110%22%20r%3D%22170%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.18%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%20%20%3Ccircle%20cx%3D%22180%22%20cy%3D%22560%22%20r%3D%22150%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.16%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%0A%20%20%3Crect%20x%3D%2256%22%20y%3D%2252%22%20rx%3D%2218%22%20ry%3D%2218%22%20width%3D%22260%22%20height%3D%2254%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.08%29%22/%3E%0A%20%20%3Ctext%20x%3D%2284%22%20y%3D%2287%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2228%22%20fill%3D%22%23e5e7eb%22%3ENature%20Neuroscience%3C/text%3E%0A%0A%20%20%3Ctext%20x%3D%221010%22%20y%3D%22560%22%0A%20%20%20%20%20%20%20%20text-anchor%3D%22middle%22%0A%20%20%20%20%20%20%20%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%0A%20%20%20%20%20%20%20%20font-size%3D%22160%22%0A%20%20%20%20%20%20%20%20fill%3D%22%2360a5fa%22%0A%20%20%20%20%20%20%20%20opacity%3D%220.85%22%3E%0A%20%20%20%20%E2%80%A2%0A%20%20%3C/text%3E%0A%3C/svg%3E%0A",
-    "topic": "neuroscience",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
-    "title": "Clarity in clearance pathways",
-    "link": "https://www.nature.com/articles/s41593-026-02371-4",
-    "journal": "Nature Neuroscience",
-    "source_type": "journal",
-    "date": "2026-07-06",
-    "summary": "Nature Neuroscience, Published online: 06 July 2026; doi:10.1038/s41593-026-02371-4 Clarity in clearance pathways",
-    "abstract": "Nature Neuroscience, Published online: 06 July 2026; doi:10.1038/s41593-026-02371-4 Clarity in clearance pathways",
     "image": "data:image/svg+xml;charset=utf-8,%0A%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23111827%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23374151%22/%3E%0A%20%20%20%20%3C/linearGradient%3E%0A%20%20%20%20%3Cfilter%20id%3D%22blur%22%3E%0A%20%20%20%20%20%20%3CfeGaussianBlur%20stdDeviation%3D%2230%22/%3E%0A%20%20%20%20%3C/filter%3E%0A%20%20%3C/defs%3E%0A%0A%20%20%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22url%28%23bg%29%22/%3E%0A%0A%20%20%3Ccircle%20cx%3D%221030%22%20cy%3D%22110%22%20r%3D%22170%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.18%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%20%20%3Ccircle%20cx%3D%22180%22%20cy%3D%22560%22%20r%3D%22150%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.16%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%0A%20%20%3Crect%20x%3D%2256%22%20y%3D%2252%22%20rx%3D%2218%22%20ry%3D%2218%22%20width%3D%22260%22%20height%3D%2254%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.08%29%22/%3E%0A%20%20%3Ctext%20x%3D%2284%22%20y%3D%2287%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2228%22%20fill%3D%22%23e5e7eb%22%3ENature%20Neuroscience%3C/text%3E%0A%0A%20%20%3Ctext%20x%3D%221010%22%20y%3D%22560%22%0A%20%20%20%20%20%20%20%20text-anchor%3D%22middle%22%0A%20%20%20%20%20%20%20%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%0A%20%20%20%20%20%20%20%20font-size%3D%22160%22%0A%20%20%20%20%20%20%20%20fill%3D%22%2360a5fa%22%0A%20%20%20%20%20%20%20%20opacity%3D%220.85%22%3E%0A%20%20%20%20%E2%80%A2%0A%20%20%3C/text%3E%0A%3C/svg%3E%0A",
     "topic": "neuroscience",
     "topic_color": "#60a5fa",
