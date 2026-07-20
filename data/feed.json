@@ -26,6 +26,19 @@
     "priority_score": 147
   },
   {
+    "title": "Endothelial cell-intrinsic NOD2 signaling regulates the intestinal immune response through the generation of effector and memory T cells",
+    "link": "https://www.nature.com/articles/s41590-026-02595-3",
+    "journal": "Nature Immunology",
+    "source_type": "journal",
+    "date": "2026-07-20",
+    "summary": "Nature Immunology, Published online: 20 July 2026; doi:10.1038/s41590-026-02595-3 Tsankov and colleagues find that NOD2 signaling in intestinal endothelial cells drives T cell homing to the mesenteric lymph nodes during homeostasis and infection.",
+    "abstract": "Crohn’s disease (CD) involves aberrant intestinal T cell immunity and genetic variants associated with disease development. Notably, mutations impairing NOD2 signaling represent the largest genetic risk factor for CD. Paradoxically, although NOD2 variants are associated with CD, its ligand, bacterial muramyl dipeptide, is a potent stimulator of immunity, long recognized as the minimal component required for the adjuvanticity of complete Freund’s adjuvant. This paradox highlights a critical gap in our understanding of how NOD2 coordinates the innate–adaptive immune cross-talk required to maintain intestinal homeostasis. Here we show that NOD2 engagement by muramyl dipeptide drives T cell homing to the mesenteric lymph nodes during both homeostasis and infection. This recruitment promotes antigen-specific effector and memory T cell accumulation in the ileal lamina propria, a process essential for effective recall responses and clearance of secondary infection. Mechanistically, this process requires endothelial-intrinsic NOD2 expression, which drives a specialized transcriptional program for leukocyte recruitment. Tsankov and colleagues find that NOD2 signaling in intestinal endothelial cells drives T cell homing to the mesenteric lymph nodes during homeostasis and infection.",
+    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41590-026-02595-3/MediaObjects/41590_2026_2595_Fig1_HTML.png",
+    "topic": "Immunology",
+    "topic_color": "#60a5fa",
+    "priority_score": 133
+  },
+  {
     "title": "Innate immunity at the crossroads of protection and pathology: insights from the Aegean",
     "link": "https://www.nature.com/articles/s41590-026-02601-8",
     "journal": "Nature Immunology",
@@ -34,19 +47,6 @@
     "summary": "Nature Immunology, Published online: 16 July 2026; doi:10.1038/s41590-026-02601-8 The 21st International Aegean Conference on Innate Immunity showcased advances that position innate immunity as a multiscale regulatory system integrating environmental, metabolic, epigenetic and genetic inputs.",
     "abstract": "Nature Immunology, Published online: 16 July 2026; doi:10.1038/s41590-026-02601-8 The 21st International Aegean Conference on Innate Immunity showcased advances that position innate immunity as a multiscale regulatory system integrating environmental, metabolic, epigenetic and genetic inputs.",
     "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41590-026-02601-8/MediaObjects/41590_2026_2601_Fig1_HTML.png",
-    "topic": "Immunology",
-    "topic_color": "#60a5fa",
-    "priority_score": 133
-  },
-  {
-    "title": "Exhausted CD8<sup>+</sup> T cell subsets differ a TAD",
-    "link": "https://www.nature.com/articles/s41590-026-02583-7",
-    "journal": "Nature Immunology",
-    "source_type": "journal",
-    "date": "2026-07-06",
-    "summary": "Nature Immunology, Published online: 06 July 2026; doi:10.1038/s41590-026-02583-7 Lineage choices that maintain and diversify exhausted CD8+ T cells under chronic antigen exposure are driven by epigenetic rewiring. CTCF-mediated spatial chromatin reorganization is shown to regulate subset-specific architecture and gene expression programs, guiding differentiation of stem-like and effector exhausted CD8+ T cells.",
-    "abstract": "Nature Immunology, Published online: 06 July 2026; doi:10.1038/s41590-026-02583-7 Lineage choices that maintain and diversify exhausted CD8+ T cells under chronic antigen exposure are driven by epigenetic rewiring. CTCF-mediated spatial chromatin reorganization is shown to regulate subset-specific architecture and gene expression programs, guiding differentiation of stem-like and effector exhausted CD8+ T cells.",
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41590-026-02583-7/MediaObjects/41590_2026_2583_Fig1_HTML.png",
     "topic": "Immunology",
     "topic_color": "#60a5fa",
     "priority_score": 133
@@ -117,19 +117,6 @@
     "priority_score": 78
   },
   {
-    "title": "Glycosylation in Alzheimer’s disease",
-    "link": "https://www.nature.com/articles/s41593-026-02373-2",
-    "journal": "Nature Neuroscience",
-    "source_type": "journal",
-    "date": "2026-07-06",
-    "summary": "Nature Neuroscience, Published online: 06 July 2026; doi:10.1038/s41593-026-02373-2 Glycosylation in Alzheimer’s disease",
-    "abstract": "Nature Neuroscience, Published online: 06 July 2026; doi:10.1038/s41593-026-02373-2 Glycosylation in Alzheimer’s disease",
-    "image": "data:image/svg+xml;charset=utf-8,%0A%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%2327272a%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2352525b%22/%3E%0A%20%20%20%20%3C/linearGradient%3E%0A%20%20%20%20%3Cfilter%20id%3D%22blur%22%3E%0A%20%20%20%20%20%20%3CfeGaussianBlur%20stdDeviation%3D%2230%22/%3E%0A%20%20%20%20%3C/filter%3E%0A%20%20%3C/defs%3E%0A%0A%20%20%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22url%28%23bg%29%22/%3E%0A%0A%20%20%3Ccircle%20cx%3D%221030%22%20cy%3D%22110%22%20r%3D%22170%22%20fill%3D%22%23fda4af%22%20opacity%3D%220.18%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%20%20%3Ccircle%20cx%3D%22180%22%20cy%3D%22560%22%20r%3D%22150%22%20fill%3D%22%23fda4af%22%20opacity%3D%220.16%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%0A%20%20%3Crect%20x%3D%2256%22%20y%3D%2252%22%20rx%3D%2218%22%20ry%3D%2218%22%20width%3D%22260%22%20height%3D%2254%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.08%29%22/%3E%0A%20%20%3Ctext%20x%3D%2284%22%20y%3D%2287%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2228%22%20fill%3D%22%23e5e7eb%22%3ENature%20Neuroscience%3C/text%3E%0A%0A%20%20%3Ctext%20x%3D%221010%22%20y%3D%22560%22%0A%20%20%20%20%20%20%20%20text-anchor%3D%22middle%22%0A%20%20%20%20%20%20%20%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%0A%20%20%20%20%20%20%20%20font-size%3D%22160%22%0A%20%20%20%20%20%20%20%20fill%3D%22%23fda4af%22%0A%20%20%20%20%20%20%20%20opacity%3D%220.85%22%3E%0A%20%20%20%20%E2%97%88%0A%20%20%3C/text%3E%0A%3C/svg%3E%0A",
-    "topic": "neurodegeneration",
-    "topic_color": "#fda4af",
-    "priority_score": 50
-  },
-  {
     "title": "Alzheimer’s trial results lend momentum to strategies targeting tau",
     "link": "https://www.science.org/content/article/alzheimer-s-trial-results-lend-momentum-strategies-targeting-tau",
     "journal": "Science",
@@ -167,6 +154,32 @@
     "topic": "inflammation",
     "topic_color": "#fb7185",
     "priority_score": 29
+  },
+  {
+    "title": "Adolescent exposure to the psychedelic 25C-NBOMe in rats induces lasting competitive avoidance through disrupted hippocampal–prefrontal synchrony",
+    "link": "https://www.nature.com/articles/s41593-026-02369-y",
+    "journal": "Nature Neuroscience",
+    "source_type": "journal",
+    "date": "2026-07-20",
+    "summary": "Nature Neuroscience, Published online: 20 July 2026; doi:10.1038/s41593-026-02369-y Yu, Zhang et al. show that repeated exposure to the psychedelic drug 25C-NBOMe in adolescent rats, but not in adult rats, reduces willingness to engaged in food resource competition in adulthood, due to reduced theta synchrony between ventral hippocampus and orbitofrontal cortex.",
+    "abstract": "Nature Neuroscience, Published online: 20 July 2026; doi:10.1038/s41593-026-02369-y Yu, Zhang et al. show that repeated exposure to the psychedelic drug 25C-NBOMe in adolescent rats, but not in adult rats, reduces willingness to engaged in food resource competition in adulthood, due to reduced theta synchrony between ventral hippocampus and orbitofrontal cortex.",
+    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41593-026-02369-y/MediaObjects/41593_2026_2369_Fig1_HTML.png",
+    "topic": "neuroscience",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
+    "title": "A second wind for leukemic lungs",
+    "link": "https://www.nature.com/articles/s41590-026-02598-0",
+    "journal": "Nature Immunology",
+    "source_type": "journal",
+    "date": "2026-07-20",
+    "summary": "Nature Immunology, Published online: 20 July 2026; doi:10.1038/s41590-026-02598-0 Single-cell and spatial analyses of acute myeloid leukemia (AML) in the lung reveal an inflamed and remodeled microenvironment. These findings demonstrate that corticosteroids or antibodies that target galectin-9 or IL-33 reduce leukemic infiltration and restore respiratory function.",
+    "abstract": "Nature Immunology, Published online: 20 July 2026; doi:10.1038/s41590-026-02598-0 Single-cell and spatial analyses of acute myeloid leukemia (AML) in the lung reveal an inflamed and remodeled microenvironment. These findings demonstrate that corticosteroids or antibodies that target galectin-9 or IL-33 reduce leukemic infiltration and restore respiratory function.",
+    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41590-026-02598-0/MediaObjects/41590_2026_2598_Fig1_HTML.png",
+    "topic": "immunology",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
   },
   {
     "title": "Trump administration ends dozens of grants for studying patient care",
@@ -711,19 +724,6 @@
     "abstract": "Nature Neuroscience, Published online: 06 July 2026; doi:10.1038/s41593-026-02370-5 Hypothalamic specification in a dish",
     "image": "data:image/svg+xml;charset=utf-8,%0A%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23111827%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23374151%22/%3E%0A%20%20%20%20%3C/linearGradient%3E%0A%20%20%20%20%3Cfilter%20id%3D%22blur%22%3E%0A%20%20%20%20%20%20%3CfeGaussianBlur%20stdDeviation%3D%2230%22/%3E%0A%20%20%20%20%3C/filter%3E%0A%20%20%3C/defs%3E%0A%0A%20%20%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22url%28%23bg%29%22/%3E%0A%0A%20%20%3Ccircle%20cx%3D%221030%22%20cy%3D%22110%22%20r%3D%22170%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.18%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%20%20%3Ccircle%20cx%3D%22180%22%20cy%3D%22560%22%20r%3D%22150%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.16%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%0A%20%20%3Crect%20x%3D%2256%22%20y%3D%2252%22%20rx%3D%2218%22%20ry%3D%2218%22%20width%3D%22260%22%20height%3D%2254%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.08%29%22/%3E%0A%20%20%3Ctext%20x%3D%2284%22%20y%3D%2287%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2228%22%20fill%3D%22%23e5e7eb%22%3ENature%20Neuroscience%3C/text%3E%0A%0A%20%20%3Ctext%20x%3D%221010%22%20y%3D%22560%22%0A%20%20%20%20%20%20%20%20text-anchor%3D%22middle%22%0A%20%20%20%20%20%20%20%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%0A%20%20%20%20%20%20%20%20font-size%3D%22160%22%0A%20%20%20%20%20%20%20%20fill%3D%22%2360a5fa%22%0A%20%20%20%20%20%20%20%20opacity%3D%220.85%22%3E%0A%20%20%20%20%E2%80%A2%0A%20%20%3C/text%3E%0A%3C/svg%3E%0A",
     "topic": "neuroscience",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
-    "title": "Author Correction: An atlas of genetic effects on cellular composition of the tumor microenvironment",
-    "link": "https://www.nature.com/articles/s41590-026-02602-7",
-    "journal": "Nature Immunology",
-    "source_type": "journal",
-    "date": "2026-07-06",
-    "summary": "Nature Immunology, Published online: 06 July 2026; doi:10.1038/s41590-026-02602-7 Author Correction: An atlas of genetic effects on cellular composition of the tumor microenvironment",
-    "abstract": "Nature Immunology, Published online: 06 July 2026; doi:10.1038/s41590-026-02602-7 Author Correction: An atlas of genetic effects on cellular composition of the tumor microenvironment",
-    "image": "data:image/svg+xml;charset=utf-8,%0A%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23111827%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23374151%22/%3E%0A%20%20%20%20%3C/linearGradient%3E%0A%20%20%20%20%3Cfilter%20id%3D%22blur%22%3E%0A%20%20%20%20%20%20%3CfeGaussianBlur%20stdDeviation%3D%2230%22/%3E%0A%20%20%20%20%3C/filter%3E%0A%20%20%3C/defs%3E%0A%0A%20%20%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22url%28%23bg%29%22/%3E%0A%0A%20%20%3Ccircle%20cx%3D%221030%22%20cy%3D%22110%22%20r%3D%22170%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.18%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%20%20%3Ccircle%20cx%3D%22180%22%20cy%3D%22560%22%20r%3D%22150%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.16%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%0A%20%20%3Crect%20x%3D%2256%22%20y%3D%2252%22%20rx%3D%2218%22%20ry%3D%2218%22%20width%3D%22260%22%20height%3D%2254%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.08%29%22/%3E%0A%20%20%3Ctext%20x%3D%2284%22%20y%3D%2287%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2228%22%20fill%3D%22%23e5e7eb%22%3ENature%20Immunology%3C/text%3E%0A%0A%20%20%3Ctext%20x%3D%221010%22%20y%3D%22560%22%0A%20%20%20%20%20%20%20%20text-anchor%3D%22middle%22%0A%20%20%20%20%20%20%20%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%0A%20%20%20%20%20%20%20%20font-size%3D%22160%22%0A%20%20%20%20%20%20%20%20fill%3D%22%2360a5fa%22%0A%20%20%20%20%20%20%20%20opacity%3D%220.85%22%3E%0A%20%20%20%20%E2%80%A2%0A%20%20%3C/text%3E%0A%3C/svg%3E%0A",
-    "topic": "immunology",
     "topic_color": "#60a5fa",
     "priority_score": 0
   },
