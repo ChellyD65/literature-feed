@@ -169,6 +169,19 @@
     "priority_score": 29
   },
   {
+    "title": "Earth’s core may be far cooler than scientists thought",
+    "link": "https://www.science.org/content/article/earth-s-core-may-be-far-cooler-scientists-thought",
+    "journal": "Science",
+    "source_type": "journal",
+    "date": "2026-07-21T12:30:00Z",
+    "summary": "New measurements could help explain how the planet’s magnetic dynamo churned for billions of years",
+    "abstract": "New measurements could help explain how the planet’s magnetic dynamo churned for billions of years",
+    "image": "data:image/svg+xml;charset=utf-8,%0A%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23111827%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23374151%22/%3E%0A%20%20%20%20%3C/linearGradient%3E%0A%20%20%20%20%3Cfilter%20id%3D%22blur%22%3E%0A%20%20%20%20%20%20%3CfeGaussianBlur%20stdDeviation%3D%2230%22/%3E%0A%20%20%20%20%3C/filter%3E%0A%20%20%3C/defs%3E%0A%0A%20%20%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22url%28%23bg%29%22/%3E%0A%0A%20%20%3Ccircle%20cx%3D%221030%22%20cy%3D%22110%22%20r%3D%22170%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.18%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%20%20%3Ccircle%20cx%3D%22180%22%20cy%3D%22560%22%20r%3D%22150%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.16%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%0A%20%20%3Crect%20x%3D%2256%22%20y%3D%2252%22%20rx%3D%2218%22%20ry%3D%2218%22%20width%3D%22260%22%20height%3D%2254%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.08%29%22/%3E%0A%20%20%3Ctext%20x%3D%2284%22%20y%3D%2287%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2228%22%20fill%3D%22%23e5e7eb%22%3EScience%3C/text%3E%0A%0A%20%20%3Ctext%20x%3D%221010%22%20y%3D%22560%22%0A%20%20%20%20%20%20%20%20text-anchor%3D%22middle%22%0A%20%20%20%20%20%20%20%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%0A%20%20%20%20%20%20%20%20font-size%3D%22160%22%0A%20%20%20%20%20%20%20%20fill%3D%22%2360a5fa%22%0A%20%20%20%20%20%20%20%20opacity%3D%220.85%22%3E%0A%20%20%20%20%E2%80%A2%0A%20%20%3C/text%3E%0A%3C/svg%3E%0A",
+    "topic": "default",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
     "title": "Are boldness and belligerence related?",
     "link": "https://www.nature.com/articles/d41586-026-02103-5",
     "journal": "Nature",
@@ -177,6 +190,19 @@
     "summary": "Nature, Published online: 21 July 2026; doi:10.1038/d41586-026-02103-5 Different types of aggression in stickleback fish, and a pillar of light seen at sunset, in this week’s pick from the Nature archive.",
     "abstract": "Nature, Published online: 21 July 2026; doi:10.1038/d41586-026-02103-5 Different types of aggression in stickleback fish, and a pillar of light seen at sunset, in this week’s pick from the Nature archive.",
     "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-02103-5/d41586-026-02103-5_15948434.jpg",
+    "topic": "default",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
+    "title": "Faintest planet ever spotted from Earth has been hiding in plain sight",
+    "link": "https://www.nature.com/articles/d41586-026-02210-3",
+    "journal": "Nature",
+    "source_type": "journal",
+    "date": "2026-07-21",
+    "summary": "Nature, Published online: 21 July 2026; doi:10.1038/d41586-026-02210-3 Method used to discover an exoplanet called Beta Pictoris d might reveal other very dim exoplanets.",
+    "abstract": "Nature, Published online: 21 July 2026; doi:10.1038/d41586-026-02210-3 Method used to discover an exoplanet called Beta Pictoris d might reveal other very dim exoplanets.",
+    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-02210-3/d41586-026-02210-3_53001438.jpg",
     "topic": "default",
     "topic_color": "#60a5fa",
     "priority_score": 0
@@ -377,19 +403,6 @@
     "priority_score": 0
   },
   {
-    "title": "The science of foresight: how to future-proof your research",
-    "link": "https://www.nature.com/articles/d41586-026-02231-y",
-    "journal": "Nature",
-    "source_type": "journal",
-    "date": "2026-07-20",
-    "summary": "Nature, Published online: 20 July 2026; doi:10.1038/d41586-026-02231-y Anticipating from the start the various ways a research programme can succeed or fail can avoid problems later. Here’s how to do it.",
-    "abstract": "Nature, Published online: 20 July 2026; doi:10.1038/d41586-026-02231-y Anticipating from the start the various ways a research programme can succeed or fail can avoid problems later. Here’s how to do it.",
-    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-02231-y/d41586-026-02231-y_52981534.jpg",
-    "topic": "default",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
     "title": "Adolescent exposure to the psychedelic 25C-NBOMe in rats induces lasting competitive avoidance through disrupted hippocampal–prefrontal synchrony",
     "link": "https://www.nature.com/articles/s41593-026-02369-y",
     "journal": "Nature Neuroscience",
@@ -488,19 +501,6 @@
     "date": "2026-07-16T08:00:00Z",
     "summary": "Services for mothers and children continue to suffer in the meantime",
     "abstract": "Services for mothers and children continue to suffer in the meantime",
-    "image": "data:image/svg+xml;charset=utf-8,%0A%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23111827%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23374151%22/%3E%0A%20%20%20%20%3C/linearGradient%3E%0A%20%20%20%20%3Cfilter%20id%3D%22blur%22%3E%0A%20%20%20%20%20%20%3CfeGaussianBlur%20stdDeviation%3D%2230%22/%3E%0A%20%20%20%20%3C/filter%3E%0A%20%20%3C/defs%3E%0A%0A%20%20%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22url%28%23bg%29%22/%3E%0A%0A%20%20%3Ccircle%20cx%3D%221030%22%20cy%3D%22110%22%20r%3D%22170%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.18%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%20%20%3Ccircle%20cx%3D%22180%22%20cy%3D%22560%22%20r%3D%22150%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.16%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%0A%20%20%3Crect%20x%3D%2256%22%20y%3D%2252%22%20rx%3D%2218%22%20ry%3D%2218%22%20width%3D%22260%22%20height%3D%2254%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.08%29%22/%3E%0A%20%20%3Ctext%20x%3D%2284%22%20y%3D%2287%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2228%22%20fill%3D%22%23e5e7eb%22%3EScience%3C/text%3E%0A%0A%20%20%3Ctext%20x%3D%221010%22%20y%3D%22560%22%0A%20%20%20%20%20%20%20%20text-anchor%3D%22middle%22%0A%20%20%20%20%20%20%20%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%0A%20%20%20%20%20%20%20%20font-size%3D%22160%22%0A%20%20%20%20%20%20%20%20fill%3D%22%2360a5fa%22%0A%20%20%20%20%20%20%20%20opacity%3D%220.85%22%3E%0A%20%20%20%20%E2%80%A2%0A%20%20%3C/text%3E%0A%3C/svg%3E%0A",
-    "topic": "default",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
-    "title": "Astronomers spot first atmosphere around a potentially habitable alien world",
-    "link": "https://www.science.org/content/article/astronomers-spot-first-atmosphere-around-potentially-habitable-alien-world",
-    "journal": "Science",
-    "source_type": "journal",
-    "date": "2026-07-16T02:00:00Z",
-    "summary": "Detecting escaping helium from LHS 1140b is important step in search for life beyond our Solar System",
-    "abstract": "Detecting escaping helium from LHS 1140b is important step in search for life beyond our Solar System",
     "image": "data:image/svg+xml;charset=utf-8,%0A%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23111827%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23374151%22/%3E%0A%20%20%20%20%3C/linearGradient%3E%0A%20%20%20%20%3Cfilter%20id%3D%22blur%22%3E%0A%20%20%20%20%20%20%3CfeGaussianBlur%20stdDeviation%3D%2230%22/%3E%0A%20%20%20%20%3C/filter%3E%0A%20%20%3C/defs%3E%0A%0A%20%20%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22url%28%23bg%29%22/%3E%0A%0A%20%20%3Ccircle%20cx%3D%221030%22%20cy%3D%22110%22%20r%3D%22170%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.18%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%20%20%3Ccircle%20cx%3D%22180%22%20cy%3D%22560%22%20r%3D%22150%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.16%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%0A%20%20%3Crect%20x%3D%2256%22%20y%3D%2252%22%20rx%3D%2218%22%20ry%3D%2218%22%20width%3D%22260%22%20height%3D%2254%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.08%29%22/%3E%0A%20%20%3Ctext%20x%3D%2284%22%20y%3D%2287%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2228%22%20fill%3D%22%23e5e7eb%22%3EScience%3C/text%3E%0A%0A%20%20%3Ctext%20x%3D%221010%22%20y%3D%22560%22%0A%20%20%20%20%20%20%20%20text-anchor%3D%22middle%22%0A%20%20%20%20%20%20%20%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%0A%20%20%20%20%20%20%20%20font-size%3D%22160%22%0A%20%20%20%20%20%20%20%20fill%3D%22%2360a5fa%22%0A%20%20%20%20%20%20%20%20opacity%3D%220.85%22%3E%0A%20%20%20%20%E2%80%A2%0A%20%20%3C/text%3E%0A%3C/svg%3E%0A",
     "topic": "default",
     "topic_color": "#60a5fa",
