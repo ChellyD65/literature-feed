@@ -143,17 +143,17 @@
     "priority_score": 45
   },
   {
-    "title": "Implications of RNA virus persistence for post-acute sequelae and chronic inflammatory syndromes",
-    "link": "https://www.nature.com/articles/s41590-026-02577-5",
+    "title": "Dysbiosis-induced expansion of AXL-positive inflammatory type 3 dendritic cells triggers preclinical autoimmunity",
+    "link": "https://www.nature.com/articles/s41590-026-02599-z",
     "journal": "Nature Immunology",
     "source_type": "journal",
-    "date": "2026-07-07",
-    "summary": "Nature Immunology, Published online: 07 July 2026; doi:10.1038/s41590-026-02577-5 López and colleagues review recent evidence of RNA virus persistence and the associated consequences in terms of post-acute sequelae or chronic inflammatory syndromes.",
-    "abstract": "Viral persistence refers to the ability of a virus to remain in its host for an extended period. Although most non-retroviral RNA viruses are traditionally known for causing acute, self-limiting infections, accumulating evidence of the detection of viral products long after the infectious virus is cleared suggests that RNA viruses can establish persistent infections. Persistent viral products include replication-competent viral genomes, viral proteins, mutated viruses or non-standard viral genomes. The persistence of viral products entails a continuous interaction with the host and is often associated with prolonged tissue inflammation and chronic disease. Here, we discuss emerging evidence of the persistence of viral products from viruses commonly considered to cause acute infections. We explore the known requirements for virus persistence and the implications for the development of post-acute sequelae and predisposition to chronic inflammatory syndromes. López and colleagues review recent evidence of RNA virus persistence and the associated consequences in terms of post-acute sequelae or chronic inflammatory syndromes.",
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41590-026-02577-5/MediaObjects/41590_2026_2577_Fig1_HTML.png",
+    "date": "2026-07-21",
+    "summary": "Nature Immunology, Published online: 21 July 2026; doi:10.1038/s41590-026-02599-z Cvijetic et al. show Notch2 deficiency leads to altered populations of CD11c+ dendritic cells, including loss of ESAM+ cDC2a and an increase in inflammatory AXL+ DC3s, which sense and respond to gut dysbiosis, promoting autoantibody production.",
+    "abstract": "Nature Immunology, Published online: 21 July 2026; doi:10.1038/s41590-026-02599-z Cvijetic et al. show Notch2 deficiency leads to altered populations of CD11c+ dendritic cells, including loss of ESAM+ cDC2a and an increase in inflammatory AXL+ DC3s, which sense and respond to gut dysbiosis, promoting autoantibody production.",
+    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41590-026-02599-z/MediaObjects/41590_2026_2599_Fig1_HTML.png",
     "topic": "inflammation",
     "topic_color": "#fb7185",
-    "priority_score": 45
+    "priority_score": 41
   },
   {
     "title": "Rediscovering eosinophil identity through tissue adaptation",
@@ -167,6 +167,19 @@
     "topic": "inflammation",
     "topic_color": "#fb7185",
     "priority_score": 29
+  },
+  {
+    "title": "Are boldness and belligerence related?",
+    "link": "https://www.nature.com/articles/d41586-026-02103-5",
+    "journal": "Nature",
+    "source_type": "journal",
+    "date": "2026-07-21",
+    "summary": "Nature, Published online: 21 July 2026; doi:10.1038/d41586-026-02103-5 Different types of aggression in stickleback fish, and a pillar of light seen at sunset, in this week’s pick from the Nature archive.",
+    "abstract": "Nature, Published online: 21 July 2026; doi:10.1038/d41586-026-02103-5 Different types of aggression in stickleback fish, and a pillar of light seen at sunset, in this week’s pick from the Nature archive.",
+    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-02103-5/d41586-026-02103-5_15948434.jpg",
+    "topic": "default",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
   },
   {
     "title": "Oil and gas drilling is shifting to the deep sea — here’s what is at stake",
@@ -190,6 +203,19 @@
     "summary": "Nature, Published online: 21 July 2026; doi:10.1038/d41586-026-02228-7 Scientists are getting closer to understanding the wasting and fatigue that often accompanies cancer. Treatments could be on the horizon.",
     "abstract": "Scientists are getting closer to understanding the wasting and fatigue that often accompanies cancer. Treatments could be on the horizon. Scientists are getting closer to understanding the wasting and fatigue that often accompanies cancer. Treatments could be on the horizon.",
     "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-02228-7/d41586-026-02228-7_52981184.jpg",
+    "topic": "default",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
+    "title": "Seven ways endurance sports have taught me to be a better researcher",
+    "link": "https://www.nature.com/articles/d41586-026-02215-y",
+    "journal": "Nature",
+    "source_type": "journal",
+    "date": "2026-07-21",
+    "summary": "Nature, Published online: 21 July 2026; doi:10.1038/d41586-026-02215-y The ‘24-hour rule’ and other tips from sport can improve lab life.",
+    "abstract": "Nature, Published online: 21 July 2026; doi:10.1038/d41586-026-02215-y The ‘24-hour rule’ and other tips from sport can improve lab life.",
+    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-02215-y/d41586-026-02215-y_53008060.jpg",
     "topic": "default",
     "topic_color": "#60a5fa",
     "priority_score": 0
@@ -364,19 +390,6 @@
     "priority_score": 0
   },
   {
-    "title": "My job interviews for industry positions are going nowhere. How do I make myself stand out?",
-    "link": "https://www.nature.com/articles/d41586-026-02234-9",
-    "journal": "Nature",
-    "source_type": "journal",
-    "date": "2026-07-20",
-    "summary": "Nature, Published online: 20 July 2026; doi:10.1038/d41586-026-02234-9 A postdoc researcher trying to move into an industry role wants help gaining traction and making it past the first interview stage.",
-    "abstract": "A postdoc researcher trying to move into an industry role wants help gaining traction and making it past the first interview stage. A postdoc researcher trying to move into an industry role wants help gaining traction and making it past the first interview stage.",
-    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-02234-9/d41586-026-02234-9_52981178.jpg",
-    "topic": "default",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
     "title": "Adolescent exposure to the psychedelic 25C-NBOMe in rats induces lasting competitive avoidance through disrupted hippocampal–prefrontal synchrony",
     "link": "https://www.nature.com/articles/s41593-026-02369-y",
     "journal": "Nature Neuroscience",
@@ -450,19 +463,6 @@
     "summary": "Staffers complain that Salk allowed circadian rhythms researcher Satchidananda Panda to depart quietly, while the allegations and findings remain under wraps",
     "abstract": "Staffers complain that Salk allowed circadian rhythms researcher Satchidananda Panda to depart quietly, while the allegations and findings remain under wraps",
     "image": "data:image/svg+xml;charset=utf-8,%0A%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23111827%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23374151%22/%3E%0A%20%20%20%20%3C/linearGradient%3E%0A%20%20%20%20%3Cfilter%20id%3D%22blur%22%3E%0A%20%20%20%20%20%20%3CfeGaussianBlur%20stdDeviation%3D%2230%22/%3E%0A%20%20%20%20%3C/filter%3E%0A%20%20%3C/defs%3E%0A%0A%20%20%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22url%28%23bg%29%22/%3E%0A%0A%20%20%3Ccircle%20cx%3D%221030%22%20cy%3D%22110%22%20r%3D%22170%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.18%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%20%20%3Ccircle%20cx%3D%22180%22%20cy%3D%22560%22%20r%3D%22150%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.16%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%0A%20%20%3Crect%20x%3D%2256%22%20y%3D%2252%22%20rx%3D%2218%22%20ry%3D%2218%22%20width%3D%22260%22%20height%3D%2254%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.08%29%22/%3E%0A%20%20%3Ctext%20x%3D%2284%22%20y%3D%2287%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2228%22%20fill%3D%22%23e5e7eb%22%3EScience%3C/text%3E%0A%0A%20%20%3Ctext%20x%3D%221010%22%20y%3D%22560%22%0A%20%20%20%20%20%20%20%20text-anchor%3D%22middle%22%0A%20%20%20%20%20%20%20%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%0A%20%20%20%20%20%20%20%20font-size%3D%22160%22%0A%20%20%20%20%20%20%20%20fill%3D%22%2360a5fa%22%0A%20%20%20%20%20%20%20%20opacity%3D%220.85%22%3E%0A%20%20%20%20%E2%80%A2%0A%20%20%3C/text%3E%0A%3C/svg%3E%0A",
-    "topic": "default",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
-    "title": "Briefing Chat: Sweet! Elusive sugar molecules found in space",
-    "link": "https://www.nature.com/articles/d41586-026-02263-4",
-    "journal": "Nature",
-    "source_type": "journal",
-    "date": "2026-07-17",
-    "summary": "Nature, Published online: 17 July 2026; doi:10.1038/d41586-026-02263-4 Nature staff discuss the discovery of a four carbon ‘true sugar’ in interstellar space — plus, a formula inscribed on a wall reveals a Maya mathematician’s name.",
-    "abstract": "Nature, Published online: 17 July 2026; doi:10.1038/d41586-026-02263-4 Nature staff discuss the discovery of a four carbon ‘true sugar’ in interstellar space — plus, a formula inscribed on a wall reveals a Maya mathematician’s name.",
-    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-02263-4/d41586-026-02263-4_52988046.jpg",
     "topic": "default",
     "topic_color": "#60a5fa",
     "priority_score": 0
