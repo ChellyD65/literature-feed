@@ -169,6 +169,19 @@
     "priority_score": 29
   },
   {
+    "title": "What <i>The Odyssey</i> reveals about ancient science – from botany to psychiatry",
+    "link": "https://www.nature.com/articles/d41586-026-02275-0",
+    "journal": "Nature",
+    "source_type": "journal",
+    "date": "2026-07-23",
+    "summary": "Nature, Published online: 23 July 2026; doi:10.1038/d41586-026-02275-0 From intelligent ships to clues about eclipses, Homer’s The Odyssey reveals how Bronze Age Greeks understood the world.",
+    "abstract": "Nature, Published online: 23 July 2026; doi:10.1038/d41586-026-02275-0 From intelligent ships to clues about eclipses, Homer’s The Odyssey reveals how Bronze Age Greeks understood the world.",
+    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-02275-0/d41586-026-02275-0_53012610.jpg",
+    "topic": "default",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
     "title": "Could small-team science be dying out?",
     "link": "https://www.nature.com/articles/d41586-026-02174-4",
     "journal": "Nature",
@@ -208,13 +221,13 @@
     "priority_score": 0
   },
   {
-    "title": "Rising stars of mathematics awarded 2026 Fields Medal",
+    "title": "Rising stars of mathematics awarded prestigious 2026 Fields Medal",
     "link": "https://www.nature.com/articles/d41586-026-02169-1",
     "journal": "Nature",
     "source_type": "journal",
     "date": "2026-07-23",
-    "summary": "Nature, Published online: 23 July 2026; doi:10.1038/d41586-026-02169-1 Two of the four are the first Chinese-born winners of the prize since 1986.",
-    "abstract": "Nature, Published online: 23 July 2026; doi:10.1038/d41586-026-02169-1 Two of the four are the first Chinese-born winners of the prize since 1986.",
+    "summary": "Nature, Published online: 23 July 2026; doi:10.1038/d41586-026-02169-1 Two of the four are the first Chinese-born winners of the prize since 1982.",
+    "abstract": "Nature, Published online: 23 July 2026; doi:10.1038/d41586-026-02169-1 Two of the four are the first Chinese-born winners of the prize since 1982.",
     "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-02169-1/d41586-026-02169-1_53016636.jpg",
     "topic": "default",
     "topic_color": "#60a5fa",
@@ -372,19 +385,6 @@
     "summary": "Nature, Published online: 22 July 2026; doi:10.1038/s41586-026-10824-w By integrating a solution-grown perovskite microplate with chemically inert single-walled carbon nanotube electrodes and embedding them into an optical microcavity, the new microdevices can achieve polariton lasing under a constant direct current at 8 K.",
     "abstract": "Nature, Published online: 22 July 2026; doi:10.1038/s41586-026-10824-w By integrating a solution-grown perovskite microplate with chemically inert single-walled carbon nanotube electrodes and embedding them into an optical microcavity, the new microdevices can achieve polariton lasing under a constant direct current at 8 K.",
     "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-10824-w/MediaObjects/41586_2026_10824_Fig1_HTML.png",
-    "topic": "default",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
-    "title": "Prior therapy defines mutation profiles in childhood cancer at relapse",
-    "link": "https://www.nature.com/articles/s41586-026-10803-1",
-    "journal": "Nature",
-    "source_type": "journal",
-    "date": "2026-07-22",
-    "summary": "Nature, Published online: 22 July 2026; doi:10.1038/s41586-026-10803-1 Chemotherapy, particularly with platinum-based drugs, is associated with substantial, rapidly detectable mutagenesis in childhood cancers, tripling private signatures and doubling mutation burden, highlighting therapy-induced tumour evolution and opportunities for safer, de-escalated treatment.",
-    "abstract": "Nature, Published online: 22 July 2026; doi:10.1038/s41586-026-10803-1 Chemotherapy, particularly with platinum-based drugs, is associated with substantial, rapidly detectable mutagenesis in childhood cancers, tripling private signatures and doubling mutation burden, highlighting therapy-induced tumour evolution and opportunities for safer, de-escalated treatment.",
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-10803-1/MediaObjects/41586_2026_10803_Fig1_HTML.png",
     "topic": "default",
     "topic_color": "#60a5fa",
     "priority_score": 0
