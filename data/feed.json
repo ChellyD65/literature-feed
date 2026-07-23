@@ -104,6 +104,19 @@
     "priority_score": 78
   },
   {
+    "title": "Early detection of Alzheimer’s disease with circular RNA from blood",
+    "link": "https://www.nature.com/articles/s41591-026-04563-8",
+    "journal": "Nature Medicine",
+    "source_type": "journal",
+    "date": "2026-07-23",
+    "summary": "Nature Medicine, Published online: 23 July 2026; doi:10.1038/s41591-026-04563-8 Early diagnosis of Alzheimer’s disease is important to ensure timely and accurate treatment. We show that a blood-based circular RNA signature can accurately detect Alzheimer’s disease as well as, or better than, current biomarkers and even predict who will develop symptoms before they appear. This less invasive approach could offer earlier diagnosis and improved monitoring of Alzheimer’s disease.",
+    "abstract": "Nature Medicine, Published online: 23 July 2026; doi:10.1038/s41591-026-04563-8 Early diagnosis of Alzheimer’s disease is important to ensure timely and accurate treatment. We show that a blood-based circular RNA signature can accurately detect Alzheimer’s disease as well as, or better than, current biomarkers and even predict who will develop symptoms before they appear. This less invasive approach could offer earlier diagnosis and improved monitoring of Alzheimer’s disease.",
+    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41591-026-04563-8/MediaObjects/41591_2026_4563_Fig1_HTML.png",
+    "topic": "neurodegeneration",
+    "topic_color": "#fda4af",
+    "priority_score": 50
+  },
+  {
     "title": "Goats love to bash heads—but it might give them brain damage",
     "link": "https://www.science.org/content/article/goats-love-bash-heads-it-might-give-them-brain-damage",
     "journal": "Science",
@@ -177,6 +190,32 @@
     "summary": "Nature, Published online: 23 July 2026; doi:10.1038/d41586-026-02295-w The compact device can measure when the body is in ketosis and could help people to manage weight loss.",
     "abstract": "Nature, Published online: 23 July 2026; doi:10.1038/d41586-026-02295-w The compact device can measure when the body is in ketosis and could help people to manage weight loss.",
     "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-02295-w/d41586-026-02295-w_53012300.jpg",
+    "topic": "default",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
+    "title": "How does Make America Healthy Again hold up against scientific scrutiny?",
+    "link": "https://www.nature.com/articles/d41586-026-02024-3",
+    "journal": "Nature",
+    "source_type": "journal",
+    "date": "2026-07-23",
+    "summary": "Nature, Published online: 23 July 2026; doi:10.1038/d41586-026-02024-3 Researchers share their views on the US health policy spanning topics from vaccines to nutrition.",
+    "abstract": "Nature, Published online: 23 July 2026; doi:10.1038/d41586-026-02024-3 Researchers share their views on the US health policy spanning topics from vaccines to nutrition.",
+    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-02024-3/d41586-026-02024-3_52806420.png",
+    "topic": "default",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
+    "title": "Rising stars of mathematics awarded 2026 Fields Medal",
+    "link": "https://www.nature.com/articles/d41586-026-02169-1",
+    "journal": "Nature",
+    "source_type": "journal",
+    "date": "2026-07-23",
+    "summary": "Nature, Published online: 23 July 2026; doi:10.1038/d41586-026-02169-1 Two of the four are the first Chinese-born winners of the prize since 1986.",
+    "abstract": "Nature, Published online: 23 July 2026; doi:10.1038/d41586-026-02169-1 Two of the four are the first Chinese-born winners of the prize since 1986.",
+    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-02169-1/d41586-026-02169-1_53016636.jpg",
     "topic": "default",
     "topic_color": "#60a5fa",
     "priority_score": 0
@@ -351,32 +390,6 @@
     "priority_score": 0
   },
   {
-    "title": "Structural basis of the RNA-editing cascade in trypanosome mitochondria",
-    "link": "https://www.nature.com/articles/s41586-026-10831-x",
-    "journal": "Nature",
-    "source_type": "journal",
-    "date": "2026-07-22",
-    "summary": "Nature, Published online: 22 July 2026; doi:10.1038/s41586-026-10831-x Cryo-electron microscopy sheds light on the architecture of the Trypanosoma brucei mitochondrial editosome and reveals how this assembly mediates mRNA editing through the insertion and deletion of uridine nucleotides.",
-    "abstract": "Nature, Published online: 22 July 2026; doi:10.1038/s41586-026-10831-x Cryo-electron microscopy sheds light on the architecture of the Trypanosoma brucei mitochondrial editosome and reveals how this assembly mediates mRNA editing through the insertion and deletion of uridine nucleotides.",
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-10831-x/MediaObjects/41586_2026_10831_Fig1_HTML.png",
-    "topic": "default",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
-    "title": "Insulator-free topological photonic multi-lane highways",
-    "link": "https://www.nature.com/articles/s41586-026-10817-9",
-    "journal": "Nature",
-    "source_type": "journal",
-    "date": "2026-07-22",
-    "summary": "Nature, Published online: 22 July 2026; doi:10.1038/s41586-026-10817-9 An insulator-free topological waveguide architecture comprising four inequivalent photonic valley half-semimetals arranged in a parallel, cyclic configuration and stacked very close to one another demonstrates robust, multi-lane, unidirectional light transport with 100% spatial efficiency.",
-    "abstract": "Nature, Published online: 22 July 2026; doi:10.1038/s41586-026-10817-9 An insulator-free topological waveguide architecture comprising four inequivalent photonic valley half-semimetals arranged in a parallel, cyclic configuration and stacked very close to one another demonstrates robust, multi-lane, unidirectional light transport with 100% spatial efficiency.",
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-10817-9/MediaObjects/41586_2026_10817_Fig1_HTML.png",
-    "topic": "default",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
     "title": "Cerebral venous blood flow regulates intracerebral pressure and brain clearance via meningeal lymphatic vessels",
     "link": "https://www.nature.com/articles/s41593-026-02358-1",
     "journal": "Nature Neuroscience",
@@ -489,19 +502,6 @@
     "summary": "Nature Medicine, Published online: 21 July 2026; doi:10.1038/s41591-026-04527-y In two patients with SCN2A epileptic encephalopathy, treatment with personalized allele-selective antisense oligonucleotides led to a decrease in seizure frequency with a positive safety profile.",
     "abstract": "Nature Medicine, Published online: 21 July 2026; doi:10.1038/s41591-026-04527-y In two patients with SCN2A epileptic encephalopathy, treatment with personalized allele-selective antisense oligonucleotides led to a decrease in seizure frequency with a positive safety profile.",
     "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41591-026-04527-y/MediaObjects/41591_2026_4527_Fig1_HTML.png",
-    "topic": "default",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
-    "title": "An iPSC-derived neural progenitor cell therapy for subacute spinal cord injury: a phase 1 trial with long-term follow-up",
-    "link": "https://www.nature.com/articles/s41591-026-04549-6",
-    "journal": "Nature Medicine",
-    "source_type": "journal",
-    "date": "2026-07-21",
-    "summary": "Nature Medicine, Published online: 21 July 2026; doi:10.1038/s41591-026-04549-6 A phase 1 trial evaluating the safety of iPSC-derived neural stem cell transplantation in subacute complete spinal cord injury, with 2–4 years of follow-up including MRI, neurological and functional assessments met its primary outcome.",
-    "abstract": "Nature Medicine, Published online: 21 July 2026; doi:10.1038/s41591-026-04549-6 A phase 1 trial evaluating the safety of iPSC-derived neural stem cell transplantation in subacute complete spinal cord injury, with 2–4 years of follow-up including MRI, neurological and functional assessments met its primary outcome.",
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41591-026-04549-6/MediaObjects/41591_2026_4549_Fig1_HTML.png",
     "topic": "default",
     "topic_color": "#60a5fa",
     "priority_score": 0
