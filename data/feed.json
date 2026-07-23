@@ -169,7 +169,7 @@
     "priority_score": 29
   },
   {
-    "title": "What <i>The Odyssey</i> reveals about ancient science – from botany to psychiatry",
+    "title": "What <i>The Odyssey</i> reveals about ancient science — from botany to psychiatry",
     "link": "https://www.nature.com/articles/d41586-026-02275-0",
     "journal": "Nature",
     "source_type": "journal",
@@ -216,6 +216,19 @@
     "summary": "Nature, Published online: 23 July 2026; doi:10.1038/d41586-026-02024-3 Researchers share their views on the US health policy spanning topics from vaccines to nutrition.",
     "abstract": "Nature, Published online: 23 July 2026; doi:10.1038/d41586-026-02024-3 Researchers share their views on the US health policy spanning topics from vaccines to nutrition.",
     "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-02024-3/d41586-026-02024-3_52806420.png",
+    "topic": "default",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
+    "title": "This El Niño is set to be the largest on record by a ‘mind-blowing margin’",
+    "link": "https://www.nature.com/articles/d41586-026-02293-y",
+    "journal": "Nature",
+    "source_type": "journal",
+    "date": "2026-07-23",
+    "summary": "Nature, Published online: 23 July 2026; doi:10.1038/d41586-026-02293-y Forecasters predict that the monster climate pattern will combine with global warming to push global temperatures in 2027 to new heights.",
+    "abstract": "Nature, Published online: 23 July 2026; doi:10.1038/d41586-026-02293-y Forecasters predict that the monster climate pattern will combine with global warming to push global temperatures in 2027 to new heights.",
+    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-02293-y/d41586-026-02293-y_53016758.jpg",
     "topic": "default",
     "topic_color": "#60a5fa",
     "priority_score": 0
@@ -372,19 +385,6 @@
     "summary": "Nature, Published online: 22 July 2026; doi:10.1038/s41586-026-10833-9 CRISPR–Cas systems transcriptionally tune diverse innate defences using CRISPR RNA-like guides to balance antiviral protection with fitness, and hyperactivate these defences when compromised, establishing a layered bacterial ‘immunity guard’ network.",
     "abstract": "Nature, Published online: 22 July 2026; doi:10.1038/s41586-026-10833-9 CRISPR–Cas systems transcriptionally tune diverse innate defences using CRISPR RNA-like guides to balance antiviral protection with fitness, and hyperactivate these defences when compromised, establishing a layered bacterial ‘immunity guard’ network.",
     "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-10833-9/MediaObjects/41586_2026_10833_Fig1_HTML.png",
-    "topic": "default",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
-    "title": "Non-epitaxial perovskite polariton laser diode operating under direct current",
-    "link": "https://www.nature.com/articles/s41586-026-10824-w",
-    "journal": "Nature",
-    "source_type": "journal",
-    "date": "2026-07-22",
-    "summary": "Nature, Published online: 22 July 2026; doi:10.1038/s41586-026-10824-w By integrating a solution-grown perovskite microplate with chemically inert single-walled carbon nanotube electrodes and embedding them into an optical microcavity, the new microdevices can achieve polariton lasing under a constant direct current at 8 K.",
-    "abstract": "Nature, Published online: 22 July 2026; doi:10.1038/s41586-026-10824-w By integrating a solution-grown perovskite microplate with chemically inert single-walled carbon nanotube electrodes and embedding them into an optical microcavity, the new microdevices can achieve polariton lasing under a constant direct current at 8 K.",
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-10824-w/MediaObjects/41586_2026_10824_Fig1_HTML.png",
     "topic": "default",
     "topic_color": "#60a5fa",
     "priority_score": 0
