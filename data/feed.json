@@ -1,18 +1,5 @@
 [
   {
-    "title": "Microglial TDP-43 mediates myelin refinement and represses <i>Tyrobp</i> cryptic exon inclusion in mice",
-    "link": "https://www.nature.com/articles/s41593-026-02348-3",
-    "journal": "Nature Neuroscience",
-    "source_type": "journal",
-    "date": "2026-07-08",
-    "summary": "Nature Neuroscience, Published online: 08 July 2026; doi:10.1038/s41593-026-02348-3 Compagnion et al. show that TDP-43 loss in microglia causes myelin defects, oligodendrocyte precursor cell imbalance and motor deficits in mice. They identify TDP-43 as a regulator of the TREM2-DAP12 signaling, through the control of Tyrobp mis-splicing.",
-    "abstract": "Nature Neuroscience, Published online: 08 July 2026; doi:10.1038/s41593-026-02348-3 Compagnion et al. show that TDP-43 loss in microglia causes myelin defects, oligodendrocyte precursor cell imbalance and motor deficits in mice. They identify TDP-43 as a regulator of the TREM2-DAP12 signaling, through the control of Tyrobp mis-splicing.",
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41593-026-02348-3/MediaObjects/41593_2026_2348_Fig1_HTML.png",
-    "topic": "microglia",
-    "topic_color": "#38bdf8",
-    "priority_score": 164
-  },
-  {
     "title": "Microglia prune developing cortical blood vessels through PD-1 signaling",
     "link": "https://www.nature.com/articles/s41593-026-02378-x",
     "journal": "Nature Neuroscience",
@@ -104,19 +91,6 @@
     "priority_score": 93
   },
   {
-    "title": "Tissue-resident CD8<sup>+</sup> T cells link pregnancy to breast cancer protection",
-    "link": "https://www.nature.com/articles/s41590-026-02580-w",
-    "journal": "Nature Immunology",
-    "source_type": "journal",
-    "date": "2026-07-07",
-    "summary": "Nature Immunology, Published online: 07 July 2026; doi:10.1038/s41590-026-02580-w We discovered that pregnancy promotes the expansion of tissue-resident memory-like CD8+ T (TRM-like) cells in the mammary gland. This expansion is driven by mammary gland alveologenesis and cytokines produced by mammary epithelial cells. Depletion of TRM-like cells abolished pregnancy-associated protection against breast cancer, whereas expansion of these cells conferred protection.",
-    "abstract": "Nature Immunology, Published online: 07 July 2026; doi:10.1038/s41590-026-02580-w We discovered that pregnancy promotes the expansion of tissue-resident memory-like CD8+ T (TRM-like) cells in the mammary gland. This expansion is driven by mammary gland alveologenesis and cytokines produced by mammary epithelial cells. Depletion of TRM-like cells abolished pregnancy-associated protection against breast cancer, whereas expansion of these cells conferred protection.",
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41590-026-02580-w/MediaObjects/41590_2026_2580_Fig1_HTML.png",
-    "topic": "inflammation",
-    "topic_color": "#fb7185",
-    "priority_score": 82
-  },
-  {
     "title": "In tuberculosis, the neutrophil is neutral in name alone",
     "link": "https://www.nature.com/articles/s41590-026-02586-4",
     "journal": "Nature Immunology",
@@ -204,6 +178,45 @@
     "abstract": "Nature, Published online: 23 July 2026; doi:10.1038/d41586-026-02295-w The compact device can measure when the body is in ketosis and could help people to manage weight loss.",
     "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-02295-w/d41586-026-02295-w_53012300.jpg",
     "topic": "default",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
+    "title": "Focal astrocyte loss reveals nuclear translocation during lesion repopulation",
+    "link": "https://www.nature.com/articles/s41593-026-02354-5",
+    "journal": "Nature Neuroscience",
+    "source_type": "journal",
+    "date": "2026-07-23",
+    "summary": "Nature Neuroscience, Published online: 23 July 2026; doi:10.1038/s41593-026-02354-5 Herwerth et al. demonstrate that, after focal astrocyte loss in the adult brain, perilesional astrocytes undergo extensive remodeling, proliferation and nuclear translocation to repopulate the depleted tissue without forming a glial scar.",
+    "abstract": "Nature Neuroscience, Published online: 23 July 2026; doi:10.1038/s41593-026-02354-5 Herwerth et al. demonstrate that, after focal astrocyte loss in the adult brain, perilesional astrocytes undergo extensive remodeling, proliferation and nuclear translocation to repopulate the depleted tissue without forming a glial scar.",
+    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41593-026-02354-5/MediaObjects/41593_2026_2354_Fig1_HTML.png",
+    "topic": "neuroscience",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
+    "title": "Replay of procedural memory is independent of the hippocampus",
+    "link": "https://www.nature.com/articles/s41593-026-02362-5",
+    "journal": "Nature Neuroscience",
+    "source_type": "journal",
+    "date": "2026-07-23",
+    "summary": "Nature Neuroscience, Published online: 23 July 2026; doi:10.1038/s41593-026-02362-5 Thompson, Rollik and colleagues show that, during sleep, the brain replays procedural memories in the striatum independently of the hippocampus. Replay content was shaped by prior reward and error outcomes and predicted next-day motor performance improvements.",
+    "abstract": "Nature Neuroscience, Published online: 23 July 2026; doi:10.1038/s41593-026-02362-5 Thompson, Rollik and colleagues show that, during sleep, the brain replays procedural memories in the striatum independently of the hippocampus. Replay content was shaped by prior reward and error outcomes and predicted next-day motor performance improvements.",
+    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41593-026-02362-5/MediaObjects/41593_2026_2362_Fig1_HTML.png",
+    "topic": "neuroscience",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
+    "title": "Industrial-scale mRNA expertise meets a century of tuberculosis immunology",
+    "link": "https://www.nature.com/articles/s41590-026-02600-9",
+    "journal": "Nature Immunology",
+    "source_type": "journal",
+    "date": "2026-07-23",
+    "summary": "Nature Immunology, Published online: 23 July 2026; doi:10.1038/s41590-026-02600-9 A protective tuberculosis vaccine is needed. Two mRNA vaccines against Mycobacterium tuberculosis infection exhibit robust immunogenicity and efficacy in rodents. Those same vaccines are currently in clinical trials.",
+    "abstract": "Nature Immunology, Published online: 23 July 2026; doi:10.1038/s41590-026-02600-9 A protective tuberculosis vaccine is needed. Two mRNA vaccines against Mycobacterium tuberculosis infection exhibit robust immunogenicity and efficacy in rodents. Those same vaccines are currently in clinical trials.",
+    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41590-026-02600-9/MediaObjects/41590_2026_2600_Fig1_HTML.png",
+    "topic": "immunology",
     "topic_color": "#60a5fa",
     "priority_score": 0
   },
@@ -645,19 +658,6 @@
     "summary": "Nature Neuroscience, Published online: 14 July 2026; doi:10.1038/s41593-026-02352-7 In people with narcolepsy, cataplexy is often triggered by strong emotions in social situations. Mahoney et al. show that such cataplexy is mediated by oxytocin-responsive neurons in the amygdala that target brainstem regions regulating motor tone.",
     "abstract": "Nature Neuroscience, Published online: 14 July 2026; doi:10.1038/s41593-026-02352-7 In people with narcolepsy, cataplexy is often triggered by strong emotions in social situations. Mahoney et al. show that such cataplexy is mediated by oxytocin-responsive neurons in the amygdala that target brainstem regions regulating motor tone.",
     "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41593-026-02352-7/MediaObjects/41593_2026_2352_Fig1_HTML.png",
-    "topic": "neuroscience",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
-    "title": "A framework for comparative analysis of human and mouse cortical neuron dendrites in corresponding brain regions",
-    "link": "https://www.nature.com/articles/s41593-026-02376-z",
-    "journal": "Nature Neuroscience",
-    "source_type": "journal",
-    "date": "2026-07-14",
-    "summary": "Nature Neuroscience, Published online: 14 July 2026; doi:10.1038/s41593-026-02376-z This study establishes a region-matched framework for comparing single-neuron dendritic morphology in human and mouse cortex, revealing more compact local dendrites and stronger lobe-level morphological specialization in humans.",
-    "abstract": "Nature Neuroscience, Published online: 14 July 2026; doi:10.1038/s41593-026-02376-z This study establishes a region-matched framework for comparing single-neuron dendritic morphology in human and mouse cortex, revealing more compact local dendrites and stronger lobe-level morphological specialization in humans.",
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41593-026-02376-z/MediaObjects/41593_2026_2376_Fig1_HTML.png",
     "topic": "neuroscience",
     "topic_color": "#60a5fa",
     "priority_score": 0
