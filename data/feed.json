@@ -91,19 +91,6 @@
     "priority_score": 93
   },
   {
-    "title": "Tissue-resident CD8<sup>+</sup> T cells link pregnancy to breast cancer protection",
-    "link": "https://www.nature.com/articles/s41590-026-02580-w",
-    "journal": "Nature Immunology",
-    "source_type": "journal",
-    "date": "2026-07-07",
-    "summary": "Nature Immunology, Published online: 07 July 2026; doi:10.1038/s41590-026-02580-w We discovered that pregnancy promotes the expansion of tissue-resident memory-like CD8+ T (TRM-like) cells in the mammary gland. This expansion is driven by mammary gland alveologenesis and cytokines produced by mammary epithelial cells. Depletion of TRM-like cells abolished pregnancy-associated protection against breast cancer, whereas expansion of these cells conferred protection.",
-    "abstract": "Nature Immunology, Published online: 07 July 2026; doi:10.1038/s41590-026-02580-w We discovered that pregnancy promotes the expansion of tissue-resident memory-like CD8+ T (TRM-like) cells in the mammary gland. This expansion is driven by mammary gland alveologenesis and cytokines produced by mammary epithelial cells. Depletion of TRM-like cells abolished pregnancy-associated protection against breast cancer, whereas expansion of these cells conferred protection.",
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41590-026-02580-w/MediaObjects/41590_2026_2580_Fig1_HTML.png",
-    "topic": "inflammation",
-    "topic_color": "#fb7185",
-    "priority_score": 82
-  },
-  {
     "title": "In tuberculosis, the neutrophil is neutral in name alone",
     "link": "https://www.nature.com/articles/s41590-026-02586-4",
     "journal": "Nature Immunology",
@@ -360,6 +347,19 @@
     "abstract": "Nature Neuroscience, Published online: 23 July 2026; doi:10.1038/s41593-026-02362-5 Thompson, Rollik and colleagues show that, during sleep, the brain replays procedural memories in the striatum independently of the hippocampus. Replay content was shaped by prior reward and error outcomes and predicted next-day motor performance improvements.",
     "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41593-026-02362-5/MediaObjects/41593_2026_2362_Fig1_HTML.png",
     "topic": "neuroscience",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
+    "title": "Industrial-scale mRNA expertise meets a century of tuberculosis immunology",
+    "link": "https://www.nature.com/articles/s41590-026-02600-9",
+    "journal": "Nature Immunology",
+    "source_type": "journal",
+    "date": "2026-07-23",
+    "summary": "Nature Immunology, Published online: 23 July 2026; doi:10.1038/s41590-026-02600-9 A protective tuberculosis vaccine is needed. Two mRNA vaccines against Mycobacterium tuberculosis infection exhibit robust immunogenicity and efficacy in rodents. Those same vaccines are currently in clinical trials.",
+    "abstract": "Nature Immunology, Published online: 23 July 2026; doi:10.1038/s41590-026-02600-9 A protective tuberculosis vaccine is needed. Two mRNA vaccines against Mycobacterium tuberculosis infection exhibit robust immunogenicity and efficacy in rodents. Those same vaccines are currently in clinical trials.",
+    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41590-026-02600-9/MediaObjects/41590_2026_2600_Fig1_HTML.png",
+    "topic": "immunology",
     "topic_color": "#60a5fa",
     "priority_score": 0
   },
