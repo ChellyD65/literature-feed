@@ -1,5 +1,18 @@
 [
   {
+    "title": "Somatic mutations reveal the ontogeny of microglia in human aging",
+    "link": "https://www.nature.com/articles/s41586-026-10939-0",
+    "journal": "Nature",
+    "source_type": "journal",
+    "date": "2026-07-30",
+    "summary": "Nature, Published online: 30 July 2026; doi:10.1038/s41586-026-10939-0 Somatic mutations reveal the ontogeny of microglia in human aging",
+    "abstract": "Microglia are the resident macrophages of the central nervous system1. In mice, microglia seed the brain during embryogenesis and can be maintained throughout life with minimal input from adult hematopoiesis2-4. The origins of human microglia are less clear, but recent evidence suggests that marrow-derived cells contribute to the human microglial pool in certain individuals5-9. Here, to investigate the ontogeny of human microglia, we develop an approach that uses the collection of accumulated somatic mutations which uniquely labels each clone of cells to track the infiltration of marrow-derived cells into the human brain. Applying this approach to 20 aged individuals, we find evidence of an influx of marrow-derived cells into the brain in all examined individuals. Single cell analysis, including single cell lineage tracing using mitochondrial DNA variants, demonstrates that these infiltrating cells are similar to microglia and can comprise a large fraction of the microglial pool. Analysis of human cohort data demonstrates a protective association between most types of clonal hematopoiesis and Alzheimer’s disease. In sum, this work uncovers a widespread influx of myeloid cells into the healthy human brain which contributes to the pool of human microglia and becomes common with aging.",
+    "image": "data:image/svg+xml;charset=utf-8,%0A%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%230f172a%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%230b3b5a%22/%3E%0A%20%20%20%20%3C/linearGradient%3E%0A%20%20%20%20%3Cfilter%20id%3D%22blur%22%3E%0A%20%20%20%20%20%20%3CfeGaussianBlur%20stdDeviation%3D%2230%22/%3E%0A%20%20%20%20%3C/filter%3E%0A%20%20%3C/defs%3E%0A%0A%20%20%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22url%28%23bg%29%22/%3E%0A%0A%20%20%3Ccircle%20cx%3D%221030%22%20cy%3D%22110%22%20r%3D%22170%22%20fill%3D%22%2338bdf8%22%20opacity%3D%220.18%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%20%20%3Ccircle%20cx%3D%22180%22%20cy%3D%22560%22%20r%3D%22150%22%20fill%3D%22%2338bdf8%22%20opacity%3D%220.16%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%0A%20%20%3Crect%20x%3D%2256%22%20y%3D%2252%22%20rx%3D%2218%22%20ry%3D%2218%22%20width%3D%22260%22%20height%3D%2254%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.08%29%22/%3E%0A%20%20%3Ctext%20x%3D%2284%22%20y%3D%2287%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2228%22%20fill%3D%22%23e5e7eb%22%3ENature%3C/text%3E%0A%0A%20%20%3Ctext%20x%3D%221010%22%20y%3D%22560%22%0A%20%20%20%20%20%20%20%20text-anchor%3D%22middle%22%0A%20%20%20%20%20%20%20%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%0A%20%20%20%20%20%20%20%20font-size%3D%22160%22%0A%20%20%20%20%20%20%20%20fill%3D%22%2338bdf8%22%0A%20%20%20%20%20%20%20%20opacity%3D%220.85%22%3E%0A%20%20%20%20%E2%9C%B6%0A%20%20%3C/text%3E%0A%3C/svg%3E%0A",
+    "topic": "microglia",
+    "topic_color": "#38bdf8",
+    "priority_score": 177
+  },
+  {
     "title": "Human lungs maintain tissue-resident memory T cells against a broad spectrum of pathogens",
     "link": "https://www.nature.com/articles/s41590-026-02592-6",
     "journal": "Nature Immunology",
@@ -11,19 +24,6 @@
     "topic": "Immunology",
     "topic_color": "#60a5fa",
     "priority_score": 133
-  },
-  {
-    "title": "Mitochondrial metabolism and epigenetic crosstalk drive SASP",
-    "link": "https://www.nature.com/articles/s41586-026-10791-2",
-    "journal": "Nature",
-    "source_type": "journal",
-    "date": "2026-07-29",
-    "summary": "Nature, Published online: 29 July 2026; doi:10.1038/s41586-026-10791-2 In senescent cells, mitochondria-derived acetyl-CoA promotes histone acetylation and increases chromatin accessibility at inflammatory gene loci. Inhibition of SLC25A1 attenuates these effects, underscoring the therapeutic potential of targeting mitochondrial metabolism and its epigenetic crosstalk to delay age-related functional decline.",
-    "abstract": "Nature, Published online: 29 July 2026; doi:10.1038/s41586-026-10791-2 In senescent cells, mitochondria-derived acetyl-CoA promotes histone acetylation and increases chromatin accessibility at inflammatory gene loci. Inhibition of SLC25A1 attenuates these effects, underscoring the therapeutic potential of targeting mitochondrial metabolism and its epigenetic crosstalk to delay age-related functional decline.",
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-10791-2/MediaObjects/41586_2026_10791_Fig1_HTML.png",
-    "topic": "inflammation",
-    "topic_color": "#fb7185",
-    "priority_score": 77
   },
   {
     "title": "Mitochondrial accumulation and lysosomal dysfunction result in mitochondrial plaques in Alzheimer’s disease",
@@ -65,6 +65,19 @@
     "priority_score": 33
   },
   {
+    "title": "Author Correction: Sleep chart of biological ageing clocks in middle and late life",
+    "link": "https://www.nature.com/articles/s41586-026-10920-x",
+    "journal": "Nature",
+    "source_type": "journal",
+    "date": "2026-07-30",
+    "summary": "Nature, Published online: 30 July 2026; doi:10.1038/s41586-026-10920-x Author Correction: Sleep chart of biological ageing clocks in middle and late life",
+    "abstract": "Nature, Published online: 30 July 2026; doi:10.1038/s41586-026-10920-x Author Correction: Sleep chart of biological ageing clocks in middle and late life",
+    "image": "data:image/svg+xml;charset=utf-8,%0A%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23111827%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23374151%22/%3E%0A%20%20%20%20%3C/linearGradient%3E%0A%20%20%20%20%3Cfilter%20id%3D%22blur%22%3E%0A%20%20%20%20%20%20%3CfeGaussianBlur%20stdDeviation%3D%2230%22/%3E%0A%20%20%20%20%3C/filter%3E%0A%20%20%3C/defs%3E%0A%0A%20%20%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22url%28%23bg%29%22/%3E%0A%0A%20%20%3Ccircle%20cx%3D%221030%22%20cy%3D%22110%22%20r%3D%22170%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.18%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%20%20%3Ccircle%20cx%3D%22180%22%20cy%3D%22560%22%20r%3D%22150%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.16%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%0A%20%20%3Crect%20x%3D%2256%22%20y%3D%2252%22%20rx%3D%2218%22%20ry%3D%2218%22%20width%3D%22260%22%20height%3D%2254%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.08%29%22/%3E%0A%20%20%3Ctext%20x%3D%2284%22%20y%3D%2287%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2228%22%20fill%3D%22%23e5e7eb%22%3ENature%3C/text%3E%0A%0A%20%20%3Ctext%20x%3D%221010%22%20y%3D%22560%22%0A%20%20%20%20%20%20%20%20text-anchor%3D%22middle%22%0A%20%20%20%20%20%20%20%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%0A%20%20%20%20%20%20%20%20font-size%3D%22160%22%0A%20%20%20%20%20%20%20%20fill%3D%22%2360a5fa%22%0A%20%20%20%20%20%20%20%20opacity%3D%220.85%22%3E%0A%20%20%20%20%E2%80%A2%0A%20%20%3C/text%3E%0A%3C/svg%3E%0A",
+    "topic": "default",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
     "title": "Job insecurity is chipping away at me and my cohort. Is it us, or the state of the economy?",
     "link": "https://www.nature.com/articles/d41586-026-01843-8",
     "journal": "Nature",
@@ -86,6 +99,19 @@
     "summary": "Nature, Published online: 30 July 2026; doi:10.1038/d41586-026-02195-z Researchers are looking for ways to extract the metal from underground reservoirs that use less water.",
     "abstract": "Nature, Published online: 30 July 2026; doi:10.1038/d41586-026-02195-z Researchers are looking for ways to extract the metal from underground reservoirs that use less water.",
     "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-02195-z/d41586-026-02195-z_52963876.jpg",
+    "topic": "default",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
+    "title": "Fires in Europe are breaking records: here’s what the future holds",
+    "link": "https://www.nature.com/articles/d41586-026-02361-3",
+    "journal": "Nature",
+    "source_type": "journal",
+    "date": "2026-07-30",
+    "summary": "Nature, Published online: 30 July 2026; doi:10.1038/d41586-026-02361-3 Countries such as Spain and France can expect fire regimes more like those of California as climate change favours hot, dry conditions, scientists suggest.",
+    "abstract": "Nature, Published online: 30 July 2026; doi:10.1038/d41586-026-02361-3 Countries such as Spain and France can expect fire regimes more like those of California as climate change favours hot, dry conditions, scientists suggest.",
+    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-02361-3/d41586-026-02361-3_53038784.jpg",
     "topic": "default",
     "topic_color": "#60a5fa",
     "priority_score": 0
@@ -294,32 +320,6 @@
     "summary": "Nature, Published online: 29 July 2026; doi:10.1038/s41586-026-10845-5 The piezochiral effect, a new member of the family of strain-responsive functionalities alongside piezoelectricity and piezomagnetism, is introduced, enabling control of chirality through mechanical strain, with future applications in photonics, spintronics, biosensing and quantum information.",
     "abstract": "Nature, Published online: 29 July 2026; doi:10.1038/s41586-026-10845-5 The piezochiral effect, a new member of the family of strain-responsive functionalities alongside piezoelectricity and piezomagnetism, is introduced, enabling control of chirality through mechanical strain, with future applications in photonics, spintronics, biosensing and quantum information.",
     "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-10845-5/MediaObjects/41586_2026_10845_Fig1_HTML.png",
-    "topic": "default",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
-    "title": "Diverse bacterial pattern recognition receptors sense the core phage proteome",
-    "link": "https://www.nature.com/articles/s41586-026-10852-6",
-    "journal": "Nature",
-    "source_type": "journal",
-    "date": "2026-07-29",
-    "summary": "Nature, Published online: 29 July 2026; doi:10.1038/s41586-026-10852-6 Systematic analysis of prokaryotic STAND NTPases — relatives of animal and plant immune receptors — uncovers diverse antiviral sensors that detect most of the core structural and replicative proteins of bacteriophages.",
-    "abstract": "Nature, Published online: 29 July 2026; doi:10.1038/s41586-026-10852-6 Systematic analysis of prokaryotic STAND NTPases — relatives of animal and plant immune receptors — uncovers diverse antiviral sensors that detect most of the core structural and replicative proteins of bacteriophages.",
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-10852-6/MediaObjects/41586_2026_10852_Fig1_HTML.png",
-    "topic": "default",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
-    "title": "Alternating CO<sub>2</sub> and bicycloalkane copolymerization to circular polyesters",
-    "link": "https://www.nature.com/articles/s41586-026-10848-2",
-    "journal": "Nature",
-    "source_type": "journal",
-    "date": "2026-07-29",
-    "summary": "Nature, Published online: 29 July 2026; doi:10.1038/s41586-026-10848-2 A simple organic catalyst enables direct alternating copolymerization of CO2 with bicycloalkanes to produce high-performance polyesters that can be selectively depolymerized and recycled in a closed-loop lifecycle.",
-    "abstract": "Nature, Published online: 29 July 2026; doi:10.1038/s41586-026-10848-2 A simple organic catalyst enables direct alternating copolymerization of CO2 with bicycloalkanes to produce high-performance polyesters that can be selectively depolymerized and recycled in a closed-loop lifecycle.",
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-10848-2/MediaObjects/41586_2026_10848_Fig1_HTML.png",
     "topic": "default",
     "topic_color": "#60a5fa",
     "priority_score": 0
