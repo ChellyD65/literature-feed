@@ -13,19 +13,6 @@
     "priority_score": 133
   },
   {
-    "title": "Perpendicular switching of polarization in layered ferroelectrics",
-    "link": "https://www.nature.com/articles/s41586-026-10839-3",
-    "journal": "Nature",
-    "source_type": "journal",
-    "date": "2026-07-29",
-    "summary": "Nature, Published online: 29 July 2026; doi:10.1038/s41586-026-10839-3 Perpendicular switching of the polarization state in the layered ferroelectric Bi4Ti3O12 is demonstrated by means of trilinear coupling, allowing manipulation of the in-plane polarization component with an out-of-plane electric field.",
-    "abstract": "Nature, Published online: 29 July 2026; doi:10.1038/s41586-026-10839-3 Perpendicular switching of the polarization state in the layered ferroelectric Bi4Ti3O12 is demonstrated by means of trilinear coupling, allowing manipulation of the in-plane polarization component with an out-of-plane electric field.",
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-10839-3/MediaObjects/41586_2026_10839_Fig1_HTML.png",
-    "topic": "retina",
-    "topic_color": "#f472b6",
-    "priority_score": 106
-  },
-  {
     "title": "Mitochondrial metabolism and epigenetic crosstalk drive SASP",
     "link": "https://www.nature.com/articles/s41586-026-10791-2",
     "journal": "Nature",
@@ -76,6 +63,32 @@
     "topic": "inflammation",
     "topic_color": "#fb7185",
     "priority_score": 33
+  },
+  {
+    "title": "Job insecurity is chipping away at me and my cohort. Is it us, or the state of the economy?",
+    "link": "https://www.nature.com/articles/d41586-026-01843-8",
+    "journal": "Nature",
+    "source_type": "journal",
+    "date": "2026-07-30",
+    "summary": "Nature, Published online: 30 July 2026; doi:10.1038/d41586-026-01843-8 The career market is difficult to navigate — and academic achievements feel like they’re no longer enough, says Daniella Watson.",
+    "abstract": "Nature, Published online: 30 July 2026; doi:10.1038/d41586-026-01843-8 The career market is difficult to navigate — and academic achievements feel like they’re no longer enough, says Daniella Watson.",
+    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-01843-8/d41586-026-01843-8_52941268.jpg",
+    "topic": "default",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
+    "title": "How I use statistics and my law degree to fight human-rights abuses",
+    "link": "https://www.nature.com/articles/d41586-026-02079-2",
+    "journal": "Nature",
+    "source_type": "journal",
+    "date": "2026-07-30",
+    "summary": "Nature, Published online: 30 July 2026; doi:10.1038/d41586-026-02079-2 Some 50 years after exposing gender discrimination in US academics’ retirement benefits, Mary Gray works as a statistician and social-justice campaigner.",
+    "abstract": "Nature, Published online: 30 July 2026; doi:10.1038/d41586-026-02079-2 Some 50 years after exposing gender discrimination in US academics’ retirement benefits, Mary Gray works as a statistician and social-justice campaigner.",
+    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-02079-2/d41586-026-02079-2_53038574.png",
+    "topic": "default",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
   },
   {
     "title": "Unforgettable forgotten memories",
@@ -307,19 +320,6 @@
     "summary": "Nature, Published online: 29 July 2026; doi:10.1038/s41586-026-10862-4 Operando optical microscopy shows avalanche-like lithium deintercalation (intercalation) processes as the dilute stages of graphite are emptied (filled), showing how local disorder governs phase-transition dynamics and ion transport in lithium-ion battery electrodes.",
     "abstract": "Nature, Published online: 29 July 2026; doi:10.1038/s41586-026-10862-4 Operando optical microscopy shows avalanche-like lithium deintercalation (intercalation) processes as the dilute stages of graphite are emptied (filled), showing how local disorder governs phase-transition dynamics and ion transport in lithium-ion battery electrodes.",
     "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-10862-4/MediaObjects/41586_2026_10862_Fig1_HTML.png",
-    "topic": "default",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
-    "title": "Sequential reading of a stepwise-shortened peptide immobilized on nanopore",
-    "link": "https://www.nature.com/articles/s41586-026-10881-1",
-    "journal": "Nature",
-    "source_type": "journal",
-    "date": "2026-07-29",
-    "summary": "Nature, Published online: 29 July 2026; doi:10.1038/s41586-026-10881-1 A nanopore-based ‘chop and measure’ method sequences peptides at single-amino-acid resolution by using enzymatic digestion to progressively shorten the N terminus one residue at a time, together with repetitive N-terminus re-reading.",
-    "abstract": "Nature, Published online: 29 July 2026; doi:10.1038/s41586-026-10881-1 A nanopore-based ‘chop and measure’ method sequences peptides at single-amino-acid resolution by using enzymatic digestion to progressively shorten the N terminus one residue at a time, together with repetitive N-terminus re-reading.",
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-10881-1/MediaObjects/41586_2026_10881_Fig1_HTML.png",
     "topic": "default",
     "topic_color": "#60a5fa",
     "priority_score": 0
