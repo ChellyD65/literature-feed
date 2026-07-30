@@ -78,6 +78,71 @@
     "priority_score": 33
   },
   {
+    "title": "Unforgettable forgotten memories",
+    "link": "https://www.nature.com/articles/s41593-026-02340-x",
+    "journal": "Nature Neuroscience",
+    "source_type": "journal",
+    "date": "2026-07-30",
+    "summary": "Nature Neuroscience, Published online: 30 July 2026; doi:10.1038/s41593-026-02340-x Memory is not always a faithful representation of past events; it can be lost, distorted or even fabricated. A new study provides insights into neural mechanisms that support the formation of true and false memories from forgotten learned information.",
+    "abstract": "Nature Neuroscience, Published online: 30 July 2026; doi:10.1038/s41593-026-02340-x Memory is not always a faithful representation of past events; it can be lost, distorted or even fabricated. A new study provides insights into neural mechanisms that support the formation of true and false memories from forgotten learned information.",
+    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41593-026-02340-x/MediaObjects/41593_2026_2340_Fig1_HTML.png",
+    "topic": "neuroscience",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
+    "title": "New waves in psychiatric neuroimaging",
+    "link": "https://www.nature.com/articles/s41593-026-02360-7",
+    "journal": "Nature Neuroscience",
+    "source_type": "journal",
+    "date": "2026-07-30",
+    "summary": "Nature Neuroscience, Published online: 30 July 2026; doi:10.1038/s41593-026-02360-7 The long voyage in search of neuroanatomical correlates for mental illness has faced choppy waters. A new report by Cao et al. illustrates this turbulence by quantifying low replicability in brain structural-magnetic-resonance-imaging maps for five psychiatric diagnoses. Thankfully, this finding helps to strengthen existing currents that are already moving the field towards newer approaches that promise smoother sailing.",
+    "abstract": "Nature Neuroscience, Published online: 30 July 2026; doi:10.1038/s41593-026-02360-7 The long voyage in search of neuroanatomical correlates for mental illness has faced choppy waters. A new report by Cao et al. illustrates this turbulence by quantifying low replicability in brain structural-magnetic-resonance-imaging maps for five psychiatric diagnoses. Thankfully, this finding helps to strengthen existing currents that are already moving the field towards newer approaches that promise smoother sailing.",
+    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41593-026-02360-7/MediaObjects/41593_2026_2360_Fig1_HTML.png",
+    "topic": "neuroscience",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
+    "title": "The cross-site reproducibility of MRI morphometric phenotypes in psychiatric disorders",
+    "link": "https://www.nature.com/articles/s41593-026-02359-0",
+    "journal": "Nature Neuroscience",
+    "source_type": "journal",
+    "date": "2026-07-30",
+    "summary": "Nature Neuroscience, Published online: 30 July 2026; doi:10.1038/s41593-026-02359-0 A large analysis of MRI studies in five psychiatric disorders reveals that maps of brain volume differences in psychiatric illness are rarely reproducible, highlighting the need for alternative approaches to biomarker discovery.",
+    "abstract": "Nature Neuroscience, Published online: 30 July 2026; doi:10.1038/s41593-026-02359-0 A large analysis of MRI studies in five psychiatric disorders reveals that maps of brain volume differences in psychiatric illness are rarely reproducible, highlighting the need for alternative approaches to biomarker discovery.",
+    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41593-026-02359-0/MediaObjects/41593_2026_2359_Fig1_HTML.png",
+    "topic": "neuroscience",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
+    "title": "Creating true and false memories from forgotten information in <i>Drosophila</i>",
+    "link": "https://www.nature.com/articles/s41593-026-02381-2",
+    "journal": "Nature Neuroscience",
+    "source_type": "journal",
+    "date": "2026-07-30",
+    "summary": "Nature Neuroscience, Published online: 30 July 2026; doi:10.1038/s41593-026-02381-2 Forgotten memories in Drosophila persist as silent memory traces and can be recovered by reminder cues. Manipulating reminders can create false memories, showing that memory reconstruction flexibly integrates stored information with recent experiences.",
+    "abstract": "Nature Neuroscience, Published online: 30 July 2026; doi:10.1038/s41593-026-02381-2 Forgotten memories in Drosophila persist as silent memory traces and can be recovered by reminder cues. Manipulating reminders can create false memories, showing that memory reconstruction flexibly integrates stored information with recent experiences.",
+    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41593-026-02381-2/MediaObjects/41593_2026_2381_Fig1_HTML.png",
+    "topic": "neuroscience",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
+    "title": "Representations of the intrinsic value of information in mouse orbitofrontal cortex",
+    "link": "https://www.nature.com/articles/s41593-026-02377-y",
+    "journal": "Nature Neuroscience",
+    "source_type": "journal",
+    "date": "2026-07-30",
+    "summary": "Nature Neuroscience, Published online: 30 July 2026; doi:10.1038/s41593-026-02377-y Mice are motivated to seek information of no extrinsic value. Recording neural activity in orbitofrontal cortex reveals a representation of the value of information that is distinct from the value of physiological reward.",
+    "abstract": "Nature Neuroscience, Published online: 30 July 2026; doi:10.1038/s41593-026-02377-y Mice are motivated to seek information of no extrinsic value. Recording neural activity in orbitofrontal cortex reveals a representation of the value of information that is distinct from the value of physiological reward.",
+    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41593-026-02377-y/MediaObjects/41593_2026_2377_Fig1_HTML.png",
+    "topic": "neuroscience",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
     "title": "Odd shapes hidden in dense Amazon rainforest reveal sprawling ancient civilization",
     "link": "https://www.science.org/content/article/odd-shapes-hidden-dense-amazon-rainforest-reveal-sprawling-ancient-civilization",
     "journal": "Science",
@@ -520,32 +585,6 @@
     "priority_score": 0
   },
   {
-    "title": "Focal astrocyte loss reveals nuclear translocation during lesion repopulation",
-    "link": "https://www.nature.com/articles/s41593-026-02354-5",
-    "journal": "Nature Neuroscience",
-    "source_type": "journal",
-    "date": "2026-07-23",
-    "summary": "Nature Neuroscience, Published online: 23 July 2026; doi:10.1038/s41593-026-02354-5 Herwerth et al. demonstrate that, after focal astrocyte loss in the adult brain, perilesional astrocytes undergo extensive remodeling, proliferation and nuclear translocation to repopulate the depleted tissue without forming a glial scar.",
-    "abstract": "Nature Neuroscience, Published online: 23 July 2026; doi:10.1038/s41593-026-02354-5 Herwerth et al. demonstrate that, after focal astrocyte loss in the adult brain, perilesional astrocytes undergo extensive remodeling, proliferation and nuclear translocation to repopulate the depleted tissue without forming a glial scar.",
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41593-026-02354-5/MediaObjects/41593_2026_2354_Fig1_HTML.png",
-    "topic": "neuroscience",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
-    "title": "Replay of procedural memory is independent of the hippocampus",
-    "link": "https://www.nature.com/articles/s41593-026-02362-5",
-    "journal": "Nature Neuroscience",
-    "source_type": "journal",
-    "date": "2026-07-23",
-    "summary": "Nature Neuroscience, Published online: 23 July 2026; doi:10.1038/s41593-026-02362-5 Thompson, Rollik and colleagues show that, during sleep, the brain replays procedural memories in the striatum independently of the hippocampus. Replay content was shaped by prior reward and error outcomes and predicted next-day motor performance improvements.",
-    "abstract": "Nature Neuroscience, Published online: 23 July 2026; doi:10.1038/s41593-026-02362-5 Thompson, Rollik and colleagues show that, during sleep, the brain replays procedural memories in the striatum independently of the hippocampus. Replay content was shaped by prior reward and error outcomes and predicted next-day motor performance improvements.",
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41593-026-02362-5/MediaObjects/41593_2026_2362_Fig1_HTML.png",
-    "topic": "neuroscience",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
     "title": "Industrial-scale mRNA expertise meets a century of tuberculosis immunology",
     "link": "https://www.nature.com/articles/s41590-026-02600-9",
     "journal": "Nature Immunology",
@@ -581,19 +620,6 @@
     "abstract": "Proceedings of the National Academy of Sciences, Volume 123, Issue 30, July 2026. SignificanceWithin-host populations such as cancer clones and pathogens fluctuate, but clinical outcome is determined by how those internal states translate into host risk. It is the curvature of this translation, the hazard map, that determines whether ...",
     "image": "data:image/svg+xml;charset=utf-8,%0A%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23111827%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23374151%22/%3E%0A%20%20%20%20%3C/linearGradient%3E%0A%20%20%20%20%3Cfilter%20id%3D%22blur%22%3E%0A%20%20%20%20%20%20%3CfeGaussianBlur%20stdDeviation%3D%2230%22/%3E%0A%20%20%20%20%3C/filter%3E%0A%20%20%3C/defs%3E%0A%0A%20%20%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22url%28%23bg%29%22/%3E%0A%0A%20%20%3Ccircle%20cx%3D%221030%22%20cy%3D%22110%22%20r%3D%22170%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.18%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%20%20%3Ccircle%20cx%3D%22180%22%20cy%3D%22560%22%20r%3D%22150%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.16%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%0A%20%20%3Crect%20x%3D%2256%22%20y%3D%2252%22%20rx%3D%2218%22%20ry%3D%2218%22%20width%3D%22260%22%20height%3D%2254%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.08%29%22/%3E%0A%20%20%3Ctext%20x%3D%2284%22%20y%3D%2287%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2228%22%20fill%3D%22%23e5e7eb%22%3EPNAS%3C/text%3E%0A%0A%20%20%3Ctext%20x%3D%221010%22%20y%3D%22560%22%0A%20%20%20%20%20%20%20%20text-anchor%3D%22middle%22%0A%20%20%20%20%20%20%20%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%0A%20%20%20%20%20%20%20%20font-size%3D%22160%22%0A%20%20%20%20%20%20%20%20fill%3D%22%2360a5fa%22%0A%20%20%20%20%20%20%20%20opacity%3D%220.85%22%3E%0A%20%20%20%20%E2%80%A2%0A%20%20%3C/text%3E%0A%3C/svg%3E%0A",
     "topic": "default",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
-    "title": "Cerebral venous blood flow regulates intracerebral pressure and brain clearance via meningeal lymphatic vessels",
-    "link": "https://www.nature.com/articles/s41593-026-02358-1",
-    "journal": "Nature Neuroscience",
-    "source_type": "journal",
-    "date": "2026-07-22",
-    "summary": "Nature Neuroscience, Published online: 22 July 2026; doi:10.1038/s41593-026-02358-1 The authors show that cerebral venous blood flow and meningeal lymphatics co-regulate intracranial pressure and brain clearance in mice and humans. This finding supports idiopathic intracranial hypertension as a cerebral venous disorder.",
-    "abstract": "Nature Neuroscience, Published online: 22 July 2026; doi:10.1038/s41593-026-02358-1 The authors show that cerebral venous blood flow and meningeal lymphatics co-regulate intracranial pressure and brain clearance in mice and humans. This finding supports idiopathic intracranial hypertension as a cerebral venous disorder.",
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41593-026-02358-1/MediaObjects/41593_2026_2358_Fig1_HTML.png",
-    "topic": "neuroscience",
     "topic_color": "#60a5fa",
     "priority_score": 0
   },
@@ -702,19 +728,6 @@
     "priority_score": 0
   },
   {
-    "title": "Adolescent exposure to the psychedelic 25C-NBOMe in rats induces lasting competitive avoidance through disrupted hippocampal–prefrontal synchrony",
-    "link": "https://www.nature.com/articles/s41593-026-02369-y",
-    "journal": "Nature Neuroscience",
-    "source_type": "journal",
-    "date": "2026-07-20",
-    "summary": "Nature Neuroscience, Published online: 20 July 2026; doi:10.1038/s41593-026-02369-y Yu, Zhang et al. show that repeated exposure to the psychedelic drug 25C-NBOMe in adolescent rats, but not in adult rats, reduces willingness to engaged in food resource competition in adulthood, due to reduced theta synchrony between ventral hippocampus and orbitofrontal cortex.",
-    "abstract": "Nature Neuroscience, Published online: 20 July 2026; doi:10.1038/s41593-026-02369-y Yu, Zhang et al. show that repeated exposure to the psychedelic drug 25C-NBOMe in adolescent rats, but not in adult rats, reduces willingness to engaged in food resource competition in adulthood, due to reduced theta synchrony between ventral hippocampus and orbitofrontal cortex.",
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41593-026-02369-y/MediaObjects/41593_2026_2369_Fig1_HTML.png",
-    "topic": "neuroscience",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
     "title": "A second wind for leukemic lungs",
     "link": "https://www.nature.com/articles/s41590-026-02598-0",
     "journal": "Nature Immunology",
@@ -724,19 +737,6 @@
     "abstract": "Nature Immunology, Published online: 20 July 2026; doi:10.1038/s41590-026-02598-0 Single-cell and spatial analyses of acute myeloid leukemia (AML) in the lung reveal an inflamed and remodeled microenvironment. These findings demonstrate that corticosteroids or antibodies that target galectin-9 or IL-33 reduce leukemic infiltration and restore respiratory function.",
     "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41590-026-02598-0/MediaObjects/41590_2026_2598_Fig1_HTML.png",
     "topic": "immunology",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
-    "title": "Author Correction: FUS-mediated regulation of acetylcholine receptor transcription at neuromuscular junctions is compromised in amyotrophic lateral sclerosis",
-    "link": "https://www.nature.com/articles/s41593-026-02396-9",
-    "journal": "Nature Neuroscience",
-    "source_type": "journal",
-    "date": "2026-07-16",
-    "summary": "Nature Neuroscience, Published online: 16 July 2026; doi:10.1038/s41593-026-02396-9 Author Correction: FUS-mediated regulation of acetylcholine receptor transcription at neuromuscular junctions is compromised in amyotrophic lateral sclerosis",
-    "abstract": "Nature Neuroscience, Published online: 16 July 2026; doi:10.1038/s41593-026-02396-9 Author Correction: FUS-mediated regulation of acetylcholine receptor transcription at neuromuscular junctions is compromised in amyotrophic lateral sclerosis",
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41593-026-02396-9/MediaObjects/41593_2026_2396_Fig1_HTML.png",
-    "topic": "neuroscience",
     "topic_color": "#60a5fa",
     "priority_score": 0
   },
