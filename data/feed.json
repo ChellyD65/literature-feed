@@ -130,6 +130,19 @@
     "priority_score": 0
   },
   {
+    "title": "Publisher Correction: Duration between rewards controls the rate of behavioral and dopaminergic learning",
+    "link": "https://www.nature.com/articles/s41593-026-02425-7",
+    "journal": "Nature Neuroscience",
+    "source_type": "journal",
+    "date": "2026-08-03",
+    "summary": "Nature Neuroscience, Published online: 03 August 2026; doi:10.1038/s41593-026-02425-7 Publisher Correction: Duration between rewards controls the rate of behavioral and dopaminergic learning",
+    "abstract": "Nature Neuroscience, Published online: 03 August 2026; doi:10.1038/s41593-026-02425-7 Publisher Correction: Duration between rewards controls the rate of behavioral and dopaminergic learning",
+    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41593-026-02425-7/MediaObjects/41593_2026_2425_Fig1_HTML.png",
+    "topic": "neuroscience",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
     "title": "Developing mouse inhibitory neuron single-cell transcriptomes reveal distinct modes of cell-type diversification",
     "link": "https://www.nature.com/articles/s41593-026-02387-w",
     "journal": "Nature Neuroscience",
@@ -424,19 +437,6 @@
     "summary": "Nature Neuroscience, Published online: 30 July 2026; doi:10.1038/s41593-026-02381-2 Forgotten memories in Drosophila persist as silent memory traces and can be recovered by reminder cues. Manipulating reminders can create false memories, showing that memory reconstruction flexibly integrates stored information with recent experiences.",
     "abstract": "Nature Neuroscience, Published online: 30 July 2026; doi:10.1038/s41593-026-02381-2 Forgotten memories in Drosophila persist as silent memory traces and can be recovered by reminder cues. Manipulating reminders can create false memories, showing that memory reconstruction flexibly integrates stored information with recent experiences.",
     "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41593-026-02381-2/MediaObjects/41593_2026_2381_Fig1_HTML.png",
-    "topic": "neuroscience",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
-    "title": "Representations of the intrinsic value of information in mouse orbitofrontal cortex",
-    "link": "https://www.nature.com/articles/s41593-026-02377-y",
-    "journal": "Nature Neuroscience",
-    "source_type": "journal",
-    "date": "2026-07-30",
-    "summary": "Nature Neuroscience, Published online: 30 July 2026; doi:10.1038/s41593-026-02377-y Mice are motivated to seek information of no extrinsic value. Recording neural activity in orbitofrontal cortex reveals a representation of the value of information that is distinct from the value of physiological reward.",
-    "abstract": "Nature Neuroscience, Published online: 30 July 2026; doi:10.1038/s41593-026-02377-y Mice are motivated to seek information of no extrinsic value. Recording neural activity in orbitofrontal cortex reveals a representation of the value of information that is distinct from the value of physiological reward.",
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41593-026-02377-y/MediaObjects/41593_2026_2377_Fig1_HTML.png",
     "topic": "neuroscience",
     "topic_color": "#60a5fa",
     "priority_score": 0
