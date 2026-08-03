@@ -1,18 +1,5 @@
 [
   {
-    "title": "Somatic mutations reveal the ontogeny of microglia in human aging",
-    "link": "https://www.nature.com/articles/s41586-026-10939-0",
-    "journal": "Nature",
-    "source_type": "journal",
-    "date": "2026-07-30",
-    "summary": "Nature, Published online: 30 July 2026; doi:10.1038/s41586-026-10939-0 Somatic mutations reveal the ontogeny of microglia in human aging",
-    "abstract": "Microglia are the resident macrophages of the central nervous system1. In mice, microglia seed the brain during embryogenesis and can be maintained throughout life with minimal input from adult hematopoiesis2-4. The origins of human microglia are less clear, but recent evidence suggests that marrow-derived cells contribute to the human microglial pool in certain individuals5-9. Here, to investigate the ontogeny of human microglia, we develop an approach that uses the collection of accumulated somatic mutations which uniquely labels each clone of cells to track the infiltration of marrow-derived cells into the human brain. Applying this approach to 20 aged individuals, we find evidence of an influx of marrow-derived cells into the brain in all examined individuals. Single cell analysis, including single cell lineage tracing using mitochondrial DNA variants, demonstrates that these infiltrating cells are similar to microglia and can comprise a large fraction of the microglial pool. Analysis of human cohort data demonstrates a protective association between most types of clonal hematopoiesis and Alzheimer’s disease. In sum, this work uncovers a widespread influx of myeloid cells into the healthy human brain which contributes to the pool of human microglia and becomes common with aging.",
-    "image": "data:image/svg+xml;charset=utf-8,%0A%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%230f172a%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%230b3b5a%22/%3E%0A%20%20%20%20%3C/linearGradient%3E%0A%20%20%20%20%3Cfilter%20id%3D%22blur%22%3E%0A%20%20%20%20%20%20%3CfeGaussianBlur%20stdDeviation%3D%2230%22/%3E%0A%20%20%20%20%3C/filter%3E%0A%20%20%3C/defs%3E%0A%0A%20%20%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22url%28%23bg%29%22/%3E%0A%0A%20%20%3Ccircle%20cx%3D%221030%22%20cy%3D%22110%22%20r%3D%22170%22%20fill%3D%22%2338bdf8%22%20opacity%3D%220.18%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%20%20%3Ccircle%20cx%3D%22180%22%20cy%3D%22560%22%20r%3D%22150%22%20fill%3D%22%2338bdf8%22%20opacity%3D%220.16%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%0A%20%20%3Crect%20x%3D%2256%22%20y%3D%2252%22%20rx%3D%2218%22%20ry%3D%2218%22%20width%3D%22260%22%20height%3D%2254%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.08%29%22/%3E%0A%20%20%3Ctext%20x%3D%2284%22%20y%3D%2287%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2228%22%20fill%3D%22%23e5e7eb%22%3ENature%3C/text%3E%0A%0A%20%20%3Ctext%20x%3D%221010%22%20y%3D%22560%22%0A%20%20%20%20%20%20%20%20text-anchor%3D%22middle%22%0A%20%20%20%20%20%20%20%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%0A%20%20%20%20%20%20%20%20font-size%3D%22160%22%0A%20%20%20%20%20%20%20%20fill%3D%22%2338bdf8%22%0A%20%20%20%20%20%20%20%20opacity%3D%220.85%22%3E%0A%20%20%20%20%E2%9C%B6%0A%20%20%3C/text%3E%0A%3C/svg%3E%0A",
-    "topic": "microglia",
-    "topic_color": "#38bdf8",
-    "priority_score": 177
-  },
-  {
     "title": "BCAT2 links branched-chain amino acids metabolism to interferon signaling to sustain macrophage inflammation",
     "link": "https://www.nature.com/articles/s41590-026-02604-5",
     "journal": "Nature Immunology",
@@ -39,6 +26,19 @@
     "priority_score": 133
   },
   {
+    "title": "Tissue-resident immune cells drive genetic risk in autoimmune and lung diseases",
+    "link": "https://www.nature.com/articles/s41590-026-02596-2",
+    "journal": "Nature Immunology",
+    "source_type": "journal",
+    "date": "2026-08-03",
+    "summary": "Nature Immunology, Published online: 03 August 2026; doi:10.1038/s41590-026-02596-2 Schmiedel et al. present a human lung immune cell atlas linking disease-associated genetic variants to gene expression in tissue-resident immune cells.",
+    "abstract": "Common genetic variants are associated with risk of lung and autoimmune diseases. However, we have a limited understanding of the pathological effects of these disease variants, specifically in tissue-resident immune cells at the frontier of infection and disease in the lung. To address this, we performed single-cell expression quantitative trait locus (eQTL) analysis across 29 distinct immune cell subsets isolated from lung tissue. Colocalization analysis of lung immune cell eQTLs with genome-wide association study (GWAS) signals from lung diseases, and infectious and autoimmune diseases, implicate disease-associated variants and their target genes functioning in a single or restricted group of cell types. Several genes, including ZFP57, showed significant colocalization between lung immune cell eQTLs and GWAS signals from multiple systemic and organ-restricted autoimmune diseases, highlighting shared genetic mechanisms underlying the risk of disease. Overall, our study shows that disease-associated variants from a wide range of autoimmune diseases impact gene expression in tissue-resident immune cell types ( https://lung.dice-database.org ). Schmiedel et al. present a human lung immune cell atlas linking disease-associated genetic variants to gene expression in tissue-resident immune cells.",
+    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41590-026-02596-2/MediaObjects/41590_2026_2596_Fig1_HTML.png",
+    "topic": "Spatial & Single Cell",
+    "topic_color": "#60a5fa",
+    "priority_score": 93
+  },
+  {
     "title": "<b>The forensic traces that can help catch poachers — </b> July’s best science images",
     "link": "https://www.nature.com/articles/d41586-026-02274-1",
     "journal": "Nature",
@@ -52,17 +52,17 @@
     "priority_score": 52
   },
   {
-    "title": "Mitochondrial accumulation and lysosomal dysfunction result in mitochondrial plaques in Alzheimer’s disease",
-    "link": "https://www.nature.com/articles/s41593-026-02390-1",
-    "journal": "Nature Neuroscience",
+    "title": "Author Correction: Maturation and circuit integration of transplanted human cortical organoids",
+    "link": "https://www.nature.com/articles/s41586-026-10943-4",
+    "journal": "Nature",
     "source_type": "journal",
-    "date": "2026-07-29",
-    "summary": "Nature Neuroscience, Published online: 29 July 2026; doi:10.1038/s41593-026-02390-1 Researchers identify mitochondrial plaques, a previously unrecognized and highly acidic mitochondria-based pathological structure in Alzheimer’s disease, and demonstrate that they result from the dual pathological processes of mitochondrial accumulation and impaired clearance.",
-    "abstract": "Nature Neuroscience, Published online: 29 July 2026; doi:10.1038/s41593-026-02390-1 Researchers identify mitochondrial plaques, a previously unrecognized and highly acidic mitochondria-based pathological structure in Alzheimer’s disease, and demonstrate that they result from the dual pathological processes of mitochondrial accumulation and impaired clearance.",
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41593-026-02390-1/MediaObjects/41593_2026_2390_Fig1_HTML.png",
-    "topic": "neurodegeneration",
-    "topic_color": "#fda4af",
-    "priority_score": 50
+    "date": "2026-08-03",
+    "summary": "Nature, Published online: 03 August 2026; doi:10.1038/s41586-026-10943-4 Author Correction: Maturation and circuit integration of transplanted human cortical organoids",
+    "abstract": "Nature, Published online: 03 August 2026; doi:10.1038/s41586-026-10943-4 Author Correction: Maturation and circuit integration of transplanted human cortical organoids",
+    "image": "data:image/svg+xml;charset=utf-8,%0A%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23111827%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23374151%22/%3E%0A%20%20%20%20%3C/linearGradient%3E%0A%20%20%20%20%3Cfilter%20id%3D%22blur%22%3E%0A%20%20%20%20%20%20%3CfeGaussianBlur%20stdDeviation%3D%2230%22/%3E%0A%20%20%20%20%3C/filter%3E%0A%20%20%3C/defs%3E%0A%0A%20%20%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22url%28%23bg%29%22/%3E%0A%0A%20%20%3Ccircle%20cx%3D%221030%22%20cy%3D%22110%22%20r%3D%22170%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.18%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%20%20%3Ccircle%20cx%3D%22180%22%20cy%3D%22560%22%20r%3D%22150%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.16%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%0A%20%20%3Crect%20x%3D%2256%22%20y%3D%2252%22%20rx%3D%2218%22%20ry%3D%2218%22%20width%3D%22260%22%20height%3D%2254%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.08%29%22/%3E%0A%20%20%3Ctext%20x%3D%2284%22%20y%3D%2287%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2228%22%20fill%3D%22%23e5e7eb%22%3ENature%3C/text%3E%0A%0A%20%20%3Ctext%20x%3D%221010%22%20y%3D%22560%22%0A%20%20%20%20%20%20%20%20text-anchor%3D%22middle%22%0A%20%20%20%20%20%20%20%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%0A%20%20%20%20%20%20%20%20font-size%3D%22160%22%0A%20%20%20%20%20%20%20%20fill%3D%22%2360a5fa%22%0A%20%20%20%20%20%20%20%20opacity%3D%220.85%22%3E%0A%20%20%20%20%E2%80%A2%0A%20%20%3C/text%3E%0A%3C/svg%3E%0A",
+    "topic": "default",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
   },
   {
     "title": "Sickle-cell disease linked to prematurely aged stem cells in mice",
@@ -73,6 +73,97 @@
     "summary": "Nature, Published online: 03 August 2026; doi:10.1038/d41586-026-02339-1 A combination of drugs restores stem-cell function in mouse models of the blood disorder.",
     "abstract": "Nature, Published online: 03 August 2026; doi:10.1038/d41586-026-02339-1 A combination of drugs restores stem-cell function in mouse models of the blood disorder.",
     "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-02339-1/d41586-026-02339-1_53029902.jpg",
+    "topic": "default",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
+    "title": "Plans for nuclear-powered merchant ships must confront risks",
+    "link": "https://www.nature.com/articles/d41586-026-02388-6",
+    "journal": "Nature",
+    "source_type": "journal",
+    "date": "2026-08-03",
+    "summary": "Nature, Published online: 03 August 2026; doi:10.1038/d41586-026-02388-6 Vessels propelled by atomic reactors have low emissions but create other hazards that need clear regulations.",
+    "abstract": "Nature, Published online: 03 August 2026; doi:10.1038/d41586-026-02388-6 Vessels propelled by atomic reactors have low emissions but create other hazards that need clear regulations.",
+    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-02388-6/d41586-026-02388-6_53039288.jpg",
+    "topic": "default",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
+    "title": "Science-backed tips on how to avoid distractions",
+    "link": "https://www.nature.com/articles/d41586-026-01850-9",
+    "journal": "Nature",
+    "source_type": "journal",
+    "date": "2026-08-03",
+    "summary": "Nature, Published online: 03 August 2026; doi:10.1038/d41586-026-01850-9 Struggling to stay focused in the lab? Attention researchers offer some advice.",
+    "abstract": "Nature, Published online: 03 August 2026; doi:10.1038/d41586-026-01850-9 Struggling to stay focused in the lab? Attention researchers offer some advice.",
+    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-01850-9/d41586-026-01850-9_53012618.jpg",
+    "topic": "default",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
+    "title": "‘A waste of time for all of us’: caught in the crossfire of the peer-review wars",
+    "link": "https://www.nature.com/articles/d41586-026-01360-8",
+    "journal": "Nature",
+    "source_type": "journal",
+    "date": "2026-08-03",
+    "summary": "Nature, Published online: 03 August 2026; doi:10.1038/d41586-026-01360-8 Review mills — researchers who write fake referee reports with coercive citation requests — are setting off a war in academic publishing. What happens to those caught in the middle?",
+    "abstract": "Nature, Published online: 03 August 2026; doi:10.1038/d41586-026-01360-8 Review mills — researchers who write fake referee reports with coercive citation requests — are setting off a war in academic publishing. What happens to those caught in the middle?",
+    "image": "https://www.nature.com/immersive/d41586-026-01360-8/assets/rtB8ZnvDVq/2026-07-03-careers-citation-cartels-sm-1066x600.jpg",
+    "topic": "default",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
+    "title": "The secret relationships that govern life on Earth",
+    "link": "https://www.nature.com/articles/d41586-026-02387-7",
+    "journal": "Nature",
+    "source_type": "journal",
+    "date": "2026-08-03",
+    "summary": "Nature, Published online: 03 August 2026; doi:10.1038/d41586-026-02387-7 Books on parasitism and symbiosis inspire wonder at the strange ways in which species’ lives intertwine.",
+    "abstract": "Nature, Published online: 03 August 2026; doi:10.1038/d41586-026-02387-7 Books on parasitism and symbiosis inspire wonder at the strange ways in which species’ lives intertwine.",
+    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-02387-7/d41586-026-02387-7_53030402.jpg",
+    "topic": "default",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
+    "title": "Developing mouse inhibitory neuron single-cell transcriptomes reveal distinct modes of cell-type diversification",
+    "link": "https://www.nature.com/articles/s41593-026-02387-w",
+    "journal": "Nature Neuroscience",
+    "source_type": "journal",
+    "date": "2026-08-03",
+    "summary": "Nature Neuroscience, Published online: 03 August 2026; doi:10.1038/s41593-026-02387-w Researchers discover a transient inhibitory cell type, and reveal that the developing cortex builds inhibitory diversity through three routes—early commitment, gradual diversification and selective elimination.",
+    "abstract": "Nature Neuroscience, Published online: 03 August 2026; doi:10.1038/s41593-026-02387-w Researchers discover a transient inhibitory cell type, and reveal that the developing cortex builds inhibitory diversity through three routes—early commitment, gradual diversification and selective elimination.",
+    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41593-026-02387-w/MediaObjects/41593_2026_2387_Fig1_HTML.png",
+    "topic": "neuroscience",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
+    "title": "Probing inter-areal computations with a two-photon holographic mesoscope",
+    "link": "https://www.nature.com/articles/s41593-026-02350-9",
+    "journal": "Nature Neuroscience",
+    "source_type": "journal",
+    "date": "2026-08-03",
+    "summary": "Nature Neuroscience, Published online: 03 August 2026; doi:10.1038/s41593-026-02350-9 The authors developed a new microscope that can measure and manipulate brain activity across multiple brain regions simultaneously with high precision, enabling scientists to study how spatially distributed brain circuits communicate and process information.",
+    "abstract": "Nature Neuroscience, Published online: 03 August 2026; doi:10.1038/s41593-026-02350-9 The authors developed a new microscope that can measure and manipulate brain activity across multiple brain regions simultaneously with high precision, enabling scientists to study how spatially distributed brain circuits communicate and process information.",
+    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41593-026-02350-9/MediaObjects/41593_2026_2350_Fig1_HTML.png",
+    "topic": "neuroscience",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
+    "title": "The next generation of antibody–drug conjugates",
+    "link": "https://www.nature.com/articles/s41591-026-04543-y",
+    "journal": "Nature Medicine",
+    "source_type": "journal",
+    "date": "2026-08-03",
+    "summary": "Nature Medicine, Published online: 03 August 2026; doi:10.1038/s41591-026-04543-y The authors outline strategies to maximize the impact of ADCs by integrating multiple chemistry advances into drug constructs, and developing infrastructures and tools to accelerate and de-risk the preclinical and early clinical development of these agents.",
+    "abstract": "Nature Medicine, Published online: 03 August 2026; doi:10.1038/s41591-026-04543-y The authors outline strategies to maximize the impact of ADCs by integrating multiple chemistry advances into drug constructs, and developing infrastructures and tools to accelerate and de-risk the preclinical and early clinical development of these agents.",
+    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41591-026-04543-y/MediaObjects/41591_2026_4543_Fig1_HTML.png",
     "topic": "default",
     "topic_color": "#60a5fa",
     "priority_score": 0
@@ -164,32 +255,6 @@
     "summary": "Nature, Published online: 31 July 2026; doi:10.1038/d41586-026-02362-2 The allergy is caused by ticks, but researchers have much to learn about it.",
     "abstract": "Nature, Published online: 31 July 2026; doi:10.1038/d41586-026-02362-2 The allergy is caused by ticks, but researchers have much to learn about it.",
     "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-02362-2/d41586-026-02362-2_53043346.jpg",
-    "topic": "default",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
-    "title": "How smallpox reached the Americas: first genomic evidence points to Europeans",
-    "link": "https://www.nature.com/articles/d41586-026-02366-y",
-    "journal": "Nature",
-    "source_type": "journal",
-    "date": "2026-07-31",
-    "summary": "Nature, Published online: 31 July 2026; doi:10.1038/d41586-026-02366-y Viral sequences from Chilean mummies confirm the disease was introduced from Europe.",
-    "abstract": "Nature, Published online: 31 July 2026; doi:10.1038/d41586-026-02366-y Viral sequences from Chilean mummies confirm the disease was introduced from Europe.",
-    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-02366-y/d41586-026-02366-y_53043414.jpg",
-    "topic": "default",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
-    "title": "Scientists using LLMs will ‘do more, less well’, modelling study predicts",
-    "link": "https://www.nature.com/articles/d41586-026-02397-5",
-    "journal": "Nature",
-    "source_type": "journal",
-    "date": "2026-07-31",
-    "summary": "Nature, Published online: 31 July 2026; doi:10.1038/d41586-026-02397-5 Research suggests that the combination of incentives to publish and the use of large language models will lead to more papers, but they will be less refined.",
-    "abstract": "Nature, Published online: 31 July 2026; doi:10.1038/d41586-026-02397-5 Research suggests that the combination of incentives to publish and the use of large language models will lead to more papers, but they will be less refined.",
-    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-02397-5/d41586-026-02397-5_53047094.jpg",
     "topic": "default",
     "topic_color": "#60a5fa",
     "priority_score": 0
@@ -312,32 +377,6 @@
     "priority_score": 0
   },
   {
-    "title": "Author Correction: Sleep chart of biological ageing clocks in middle and late life",
-    "link": "https://www.nature.com/articles/s41586-026-10920-x",
-    "journal": "Nature",
-    "source_type": "journal",
-    "date": "2026-07-30",
-    "summary": "Nature, Published online: 30 July 2026; doi:10.1038/s41586-026-10920-x Author Correction: Sleep chart of biological ageing clocks in middle and late life",
-    "abstract": "Nature, Published online: 30 July 2026; doi:10.1038/s41586-026-10920-x Author Correction: Sleep chart of biological ageing clocks in middle and late life",
-    "image": "data:image/svg+xml;charset=utf-8,%0A%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23111827%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23374151%22/%3E%0A%20%20%20%20%3C/linearGradient%3E%0A%20%20%20%20%3Cfilter%20id%3D%22blur%22%3E%0A%20%20%20%20%20%20%3CfeGaussianBlur%20stdDeviation%3D%2230%22/%3E%0A%20%20%20%20%3C/filter%3E%0A%20%20%3C/defs%3E%0A%0A%20%20%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22url%28%23bg%29%22/%3E%0A%0A%20%20%3Ccircle%20cx%3D%221030%22%20cy%3D%22110%22%20r%3D%22170%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.18%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%20%20%3Ccircle%20cx%3D%22180%22%20cy%3D%22560%22%20r%3D%22150%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.16%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%0A%20%20%3Crect%20x%3D%2256%22%20y%3D%2252%22%20rx%3D%2218%22%20ry%3D%2218%22%20width%3D%22260%22%20height%3D%2254%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.08%29%22/%3E%0A%20%20%3Ctext%20x%3D%2284%22%20y%3D%2287%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2228%22%20fill%3D%22%23e5e7eb%22%3ENature%3C/text%3E%0A%0A%20%20%3Ctext%20x%3D%221010%22%20y%3D%22560%22%0A%20%20%20%20%20%20%20%20text-anchor%3D%22middle%22%0A%20%20%20%20%20%20%20%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%0A%20%20%20%20%20%20%20%20font-size%3D%22160%22%0A%20%20%20%20%20%20%20%20fill%3D%22%2360a5fa%22%0A%20%20%20%20%20%20%20%20opacity%3D%220.85%22%3E%0A%20%20%20%20%E2%80%A2%0A%20%20%3C/text%3E%0A%3C/svg%3E%0A",
-    "topic": "default",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
-    "title": "Job insecurity is chipping away at me and my cohort. Is it us, or the state of the economy?",
-    "link": "https://www.nature.com/articles/d41586-026-01843-8",
-    "journal": "Nature",
-    "source_type": "journal",
-    "date": "2026-07-30",
-    "summary": "Nature, Published online: 30 July 2026; doi:10.1038/d41586-026-01843-8 The career market is difficult to navigate — and academic achievements feel like they’re no longer enough, says Daniella Watson.",
-    "abstract": "Nature, Published online: 30 July 2026; doi:10.1038/d41586-026-01843-8 The career market is difficult to navigate — and academic achievements feel like they’re no longer enough, says Daniella Watson.",
-    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-01843-8/d41586-026-01843-8_52941268.jpg",
-    "topic": "default",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
     "title": "Unforgettable forgotten memories",
     "link": "https://www.nature.com/articles/s41593-026-02340-x",
     "journal": "Nature Neuroscience",
@@ -455,19 +494,6 @@
     "priority_score": 0
   },
   {
-    "title": "Experience reorganizes content-specific memory traces in macaques",
-    "link": "https://www.nature.com/articles/s41593-026-02357-2",
-    "journal": "Nature Neuroscience",
-    "source_type": "journal",
-    "date": "2026-07-29",
-    "summary": "Nature Neuroscience, Published online: 29 July 2026; doi:10.1038/s41593-026-02357-2 In macaques, old memories, relative to new ones, are supported by more stable and interconnected cell assemblies. New-biased and old-biased assemblies reactivate during overnight sleep and can sometimes reactivate together, suggesting a mechanism for balancing new learning with memory linking and durability.",
-    "abstract": "Nature Neuroscience, Published online: 29 July 2026; doi:10.1038/s41593-026-02357-2 In macaques, old memories, relative to new ones, are supported by more stable and interconnected cell assemblies. New-biased and old-biased assemblies reactivate during overnight sleep and can sometimes reactivate together, suggesting a mechanism for balancing new learning with memory linking and durability.",
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41593-026-02357-2/MediaObjects/41593_2026_2357_Fig1_HTML.png",
-    "topic": "neuroscience",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
     "title": "Deciphering the role of histidine in cancer",
     "link": "https://www.nature.com/articles/s41591-026-04555-8",
     "journal": "Nature Medicine",
@@ -581,32 +607,6 @@
     "abstract": "Nature Medicine, Published online: 28 July 2026; doi:10.1038/s41591-026-04552-x This cluster-randomized phase 3 trial examining the effectiveness of integrated care pathways comparing usual care with the addition of MRI imaging (Coverscan), or a digitally enabled rehabilitation platform app, or both (Coverscan + app), or neither, found specialist Long COVID care improved fatigue response in all arms.",
     "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41591-026-04552-x/MediaObjects/41591_2026_4552_Fig1_HTML.png",
     "topic": "default",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
-    "title": "Global economic burden of depression in 154 countries from 2025 to 2050",
-    "link": "https://www.nature.com/articles/s41591-026-04548-7",
-    "journal": "Nature Medicine",
-    "source_type": "journal",
-    "date": "2026-07-28",
-    "summary": "Nature Medicine, Published online: 28 July 2026; doi:10.1038/s41591-026-04548-7 A macroeconomic modeling analysis across 154 countries estimates that depression will impose a US$12 trillion global economic burden between 2025 and 2050, equivalent to around 0.5% of the annual global GDP.",
-    "abstract": "Nature Medicine, Published online: 28 July 2026; doi:10.1038/s41591-026-04548-7 A macroeconomic modeling analysis across 154 countries estimates that depression will impose a US$12 trillion global economic burden between 2025 and 2050, equivalent to around 0.5% of the annual global GDP.",
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41591-026-04548-7/MediaObjects/41591_2026_4548_Fig1_HTML.png",
-    "topic": "default",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
-    "title": "Industrial-scale mRNA expertise meets a century of tuberculosis immunology",
-    "link": "https://www.nature.com/articles/s41590-026-02600-9",
-    "journal": "Nature Immunology",
-    "source_type": "journal",
-    "date": "2026-07-23",
-    "summary": "Nature Immunology, Published online: 23 July 2026; doi:10.1038/s41590-026-02600-9 A protective tuberculosis vaccine is needed. Two mRNA vaccines against Mycobacterium tuberculosis infection exhibit robust immunogenicity and efficacy in rodents. Those same vaccines are currently in clinical trials.",
-    "abstract": "Nature Immunology, Published online: 23 July 2026; doi:10.1038/s41590-026-02600-9 A protective tuberculosis vaccine is needed. Two mRNA vaccines against Mycobacterium tuberculosis infection exhibit robust immunogenicity and efficacy in rodents. Those same vaccines are currently in clinical trials.",
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41590-026-02600-9/MediaObjects/41590_2026_2600_Fig1_HTML.png",
-    "topic": "immunology",
     "topic_color": "#60a5fa",
     "priority_score": 0
   },
