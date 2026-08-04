@@ -39,19 +39,6 @@
     "priority_score": 93
   },
   {
-    "title": "Gasdermin D-mediated delivery of caspase inhibitors to suppress pyroptosis",
-    "link": "https://www.nature.com/articles/s41586-026-10957-y",
-    "journal": "Nature",
-    "source_type": "journal",
-    "date": "2026-08-03",
-    "summary": "Nature, Published online: 03 August 2026; doi:10.1038/s41586-026-10957-y Gasdermin D-mediated delivery of caspase inhibitors to suppress pyroptosis",
-    "abstract": "Caspase-1, -4, -5, and -11 activate Gasdermin D (GSDMD) pores, causing pyroptotic cell death and the release of interleukin (IL)-1β and IL-18 1. Blocking this pathway holds therapeutic promise for the treatment of inflammatory disorders, but cell permeable caspase inhibitors have not been successful in clinical trials 2. Here, we describe covalent caspase inhibitors that selectively block pyroptosis and IL-1β secretion despite being excluded from healthy cells. These inhibitors did not prevent caspase-driven apoptosis, implying that GSDMD pores facilitated their uptake. Membrane-impermeable dyes entered the cells rescued from pyroptosis, consistent with transient membrane permeabilization by GSDMD pores. Caspase inhibition prevented rather than delayed cell death, consistent with membrane repair mechanisms neutralizing the initial GSDMD pores. Inhibiting caspase-1 and -11 suppressed IL-1β and IL-18 production in a mouse model of endotoxic shock, underscoring the therapeutic potential of exploiting GSDMD pores for targeted caspase inhibition in inflammatory diseases.",
-    "image": "data:image/svg+xml;charset=utf-8,%0A%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23450a0a%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23991b1b%22/%3E%0A%20%20%20%20%3C/linearGradient%3E%0A%20%20%20%20%3Cfilter%20id%3D%22blur%22%3E%0A%20%20%20%20%20%20%3CfeGaussianBlur%20stdDeviation%3D%2230%22/%3E%0A%20%20%20%20%3C/filter%3E%0A%20%20%3C/defs%3E%0A%0A%20%20%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22url%28%23bg%29%22/%3E%0A%0A%20%20%3Ccircle%20cx%3D%221030%22%20cy%3D%22110%22%20r%3D%22170%22%20fill%3D%22%23fb7185%22%20opacity%3D%220.18%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%20%20%3Ccircle%20cx%3D%22180%22%20cy%3D%22560%22%20r%3D%22150%22%20fill%3D%22%23fb7185%22%20opacity%3D%220.16%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%0A%20%20%3Crect%20x%3D%2256%22%20y%3D%2252%22%20rx%3D%2218%22%20ry%3D%2218%22%20width%3D%22260%22%20height%3D%2254%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.08%29%22/%3E%0A%20%20%3Ctext%20x%3D%2284%22%20y%3D%2287%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2228%22%20fill%3D%22%23e5e7eb%22%3ENature%3C/text%3E%0A%0A%20%20%3Ctext%20x%3D%221010%22%20y%3D%22560%22%0A%20%20%20%20%20%20%20%20text-anchor%3D%22middle%22%0A%20%20%20%20%20%20%20%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%0A%20%20%20%20%20%20%20%20font-size%3D%22160%22%0A%20%20%20%20%20%20%20%20fill%3D%22%23fb7185%22%0A%20%20%20%20%20%20%20%20opacity%3D%220.85%22%3E%0A%20%20%20%20%E2%96%B2%0A%20%20%3C/text%3E%0A%3C/svg%3E%0A",
-    "topic": "inflammation",
-    "topic_color": "#fb7185",
-    "priority_score": 42
-  },
-  {
     "title": "Author Correction: Casdatifan shows durable response linked to HIF-2α biology in kidney cancer",
     "link": "https://www.nature.com/articles/s41586-026-10958-x",
     "journal": "Nature",
@@ -130,6 +117,32 @@
     "priority_score": 0
   },
   {
+    "title": "Engineered yeast that make cancer drugs could spare a rare flower",
+    "link": "https://www.nature.com/articles/d41586-026-02428-1",
+    "journal": "Nature",
+    "source_type": "journal",
+    "date": "2026-08-04",
+    "summary": "Nature, Published online: 04 August 2026; doi:10.1038/d41586-026-02428-1 Modified baker’s yeast can produce a precursor for a drug that is usually derived from an endangered plant and its relatives.",
+    "abstract": "Nature, Published online: 04 August 2026; doi:10.1038/d41586-026-02428-1 Modified baker’s yeast can produce a precursor for a drug that is usually derived from an endangered plant and its relatives.",
+    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-02428-1/d41586-026-02428-1_53047104.jpg",
+    "topic": "default",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
+    "title": "Tiny patch of Amazon likely holds 40,000 insect species — many new to science",
+    "link": "https://www.nature.com/articles/d41586-026-02350-6",
+    "journal": "Nature",
+    "source_type": "journal",
+    "date": "2026-08-04",
+    "summary": "Nature, Published online: 04 August 2026; doi:10.1038/d41586-026-02350-6 Megaproject involving hundreds of sites is cataloguing rainforest insects from the ground to the canopy.",
+    "abstract": "Nature, Published online: 04 August 2026; doi:10.1038/d41586-026-02350-6 Megaproject involving hundreds of sites is cataloguing rainforest insects from the ground to the canopy.",
+    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-02350-6/d41586-026-02350-6_53047070.jpg",
+    "topic": "default",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
     "title": "Why the need for the WHO has never been greater",
     "link": "https://www.nature.com/articles/d41586-026-02358-y",
     "journal": "Nature",
@@ -138,6 +151,19 @@
     "summary": "Nature, Published online: 04 August 2026; doi:10.1038/d41586-026-02358-y Diseases don’t stop at borders. Pandemics, climate change and conflicts demand a collective approach.",
     "abstract": "Nature, Published online: 04 August 2026; doi:10.1038/d41586-026-02358-y Diseases don’t stop at borders. Pandemics, climate change and conflicts demand a collective approach.",
     "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-02358-y/d41586-026-02358-y_53043500.jpg",
+    "topic": "default",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
+    "title": "What’s missing from the White House plan for the future of US science",
+    "link": "https://www.nature.com/articles/d41586-026-02384-w",
+    "journal": "Nature",
+    "source_type": "journal",
+    "date": "2026-08-04",
+    "summary": "Nature, Published online: 04 August 2026; doi:10.1038/d41586-026-02384-w To realize ‘a new golden age for science’, the United States needs open borders and must properly fund studies in the social sciences, public health and the humanities — not just research in technology and engineering.",
+    "abstract": "Nature, Published online: 04 August 2026; doi:10.1038/d41586-026-02384-w To realize ‘a new golden age for science’, the United States needs open borders and must properly fund studies in the social sciences, public health and the humanities — not just research in technology and engineering.",
+    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-02384-w/d41586-026-02384-w_53058756.jpg",
     "topic": "default",
     "topic_color": "#60a5fa",
     "priority_score": 0
@@ -164,19 +190,6 @@
     "summary": "Nature, Published online: 04 August 2026; doi:10.1038/d41586-026-02022-5 Combining scientific research and artistic expression helped neuroscientist Shaira Berg to find her niche.",
     "abstract": "Nature, Published online: 04 August 2026; doi:10.1038/d41586-026-02022-5 Combining scientific research and artistic expression helped neuroscientist Shaira Berg to find her niche.",
     "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-02022-5/d41586-026-02022-5_53039254.jpg",
-    "topic": "default",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
-    "title": "Could mending damaged DNA prolong life?",
-    "link": "https://www.nature.com/articles/d41586-026-02385-9",
-    "journal": "Nature",
-    "source_type": "journal",
-    "date": "2026-08-04",
-    "summary": "Nature, Published online: 04 August 2026; doi:10.1038/d41586-026-02385-9 Inspired by long-lived animals — and human centenarians — researchers are hunting for ways to enhance DNA repair and extend healthspan.",
-    "abstract": "Nature, Published online: 04 August 2026; doi:10.1038/d41586-026-02385-9 Inspired by long-lived animals — and human centenarians — researchers are hunting for ways to enhance DNA repair and extend healthspan.",
-    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-02385-9/d41586-026-02385-9_53038860.jpg",
     "topic": "default",
     "topic_color": "#60a5fa",
     "priority_score": 0
@@ -216,19 +229,6 @@
     "summary": "First comprehensive map of the vagus nerve may point to more precise stimulation therapies",
     "abstract": "First comprehensive map of the vagus nerve may point to more precise stimulation therapies",
     "image": "data:image/svg+xml;charset=utf-8,%0A%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23111827%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23374151%22/%3E%0A%20%20%20%20%3C/linearGradient%3E%0A%20%20%20%20%3Cfilter%20id%3D%22blur%22%3E%0A%20%20%20%20%20%20%3CfeGaussianBlur%20stdDeviation%3D%2230%22/%3E%0A%20%20%20%20%3C/filter%3E%0A%20%20%3C/defs%3E%0A%0A%20%20%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22url%28%23bg%29%22/%3E%0A%0A%20%20%3Ccircle%20cx%3D%221030%22%20cy%3D%22110%22%20r%3D%22170%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.18%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%20%20%3Ccircle%20cx%3D%22180%22%20cy%3D%22560%22%20r%3D%22150%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.16%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%0A%20%20%3Crect%20x%3D%2256%22%20y%3D%2252%22%20rx%3D%2218%22%20ry%3D%2218%22%20width%3D%22260%22%20height%3D%2254%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.08%29%22/%3E%0A%20%20%3Ctext%20x%3D%2284%22%20y%3D%2287%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2228%22%20fill%3D%22%23e5e7eb%22%3EScience%3C/text%3E%0A%0A%20%20%3Ctext%20x%3D%221010%22%20y%3D%22560%22%0A%20%20%20%20%20%20%20%20text-anchor%3D%22middle%22%0A%20%20%20%20%20%20%20%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%0A%20%20%20%20%20%20%20%20font-size%3D%22160%22%0A%20%20%20%20%20%20%20%20fill%3D%22%2360a5fa%22%0A%20%20%20%20%20%20%20%20opacity%3D%220.85%22%3E%0A%20%20%20%20%E2%80%A2%0A%20%20%3C/text%3E%0A%3C/svg%3E%0A",
-    "topic": "default",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
-    "title": "Author Correction: Maturation and circuit integration of transplanted human cortical organoids",
-    "link": "https://www.nature.com/articles/s41586-026-10943-4",
-    "journal": "Nature",
-    "source_type": "journal",
-    "date": "2026-08-03",
-    "summary": "Nature, Published online: 03 August 2026; doi:10.1038/s41586-026-10943-4 Author Correction: Maturation and circuit integration of transplanted human cortical organoids",
-    "abstract": "Nature, Published online: 03 August 2026; doi:10.1038/s41586-026-10943-4 Author Correction: Maturation and circuit integration of transplanted human cortical organoids",
-    "image": "data:image/svg+xml;charset=utf-8,%0A%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23111827%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23374151%22/%3E%0A%20%20%20%20%3C/linearGradient%3E%0A%20%20%20%20%3Cfilter%20id%3D%22blur%22%3E%0A%20%20%20%20%20%20%3CfeGaussianBlur%20stdDeviation%3D%2230%22/%3E%0A%20%20%20%20%3C/filter%3E%0A%20%20%3C/defs%3E%0A%0A%20%20%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22url%28%23bg%29%22/%3E%0A%0A%20%20%3Ccircle%20cx%3D%221030%22%20cy%3D%22110%22%20r%3D%22170%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.18%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%20%20%3Ccircle%20cx%3D%22180%22%20cy%3D%22560%22%20r%3D%22150%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.16%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%0A%20%20%3Crect%20x%3D%2256%22%20y%3D%2252%22%20rx%3D%2218%22%20ry%3D%2218%22%20width%3D%22260%22%20height%3D%2254%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.08%29%22/%3E%0A%20%20%3Ctext%20x%3D%2284%22%20y%3D%2287%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2228%22%20fill%3D%22%23e5e7eb%22%3ENature%3C/text%3E%0A%0A%20%20%3Ctext%20x%3D%221010%22%20y%3D%22560%22%0A%20%20%20%20%20%20%20%20text-anchor%3D%22middle%22%0A%20%20%20%20%20%20%20%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%0A%20%20%20%20%20%20%20%20font-size%3D%22160%22%0A%20%20%20%20%20%20%20%20fill%3D%22%2360a5fa%22%0A%20%20%20%20%20%20%20%20opacity%3D%220.85%22%3E%0A%20%20%20%20%E2%80%A2%0A%20%20%3C/text%3E%0A%3C/svg%3E%0A",
     "topic": "default",
     "topic_color": "#60a5fa",
     "priority_score": 0
