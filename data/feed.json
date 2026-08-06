@@ -78,6 +78,19 @@
     "priority_score": 0
   },
   {
+    "title": "AI agents are checking the scientific literature — and spotting decades-old errors",
+    "link": "https://www.nature.com/articles/d41586-026-02235-8",
+    "journal": "Nature",
+    "source_type": "journal",
+    "date": "2026-08-06",
+    "summary": "Nature, Published online: 06 August 2026; doi:10.1038/d41586-026-02235-8 The technology is proving adept at finding faults in decades-old papers and reference databases.",
+    "abstract": "Nature, Published online: 06 August 2026; doi:10.1038/d41586-026-02235-8 The technology is proving adept at finding faults in decades-old papers and reference databases.",
+    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-02235-8/d41586-026-02235-8_53042958.jpg",
+    "topic": "default",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
     "title": "Comparative insights into insula structure and function",
     "link": "https://www.nature.com/articles/s41593-026-02380-3",
     "journal": "Nature Neuroscience",
@@ -307,19 +320,6 @@
     "summary": "Nature, Published online: 05 August 2026; doi:10.1038/s41586-026-10874-0 Amygdala astrocyte primary cilia are disrupted during stress, and their restoration leads to improvements in stress-related behaviour in mice.",
     "abstract": "Understanding how adverse life events trigger stress-related behavioural changes remains an unresolved challenge. The amygdala is integral to emotion and stress responses1 and comprises astrocytes, neurons and other cells. Here we show that amygdala astrocytes contribute to stress-related behaviours through signalling mechanisms related to their primary cilia2. Amygdala astrocytes are altered during stress at the protein and gene expression level, display reduced expression of molecules related to primary cilia3,4 and have morphologically short primary cilia5,6. G protein-coupled receptors (GPCRs) are central to astrocyte7 and primary cilia2,8,9 function. Therefore, we speculated that GPCR signalling activation might be beneficial in stress-related behavioural disorders. We identified amygdala astrocyte GPCRs as regulators of responses following stress. Chemogenetics and targeting of native sphingosine-1-phosphate receptor 1 (S1PR1) GPCRs led to the restoration of astrocyte primary cilia length, corrected molecular alterations and improved stress-related behaviours. Cilium-related genes were abundantly expressed in human amygdala astrocytes, with many displaying disrupted expression in stress-related brain disorders. S1PR1 was also highly expressed in amygdala astrocytes from human tissue. Selective genetic disruption of amygdala astrocyte primary cilia in mice altered some stress-related behaviours and gene expression of astrocytes and parenchymal cells. These data confirm that astrocytic cilia have important roles in this brain nucleus. In summary, amygdala astrocytes and their primary cilia are disrupted during stress, and their restoration is accompanied by stress-related molecular and behavioural improvements. Astrocyte primary cilia-related mechanisms may therefore provide new treatment strategies for stress-related and other brain disorders. Amygdala astrocyte primary cilia are disrupted during stress, and their restoration leads to improvements in stress-related behaviour in mice.",
     "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-10874-0/MediaObjects/41586_2026_10874_Fig1_HTML.png",
-    "topic": "default",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
-    "title": "Upcycling of polyvinyl chloride into polyalphaolefin lubricants",
-    "link": "https://www.nature.com/articles/s41586-026-10867-z",
-    "journal": "Nature",
-    "source_type": "journal",
-    "date": "2026-08-05",
-    "summary": "Nature, Published online: 05 August 2026; doi:10.1038/s41586-026-10867-z A mild chemical process upcycles polyvinyl chloride waste into polyalphaolefin lubricants with tunable properties, offering an economical route to plastic recycling and improved carbon circularity.",
-    "abstract": "Nature, Published online: 05 August 2026; doi:10.1038/s41586-026-10867-z A mild chemical process upcycles polyvinyl chloride waste into polyalphaolefin lubricants with tunable properties, offering an economical route to plastic recycling and improved carbon circularity.",
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-10867-z/MediaObjects/41586_2026_10867_Fig1_HTML.png",
     "topic": "default",
     "topic_color": "#60a5fa",
     "priority_score": 0
