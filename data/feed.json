@@ -52,6 +52,19 @@
     "priority_score": 81
   },
   {
+    "title": "Pumas are drivers’ guardian angels",
+    "link": "https://www.nature.com/articles/d41586-026-02429-0",
+    "journal": "Nature",
+    "source_type": "journal",
+    "date": "2026-08-06",
+    "summary": "Nature, Published online: 06 August 2026; doi:10.1038/d41586-026-02429-0 Vehicles are less likely to smash into deer on the road where the big cats are on patrol.",
+    "abstract": "Nature, Published online: 06 August 2026; doi:10.1038/d41586-026-02429-0 Vehicles are less likely to smash into deer on the road where the big cats are on patrol.",
+    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-02429-0/d41586-026-02429-0_53058506.jpg",
+    "topic": "default",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
     "title": "Astrophysicists find best evidence yet that galaxies get some spin before birth",
     "link": "https://www.science.org/content/article/astrophysicists-find-best-evidence-yet-galaxies-get-some-spin-birth",
     "journal": "Science",
@@ -242,19 +255,6 @@
     "summary": "Nature, Published online: 05 August 2026; doi:10.1038/s41586-026-10867-z A mild chemical process upcycles polyvinyl chloride waste into polyalphaolefin lubricants with tunable properties, offering an economical route to plastic recycling and improved carbon circularity.",
     "abstract": "Nature, Published online: 05 August 2026; doi:10.1038/s41586-026-10867-z A mild chemical process upcycles polyvinyl chloride waste into polyalphaolefin lubricants with tunable properties, offering an economical route to plastic recycling and improved carbon circularity.",
     "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-10867-z/MediaObjects/41586_2026_10867_Fig1_HTML.png",
-    "topic": "default",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
-    "title": "An entangling gate for dual-rail erasure qubits",
-    "link": "https://www.nature.com/articles/s41586-026-10822-y",
-    "journal": "Nature",
-    "source_type": "journal",
-    "date": "2026-08-05",
-    "summary": "Nature, Published online: 05 August 2026; doi:10.1038/s41586-026-10822-y A fast, low-error entangling gate for dual-rail cavity erasure qubits preserves a strong error hierarchy, advancing scalable quantum error correction with substantially improved fault-tolerant performance.",
-    "abstract": "Nature, Published online: 05 August 2026; doi:10.1038/s41586-026-10822-y A fast, low-error entangling gate for dual-rail cavity erasure qubits preserves a strong error hierarchy, advancing scalable quantum error correction with substantially improved fault-tolerant performance.",
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-10822-y/MediaObjects/41586_2026_10822_Fig1_HTML.png",
     "topic": "default",
     "topic_color": "#60a5fa",
     "priority_score": 0
