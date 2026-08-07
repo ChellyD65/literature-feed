@@ -52,6 +52,19 @@
     "priority_score": 35
   },
   {
+    "title": "Briefing Chat: Is DNA repair the secret to a long life? Whales and mole rats offer tantalizing hints",
+    "link": "https://www.nature.com/articles/d41586-026-02488-3",
+    "journal": "Nature",
+    "source_type": "journal",
+    "date": "2026-08-07",
+    "summary": "Nature, Published online: 07 August 2026; doi:10.1038/d41586-026-02488-3 Nature staff discuss how animal studies are starting to uncover how DNA repair could prolong life, and how COVID-19 can reawaken dormant viruses.",
+    "abstract": "Nature, Published online: 07 August 2026; doi:10.1038/d41586-026-02488-3 Nature staff discuss how animal studies are starting to uncover how DNA repair could prolong life, and how COVID-19 can reawaken dormant viruses.",
+    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-02488-3/d41586-026-02488-3_53083258.jpg",
+    "topic": "default",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
     "title": "Striatal endocannabinoids drive one-shot learning",
     "link": "https://www.nature.com/articles/s41593-026-02392-z",
     "journal": "Nature Neuroscience",
@@ -385,19 +398,6 @@
     "summary": "Nature, Published online: 05 August 2026; doi:10.1038/d41586-026-02445-0 Researchers untangle the chemistry behind turning PVC into high-grade motor lubricant — plus, how engineered yeast can help make a cancer drug.",
     "abstract": "Nature, Published online: 05 August 2026; doi:10.1038/d41586-026-02445-0 Researchers untangle the chemistry behind turning PVC into high-grade motor lubricant — plus, how engineered yeast can help make a cancer drug.",
     "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-02445-0/d41586-026-02445-0_53058630.jpg",
-    "topic": "default",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
-    "title": "An expanded codebook of human transcription factor DNA-binding specificity",
-    "link": "https://www.nature.com/articles/s41586-026-10798-9",
-    "journal": "Nature",
-    "source_type": "journal",
-    "date": "2026-08-05",
-    "summary": "Nature, Published online: 05 August 2026; doi:10.1038/s41586-026-10798-9 Results from a panel of assays that analyse different aspects of DNA sequence specificity reveal more than 100 new motifs to aid the characterization of putative human transcription factors.",
-    "abstract": "Nature, Published online: 05 August 2026; doi:10.1038/s41586-026-10798-9 Results from a panel of assays that analyse different aspects of DNA sequence specificity reveal more than 100 new motifs to aid the characterization of putative human transcription factors.",
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-10798-9/MediaObjects/41586_2026_10798_Fig1_HTML.png",
     "topic": "default",
     "topic_color": "#60a5fa",
     "priority_score": 0
