@@ -169,19 +169,6 @@
     "priority_score": 0
   },
   {
-    "title": "Levitating sensor for magnetic fields could detect ultrafaint brain activity",
-    "link": "https://www.nature.com/articles/d41586-026-02458-9",
-    "journal": "Nature",
-    "source_type": "journal",
-    "date": "2026-08-06",
-    "summary": "Nature, Published online: 06 August 2026; doi:10.1038/d41586-026-02458-9 The device’s simple design could rival much more complex alternatives in biophysics research — and could even be used to search for dark matter.",
-    "abstract": "Nature, Published online: 06 August 2026; doi:10.1038/d41586-026-02458-9 The device’s simple design could rival much more complex alternatives in biophysics research — and could even be used to search for dark matter.",
-    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-02458-9/d41586-026-02458-9_53067948.jpg",
-    "topic": "default",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
     "title": "Heatwaves have killed millions. Here’s how scientists tally lives lost",
     "link": "https://www.nature.com/articles/d41586-026-02430-7",
     "journal": "Nature",
@@ -216,6 +203,19 @@
     "summary": "Nature, Published online: 06 August 2026; doi:10.1038/d41586-026-02460-1 Funding is being terminated for projects including a future CERN experiment and the iconic Lovell Telescope.",
     "abstract": "Nature, Published online: 06 August 2026; doi:10.1038/d41586-026-02460-1 Funding is being terminated for projects including a future CERN experiment and the iconic Lovell Telescope.",
     "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-02460-1/d41586-026-02460-1_53074776.jpg",
+    "topic": "default",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
+    "title": "Levitating sensor for magnetic fields could detect ultrafaint brain activity",
+    "link": "https://www.nature.com/articles/d41586-026-02458-9",
+    "journal": "Nature",
+    "source_type": "journal",
+    "date": "2026-08-06",
+    "summary": "Nature, Published online: 06 August 2026; doi:10.1038/d41586-026-02458-9 The device’s simple design could rival much more complex alternatives in biophysics research — and could even be used to search for dark matter.",
+    "abstract": "Nature, Published online: 06 August 2026; doi:10.1038/d41586-026-02458-9 The device’s simple design could rival much more complex alternatives in biophysics research — and could even be used to search for dark matter.",
+    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-02458-9/d41586-026-02458-9_53067948.jpg",
     "topic": "default",
     "topic_color": "#60a5fa",
     "priority_score": 0
