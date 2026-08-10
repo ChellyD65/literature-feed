@@ -13,6 +13,19 @@
     "priority_score": 175
   },
   {
+    "title": "Decade-long persistence of CD19 CAR T cells in B cell lymphomas",
+    "link": "https://www.nature.com/articles/s41591-026-04578-1",
+    "journal": "Nature Medicine",
+    "source_type": "journal",
+    "date": "2026-08-10",
+    "summary": "Nature Medicine, Published online: 10 August 2026; doi:10.1038/s41591-026-04578-1 Analysis of longitudinal blood samples shows that CD19 CAR T cells can be detected at least 10 years after treatment in patients with lymphoma, with deeper profiling from a single patient showing that these CAR T cells have a dominant double-negative activated effector-memory-like phenotype.",
+    "abstract": "Nature Medicine, Published online: 10 August 2026; doi:10.1038/s41591-026-04578-1 Analysis of longitudinal blood samples shows that CD19 CAR T cells can be detected at least 10 years after treatment in patients with lymphoma, with deeper profiling from a single patient showing that these CAR T cells have a dominant double-negative activated effector-memory-like phenotype.",
+    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41591-026-04578-1/MediaObjects/41591_2026_4578_Fig1_HTML.png",
+    "topic": "Immunology",
+    "topic_color": "#60a5fa",
+    "priority_score": 133
+  },
+  {
     "title": "Intracranial delivery of B7-H3-targeting CAR-T cells for recurrent glioblastoma: a phase 1 trial",
     "link": "https://www.nature.com/articles/s41591-026-04557-6",
     "journal": "Nature Medicine",
@@ -63,6 +76,58 @@
     "topic": "neurodegeneration",
     "topic_color": "#fda4af",
     "priority_score": 35
+  },
+  {
+    "title": "Global access to different classes of diabetes medicines: a framework for targeted policy actions",
+    "link": "https://www.nature.com/articles/s41591-026-04579-0",
+    "journal": "Nature Medicine",
+    "source_type": "journal",
+    "date": "2026-08-10",
+    "summary": "Nature Medicine, Published online: 10 August 2026; doi:10.1038/s41591-026-04579-0 Global access to different classes of diabetes medicines: a framework for targeted policy actions",
+    "abstract": "Nature Medicine, Published online: 10 August 2026; doi:10.1038/s41591-026-04579-0 Global access to different classes of diabetes medicines: a framework for targeted policy actions",
+    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41591-026-04579-0/MediaObjects/41591_2026_4579_Fig1_HTML.png",
+    "topic": "default",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
+    "title": "Lessons from deploying the ChatEHR system at Stanford Medicine",
+    "link": "https://www.nature.com/articles/s41591-026-04574-5",
+    "journal": "Nature Medicine",
+    "source_type": "journal",
+    "date": "2026-08-10",
+    "summary": "Nature Medicine, Published online: 10 August 2026; doi:10.1038/s41591-026-04574-5 In piloting and deploying a large language model within a large medical center, we learned that benchmark-based evaluations are insufficient for monitoring and evaluating interactions driven by clinicians, and that this requires new methods for monitoring performance.",
+    "abstract": "Nature Medicine, Published online: 10 August 2026; doi:10.1038/s41591-026-04574-5 In piloting and deploying a large language model within a large medical center, we learned that benchmark-based evaluations are insufficient for monitoring and evaluating interactions driven by clinicians, and that this requires new methods for monitoring performance.",
+    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41591-026-04574-5/MediaObjects/41591_2026_4574_Fig1_HTML.png",
+    "topic": "default",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
+    "title": "Obinutuzumab β for aquaporin-4-positive neuromyelitis optica spectrum disorder: a phase 3 randomized controlled trial",
+    "link": "https://www.nature.com/articles/s41591-026-04583-4",
+    "journal": "Nature Medicine",
+    "source_type": "journal",
+    "date": "2026-08-10",
+    "summary": "Nature Medicine, Published online: 10 August 2026; doi:10.1038/s41591-026-04583-4 In a phase 3 trial, obinutuzumab β significantly reduced relapse risk by 93.1% versus placebo in patients with AQP4-IgG+ NMOSD, improved clinical and MRI outcomes, showed manageable safety and demonstrated sustained efficacy with no relapses during extended follow-up.",
+    "abstract": "Nature Medicine, Published online: 10 August 2026; doi:10.1038/s41591-026-04583-4 In a phase 3 trial, obinutuzumab β significantly reduced relapse risk by 93.1% versus placebo in patients with AQP4-IgG+ NMOSD, improved clinical and MRI outcomes, showed manageable safety and demonstrated sustained efficacy with no relapses during extended follow-up.",
+    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41591-026-04583-4/MediaObjects/41591_2026_4583_Fig1_HTML.png",
+    "topic": "default",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
+    "title": "Type 2 diabetes prevention across the life course",
+    "link": "https://www.nature.com/articles/s41591-026-04550-z",
+    "journal": "Nature Medicine",
+    "source_type": "journal",
+    "date": "2026-08-10",
+    "summary": "Nature Medicine, Published online: 10 August 2026; doi:10.1038/s41591-026-04550-z Rather than intervening when dysglycemia is established, prevention efforts should focus on prediabetes remission and restoration of normoglycemia. Here the authors call for a new agenda informed by mechanistic heterogeneity, a life-course risk architecture and scalable precision tools.",
+    "abstract": "Nature Medicine, Published online: 10 August 2026; doi:10.1038/s41591-026-04550-z Rather than intervening when dysglycemia is established, prevention efforts should focus on prediabetes remission and restoration of normoglycemia. Here the authors call for a new agenda informed by mechanistic heterogeneity, a life-course risk architecture and scalable precision tools.",
+    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41591-026-04550-z/MediaObjects/41591_2026_4550_Fig1_HTML.png",
+    "topic": "default",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
   },
   {
     "title": "Senate votes to block rule giving White House more control over research",
@@ -325,19 +390,6 @@
     "priority_score": 0
   },
   {
-    "title": "Psilocybin-assisted therapy for treatment-resistant major depressive disorder in a public healthcare setting: a randomized controlled trial",
-    "link": "https://www.nature.com/articles/s41591-026-04541-0",
-    "journal": "Nature Medicine",
-    "source_type": "journal",
-    "date": "2026-08-06",
-    "summary": "Nature Medicine, Published online: 06 August 2026; doi:10.1038/s41591-026-04541-0 In a publicly funded trial undertaken in the NHS in England, 60 adults with treatment-resistant major depression received psilocybin or placebo alongside standardized psychological support, with psilocybin showing significant improvements in depression symptoms, good tolerability and support for further research in public healthcare settings.",
-    "abstract": "Nature Medicine, Published online: 06 August 2026; doi:10.1038/s41591-026-04541-0 In a publicly funded trial undertaken in the NHS in England, 60 adults with treatment-resistant major depression received psilocybin or placebo alongside standardized psychological support, with psilocybin showing significant improvements in depression symptoms, good tolerability and support for further research in public healthcare settings.",
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41591-026-04541-0/MediaObjects/41591_2026_4541_Fig1_HTML.png",
-    "topic": "default",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
     "title": "Astrophysicists find best evidence yet that galaxies get some spin before birth",
     "link": "https://www.science.org/content/article/astrophysicists-find-best-evidence-yet-galaxies-get-some-spin-birth",
     "journal": "Science",
@@ -468,19 +520,6 @@
     "priority_score": 0
   },
   {
-    "title": "Dronabinol for nightmares in post-traumatic stress disorder: a randomized controlled trial",
-    "link": "https://www.nature.com/articles/s41591-026-04546-9",
-    "journal": "Nature Medicine",
-    "source_type": "journal",
-    "date": "2026-08-05",
-    "summary": "Nature Medicine, Published online: 05 August 2026; doi:10.1038/s41591-026-04546-9 A randomized controlled trial found that dronabinol significantly reduced both the frequency and intensity of nightmares in patients with PTSD over 10 weeks, compared with placebo.",
-    "abstract": "Nature Medicine, Published online: 05 August 2026; doi:10.1038/s41591-026-04546-9 A randomized controlled trial found that dronabinol significantly reduced both the frequency and intensity of nightmares in patients with PTSD over 10 weeks, compared with placebo.",
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41591-026-04546-9/MediaObjects/41591_2026_4546_Fig1_HTML.png",
-    "topic": "default",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
     "title": "In This Issue",
     "link": "https://www.pnas.org/doi/abs/10.1073/iti3126123?af=R",
     "journal": "PNAS",
@@ -507,19 +546,6 @@
     "priority_score": 0
   },
   {
-    "title": "Divergent impacts of explainable AI for dermatological diagnosis on clinicians versus lay people",
-    "link": "https://www.nature.com/articles/s41591-026-04553-w",
-    "journal": "Nature Medicine",
-    "source_type": "journal",
-    "date": "2026-08-04",
-    "summary": "Nature Medicine, Published online: 04 August 2026; doi:10.1038/s41591-026-04553-w Explainable AI, implemented for large language models that assist with dermatological diagnoses, has differing effects depending on whether the assistance is provided to primary care physicians or to lay users.",
-    "abstract": "Nature Medicine, Published online: 04 August 2026; doi:10.1038/s41591-026-04553-w Explainable AI, implemented for large language models that assist with dermatological diagnoses, has differing effects depending on whether the assistance is provided to primary care physicians or to lay users.",
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41591-026-04553-w/MediaObjects/41591_2026_4553_Fig1_HTML.png",
-    "topic": "default",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
     "title": "Author Correction: 2B or not 2B is the question in DC ontogeny",
     "link": "https://www.nature.com/articles/s41590-026-02633-0",
     "journal": "Nature Immunology",
@@ -529,32 +555,6 @@
     "abstract": "Nature Immunology, Published online: 03 August 2026; doi:10.1038/s41590-026-02633-0 Author Correction: 2B or not 2B is the question in DC ontogeny",
     "image": "data:image/svg+xml;charset=utf-8,%0A%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23111827%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23374151%22/%3E%0A%20%20%20%20%3C/linearGradient%3E%0A%20%20%20%20%3Cfilter%20id%3D%22blur%22%3E%0A%20%20%20%20%20%20%3CfeGaussianBlur%20stdDeviation%3D%2230%22/%3E%0A%20%20%20%20%3C/filter%3E%0A%20%20%3C/defs%3E%0A%0A%20%20%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22url%28%23bg%29%22/%3E%0A%0A%20%20%3Ccircle%20cx%3D%221030%22%20cy%3D%22110%22%20r%3D%22170%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.18%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%20%20%3Ccircle%20cx%3D%22180%22%20cy%3D%22560%22%20r%3D%22150%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.16%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%0A%20%20%3Crect%20x%3D%2256%22%20y%3D%2252%22%20rx%3D%2218%22%20ry%3D%2218%22%20width%3D%22260%22%20height%3D%2254%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.08%29%22/%3E%0A%20%20%3Ctext%20x%3D%2284%22%20y%3D%2287%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2228%22%20fill%3D%22%23e5e7eb%22%3ENature%20Immunology%3C/text%3E%0A%0A%20%20%3Ctext%20x%3D%221010%22%20y%3D%22560%22%0A%20%20%20%20%20%20%20%20text-anchor%3D%22middle%22%0A%20%20%20%20%20%20%20%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%0A%20%20%20%20%20%20%20%20font-size%3D%22160%22%0A%20%20%20%20%20%20%20%20fill%3D%22%2360a5fa%22%0A%20%20%20%20%20%20%20%20opacity%3D%220.85%22%3E%0A%20%20%20%20%E2%80%A2%0A%20%20%3C/text%3E%0A%3C/svg%3E%0A",
     "topic": "immunology",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
-    "title": "Non-invasive tests for the evaluation of liver fibrosis in MASLD",
-    "link": "https://www.nature.com/articles/s41591-026-04560-x",
-    "journal": "Nature Medicine",
-    "source_type": "journal",
-    "date": "2026-08-03",
-    "summary": "Nature Medicine, Published online: 03 August 2026; doi:10.1038/s41591-026-04560-x In the LITMUS imaging study, we assessed non-invasive alternatives to liver biopsy histopathology in metabolic dysfunction-associated steatotic liver disease (MASLD). Elastography and elastography-based composite scores had sufficient diagnostic accuracy to replace liver biopsy histopathology in evaluating advanced fibrosis and cirrhosis, but no markers were accurate enough for diagnosing metabolic dysfunction-associated steatohepatitis (MASH).",
-    "abstract": "Nature Medicine, Published online: 03 August 2026; doi:10.1038/s41591-026-04560-x In the LITMUS imaging study, we assessed non-invasive alternatives to liver biopsy histopathology in metabolic dysfunction-associated steatotic liver disease (MASLD). Elastography and elastography-based composite scores had sufficient diagnostic accuracy to replace liver biopsy histopathology in evaluating advanced fibrosis and cirrhosis, but no markers were accurate enough for diagnosing metabolic dysfunction-associated steatohepatitis (MASH).",
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41591-026-04560-x/MediaObjects/41591_2026_4560_Fig1_HTML.png",
-    "topic": "default",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
-    "title": "The next generation of antibody–drug conjugates",
-    "link": "https://www.nature.com/articles/s41591-026-04543-y",
-    "journal": "Nature Medicine",
-    "source_type": "journal",
-    "date": "2026-08-03",
-    "summary": "Nature Medicine, Published online: 03 August 2026; doi:10.1038/s41591-026-04543-y The authors outline strategies to maximize the impact of ADCs by integrating multiple chemistry advances into drug constructs, and developing infrastructures and tools to accelerate and de-risk the preclinical and early clinical development of these agents.",
-    "abstract": "Nature Medicine, Published online: 03 August 2026; doi:10.1038/s41591-026-04543-y The authors outline strategies to maximize the impact of ADCs by integrating multiple chemistry advances into drug constructs, and developing infrastructures and tools to accelerate and de-risk the preclinical and early clinical development of these agents.",
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41591-026-04543-y/MediaObjects/41591_2026_4543_Fig1_HTML.png",
-    "topic": "default",
     "topic_color": "#60a5fa",
     "priority_score": 0
   },
