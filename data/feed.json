@@ -13,19 +13,6 @@
     "priority_score": 159
   },
   {
-    "title": "Decade-long persistence of CD19 CAR T cells in B cell lymphomas",
-    "link": "https://www.nature.com/articles/s41591-026-04578-1",
-    "journal": "Nature Medicine",
-    "source_type": "journal",
-    "date": "2026-08-10",
-    "summary": "Nature Medicine, Published online: 10 August 2026; doi:10.1038/s41591-026-04578-1 Analysis of longitudinal blood samples shows that CD19 CAR T cells can be detected at least 10 years after treatment in patients with lymphoma, with deeper profiling from a single patient showing that these CAR T cells have a dominant double-negative activated effector-memory-like phenotype.",
-    "abstract": "Nature Medicine, Published online: 10 August 2026; doi:10.1038/s41591-026-04578-1 Analysis of longitudinal blood samples shows that CD19 CAR T cells can be detected at least 10 years after treatment in patients with lymphoma, with deeper profiling from a single patient showing that these CAR T cells have a dominant double-negative activated effector-memory-like phenotype.",
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41591-026-04578-1/MediaObjects/41591_2026_4578_Fig1_HTML.png",
-    "topic": "Immunology",
-    "topic_color": "#60a5fa",
-    "priority_score": 133
-  },
-  {
     "title": "TIF1γ regulates stability of regulatory T cells during inflammation",
     "link": "https://www.nature.com/articles/s41590-026-02603-6",
     "journal": "Nature Immunology",
@@ -89,6 +76,19 @@
     "topic": "neurodegeneration",
     "topic_color": "#fda4af",
     "priority_score": 35
+  },
+  {
+    "title": "Author Correction: Uncovering the role of LINE-1 in the evolution of lung adenocarcinoma",
+    "link": "https://www.nature.com/articles/s41586-026-10947-0",
+    "journal": "Nature",
+    "source_type": "journal",
+    "date": "2026-08-11",
+    "summary": "Nature, Published online: 11 August 2026; doi:10.1038/s41586-026-10947-0 Author Correction: Uncovering the role of LINE-1 in the evolution of lung adenocarcinoma",
+    "abstract": "Nature, Published online: 11 August 2026; doi:10.1038/s41586-026-10947-0 Author Correction: Uncovering the role of LINE-1 in the evolution of lung adenocarcinoma",
+    "image": "data:image/svg+xml;charset=utf-8,%0A%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23111827%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23374151%22/%3E%0A%20%20%20%20%3C/linearGradient%3E%0A%20%20%20%20%3Cfilter%20id%3D%22blur%22%3E%0A%20%20%20%20%20%20%3CfeGaussianBlur%20stdDeviation%3D%2230%22/%3E%0A%20%20%20%20%3C/filter%3E%0A%20%20%3C/defs%3E%0A%0A%20%20%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22url%28%23bg%29%22/%3E%0A%0A%20%20%3Ccircle%20cx%3D%221030%22%20cy%3D%22110%22%20r%3D%22170%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.18%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%20%20%3Ccircle%20cx%3D%22180%22%20cy%3D%22560%22%20r%3D%22150%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.16%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%0A%20%20%3Crect%20x%3D%2256%22%20y%3D%2252%22%20rx%3D%2218%22%20ry%3D%2218%22%20width%3D%22260%22%20height%3D%2254%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.08%29%22/%3E%0A%20%20%3Ctext%20x%3D%2284%22%20y%3D%2287%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2228%22%20fill%3D%22%23e5e7eb%22%3ENature%3C/text%3E%0A%0A%20%20%3Ctext%20x%3D%221010%22%20y%3D%22560%22%0A%20%20%20%20%20%20%20%20text-anchor%3D%22middle%22%0A%20%20%20%20%20%20%20%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%0A%20%20%20%20%20%20%20%20font-size%3D%22160%22%0A%20%20%20%20%20%20%20%20fill%3D%22%2360a5fa%22%0A%20%20%20%20%20%20%20%20opacity%3D%220.85%22%3E%0A%20%20%20%20%E2%80%A2%0A%20%20%3C/text%3E%0A%3C/svg%3E%0A",
+    "topic": "default",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
   },
   {
     "title": "Funders should look beyond strict age criteria",
@@ -156,6 +156,19 @@
     "priority_score": 0
   },
   {
+    "title": "A ‘super’ El Niño could transform the Amazon. Is the world’s biggest rainforest doomed?",
+    "link": "https://www.nature.com/articles/d41586-026-02449-w",
+    "journal": "Nature",
+    "source_type": "journal",
+    "date": "2026-08-11",
+    "summary": "Nature, Published online: 11 August 2026; doi:10.1038/d41586-026-02449-w The Amazon rainforest might be closer to a tipping point than scientists thought. Some fear that droughts and fire could nudge it into irreversible decline.",
+    "abstract": "Nature, Published online: 11 August 2026; doi:10.1038/d41586-026-02449-w The Amazon rainforest might be closer to a tipping point than scientists thought. Some fear that droughts and fire could nudge it into irreversible decline.",
+    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-02449-w/d41586-026-02449-w_53064638.jpg",
+    "topic": "default",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
     "title": "Why scientists should lead the shift away from AI mega data centres",
     "link": "https://www.nature.com/articles/d41586-026-02451-2",
     "journal": "Nature",
@@ -169,6 +182,32 @@
     "priority_score": 0
   },
   {
+    "title": "Susumu Tonegawa (1939–2026)",
+    "link": "https://www.nature.com/articles/s41593-026-02416-8",
+    "journal": "Nature Neuroscience",
+    "source_type": "journal",
+    "date": "2026-08-11",
+    "summary": "Nature Neuroscience, Published online: 11 August 2026; doi:10.1038/s41593-026-02416-8 On 11 July 2026, neuroscience lost one of its most visionary scientists with the passing of Susumu Tonegawa at the age of 86. Across an extraordinary career spanning more than five decades, Tonegawa pursued biology’s deepest mysteries with relentless curiosity and unwavering conviction, inspiring generations of scientists to keep asking the hardest questions.",
+    "abstract": "Nature Neuroscience, Published online: 11 August 2026; doi:10.1038/s41593-026-02416-8 On 11 July 2026, neuroscience lost one of its most visionary scientists with the passing of Susumu Tonegawa at the age of 86. Across an extraordinary career spanning more than five decades, Tonegawa pursued biology’s deepest mysteries with relentless curiosity and unwavering conviction, inspiring generations of scientists to keep asking the hardest questions.",
+    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41593-026-02416-8/MediaObjects/41593_2026_2416_Figa_HTML.png",
+    "topic": "neuroscience",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
+    "title": "Modeling maternal immune activation in 3D ex vivo human fetal brain cerebroids reveals IL-17A-driven disruption of cortical development",
+    "link": "https://www.nature.com/articles/s41593-026-02400-2",
+    "journal": "Nature Neuroscience",
+    "source_type": "journal",
+    "date": "2026-08-11",
+    "summary": "Nature Neuroscience, Published online: 11 August 2026; doi:10.1038/s41593-026-02400-2 Using cerebroids, a 3D ex vivo model of the human fetal brain, the authors show that IL-17A, a mediator of maternal immune activation linked to neurodevelopmental disorders, disrupts early human cortical development through NF-κB signaling.",
+    "abstract": "Nature Neuroscience, Published online: 11 August 2026; doi:10.1038/s41593-026-02400-2 Using cerebroids, a 3D ex vivo model of the human fetal brain, the authors show that IL-17A, a mediator of maternal immune activation linked to neurodevelopmental disorders, disrupts early human cortical development through NF-κB signaling.",
+    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41593-026-02400-2/MediaObjects/41593_2026_2400_Fig1_HTML.png",
+    "topic": "neuroscience",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
     "title": "Loss of cellular RNA homeostasis contributes to MDA5 activation during virus infection",
     "link": "https://www.nature.com/articles/s41590-026-02614-3",
     "journal": "Nature Immunology",
@@ -178,6 +217,58 @@
     "abstract": "Nature Immunology, Published online: 11 August 2026; doi:10.1038/s41590-026-02614-3 MDA5 detects double-stranded RNA during viral infections. This work shows that MDA5 binds aberrant host RNA induced during viral infection. Rescue of aberrant cytoplasmic RNA during infection abrogated MDA5 activation.",
     "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41590-026-02614-3/MediaObjects/41590_2026_2614_Fig1_HTML.png",
     "topic": "immunology",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
+    "title": "From RAS inhibitor resistance to rational combination strategies",
+    "link": "https://www.nature.com/articles/s41591-026-04529-w",
+    "journal": "Nature Medicine",
+    "source_type": "journal",
+    "date": "2026-08-11",
+    "summary": "Nature Medicine, Published online: 11 August 2026; doi:10.1038/s41591-026-04529-w As new drugs that target mutant RAS redefine the therapeutic landscape in the treatment of pancreatic cancer, understanding and intercepting resistance is critical; a new study reveals mechanisms of acquired genetic resistance to daraxonrasib, highlighting putative combination approaches.",
+    "abstract": "Nature Medicine, Published online: 11 August 2026; doi:10.1038/s41591-026-04529-w As new drugs that target mutant RAS redefine the therapeutic landscape in the treatment of pancreatic cancer, understanding and intercepting resistance is critical; a new study reveals mechanisms of acquired genetic resistance to daraxonrasib, highlighting putative combination approaches.",
+    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41591-026-04529-w/MediaObjects/41591_2026_4529_Fig1_HTML.png",
+    "topic": "default",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
+    "title": "Anti-aging interventions need less hype and more clinical evidence",
+    "link": "https://www.nature.com/articles/s41591-026-04611-3",
+    "journal": "Nature Medicine",
+    "source_type": "journal",
+    "date": "2026-08-11",
+    "summary": "Nature Medicine, Published online: 11 August 2026; doi:10.1038/s41591-026-04611-3 The aging field needs to develop reliable biomarkers of aging and a solid evidence base for the safety and efficacy of anti-aging treatments.",
+    "abstract": "Nature Medicine, Published online: 11 August 2026; doi:10.1038/s41591-026-04611-3 The aging field needs to develop reliable biomarkers of aging and a solid evidence base for the safety and efficacy of anti-aging treatments.",
+    "image": "data:image/svg+xml;charset=utf-8,%0A%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23111827%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23374151%22/%3E%0A%20%20%20%20%3C/linearGradient%3E%0A%20%20%20%20%3Cfilter%20id%3D%22blur%22%3E%0A%20%20%20%20%20%20%3CfeGaussianBlur%20stdDeviation%3D%2230%22/%3E%0A%20%20%20%20%3C/filter%3E%0A%20%20%3C/defs%3E%0A%0A%20%20%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22url%28%23bg%29%22/%3E%0A%0A%20%20%3Ccircle%20cx%3D%221030%22%20cy%3D%22110%22%20r%3D%22170%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.18%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%20%20%3Ccircle%20cx%3D%22180%22%20cy%3D%22560%22%20r%3D%22150%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.16%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%0A%20%20%3Crect%20x%3D%2256%22%20y%3D%2252%22%20rx%3D%2218%22%20ry%3D%2218%22%20width%3D%22260%22%20height%3D%2254%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.08%29%22/%3E%0A%20%20%3Ctext%20x%3D%2284%22%20y%3D%2287%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2228%22%20fill%3D%22%23e5e7eb%22%3ENature%20Medicine%3C/text%3E%0A%0A%20%20%3Ctext%20x%3D%221010%22%20y%3D%22560%22%0A%20%20%20%20%20%20%20%20text-anchor%3D%22middle%22%0A%20%20%20%20%20%20%20%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%0A%20%20%20%20%20%20%20%20font-size%3D%22160%22%0A%20%20%20%20%20%20%20%20fill%3D%22%2360a5fa%22%0A%20%20%20%20%20%20%20%20opacity%3D%220.85%22%3E%0A%20%20%20%20%E2%80%A2%0A%20%20%3C/text%3E%0A%3C/svg%3E%0A",
+    "topic": "default",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
+    "title": "Reinventing health communication for the digital era",
+    "link": "https://www.nature.com/articles/s41591-026-04556-7",
+    "journal": "Nature Medicine",
+    "source_type": "journal",
+    "date": "2026-08-11",
+    "summary": "Nature Medicine, Published online: 11 August 2026; doi:10.1038/s41591-026-04556-7 The commissioners behind the Nature Medicine Quality Health Information for All Commission explain why improving access to accurate, timely and evidence-based information is now essential to global health.",
+    "abstract": "Nature Medicine, Published online: 11 August 2026; doi:10.1038/s41591-026-04556-7 The commissioners behind the Nature Medicine Quality Health Information for All Commission explain why improving access to accurate, timely and evidence-based information is now essential to global health.",
+    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41591-026-04556-7/MediaObjects/41591_2026_4556_Figa_HTML.png",
+    "topic": "default",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
+    "title": "Acquired resistance to the RAS(ON) multi-selective inhibitor daraxonrasib guides rational combination therapy strategies in pancreatic cancer",
+    "link": "https://www.nature.com/articles/s41591-026-04537-w",
+    "journal": "Nature Medicine",
+    "source_type": "journal",
+    "date": "2026-08-11",
+    "summary": "Nature Medicine, Published online: 11 August 2026; doi:10.1038/s41591-026-04537-w Circulating tumor DNA analyses in 44 patients with pancreatic cancer receiving the RAS(ON) multi-selective inhibitor daraxonrasib as part of a phase 1/2 trial, and preclinical translational modeling approaches, identify mechanisms of acquired resistance to monotherapy and inform potential combination strategies to overcome resistance.",
+    "abstract": "Nature Medicine, Published online: 11 August 2026; doi:10.1038/s41591-026-04537-w Circulating tumor DNA analyses in 44 patients with pancreatic cancer receiving the RAS(ON) multi-selective inhibitor daraxonrasib as part of a phase 1/2 trial, and preclinical translational modeling approaches, identify mechanisms of acquired resistance to monotherapy and inform potential combination strategies to overcome resistance.",
+    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41591-026-04537-w/MediaObjects/41591_2026_4537_Fig1_HTML.png",
+    "topic": "default",
     "topic_color": "#60a5fa",
     "priority_score": 0
   },
@@ -247,32 +338,6 @@
     "priority_score": 0
   },
   {
-    "title": "How and when to use artificial intelligence in your science job application",
-    "link": "https://www.nature.com/articles/d41586-026-02435-2",
-    "journal": "Nature",
-    "source_type": "journal",
-    "date": "2026-08-10",
-    "summary": "Nature, Published online: 10 August 2026; doi:10.1038/d41586-026-02435-2 A webinar offers advice to hiring managers and jobseekers.",
-    "abstract": "Nature, Published online: 10 August 2026; doi:10.1038/d41586-026-02435-2 A webinar offers advice to hiring managers and jobseekers.",
-    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-02435-2/d41586-026-02435-2_53064476.jpg",
-    "topic": "default",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
-    "title": "Where are you ticklish? Researchers map the sensation across cultures",
-    "link": "https://www.nature.com/articles/d41586-026-02493-6",
-    "journal": "Nature",
-    "source_type": "journal",
-    "date": "2026-08-10",
-    "summary": "Nature, Published online: 10 August 2026; doi:10.1038/d41586-026-02493-6 People from Chinese, Dutch and Greek cultural backgrounds have the same ‘tickle hotspots’ on the body. And ticklishness is stronger in rarely touched areas.",
-    "abstract": "Nature, Published online: 10 August 2026; doi:10.1038/d41586-026-02493-6 People from Chinese, Dutch and Greek cultural backgrounds have the same ‘tickle hotspots’ on the body. And ticklishness is stronger in rarely touched areas.",
-    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-02493-6/d41586-026-02493-6_53098128.jpg",
-    "topic": "default",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
     "title": "Editorial Expression of Concern: CDK4 coexpression with Ras generates malignant human epidermal tumorigenesis",
     "link": "https://www.nature.com/articles/s41591-026-04620-2",
     "journal": "Nature Medicine",
@@ -320,32 +385,6 @@
     "summary": "Nature Medicine, Published online: 10 August 2026; doi:10.1038/s41591-026-04574-5 In piloting and deploying a large language model within a large medical center, we learned that benchmark-based evaluations are insufficient for monitoring and evaluating interactions driven by clinicians, and that this requires new methods for monitoring performance.",
     "abstract": "Nature Medicine, Published online: 10 August 2026; doi:10.1038/s41591-026-04574-5 In piloting and deploying a large language model within a large medical center, we learned that benchmark-based evaluations are insufficient for monitoring and evaluating interactions driven by clinicians, and that this requires new methods for monitoring performance.",
     "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41591-026-04574-5/MediaObjects/41591_2026_4574_Fig1_HTML.png",
-    "topic": "default",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
-    "title": "Obinutuzumab β for aquaporin-4-positive neuromyelitis optica spectrum disorder: a phase 3 randomized controlled trial",
-    "link": "https://www.nature.com/articles/s41591-026-04583-4",
-    "journal": "Nature Medicine",
-    "source_type": "journal",
-    "date": "2026-08-10",
-    "summary": "Nature Medicine, Published online: 10 August 2026; doi:10.1038/s41591-026-04583-4 In a phase 3 trial, obinutuzumab β significantly reduced relapse risk by 93.1% versus placebo in patients with AQP4-IgG+ NMOSD, improved clinical and MRI outcomes, showed manageable safety and demonstrated sustained efficacy with no relapses during extended follow-up.",
-    "abstract": "Nature Medicine, Published online: 10 August 2026; doi:10.1038/s41591-026-04583-4 In a phase 3 trial, obinutuzumab β significantly reduced relapse risk by 93.1% versus placebo in patients with AQP4-IgG+ NMOSD, improved clinical and MRI outcomes, showed manageable safety and demonstrated sustained efficacy with no relapses during extended follow-up.",
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41591-026-04583-4/MediaObjects/41591_2026_4583_Fig1_HTML.png",
-    "topic": "default",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
-    "title": "Type 2 diabetes prevention across the life course",
-    "link": "https://www.nature.com/articles/s41591-026-04550-z",
-    "journal": "Nature Medicine",
-    "source_type": "journal",
-    "date": "2026-08-10",
-    "summary": "Nature Medicine, Published online: 10 August 2026; doi:10.1038/s41591-026-04550-z Rather than intervening when dysglycemia is established, prevention efforts should focus on prediabetes remission and restoration of normoglycemia. Here the authors call for a new agenda informed by mechanistic heterogeneity, a life-course risk architecture and scalable precision tools.",
-    "abstract": "Nature Medicine, Published online: 10 August 2026; doi:10.1038/s41591-026-04550-z Rather than intervening when dysglycemia is established, prevention efforts should focus on prediabetes remission and restoration of normoglycemia. Here the authors call for a new agenda informed by mechanistic heterogeneity, a life-course risk architecture and scalable precision tools.",
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41591-026-04550-z/MediaObjects/41591_2026_4550_Fig1_HTML.png",
     "topic": "default",
     "topic_color": "#60a5fa",
     "priority_score": 0
@@ -399,19 +438,6 @@
     "abstract": "Nature Neuroscience, Published online: 07 August 2026; doi:10.1038/s41593-026-02391-0 A multimodal cell-type atlas of the mouse insular cortex reveals specialized pyramidal types and circuits in distinct insular subregions, as well as intra-insular functional connections that integrate sensory inputs with valence.",
     "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41593-026-02391-0/MediaObjects/41593_2026_2391_Fig1_HTML.png",
     "topic": "neuroscience",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
-    "title": "Large-scale whole-genome sequencing reveals the landscape and health implications of de novo mutations",
-    "link": "https://www.nature.com/articles/s41591-026-04585-2",
-    "journal": "Nature Medicine",
-    "source_type": "journal",
-    "date": "2026-08-07",
-    "summary": "Nature Medicine, Published online: 07 August 2026; doi:10.1038/s41591-026-04585-2 This whole-genome sequencing study based on 7,851 parent−offspring families shows that parental age and assisted reproductive technologies influence the number and types of de novo mutations, highlighting potential health impacts and the need to optimize reproductive practices.",
-    "abstract": "Nature Medicine, Published online: 07 August 2026; doi:10.1038/s41591-026-04585-2 This whole-genome sequencing study based on 7,851 parent−offspring families shows that parental age and assisted reproductive technologies influence the number and types of de novo mutations, highlighting potential health impacts and the need to optimize reproductive practices.",
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41591-026-04585-2/MediaObjects/41591_2026_4585_Fig1_HTML.png",
-    "topic": "default",
     "topic_color": "#60a5fa",
     "priority_score": 0
   },
@@ -546,19 +572,6 @@
     "priority_score": 0
   },
   {
-    "title": "Norepinephrine and dopamine sensor crosstalk depends on local innervation density",
-    "link": "https://www.nature.com/articles/s41593-026-02379-w",
-    "journal": "Nature Neuroscience",
-    "source_type": "journal",
-    "date": "2026-08-05",
-    "summary": "Nature Neuroscience, Published online: 05 August 2026; doi:10.1038/s41593-026-02379-w This study shows that GPCR-based norepinephrine and dopamine sensors display crosstalk in several brain areas. Relative innervation densities determine the extent of crosstalk, and loss-of-function controls are required to interpret sensor signals.",
-    "abstract": "Nature Neuroscience, Published online: 05 August 2026; doi:10.1038/s41593-026-02379-w This study shows that GPCR-based norepinephrine and dopamine sensors display crosstalk in several brain areas. Relative innervation densities determine the extent of crosstalk, and loss-of-function controls are required to interpret sensor signals.",
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41593-026-02379-w/MediaObjects/41593_2026_2379_Fig1_HTML.png",
-    "topic": "neuroscience",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
     "title": "In This Issue",
     "link": "https://www.pnas.org/doi/abs/10.1073/iti3126123?af=R",
     "journal": "PNAS",
@@ -568,19 +581,6 @@
     "abstract": "Proceedings of the National Academy of Sciences, Volume 123, Issue 31, August 2026.",
     "image": "data:image/svg+xml;charset=utf-8,%0A%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23111827%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23374151%22/%3E%0A%20%20%20%20%3C/linearGradient%3E%0A%20%20%20%20%3Cfilter%20id%3D%22blur%22%3E%0A%20%20%20%20%20%20%3CfeGaussianBlur%20stdDeviation%3D%2230%22/%3E%0A%20%20%20%20%3C/filter%3E%0A%20%20%3C/defs%3E%0A%0A%20%20%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22url%28%23bg%29%22/%3E%0A%0A%20%20%3Ccircle%20cx%3D%221030%22%20cy%3D%22110%22%20r%3D%22170%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.18%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%20%20%3Ccircle%20cx%3D%22180%22%20cy%3D%22560%22%20r%3D%22150%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.16%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%0A%20%20%3Crect%20x%3D%2256%22%20y%3D%2252%22%20rx%3D%2218%22%20ry%3D%2218%22%20width%3D%22260%22%20height%3D%2254%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.08%29%22/%3E%0A%20%20%3Ctext%20x%3D%2284%22%20y%3D%2287%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2228%22%20fill%3D%22%23e5e7eb%22%3EPNAS%3C/text%3E%0A%0A%20%20%3Ctext%20x%3D%221010%22%20y%3D%22560%22%0A%20%20%20%20%20%20%20%20text-anchor%3D%22middle%22%0A%20%20%20%20%20%20%20%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%0A%20%20%20%20%20%20%20%20font-size%3D%22160%22%0A%20%20%20%20%20%20%20%20fill%3D%22%2360a5fa%22%0A%20%20%20%20%20%20%20%20opacity%3D%220.85%22%3E%0A%20%20%20%20%E2%80%A2%0A%20%20%3C/text%3E%0A%3C/svg%3E%0A",
     "topic": "default",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
-    "title": "The compositionality continuum as a principle for studying the neural basis of intelligence",
-    "link": "https://www.nature.com/articles/s41593-026-02382-1",
-    "journal": "Nature Neuroscience",
-    "source_type": "journal",
-    "date": "2026-08-04",
-    "summary": "Nature Neuroscience, Published online: 04 August 2026; doi:10.1038/s41593-026-02382-1 Compositionality exists on a continuum of increasing complexity rather than as a binary trait. Studying its implementation in simpler biological and artificial systems is the most tractable path toward understanding its role in general intelligence.",
-    "abstract": "Nature Neuroscience, Published online: 04 August 2026; doi:10.1038/s41593-026-02382-1 Compositionality exists on a continuum of increasing complexity rather than as a binary trait. Studying its implementation in simpler biological and artificial systems is the most tractable path toward understanding its role in general intelligence.",
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41593-026-02382-1/MediaObjects/41593_2026_2382_Fig1_HTML.png",
-    "topic": "neuroscience",
     "topic_color": "#60a5fa",
     "priority_score": 0
   },
