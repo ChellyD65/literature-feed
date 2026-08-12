@@ -104,6 +104,19 @@
     "priority_score": 41
   },
   {
+    "title": "System lag",
+    "link": "https://www.nature.com/articles/d41586-026-02408-5",
+    "journal": "Nature",
+    "source_type": "journal",
+    "date": "2026-08-12",
+    "summary": "Nature, Published online: 12 August 2026; doi:10.1038/d41586-026-02408-5 Out of place.",
+    "abstract": "Nature, Published online: 12 August 2026; doi:10.1038/d41586-026-02408-5 Out of place.",
+    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-02408-5/d41586-026-02408-5_53007928.jpg",
+    "topic": "default",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
     "title": "A particle made of force: physicists say they’ve found mysterious ‘glueball’",
     "link": "https://www.nature.com/articles/d41586-026-02498-1",
     "journal": "Nature",
@@ -385,19 +398,6 @@
     "summary": "Nature, Published online: 11 August 2026; doi:10.1038/d41586-026-02454-z It is shameful that half the country’s population continues to be overlooked by the international community.",
     "abstract": "Nature, Published online: 11 August 2026; doi:10.1038/d41586-026-02454-z It is shameful that half the country’s population continues to be overlooked by the international community.",
     "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-02454-z/d41586-026-02454-z_53097984.jpg",
-    "topic": "default",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
-    "title": "HIV vaccines guide rare immune cells to make broadly neutralizing antibodies",
-    "link": "https://www.nature.com/articles/d41586-026-02374-y",
-    "journal": "Nature",
-    "source_type": "journal",
-    "date": "2026-08-11",
-    "summary": "Nature, Published online: 11 August 2026; doi:10.1038/d41586-026-02374-y Three studies in non-human primates show that strategically designed vaccines could prime a population of B cells to produce effective antibodies against HIV.",
-    "abstract": "Nature, Published online: 11 August 2026; doi:10.1038/d41586-026-02374-y Three studies in non-human primates show that strategically designed vaccines could prime a population of B cells to produce effective antibodies against HIV.",
-    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-02374-y/d41586-026-02374-y_53105246.jpg",
     "topic": "default",
     "topic_color": "#60a5fa",
     "priority_score": 0
