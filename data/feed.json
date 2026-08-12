@@ -65,6 +65,19 @@
     "priority_score": 50
   },
   {
+    "title": "A controversial Alzheimer’s surgery is said to reverse symptoms — here’s what scientists know",
+    "link": "https://www.nature.com/articles/d41586-026-02448-x",
+    "journal": "Nature",
+    "source_type": "journal",
+    "date": "2026-08-12",
+    "summary": "Nature, Published online: 12 August 2026; doi:10.1038/d41586-026-02448-x Jaw-dropping patient videos and miraculous testimonials ignited a frenzy in China over a technique that aims to improve drainage from the brain. Now it is entering trials worldwide.",
+    "abstract": "Nature, Published online: 12 August 2026; doi:10.1038/d41586-026-02448-x Jaw-dropping patient videos and miraculous testimonials ignited a frenzy in China over a technique that aims to improve drainage from the brain. Now it is entering trials worldwide.",
+    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-02448-x/d41586-026-02448-x_53083048.jpg",
+    "topic": "neurodegeneration",
+    "topic_color": "#fda4af",
+    "priority_score": 45
+  },
+  {
     "title": "Author Correction: The kinase MST4 limits inflammatory responses through direct phosphorylation of the adaptor TRAF6",
     "link": "https://www.nature.com/articles/s41590-026-02634-z",
     "journal": "Nature Immunology",
@@ -76,6 +89,58 @@
     "topic": "inflammation",
     "topic_color": "#fb7185",
     "priority_score": 41
+  },
+  {
+    "title": "Cross-region neuron co-firing mediated by ripple oscillations supports distributed working memory representations",
+    "link": "https://www.nature.com/articles/s41593-026-02403-z",
+    "journal": "Nature Neuroscience",
+    "source_type": "journal",
+    "date": "2026-08-12",
+    "summary": "Nature Neuroscience, Published online: 12 August 2026; doi:10.1038/s41593-026-02403-z The authors show that human neurons in bilateral corticolimbic sites fire together, modulated by working memory, and reinstate stimulus-selective firings when both sites briefly oscillate at 90 Hz, suggesting a mechanism for long-distance integration.",
+    "abstract": "Nature Neuroscience, Published online: 12 August 2026; doi:10.1038/s41593-026-02403-z The authors show that human neurons in bilateral corticolimbic sites fire together, modulated by working memory, and reinstate stimulus-selective firings when both sites briefly oscillate at 90 Hz, suggesting a mechanism for long-distance integration.",
+    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41593-026-02403-z/MediaObjects/41593_2026_2403_Fig1_HTML.png",
+    "topic": "neuroscience",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
+    "title": "Frugal AI is the missing piece in cervical cancer screening",
+    "link": "https://www.nature.com/articles/s41591-026-04568-3",
+    "journal": "Nature Medicine",
+    "source_type": "journal",
+    "date": "2026-08-12",
+    "summary": "Nature Medicine, Published online: 12 August 2026; doi:10.1038/s41591-026-04568-3 Automated visual evaluation (AVE) could be transformative for cervical cancer screening in low-resource settings. However, AVE research has yet to yield robust clinical tools. Frugal approaches are needed that emphasize efficient, multimodal models, explainable outputs, local calibration and evaluation in real-world screening workflows.",
+    "abstract": "Nature Medicine, Published online: 12 August 2026; doi:10.1038/s41591-026-04568-3 Automated visual evaluation (AVE) could be transformative for cervical cancer screening in low-resource settings. However, AVE research has yet to yield robust clinical tools. Frugal approaches are needed that emphasize efficient, multimodal models, explainable outputs, local calibration and evaluation in real-world screening workflows.",
+    "image": "data:image/svg+xml;charset=utf-8,%0A%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23111827%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23374151%22/%3E%0A%20%20%20%20%3C/linearGradient%3E%0A%20%20%20%20%3Cfilter%20id%3D%22blur%22%3E%0A%20%20%20%20%20%20%3CfeGaussianBlur%20stdDeviation%3D%2230%22/%3E%0A%20%20%20%20%3C/filter%3E%0A%20%20%3C/defs%3E%0A%0A%20%20%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22url%28%23bg%29%22/%3E%0A%0A%20%20%3Ccircle%20cx%3D%221030%22%20cy%3D%22110%22%20r%3D%22170%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.18%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%20%20%3Ccircle%20cx%3D%22180%22%20cy%3D%22560%22%20r%3D%22150%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.16%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%0A%20%20%3Crect%20x%3D%2256%22%20y%3D%2252%22%20rx%3D%2218%22%20ry%3D%2218%22%20width%3D%22260%22%20height%3D%2254%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.08%29%22/%3E%0A%20%20%3Ctext%20x%3D%2284%22%20y%3D%2287%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2228%22%20fill%3D%22%23e5e7eb%22%3ENature%20Medicine%3C/text%3E%0A%0A%20%20%3Ctext%20x%3D%221010%22%20y%3D%22560%22%0A%20%20%20%20%20%20%20%20text-anchor%3D%22middle%22%0A%20%20%20%20%20%20%20%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%0A%20%20%20%20%20%20%20%20font-size%3D%22160%22%0A%20%20%20%20%20%20%20%20fill%3D%22%2360a5fa%22%0A%20%20%20%20%20%20%20%20opacity%3D%220.85%22%3E%0A%20%20%20%20%E2%80%A2%0A%20%20%3C/text%3E%0A%3C/svg%3E%0A",
+    "topic": "default",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
+    "title": "Sleep as therapy",
+    "link": "https://www.nature.com/articles/s41591-026-04582-5",
+    "journal": "Nature Medicine",
+    "source_type": "journal",
+    "date": "2026-08-12",
+    "summary": "Nature Medicine, Published online: 12 August 2026; doi:10.1038/s41591-026-04582-5 Once seen as a symptom, disrupted sleep is emerging as a modifiable driver of chronic illness. Drugmakers are targeting sleep pathways to reshape chronic disease biology, from pain to depression.",
+    "abstract": "Nature Medicine, Published online: 12 August 2026; doi:10.1038/s41591-026-04582-5 Once seen as a symptom, disrupted sleep is emerging as a modifiable driver of chronic illness. Drugmakers are targeting sleep pathways to reshape chronic disease biology, from pain to depression.",
+    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41591-026-04582-5/MediaObjects/41591_2026_4582_Figa_HTML.png",
+    "topic": "default",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
+    "title": "First-line PD-1/VEGF bispecific antibody plus chemotherapy in triple-negative breast cancer: a phase 2 trial",
+    "link": "https://www.nature.com/articles/s41591-026-04564-7",
+    "journal": "Nature Medicine",
+    "source_type": "journal",
+    "date": "2026-08-12",
+    "summary": "Nature Medicine, Published online: 12 August 2026; doi:10.1038/s41591-026-04564-7 In a multicenter, phase 2 trial, patients with treatment-naive locally advanced unresectable or metastatic triple-negative breast cancer were treated with the PD-1/vascular endothelial growth factor bispecific antibody ivonescimab plus chemotherapy, resulting in encouraging preliminary objective response rates, which support further testing in a large, randomized, phase 3 trial.",
+    "abstract": "Nature Medicine, Published online: 12 August 2026; doi:10.1038/s41591-026-04564-7 In a multicenter, phase 2 trial, patients with treatment-naive locally advanced unresectable or metastatic triple-negative breast cancer were treated with the PD-1/vascular endothelial growth factor bispecific antibody ivonescimab plus chemotherapy, resulting in encouraging preliminary objective response rates, which support further testing in a large, randomized, phase 3 trial.",
+    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41591-026-04564-7/MediaObjects/41591_2026_4564_Fig1_HTML.png",
+    "topic": "default",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
   },
   {
     "title": "Newly discovered virus is sickening cattle in Western Europe",
@@ -312,19 +377,6 @@
     "priority_score": 0
   },
   {
-    "title": "When the best decision is no decision: the rise of randomization in grant funding",
-    "link": "https://www.nature.com/articles/d41586-026-02082-7",
-    "journal": "Nature",
-    "source_type": "journal",
-    "date": "2026-08-11",
-    "summary": "Nature, Published online: 11 August 2026; doi:10.1038/d41586-026-02082-7 If reviewers can’t reliably tell the difference between top grant proposals, why should they pretend they can? A new wave of funders is turning to lotteries to break the tie.",
-    "abstract": "Nature, Published online: 11 August 2026; doi:10.1038/d41586-026-02082-7 If reviewers can’t reliably tell the difference between top grant proposals, why should they pretend they can? A new wave of funders is turning to lotteries to break the tie.",
-    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-02082-7/d41586-026-02082-7_53030518.jpg",
-    "topic": "default",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
     "title": "Susumu Tonegawa (1939–2026)",
     "link": "https://www.nature.com/articles/s41593-026-02416-8",
     "journal": "Nature Neuroscience",
@@ -437,45 +489,6 @@
     "summary": "Nature Medicine, Published online: 10 August 2026; doi:10.1038/s41591-026-04620-2 Editorial Expression of Concern: CDK4 coexpression with Ras generates malignant human epidermal tumorigenesis",
     "abstract": "Nature Medicine, Published online: 10 August 2026; doi:10.1038/s41591-026-04620-2 Editorial Expression of Concern: CDK4 coexpression with Ras generates malignant human epidermal tumorigenesis",
     "image": "data:image/svg+xml;charset=utf-8,%0A%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23111827%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23374151%22/%3E%0A%20%20%20%20%3C/linearGradient%3E%0A%20%20%20%20%3Cfilter%20id%3D%22blur%22%3E%0A%20%20%20%20%20%20%3CfeGaussianBlur%20stdDeviation%3D%2230%22/%3E%0A%20%20%20%20%3C/filter%3E%0A%20%20%3C/defs%3E%0A%0A%20%20%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22url%28%23bg%29%22/%3E%0A%0A%20%20%3Ccircle%20cx%3D%221030%22%20cy%3D%22110%22%20r%3D%22170%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.18%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%20%20%3Ccircle%20cx%3D%22180%22%20cy%3D%22560%22%20r%3D%22150%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.16%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%0A%20%20%3Crect%20x%3D%2256%22%20y%3D%2252%22%20rx%3D%2218%22%20ry%3D%2218%22%20width%3D%22260%22%20height%3D%2254%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.08%29%22/%3E%0A%20%20%3Ctext%20x%3D%2284%22%20y%3D%2287%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2228%22%20fill%3D%22%23e5e7eb%22%3ENature%20Medicine%3C/text%3E%0A%0A%20%20%3Ctext%20x%3D%221010%22%20y%3D%22560%22%0A%20%20%20%20%20%20%20%20text-anchor%3D%22middle%22%0A%20%20%20%20%20%20%20%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%0A%20%20%20%20%20%20%20%20font-size%3D%22160%22%0A%20%20%20%20%20%20%20%20fill%3D%22%2360a5fa%22%0A%20%20%20%20%20%20%20%20opacity%3D%220.85%22%3E%0A%20%20%20%20%E2%80%A2%0A%20%20%3C/text%3E%0A%3C/svg%3E%0A",
-    "topic": "default",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
-    "title": "Global access to different classes of diabetes medicines: a framework for targeted policy actions",
-    "link": "https://www.nature.com/articles/s41591-026-04579-0",
-    "journal": "Nature Medicine",
-    "source_type": "journal",
-    "date": "2026-08-10",
-    "summary": "Nature Medicine, Published online: 10 August 2026; doi:10.1038/s41591-026-04579-0 Global access to different classes of diabetes medicines: a framework for targeted policy actions",
-    "abstract": "Nature Medicine, Published online: 10 August 2026; doi:10.1038/s41591-026-04579-0 Global access to different classes of diabetes medicines: a framework for targeted policy actions",
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41591-026-04579-0/MediaObjects/41591_2026_4579_Fig1_HTML.png",
-    "topic": "default",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
-    "title": "Emergence of a Bundibugyo virus variant in the 2026 outbreak in the Democratic Republic of the Congo and Uganda",
-    "link": "https://www.nature.com/articles/s41591-026-04628-8",
-    "journal": "Nature Medicine",
-    "source_type": "journal",
-    "date": "2026-08-10",
-    "summary": "Nature Medicine, Published online: 10 August 2026; doi:10.1038/s41591-026-04628-8 A phylogenetic analysis of 22 genomes from the recent Bundibugyo virus outbreak in the Democratic Republic of the Congo and Uganda suggests the outbreak was caused by a new zoonotic spillover event.",
-    "abstract": "Nature Medicine, Published online: 10 August 2026; doi:10.1038/s41591-026-04628-8 A phylogenetic analysis of 22 genomes from the recent Bundibugyo virus outbreak in the Democratic Republic of the Congo and Uganda suggests the outbreak was caused by a new zoonotic spillover event.",
-    "image": "data:image/svg+xml;charset=utf-8,%0A%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23111827%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23374151%22/%3E%0A%20%20%20%20%3C/linearGradient%3E%0A%20%20%20%20%3Cfilter%20id%3D%22blur%22%3E%0A%20%20%20%20%20%20%3CfeGaussianBlur%20stdDeviation%3D%2230%22/%3E%0A%20%20%20%20%3C/filter%3E%0A%20%20%3C/defs%3E%0A%0A%20%20%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22url%28%23bg%29%22/%3E%0A%0A%20%20%3Ccircle%20cx%3D%221030%22%20cy%3D%22110%22%20r%3D%22170%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.18%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%20%20%3Ccircle%20cx%3D%22180%22%20cy%3D%22560%22%20r%3D%22150%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.16%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%0A%20%20%3Crect%20x%3D%2256%22%20y%3D%2252%22%20rx%3D%2218%22%20ry%3D%2218%22%20width%3D%22260%22%20height%3D%2254%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.08%29%22/%3E%0A%20%20%3Ctext%20x%3D%2284%22%20y%3D%2287%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2228%22%20fill%3D%22%23e5e7eb%22%3ENature%20Medicine%3C/text%3E%0A%0A%20%20%3Ctext%20x%3D%221010%22%20y%3D%22560%22%0A%20%20%20%20%20%20%20%20text-anchor%3D%22middle%22%0A%20%20%20%20%20%20%20%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%0A%20%20%20%20%20%20%20%20font-size%3D%22160%22%0A%20%20%20%20%20%20%20%20fill%3D%22%2360a5fa%22%0A%20%20%20%20%20%20%20%20opacity%3D%220.85%22%3E%0A%20%20%20%20%E2%80%A2%0A%20%20%3C/text%3E%0A%3C/svg%3E%0A",
-    "topic": "default",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
-    "title": "Lessons from deploying the ChatEHR system at Stanford Medicine",
-    "link": "https://www.nature.com/articles/s41591-026-04574-5",
-    "journal": "Nature Medicine",
-    "source_type": "journal",
-    "date": "2026-08-10",
-    "summary": "Nature Medicine, Published online: 10 August 2026; doi:10.1038/s41591-026-04574-5 In piloting and deploying a large language model within a large medical center, we learned that benchmark-based evaluations are insufficient for monitoring and evaluating interactions driven by clinicians, and that this requires new methods for monitoring performance.",
-    "abstract": "Nature Medicine, Published online: 10 August 2026; doi:10.1038/s41591-026-04574-5 In piloting and deploying a large language model within a large medical center, we learned that benchmark-based evaluations are insufficient for monitoring and evaluating interactions driven by clinicians, and that this requires new methods for monitoring performance.",
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41591-026-04574-5/MediaObjects/41591_2026_4574_Fig1_HTML.png",
     "topic": "default",
     "topic_color": "#60a5fa",
     "priority_score": 0
@@ -620,19 +633,6 @@
     "abstract": "Proceedings of the National Academy of Sciences, Volume 123, Issue 32, August 2026.",
     "image": "data:image/svg+xml;charset=utf-8,%0A%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23111827%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23374151%22/%3E%0A%20%20%20%20%3C/linearGradient%3E%0A%20%20%20%20%3Cfilter%20id%3D%22blur%22%3E%0A%20%20%20%20%20%20%3CfeGaussianBlur%20stdDeviation%3D%2230%22/%3E%0A%20%20%20%20%3C/filter%3E%0A%20%20%3C/defs%3E%0A%0A%20%20%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22url%28%23bg%29%22/%3E%0A%0A%20%20%3Ccircle%20cx%3D%221030%22%20cy%3D%22110%22%20r%3D%22170%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.18%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%20%20%3Ccircle%20cx%3D%22180%22%20cy%3D%22560%22%20r%3D%22150%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.16%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%0A%20%20%3Crect%20x%3D%2256%22%20y%3D%2252%22%20rx%3D%2218%22%20ry%3D%2218%22%20width%3D%22260%22%20height%3D%2254%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.08%29%22/%3E%0A%20%20%3Ctext%20x%3D%2284%22%20y%3D%2287%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2228%22%20fill%3D%22%23e5e7eb%22%3EPNAS%3C/text%3E%0A%0A%20%20%3Ctext%20x%3D%221010%22%20y%3D%22560%22%0A%20%20%20%20%20%20%20%20text-anchor%3D%22middle%22%0A%20%20%20%20%20%20%20%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%0A%20%20%20%20%20%20%20%20font-size%3D%22160%22%0A%20%20%20%20%20%20%20%20fill%3D%22%2360a5fa%22%0A%20%20%20%20%20%20%20%20opacity%3D%220.85%22%3E%0A%20%20%20%20%E2%80%A2%0A%20%20%3C/text%3E%0A%3C/svg%3E%0A",
     "topic": "default",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
-    "title": "Hippocampal CA3 connectomics reveals a gradient of mossy fiber inputs and selective feedforward inhibition onto pyramidal cells",
-    "link": "https://www.nature.com/articles/s41593-026-02388-9",
-    "journal": "Nature Neuroscience",
-    "source_type": "journal",
-    "date": "2026-08-05",
-    "summary": "Nature Neuroscience, Published online: 05 August 2026; doi:10.1038/s41593-026-02388-9 The authors present a dense connectomic reconstruction of a 0.1 mm3 hippocampal CA3 volume and reveal spatial gradients, high convergence and cell-type-selective feedforward inhibition of inputs to pyramidal cells.",
-    "abstract": "Nature Neuroscience, Published online: 05 August 2026; doi:10.1038/s41593-026-02388-9 The authors present a dense connectomic reconstruction of a 0.1 mm3 hippocampal CA3 volume and reveal spatial gradients, high convergence and cell-type-selective feedforward inhibition of inputs to pyramidal cells.",
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41593-026-02388-9/MediaObjects/41593_2026_2388_Fig1_HTML.png",
-    "topic": "neuroscience",
     "topic_color": "#60a5fa",
     "priority_score": 0
   },
