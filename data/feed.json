@@ -13,6 +13,19 @@
     "priority_score": 159
   },
   {
+    "title": "TIF1γ holds the line against regulatory T cell plasticity",
+    "link": "https://www.nature.com/articles/s41590-026-02620-5",
+    "journal": "Nature Immunology",
+    "source_type": "journal",
+    "date": "2026-08-14",
+    "summary": "Nature Immunology, Published online: 14 August 2026; doi:10.1038/s41590-026-02620-5 A mechanistic understanding of how regulatory T cell plasticity is controlled remains lacking. A study shows that TIF1γ modulates this plasticity by restraining β-catenin signaling.",
+    "abstract": "Nature Immunology, Published online: 14 August 2026; doi:10.1038/s41590-026-02620-5 A mechanistic understanding of how regulatory T cell plasticity is controlled remains lacking. A study shows that TIF1γ modulates this plasticity by restraining β-catenin signaling.",
+    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41590-026-02620-5/MediaObjects/41590_2026_2620_Fig1_HTML.png",
+    "topic": "Immunology",
+    "topic_color": "#60a5fa",
+    "priority_score": 133
+  },
+  {
     "title": "TIF1γ regulates stability of regulatory T cells during inflammation",
     "link": "https://www.nature.com/articles/s41590-026-02603-6",
     "journal": "Nature Immunology",
@@ -26,32 +39,6 @@
     "priority_score": 98
   },
   {
-    "title": "Author Correction: Regulatory T cells function in established systemic inflammation and reverse fatal autoimmunity",
-    "link": "https://www.nature.com/articles/s41590-026-02640-1",
-    "journal": "Nature Immunology",
-    "source_type": "journal",
-    "date": "2026-08-10",
-    "summary": "Nature Immunology, Published online: 10 August 2026; doi:10.1038/s41590-026-02640-1 Author Correction: Regulatory T cells function in established systemic inflammation and reverse fatal autoimmunity",
-    "abstract": "Nature Immunology, Published online: 10 August 2026; doi:10.1038/s41590-026-02640-1 Author Correction: Regulatory T cells function in established systemic inflammation and reverse fatal autoimmunity",
-    "image": "data:image/svg+xml;charset=utf-8,%0A%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23450a0a%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23991b1b%22/%3E%0A%20%20%20%20%3C/linearGradient%3E%0A%20%20%20%20%3Cfilter%20id%3D%22blur%22%3E%0A%20%20%20%20%20%20%3CfeGaussianBlur%20stdDeviation%3D%2230%22/%3E%0A%20%20%20%20%3C/filter%3E%0A%20%20%3C/defs%3E%0A%0A%20%20%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22url%28%23bg%29%22/%3E%0A%0A%20%20%3Ccircle%20cx%3D%221030%22%20cy%3D%22110%22%20r%3D%22170%22%20fill%3D%22%23fb7185%22%20opacity%3D%220.18%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%20%20%3Ccircle%20cx%3D%22180%22%20cy%3D%22560%22%20r%3D%22150%22%20fill%3D%22%23fb7185%22%20opacity%3D%220.16%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%0A%20%20%3Crect%20x%3D%2256%22%20y%3D%2252%22%20rx%3D%2218%22%20ry%3D%2218%22%20width%3D%22260%22%20height%3D%2254%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.08%29%22/%3E%0A%20%20%3Ctext%20x%3D%2284%22%20y%3D%2287%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2228%22%20fill%3D%22%23e5e7eb%22%3ENature%20Immunology%3C/text%3E%0A%0A%20%20%3Ctext%20x%3D%221010%22%20y%3D%22560%22%0A%20%20%20%20%20%20%20%20text-anchor%3D%22middle%22%0A%20%20%20%20%20%20%20%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%0A%20%20%20%20%20%20%20%20font-size%3D%22160%22%0A%20%20%20%20%20%20%20%20fill%3D%22%23fb7185%22%0A%20%20%20%20%20%20%20%20opacity%3D%220.85%22%3E%0A%20%20%20%20%E2%96%B2%0A%20%20%3C/text%3E%0A%3C/svg%3E%0A",
-    "topic": "inflammation",
-    "topic_color": "#fb7185",
-    "priority_score": 94
-  },
-  {
-    "title": "Tissue-resident immune cells drive genetic risk in autoimmune and lung diseases",
-    "link": "https://www.nature.com/articles/s41590-026-02596-2",
-    "journal": "Nature Immunology",
-    "source_type": "journal",
-    "date": "2026-08-03",
-    "summary": "Nature Immunology, Published online: 03 August 2026; doi:10.1038/s41590-026-02596-2 Schmiedel et al. present a human lung immune cell atlas linking disease-associated genetic variants to gene expression in tissue-resident immune cells.",
-    "abstract": "Common genetic variants are associated with risk of lung and autoimmune diseases. However, we have a limited understanding of the pathological effects of these disease variants, specifically in tissue-resident immune cells at the frontier of infection and disease in the lung. To address this, we performed single-cell expression quantitative trait locus (eQTL) analysis across 29 distinct immune cell subsets isolated from lung tissue. Colocalization analysis of lung immune cell eQTLs with genome-wide association study (GWAS) signals from lung diseases, and infectious and autoimmune diseases, implicate disease-associated variants and their target genes functioning in a single or restricted group of cell types. Several genes, including ZFP57, showed significant colocalization between lung immune cell eQTLs and GWAS signals from multiple systemic and organ-restricted autoimmune diseases, highlighting shared genetic mechanisms underlying the risk of disease. Overall, our study shows that disease-associated variants from a wide range of autoimmune diseases impact gene expression in tissue-resident immune cell types ( https://lung.dice-database.org ). Schmiedel et al. present a human lung immune cell atlas linking disease-associated genetic variants to gene expression in tissue-resident immune cells.",
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41590-026-02596-2/MediaObjects/41590_2026_2596_Fig1_HTML.png",
-    "topic": "Spatial & Single Cell",
-    "topic_color": "#60a5fa",
-    "priority_score": 93
-  },
-  {
     "title": "Epigenetic modulation of stromal cell states underpins pathological tissue niches in Crohn’s disease",
     "link": "https://www.nature.com/articles/s41590-026-02617-0",
     "journal": "Nature Immunology",
@@ -63,6 +50,19 @@
     "topic": "High-Signal Discovery",
     "topic_color": "#60a5fa",
     "priority_score": 81
+  },
+  {
+    "title": "Peyer’s patch M cells organize an epithelial niche that sustains group 3 innate lymphoid cells and IL-22",
+    "link": "https://www.nature.com/articles/s41590-026-02606-3",
+    "journal": "Nature Immunology",
+    "source_type": "journal",
+    "date": "2026-08-14",
+    "summary": "Nature Immunology, Published online: 14 August 2026; doi:10.1038/s41590-026-02606-3 Belz and colleagues show that Peyer’s patch M cells are required for ILC3 localization, proliferation and IL-22 production within the dome epithelium.",
+    "abstract": "Microfold (M) cells transcytose luminal antigens to initiate mucosal adaptive immunity, but their role in organizing innate responses in Peyer’s patches is unclear. Here we showed that Peyer’s patch M cells organized an epithelial–group 3 innate lymphoid cell (ILC3) axis, establishing a spatial niche within the dome epithelium that drove ILC3 localization, proliferation and IL-22 production. We found that epithelial, but not hematopoietic, SPI-B was required for intestinal IgA responses to establish this niche. Single-cell profiling of intestinal SPI-B+ epithelial cells revealed that M cells were highly heterogeneous, displaying tissue- and pathogen-specific transcriptional programs. Using subset-specific genetic perturbation and whole-mount imaging, we found that this circuit relied on CCR6-dependent positioning cues and RANK–RANKL signaling to ILC3 to regulate Peyer’s patch ILC3 homeostasis. Together, these findings identified Peyer’s patch M cells as organizers that spatially coordinated innate cell localization, proliferation and cytokine production to maintain mucosal barrier defense. Belz and colleagues show that Peyer’s patch M cells are required for ILC3 localization, proliferation and IL-22 production within the dome epithelium.",
+    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41590-026-02606-3/MediaObjects/41590_2026_2606_Fig1_HTML.png",
+    "topic": "inflammation",
+    "topic_color": "#fb7185",
+    "priority_score": 55
   },
   {
     "title": "A wearable patch for continuous levodopa monitoring in sweat: Towards exertion and power-free pharmacodynamic assessment in Parkinson’s disease",
@@ -104,17 +104,69 @@
     "priority_score": 45
   },
   {
-    "title": "Author Correction: The kinase MST4 limits inflammatory responses through direct phosphorylation of the adaptor TRAF6",
-    "link": "https://www.nature.com/articles/s41590-026-02634-z",
+    "title": "Publisher Correction: Targeting cancer-specific mutations with RNA-triggered chromatin shredding",
+    "link": "https://www.nature.com/articles/s41586-026-11022-4",
+    "journal": "Nature",
+    "source_type": "journal",
+    "date": "2026-08-14",
+    "summary": "Nature, Published online: 14 August 2026; doi:10.1038/s41586-026-11022-4 Publisher Correction: Targeting cancer-specific mutations with RNA-triggered chromatin shredding",
+    "abstract": "Nature, Published online: 14 August 2026; doi:10.1038/s41586-026-11022-4 Publisher Correction: Targeting cancer-specific mutations with RNA-triggered chromatin shredding",
+    "image": "data:image/svg+xml;charset=utf-8,%0A%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23111827%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23374151%22/%3E%0A%20%20%20%20%3C/linearGradient%3E%0A%20%20%20%20%3Cfilter%20id%3D%22blur%22%3E%0A%20%20%20%20%20%20%3CfeGaussianBlur%20stdDeviation%3D%2230%22/%3E%0A%20%20%20%20%3C/filter%3E%0A%20%20%3C/defs%3E%0A%0A%20%20%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22url%28%23bg%29%22/%3E%0A%0A%20%20%3Ccircle%20cx%3D%221030%22%20cy%3D%22110%22%20r%3D%22170%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.18%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%20%20%3Ccircle%20cx%3D%22180%22%20cy%3D%22560%22%20r%3D%22150%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.16%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%0A%20%20%3Crect%20x%3D%2256%22%20y%3D%2252%22%20rx%3D%2218%22%20ry%3D%2218%22%20width%3D%22260%22%20height%3D%2254%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.08%29%22/%3E%0A%20%20%3Ctext%20x%3D%2284%22%20y%3D%2287%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2228%22%20fill%3D%22%23e5e7eb%22%3ENature%3C/text%3E%0A%0A%20%20%3Ctext%20x%3D%221010%22%20y%3D%22560%22%0A%20%20%20%20%20%20%20%20text-anchor%3D%22middle%22%0A%20%20%20%20%20%20%20%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%0A%20%20%20%20%20%20%20%20font-size%3D%22160%22%0A%20%20%20%20%20%20%20%20fill%3D%22%2360a5fa%22%0A%20%20%20%20%20%20%20%20opacity%3D%220.85%22%3E%0A%20%20%20%20%E2%80%A2%0A%20%20%3C/text%3E%0A%3C/svg%3E%0A",
+    "topic": "default",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
+    "title": "Undocumented migration does not raise crime rates, huge study finds",
+    "link": "https://www.nature.com/articles/d41586-026-02542-0",
+    "journal": "Nature",
+    "source_type": "journal",
+    "date": "2026-08-14",
+    "summary": "Nature, Published online: 14 August 2026; doi:10.1038/d41586-026-02542-0 Largest study of its kind finds that neighbourhoods with a rise in the number of undocumented migrants did not show a rise in violent crime rates.",
+    "abstract": "Nature, Published online: 14 August 2026; doi:10.1038/d41586-026-02542-0 Largest study of its kind finds that neighbourhoods with a rise in the number of undocumented migrants did not show a rise in violent crime rates.",
+    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-02542-0/d41586-026-02542-0_53116628.jpg",
+    "topic": "default",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
+    "title": "Immune imprinting in a changing world",
+    "link": "https://www.nature.com/articles/s41590-026-02629-w",
     "journal": "Nature Immunology",
     "source_type": "journal",
-    "date": "2026-08-07",
-    "summary": "Nature Immunology, Published online: 07 August 2026; doi:10.1038/s41590-026-02634-z Author Correction: The kinase MST4 limits inflammatory responses through direct phosphorylation of the adaptor TRAF6",
-    "abstract": "Nature Immunology, Published online: 07 August 2026; doi:10.1038/s41590-026-02634-z Author Correction: The kinase MST4 limits inflammatory responses through direct phosphorylation of the adaptor TRAF6",
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41590-026-02634-z/MediaObjects/41590_2026_2634_Fig1_HTML.png",
-    "topic": "inflammation",
-    "topic_color": "#fb7185",
-    "priority_score": 41
+    "date": "2026-08-14",
+    "summary": "Nature Immunology, Published online: 14 August 2026; doi:10.1038/s41590-026-02629-w Research on SARS-CoV-2 shows that effective immunity can arise from a balance between recalling existing immune memory and generating new variant-specific antibodies, with important implications for designing future vaccines.",
+    "abstract": "Nature Immunology, Published online: 14 August 2026; doi:10.1038/s41590-026-02629-w Research on SARS-CoV-2 shows that effective immunity can arise from a balance between recalling existing immune memory and generating new variant-specific antibodies, with important implications for designing future vaccines.",
+    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41590-026-02629-w/MediaObjects/41590_2026_2629_Fig1_HTML.png",
+    "topic": "immunology",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
+    "title": "Accelerating the research response to the Bundibugyo virus emergency",
+    "link": "https://www.nature.com/articles/s41590-026-02623-2",
+    "journal": "Nature Immunology",
+    "source_type": "journal",
+    "date": "2026-08-14",
+    "summary": "Nature Immunology, Published online: 14 August 2026; doi:10.1038/s41590-026-02623-2 In the context of a Public Health Emergency of International Concern, such as the Bundibugyo virus outbreak, the research community requires rapid access to information to guide an effective response. Evidence mapping brings together the available knowledge in a field into a single, organized resource, enabling researchers to rapidly identify priorities, gaps and opportunities for action.",
+    "abstract": "Nature Immunology, Published online: 14 August 2026; doi:10.1038/s41590-026-02623-2 In the context of a Public Health Emergency of International Concern, such as the Bundibugyo virus outbreak, the research community requires rapid access to information to guide an effective response. Evidence mapping brings together the available knowledge in a field into a single, organized resource, enabling researchers to rapidly identify priorities, gaps and opportunities for action.",
+    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41590-026-02623-2/MediaObjects/41590_2026_2623_Fig1_HTML.png",
+    "topic": "immunology",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
+    "title": "Potent type-specific de novo antibodies complement broadly reactive imprinted antibodies in immune responses to SARS-CoV-2 variants",
+    "link": "https://www.nature.com/articles/s41590-026-02613-4",
+    "journal": "Nature Immunology",
+    "source_type": "journal",
+    "date": "2026-08-14",
+    "summary": "Nature Immunology, Published online: 14 August 2026; doi:10.1038/s41590-026-02613-4 Updated SARS-CoV-2 boosters broaden humoral immunity by recalling cross-reactive antibodies and eliciting new less cross-reactive Omicron type-specific antibodies that target distinct RBD epitopes and more potently neutralize recent variants.",
+    "abstract": "Nature Immunology, Published online: 14 August 2026; doi:10.1038/s41590-026-02613-4 Updated SARS-CoV-2 boosters broaden humoral immunity by recalling cross-reactive antibodies and eliciting new less cross-reactive Omicron type-specific antibodies that target distinct RBD epitopes and more potently neutralize recent variants.",
+    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41590-026-02613-4/MediaObjects/41590_2026_2613_Fig1_HTML.png",
+    "topic": "immunology",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
   },
   {
     "title": "Reconstructing disease burden data in armed conflict",
@@ -242,6 +294,19 @@
     "summary": "Nature, Published online: 13 August 2026; doi:10.1038/d41586-026-02525-1 Talent schemes helped to propel China to the forefront of global science. But the system places undue emphasis on prestigious titles as a means to secure career prospects, putting pressure on young researchers.",
     "abstract": "Nature, Published online: 13 August 2026; doi:10.1038/d41586-026-02525-1 Talent schemes helped to propel China to the forefront of global science. But the system places undue emphasis on prestigious titles as a means to secure career prospects, putting pressure on young researchers.",
     "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-02525-1/d41586-026-02525-1_53098502.jpg",
+    "topic": "default",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
+    "title": "Daily briefing: New evidence of the mysterious ‘glueballs’",
+    "link": "https://www.nature.com/articles/d41586-026-02558-6",
+    "journal": "Nature",
+    "source_type": "journal",
+    "date": "2026-08-13",
+    "summary": "Nature, Published online: 13 August 2026; doi:10.1038/d41586-026-02558-6 Physicists have found evidence of a particle made entirely of force-carrying gluons. Plus, what changes to US vaccine recommendations mean for children and the ways food scientists are improving chocolate.",
+    "abstract": "Nature, Published online: 13 August 2026; doi:10.1038/d41586-026-02558-6 Physicists have found evidence of a particle made entirely of force-carrying gluons. Plus, what changes to US vaccine recommendations mean for children and the ways food scientists are improving chocolate.",
+    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-02558-6/d41586-026-02558-6_53122652.png",
     "topic": "default",
     "topic_color": "#60a5fa",
     "priority_score": 0
@@ -416,45 +481,6 @@
     "priority_score": 0
   },
   {
-    "title": "Reply to: Pre-clinical data interpretation requires clinical context",
-    "link": "https://www.nature.com/articles/s41586-026-10773-4",
-    "journal": "Nature",
-    "source_type": "journal",
-    "date": "2026-08-12",
-    "summary": "Nature, Published online: 12 August 2026; doi:10.1038/s41586-026-10773-4 Reply to: Pre-clinical data interpretation requires clinical context",
-    "abstract": "Nature, Published online: 12 August 2026; doi:10.1038/s41586-026-10773-4 Reply to: Pre-clinical data interpretation requires clinical context",
-    "image": "data:image/svg+xml;charset=utf-8,%0A%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23111827%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23374151%22/%3E%0A%20%20%20%20%3C/linearGradient%3E%0A%20%20%20%20%3Cfilter%20id%3D%22blur%22%3E%0A%20%20%20%20%20%20%3CfeGaussianBlur%20stdDeviation%3D%2230%22/%3E%0A%20%20%20%20%3C/filter%3E%0A%20%20%3C/defs%3E%0A%0A%20%20%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22url%28%23bg%29%22/%3E%0A%0A%20%20%3Ccircle%20cx%3D%221030%22%20cy%3D%22110%22%20r%3D%22170%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.18%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%20%20%3Ccircle%20cx%3D%22180%22%20cy%3D%22560%22%20r%3D%22150%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.16%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%0A%20%20%3Crect%20x%3D%2256%22%20y%3D%2252%22%20rx%3D%2218%22%20ry%3D%2218%22%20width%3D%22260%22%20height%3D%2254%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.08%29%22/%3E%0A%20%20%3Ctext%20x%3D%2284%22%20y%3D%2287%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2228%22%20fill%3D%22%23e5e7eb%22%3ENature%3C/text%3E%0A%0A%20%20%3Ctext%20x%3D%221010%22%20y%3D%22560%22%0A%20%20%20%20%20%20%20%20text-anchor%3D%22middle%22%0A%20%20%20%20%20%20%20%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%0A%20%20%20%20%20%20%20%20font-size%3D%22160%22%0A%20%20%20%20%20%20%20%20fill%3D%22%2360a5fa%22%0A%20%20%20%20%20%20%20%20opacity%3D%220.85%22%3E%0A%20%20%20%20%E2%80%A2%0A%20%20%3C/text%3E%0A%3C/svg%3E%0A",
-    "topic": "default",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
-    "title": "Pre-clinical data interpretation requires clinical context",
-    "link": "https://www.nature.com/articles/s41586-026-10774-3",
-    "journal": "Nature",
-    "source_type": "journal",
-    "date": "2026-08-12",
-    "summary": "Nature, Published online: 12 August 2026; doi:10.1038/s41586-026-10774-3 Pre-clinical data interpretation requires clinical context",
-    "abstract": "Nature, Published online: 12 August 2026; doi:10.1038/s41586-026-10774-3 Pre-clinical data interpretation requires clinical context",
-    "image": "data:image/svg+xml;charset=utf-8,%0A%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23111827%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23374151%22/%3E%0A%20%20%20%20%3C/linearGradient%3E%0A%20%20%20%20%3Cfilter%20id%3D%22blur%22%3E%0A%20%20%20%20%20%20%3CfeGaussianBlur%20stdDeviation%3D%2230%22/%3E%0A%20%20%20%20%3C/filter%3E%0A%20%20%3C/defs%3E%0A%0A%20%20%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22url%28%23bg%29%22/%3E%0A%0A%20%20%3Ccircle%20cx%3D%221030%22%20cy%3D%22110%22%20r%3D%22170%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.18%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%20%20%3Ccircle%20cx%3D%22180%22%20cy%3D%22560%22%20r%3D%22150%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.16%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%0A%20%20%3Crect%20x%3D%2256%22%20y%3D%2252%22%20rx%3D%2218%22%20ry%3D%2218%22%20width%3D%22260%22%20height%3D%2254%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.08%29%22/%3E%0A%20%20%3Ctext%20x%3D%2284%22%20y%3D%2287%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2228%22%20fill%3D%22%23e5e7eb%22%3ENature%3C/text%3E%0A%0A%20%20%3Ctext%20x%3D%221010%22%20y%3D%22560%22%0A%20%20%20%20%20%20%20%20text-anchor%3D%22middle%22%0A%20%20%20%20%20%20%20%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%0A%20%20%20%20%20%20%20%20font-size%3D%22160%22%0A%20%20%20%20%20%20%20%20fill%3D%22%2360a5fa%22%0A%20%20%20%20%20%20%20%20opacity%3D%220.85%22%3E%0A%20%20%20%20%E2%80%A2%0A%20%20%3C/text%3E%0A%3C/svg%3E%0A",
-    "topic": "default",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
-    "title": "Giant balloon gives rise to new view of the Milky Way’s centre",
-    "link": "https://www.nature.com/articles/d41586-026-02463-y",
-    "journal": "Nature",
-    "source_type": "journal",
-    "date": "2026-08-12",
-    "summary": "Nature, Published online: 12 August 2026; doi:10.1038/d41586-026-02463-y Airborne camera gathers data about the high-energy particles emanating from the core of our Galaxy.",
-    "abstract": "Nature, Published online: 12 August 2026; doi:10.1038/d41586-026-02463-y Airborne camera gathers data about the high-energy particles emanating from the core of our Galaxy.",
-    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-02463-y/d41586-026-02463-y_53074796.jpg",
-    "topic": "default",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
     "title": "Cross-region neuron co-firing mediated by ripple oscillations supports distributed working memory representations",
     "link": "https://www.nature.com/articles/s41593-026-02403-z",
     "journal": "Nature Neuroscience",
@@ -542,19 +568,6 @@
     "abstract": "Nature Neuroscience, Published online: 11 August 2026; doi:10.1038/s41593-026-02400-2 Using cerebroids, a 3D ex vivo model of the human fetal brain, the authors show that IL-17A, a mediator of maternal immune activation linked to neurodevelopmental disorders, disrupts early human cortical development through NF-κB signaling.",
     "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41593-026-02400-2/MediaObjects/41593_2026_2400_Fig1_HTML.png",
     "topic": "neuroscience",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
-    "title": "Loss of cellular RNA homeostasis contributes to MDA5 activation during virus infection",
-    "link": "https://www.nature.com/articles/s41590-026-02614-3",
-    "journal": "Nature Immunology",
-    "source_type": "journal",
-    "date": "2026-08-11",
-    "summary": "Nature Immunology, Published online: 11 August 2026; doi:10.1038/s41590-026-02614-3 MDA5 detects double-stranded RNA during viral infections. This work shows that MDA5 binds aberrant host RNA induced during viral infection. Rescue of aberrant cytoplasmic RNA during infection abrogated MDA5 activation.",
-    "abstract": "Nature Immunology, Published online: 11 August 2026; doi:10.1038/s41590-026-02614-3 MDA5 detects double-stranded RNA during viral infections. This work shows that MDA5 binds aberrant host RNA induced during viral infection. Rescue of aberrant cytoplasmic RNA during infection abrogated MDA5 activation.",
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41590-026-02614-3/MediaObjects/41590_2026_2614_Fig1_HTML.png",
-    "topic": "immunology",
     "topic_color": "#60a5fa",
     "priority_score": 0
   },
@@ -659,19 +672,6 @@
     "abstract": "Proceedings of the National Academy of Sciences, Volume 123, Issue 32, August 2026. SignificanceForest regeneration is widely promoted as a strategy to restore ecosystem services in the Amazon, yet whether regenerating forests recover climate-regulating functions comparable to primary forests (PF) remains uncertain. We show that climatic ...",
     "image": "data:image/svg+xml;charset=utf-8,%0A%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23111827%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23374151%22/%3E%0A%20%20%20%20%3C/linearGradient%3E%0A%20%20%20%20%3Cfilter%20id%3D%22blur%22%3E%0A%20%20%20%20%20%20%3CfeGaussianBlur%20stdDeviation%3D%2230%22/%3E%0A%20%20%20%20%3C/filter%3E%0A%20%20%3C/defs%3E%0A%0A%20%20%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22url%28%23bg%29%22/%3E%0A%0A%20%20%3Ccircle%20cx%3D%221030%22%20cy%3D%22110%22%20r%3D%22170%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.18%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%20%20%3Ccircle%20cx%3D%22180%22%20cy%3D%22560%22%20r%3D%22150%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.16%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%0A%20%20%3Crect%20x%3D%2256%22%20y%3D%2252%22%20rx%3D%2218%22%20ry%3D%2218%22%20width%3D%22260%22%20height%3D%2254%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.08%29%22/%3E%0A%20%20%3Ctext%20x%3D%2284%22%20y%3D%2287%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2228%22%20fill%3D%22%23e5e7eb%22%3EPNAS%3C/text%3E%0A%0A%20%20%3Ctext%20x%3D%221010%22%20y%3D%22560%22%0A%20%20%20%20%20%20%20%20text-anchor%3D%22middle%22%0A%20%20%20%20%20%20%20%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%0A%20%20%20%20%20%20%20%20font-size%3D%22160%22%0A%20%20%20%20%20%20%20%20fill%3D%22%2360a5fa%22%0A%20%20%20%20%20%20%20%20opacity%3D%220.85%22%3E%0A%20%20%20%20%E2%80%A2%0A%20%20%3C/text%3E%0A%3C/svg%3E%0A",
     "topic": "default",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
-    "title": "Author Correction: 2B or not 2B is the question in DC ontogeny",
-    "link": "https://www.nature.com/articles/s41590-026-02633-0",
-    "journal": "Nature Immunology",
-    "source_type": "journal",
-    "date": "2026-08-03",
-    "summary": "Nature Immunology, Published online: 03 August 2026; doi:10.1038/s41590-026-02633-0 Author Correction: 2B or not 2B is the question in DC ontogeny",
-    "abstract": "Nature Immunology, Published online: 03 August 2026; doi:10.1038/s41590-026-02633-0 Author Correction: 2B or not 2B is the question in DC ontogeny",
-    "image": "data:image/svg+xml;charset=utf-8,%0A%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23111827%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23374151%22/%3E%0A%20%20%20%20%3C/linearGradient%3E%0A%20%20%20%20%3Cfilter%20id%3D%22blur%22%3E%0A%20%20%20%20%20%20%3CfeGaussianBlur%20stdDeviation%3D%2230%22/%3E%0A%20%20%20%20%3C/filter%3E%0A%20%20%3C/defs%3E%0A%0A%20%20%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22url%28%23bg%29%22/%3E%0A%0A%20%20%3Ccircle%20cx%3D%221030%22%20cy%3D%22110%22%20r%3D%22170%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.18%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%20%20%3Ccircle%20cx%3D%22180%22%20cy%3D%22560%22%20r%3D%22150%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.16%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%0A%20%20%3Crect%20x%3D%2256%22%20y%3D%2252%22%20rx%3D%2218%22%20ry%3D%2218%22%20width%3D%22260%22%20height%3D%2254%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.08%29%22/%3E%0A%20%20%3Ctext%20x%3D%2284%22%20y%3D%2287%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2228%22%20fill%3D%22%23e5e7eb%22%3ENature%20Immunology%3C/text%3E%0A%0A%20%20%3Ctext%20x%3D%221010%22%20y%3D%22560%22%0A%20%20%20%20%20%20%20%20text-anchor%3D%22middle%22%0A%20%20%20%20%20%20%20%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%0A%20%20%20%20%20%20%20%20font-size%3D%22160%22%0A%20%20%20%20%20%20%20%20fill%3D%22%2360a5fa%22%0A%20%20%20%20%20%20%20%20opacity%3D%220.85%22%3E%0A%20%20%20%20%E2%80%A2%0A%20%20%3C/text%3E%0A%3C/svg%3E%0A",
-    "topic": "immunology",
     "topic_color": "#60a5fa",
     "priority_score": 0
   },
