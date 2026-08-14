@@ -117,6 +117,45 @@
     "priority_score": 41
   },
   {
+    "title": "Reconstructing disease burden data in armed conflict",
+    "link": "https://www.nature.com/articles/s41591-026-04576-3",
+    "journal": "Nature Medicine",
+    "source_type": "journal",
+    "date": "2026-08-14",
+    "summary": "Nature Medicine, Published online: 14 August 2026; doi:10.1038/s41591-026-04576-3 Reconstructing disease burden data in armed conflict",
+    "abstract": "Nature Medicine, Published online: 14 August 2026; doi:10.1038/s41591-026-04576-3 Reconstructing disease burden data in armed conflict",
+    "image": "data:image/svg+xml;charset=utf-8,%0A%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23111827%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23374151%22/%3E%0A%20%20%20%20%3C/linearGradient%3E%0A%20%20%20%20%3Cfilter%20id%3D%22blur%22%3E%0A%20%20%20%20%20%20%3CfeGaussianBlur%20stdDeviation%3D%2230%22/%3E%0A%20%20%20%20%3C/filter%3E%0A%20%20%3C/defs%3E%0A%0A%20%20%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22url%28%23bg%29%22/%3E%0A%0A%20%20%3Ccircle%20cx%3D%221030%22%20cy%3D%22110%22%20r%3D%22170%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.18%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%20%20%3Ccircle%20cx%3D%22180%22%20cy%3D%22560%22%20r%3D%22150%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.16%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%0A%20%20%3Crect%20x%3D%2256%22%20y%3D%2252%22%20rx%3D%2218%22%20ry%3D%2218%22%20width%3D%22260%22%20height%3D%2254%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.08%29%22/%3E%0A%20%20%3Ctext%20x%3D%2284%22%20y%3D%2287%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2228%22%20fill%3D%22%23e5e7eb%22%3ENature%20Medicine%3C/text%3E%0A%0A%20%20%3Ctext%20x%3D%221010%22%20y%3D%22560%22%0A%20%20%20%20%20%20%20%20text-anchor%3D%22middle%22%0A%20%20%20%20%20%20%20%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%0A%20%20%20%20%20%20%20%20font-size%3D%22160%22%0A%20%20%20%20%20%20%20%20fill%3D%22%2360a5fa%22%0A%20%20%20%20%20%20%20%20opacity%3D%220.85%22%3E%0A%20%20%20%20%E2%80%A2%0A%20%20%3C/text%3E%0A%3C/svg%3E%0A",
+    "topic": "default",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
+    "title": "An AI-Health infrastructure for the Nordic region: technical foundations, data assets, and a roadmap for deployment",
+    "link": "https://www.nature.com/articles/s41591-026-04575-4",
+    "journal": "Nature Medicine",
+    "source_type": "journal",
+    "date": "2026-08-14",
+    "summary": "Nature Medicine, Published online: 14 August 2026; doi:10.1038/s41591-026-04575-4 In this Comment, we outline the Nordic AI-Health Initiative platform, built on unique large-scale longitudinal and multimodal health data sets from across the region. The platform is designed to enable secure, regulation-compliant access and to deliver generalizable models for responsible AI-driven discovery in medicine.",
+    "abstract": "Nature Medicine, Published online: 14 August 2026; doi:10.1038/s41591-026-04575-4 In this Comment, we outline the Nordic AI-Health Initiative platform, built on unique large-scale longitudinal and multimodal health data sets from across the region. The platform is designed to enable secure, regulation-compliant access and to deliver generalizable models for responsible AI-driven discovery in medicine.",
+    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41591-026-04575-4/MediaObjects/41591_2026_4575_Fig1_HTML.png",
+    "topic": "default",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
+    "title": "Histological aging signatures for monitoring tissue-specific aging and disease",
+    "link": "https://www.nature.com/articles/s41591-026-04566-5",
+    "journal": "Nature Medicine",
+    "source_type": "journal",
+    "date": "2026-08-14",
+    "summary": "Nature Medicine, Published online: 14 August 2026; doi:10.1038/s41591-026-04566-5 Whole-slide histopathological images from 40 tissue types reveal morphological changes associated with aging, which, when paired with transcriptomic data from blood, are used to develop aging clocks that reflect tissue structural integrity and organ-level physiological fitness in health and disease.",
+    "abstract": "Nature Medicine, Published online: 14 August 2026; doi:10.1038/s41591-026-04566-5 Whole-slide histopathological images from 40 tissue types reveal morphological changes associated with aging, which, when paired with transcriptomic data from blood, are used to develop aging clocks that reflect tissue structural integrity and organ-level physiological fitness in health and disease.",
+    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41591-026-04566-5/MediaObjects/41591_2026_4566_Fig1_HTML.png",
+    "topic": "default",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
     "title": "A new explanation of why the universe’s supply of nuclear matter is fixed?",
     "link": "https://www.science.org/content/article/new-explanation-why-universe-s-supply-nuclear-matter-fixed",
     "journal": "Science",
@@ -455,32 +494,6 @@
     "priority_score": 0
   },
   {
-    "title": "Sleep as therapy",
-    "link": "https://www.nature.com/articles/s41591-026-04582-5",
-    "journal": "Nature Medicine",
-    "source_type": "journal",
-    "date": "2026-08-12",
-    "summary": "Nature Medicine, Published online: 12 August 2026; doi:10.1038/s41591-026-04582-5 Once seen as a symptom, disrupted sleep is emerging as a modifiable driver of chronic illness. Drugmakers are targeting sleep pathways to reshape chronic disease biology, from pain to depression.",
-    "abstract": "Nature Medicine, Published online: 12 August 2026; doi:10.1038/s41591-026-04582-5 Once seen as a symptom, disrupted sleep is emerging as a modifiable driver of chronic illness. Drugmakers are targeting sleep pathways to reshape chronic disease biology, from pain to depression.",
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41591-026-04582-5/MediaObjects/41591_2026_4582_Figa_HTML.png",
-    "topic": "default",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
-    "title": "First-line PD-1/VEGF bispecific antibody plus chemotherapy in triple-negative breast cancer: a phase 2 trial",
-    "link": "https://www.nature.com/articles/s41591-026-04564-7",
-    "journal": "Nature Medicine",
-    "source_type": "journal",
-    "date": "2026-08-12",
-    "summary": "Nature Medicine, Published online: 12 August 2026; doi:10.1038/s41591-026-04564-7 In a multicenter, phase 2 trial, patients with treatment-naive locally advanced unresectable or metastatic triple-negative breast cancer were treated with the PD-1/vascular endothelial growth factor bispecific antibody ivonescimab plus chemotherapy, resulting in encouraging preliminary objective response rates, which support further testing in a large, randomized, phase 3 trial.",
-    "abstract": "Nature Medicine, Published online: 12 August 2026; doi:10.1038/s41591-026-04564-7 In a multicenter, phase 2 trial, patients with treatment-naive locally advanced unresectable or metastatic triple-negative breast cancer were treated with the PD-1/vascular endothelial growth factor bispecific antibody ivonescimab plus chemotherapy, resulting in encouraging preliminary objective response rates, which support further testing in a large, randomized, phase 3 trial.",
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41591-026-04564-7/MediaObjects/41591_2026_4564_Fig1_HTML.png",
-    "topic": "default",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
     "title": "In This Issue",
     "link": "https://www.pnas.org/doi/abs/10.1073/iti3226123?af=R",
     "journal": "PNAS",
@@ -542,19 +555,6 @@
     "abstract": "Nature Immunology, Published online: 11 August 2026; doi:10.1038/s41590-026-02614-3 MDA5 detects double-stranded RNA during viral infections. This work shows that MDA5 binds aberrant host RNA induced during viral infection. Rescue of aberrant cytoplasmic RNA during infection abrogated MDA5 activation.",
     "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41590-026-02614-3/MediaObjects/41590_2026_2614_Fig1_HTML.png",
     "topic": "immunology",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
-    "title": "From RAS inhibitor resistance to rational combination strategies",
-    "link": "https://www.nature.com/articles/s41591-026-04529-w",
-    "journal": "Nature Medicine",
-    "source_type": "journal",
-    "date": "2026-08-11",
-    "summary": "Nature Medicine, Published online: 11 August 2026; doi:10.1038/s41591-026-04529-w As new drugs that target mutant RAS redefine the therapeutic landscape in the treatment of pancreatic cancer, understanding and intercepting resistance is critical; a new study reveals mechanisms of acquired genetic resistance to daraxonrasib, highlighting putative combination approaches.",
-    "abstract": "Nature Medicine, Published online: 11 August 2026; doi:10.1038/s41591-026-04529-w As new drugs that target mutant RAS redefine the therapeutic landscape in the treatment of pancreatic cancer, understanding and intercepting resistance is critical; a new study reveals mechanisms of acquired genetic resistance to daraxonrasib, highlighting putative combination approaches.",
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41591-026-04529-w/MediaObjects/41591_2026_4529_Fig1_HTML.png",
-    "topic": "default",
     "topic_color": "#60a5fa",
     "priority_score": 0
   },
