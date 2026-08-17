@@ -13,6 +13,19 @@
     "priority_score": 186
   },
   {
+    "title": "A novel CAF population coordinates hyper-suppressive regulatory T cell recruitment and localization in lung cancer",
+    "link": "https://www.nature.com/articles/s41590-026-02607-2",
+    "journal": "Nature Immunology",
+    "source_type": "journal",
+    "date": "2026-08-11",
+    "summary": "Nature Immunology, Published online: 11 August 2026; doi:10.1038/s41590-026-02607-2 Ringham et al. identify immunomodulatory cancer-associated fibroblasts that influence regulatory T cell dynamics in lung cancer.",
+    "abstract": "Across many solid tumor types, cancer-associated fibroblasts (CAFs) are abundant and heterogeneous, with distinct subpopulations exerting immunomodulatory functions. Here we identify a novel population of immunomodulatory CAFs (imCAFs) in primary lung adenocarcinoma and pulmonary metastases, characterized by cell adhesion molecule L1-like (CHL1) expression and enriched in immune regulation and chemokine signaling programs. Through single-cell and spatial transcriptomics, we demonstrate that imCAFs are spatially colocalized with CXCR3+ regulatory T (Treg) cells, a hyper-suppressive subset accumulating at the tumor border. imCAFs produce CXCL9, driving CXCR3+ Treg cell recruitment and promoting an immunosuppressive microenvironment. CXCR3+ Treg cells display enhanced proliferative and suppressive capacity and are transcriptionally distinct from CXCR3− counterparts. Genetic ablation of Cxcr3 in Treg cells or Cxcl9 in stromal cells reduces Treg cell accumulation, enhances CD8+ T cell activation and decreases tumor burden. Analogous CHL1+ imCAF-like fibroblasts in human non-small cell lung cancer colocalize with Treg cells, and elevated CHL1 expression is associated with reduced cytotoxicity and decreased progression-free survival, highlighting the imCAF–CXCL9–CXCR3+ Treg axis as a promising therapeutic target. Ringham et al. identify immunomodulatory cancer-associated fibroblasts that influence regulatory T cell dynamics in lung cancer.",
+    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41590-026-02607-2/MediaObjects/41590_2026_2607_Fig1_HTML.png",
+    "topic": "Spatial & Single Cell",
+    "topic_color": "#60a5fa",
+    "priority_score": 159
+  },
+  {
     "title": "TIF1γ holds the line against regulatory T cell plasticity",
     "link": "https://www.nature.com/articles/s41590-026-02620-5",
     "journal": "Nature Immunology",
@@ -26,17 +39,30 @@
     "priority_score": 133
   },
   {
-    "title": "A NOD2 to the endothelium for protective gut immunity",
-    "link": "https://www.nature.com/articles/s41590-026-02626-z",
+    "title": "TIF1γ regulates stability of regulatory T cells during inflammation",
+    "link": "https://www.nature.com/articles/s41590-026-02603-6",
     "journal": "Nature Immunology",
     "source_type": "journal",
-    "date": "2026-08-17",
-    "summary": "Nature Immunology, Published online: 17 August 2026; doi:10.1038/s41590-026-02626-z Endothelial cells form the cell migration highways between organs. New results demonstrate that NOD2-dependent microbial sensing by these structural cells promotes antigen-specific T cell accumulation in gut-associated lymphoid tissues and protective mucosal immunity.",
-    "abstract": "Nature Immunology, Published online: 17 August 2026; doi:10.1038/s41590-026-02626-z Endothelial cells form the cell migration highways between organs. New results demonstrate that NOD2-dependent microbial sensing by these structural cells promotes antigen-specific T cell accumulation in gut-associated lymphoid tissues and protective mucosal immunity.",
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41590-026-02626-z/MediaObjects/41590_2026_2626_Fig1_HTML.png",
-    "topic": "Immunology",
+    "date": "2026-08-11",
+    "summary": "Nature Immunology, Published online: 11 August 2026; doi:10.1038/s41590-026-02603-6 This study identifies TIF1γ as a critical regulator of regulatory T cell stability during inflammation. By restraining β-catenin–TCF7 signaling, TIF1γ preserves Foxp3 expression, prevents inflammatory reprogramming and maintains immune tolerance.",
+    "abstract": "Nature Immunology, Published online: 11 August 2026; doi:10.1038/s41590-026-02603-6 This study identifies TIF1γ as a critical regulator of regulatory T cell stability during inflammation. By restraining β-catenin–TCF7 signaling, TIF1γ preserves Foxp3 expression, prevents inflammatory reprogramming and maintains immune tolerance.",
+    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41590-026-02603-6/MediaObjects/41590_2026_2603_Fig1_HTML.png",
+    "topic": "inflammation",
+    "topic_color": "#fb7185",
+    "priority_score": 98
+  },
+  {
+    "title": "Epigenetic modulation of stromal cell states underpins pathological tissue niches in Crohn’s disease",
+    "link": "https://www.nature.com/articles/s41590-026-02617-0",
+    "journal": "Nature Immunology",
+    "source_type": "journal",
+    "date": "2026-08-12",
+    "summary": "Nature Immunology, Published online: 12 August 2026; doi:10.1038/s41590-026-02617-0 The authors provide a multiomic single-cell and spatial atlas of Crohn’s disease, focusing on the crosstalk between immune and stromal cells and heterogeneity around mucosal lesions.",
+    "abstract": "Nature Immunology, Published online: 12 August 2026; doi:10.1038/s41590-026-02617-0 The authors provide a multiomic single-cell and spatial atlas of Crohn’s disease, focusing on the crosstalk between immune and stromal cells and heterogeneity around mucosal lesions.",
+    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41590-026-02617-0/MediaObjects/41590_2026_2617_Fig1_HTML.png",
+    "topic": "High-Signal Discovery",
     "topic_color": "#60a5fa",
-    "priority_score": 93
+    "priority_score": 81
   },
   {
     "title": "Peyer’s patch M cells organize an epithelial niche that sustains group 3 innate lymphoid cells and IL-22",
@@ -76,32 +102,6 @@
     "topic": "neurodegeneration",
     "topic_color": "#fda4af",
     "priority_score": 45
-  },
-  {
-    "title": "Author Correction: IL-17D-induced inhibition of DDX5 expression in keratinocytes amplifies IL-36R-mediated skin inflammation",
-    "link": "https://www.nature.com/articles/s41590-026-02636-x",
-    "journal": "Nature Immunology",
-    "source_type": "journal",
-    "date": "2026-08-17",
-    "summary": "Nature Immunology, Published online: 17 August 2026; doi:10.1038/s41590-026-02636-x Author Correction: IL-17D-induced inhibition of DDX5 expression in keratinocytes amplifies IL-36R-mediated skin inflammation",
-    "abstract": "Nature Immunology, Published online: 17 August 2026; doi:10.1038/s41590-026-02636-x Author Correction: IL-17D-induced inhibition of DDX5 expression in keratinocytes amplifies IL-36R-mediated skin inflammation",
-    "image": "data:image/svg+xml;charset=utf-8,%0A%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23450a0a%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23991b1b%22/%3E%0A%20%20%20%20%3C/linearGradient%3E%0A%20%20%20%20%3Cfilter%20id%3D%22blur%22%3E%0A%20%20%20%20%20%20%3CfeGaussianBlur%20stdDeviation%3D%2230%22/%3E%0A%20%20%20%20%3C/filter%3E%0A%20%20%3C/defs%3E%0A%0A%20%20%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22url%28%23bg%29%22/%3E%0A%0A%20%20%3Ccircle%20cx%3D%221030%22%20cy%3D%22110%22%20r%3D%22170%22%20fill%3D%22%23fb7185%22%20opacity%3D%220.18%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%20%20%3Ccircle%20cx%3D%22180%22%20cy%3D%22560%22%20r%3D%22150%22%20fill%3D%22%23fb7185%22%20opacity%3D%220.16%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%0A%20%20%3Crect%20x%3D%2256%22%20y%3D%2252%22%20rx%3D%2218%22%20ry%3D%2218%22%20width%3D%22260%22%20height%3D%2254%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.08%29%22/%3E%0A%20%20%3Ctext%20x%3D%2284%22%20y%3D%2287%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2228%22%20fill%3D%22%23e5e7eb%22%3ENature%20Immunology%3C/text%3E%0A%0A%20%20%3Ctext%20x%3D%221010%22%20y%3D%22560%22%0A%20%20%20%20%20%20%20%20text-anchor%3D%22middle%22%0A%20%20%20%20%20%20%20%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%0A%20%20%20%20%20%20%20%20font-size%3D%22160%22%0A%20%20%20%20%20%20%20%20fill%3D%22%23fb7185%22%0A%20%20%20%20%20%20%20%20opacity%3D%220.85%22%3E%0A%20%20%20%20%E2%96%B2%0A%20%20%3C/text%3E%0A%3C/svg%3E%0A",
-    "topic": "inflammation",
-    "topic_color": "#fb7185",
-    "priority_score": 41
-  },
-  {
-    "title": "Mind the Notch as AXL<sup>+</sup> DC3s creep through the gap",
-    "link": "https://www.nature.com/articles/s41590-026-02625-0",
-    "journal": "Nature Immunology",
-    "source_type": "journal",
-    "date": "2026-08-17",
-    "summary": "Nature Immunology, Published online: 17 August 2026; doi:10.1038/s41590-026-02625-0 Notch2 deletion in dendritic cells (DCs), already known to impair type 2a DC development and intestinal immunity, is now demonstrated to promote dysbiosis and unleash inflammatory AXL-expressing type 3 DCs, driving preclinical autoimmunity.",
-    "abstract": "Nature Immunology, Published online: 17 August 2026; doi:10.1038/s41590-026-02625-0 Notch2 deletion in dendritic cells (DCs), already known to impair type 2a DC development and intestinal immunity, is now demonstrated to promote dysbiosis and unleash inflammatory AXL-expressing type 3 DCs, driving preclinical autoimmunity.",
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41590-026-02625-0/MediaObjects/41590_2026_2625_Fig1_HTML.png",
-    "topic": "inflammation",
-    "topic_color": "#fb7185",
-    "priority_score": 29
   },
   {
     "title": "NIH plan to keep peer-review scores for grants secret draws concern",
@@ -273,19 +273,6 @@
     "priority_score": 0
   },
   {
-    "title": "Where risk resides",
-    "link": "https://www.nature.com/articles/s41590-026-02621-4",
-    "journal": "Nature Immunology",
-    "source_type": "journal",
-    "date": "2026-08-17",
-    "summary": "Nature Immunology, Published online: 17 August 2026; doi:10.1038/s41590-026-02621-4 A comprehensive atlas of tissue-resident immune cells reveals where disease-risk variants regulate gene expression, helping connect genome-wide association study signals to disease mechanisms.",
-    "abstract": "Nature Immunology, Published online: 17 August 2026; doi:10.1038/s41590-026-02621-4 A comprehensive atlas of tissue-resident immune cells reveals where disease-risk variants regulate gene expression, helping connect genome-wide association study signals to disease mechanisms.",
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41590-026-02621-4/MediaObjects/41590_2026_2621_Fig1_HTML.png",
-    "topic": "immunology",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
     "title": "Emergence and spread of <i>Plasmodium falciparum</i> PX1 polymorphisms associated with decreased susceptibility to antimalarials in Uganda",
     "link": "https://www.nature.com/articles/s41591-026-04590-5",
     "journal": "Nature Medicine",
@@ -424,6 +411,19 @@
     "summary": "Nature Immunology, Published online: 14 August 2026; doi:10.1038/s41590-026-02623-2 In the context of a Public Health Emergency of International Concern, such as the Bundibugyo virus outbreak, the research community requires rapid access to information to guide an effective response. Evidence mapping brings together the available knowledge in a field into a single, organized resource, enabling researchers to rapidly identify priorities, gaps and opportunities for action.",
     "abstract": "Nature Immunology, Published online: 14 August 2026; doi:10.1038/s41590-026-02623-2 In the context of a Public Health Emergency of International Concern, such as the Bundibugyo virus outbreak, the research community requires rapid access to information to guide an effective response. Evidence mapping brings together the available knowledge in a field into a single, organized resource, enabling researchers to rapidly identify priorities, gaps and opportunities for action.",
     "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41590-026-02623-2/MediaObjects/41590_2026_2623_Fig1_HTML.png",
+    "topic": "immunology",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
+    "title": "Potent type-specific de novo antibodies complement broadly reactive imprinted antibodies in immune responses to SARS-CoV-2 variants",
+    "link": "https://www.nature.com/articles/s41590-026-02613-4",
+    "journal": "Nature Immunology",
+    "source_type": "journal",
+    "date": "2026-08-14",
+    "summary": "Nature Immunology, Published online: 14 August 2026; doi:10.1038/s41590-026-02613-4 Updated SARS-CoV-2 boosters broaden humoral immunity by recalling cross-reactive antibodies and eliciting new less cross-reactive Omicron type-specific antibodies that target distinct RBD epitopes and more potently neutralize recent variants.",
+    "abstract": "Nature Immunology, Published online: 14 August 2026; doi:10.1038/s41590-026-02613-4 Updated SARS-CoV-2 boosters broaden humoral immunity by recalling cross-reactive antibodies and eliciting new less cross-reactive Omicron type-specific antibodies that target distinct RBD epitopes and more potently neutralize recent variants.",
+    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41590-026-02613-4/MediaObjects/41590_2026_2613_Fig1_HTML.png",
     "topic": "immunology",
     "topic_color": "#60a5fa",
     "priority_score": 0
