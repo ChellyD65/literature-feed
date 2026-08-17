@@ -1,16 +1,16 @@
 [
   {
-    "title": "A novel CAF population coordinates hyper-suppressive regulatory T cell recruitment and localization in lung cancer",
-    "link": "https://www.nature.com/articles/s41590-026-02607-2",
-    "journal": "Nature Immunology",
+    "title": "Microglia activation by derepression of endogenous retroviruses drives inflammation and cellular senescence",
+    "link": "https://www.nature.com/articles/s41593-026-02404-y",
+    "journal": "Nature Neuroscience",
     "source_type": "journal",
-    "date": "2026-08-11",
-    "summary": "Nature Immunology, Published online: 11 August 2026; doi:10.1038/s41590-026-02607-2 Ringham et al. identify immunomodulatory cancer-associated fibroblasts that influence regulatory T cell dynamics in lung cancer.",
-    "abstract": "Across many solid tumor types, cancer-associated fibroblasts (CAFs) are abundant and heterogeneous, with distinct subpopulations exerting immunomodulatory functions. Here we identify a novel population of immunomodulatory CAFs (imCAFs) in primary lung adenocarcinoma and pulmonary metastases, characterized by cell adhesion molecule L1-like (CHL1) expression and enriched in immune regulation and chemokine signaling programs. Through single-cell and spatial transcriptomics, we demonstrate that imCAFs are spatially colocalized with CXCR3+ regulatory T (Treg) cells, a hyper-suppressive subset accumulating at the tumor border. imCAFs produce CXCL9, driving CXCR3+ Treg cell recruitment and promoting an immunosuppressive microenvironment. CXCR3+ Treg cells display enhanced proliferative and suppressive capacity and are transcriptionally distinct from CXCR3− counterparts. Genetic ablation of Cxcr3 in Treg cells or Cxcl9 in stromal cells reduces Treg cell accumulation, enhances CD8+ T cell activation and decreases tumor burden. Analogous CHL1+ imCAF-like fibroblasts in human non-small cell lung cancer colocalize with Treg cells, and elevated CHL1 expression is associated with reduced cytotoxicity and decreased progression-free survival, highlighting the imCAF–CXCL9–CXCR3+ Treg axis as a promising therapeutic target. Ringham et al. identify immunomodulatory cancer-associated fibroblasts that influence regulatory T cell dynamics in lung cancer.",
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41590-026-02607-2/MediaObjects/41590_2026_2607_Fig1_HTML.png",
-    "topic": "Spatial & Single Cell",
-    "topic_color": "#60a5fa",
-    "priority_score": 159
+    "date": "2026-08-17",
+    "summary": "Nature Neuroscience, Published online: 17 August 2026; doi:10.1038/s41593-026-02404-y Reawakening of endogenous retroviruses due to loss of chromatin compaction causes microglia to acquire aging-associated features, leading to perturbed tissue homeostasis and behavior.",
+    "abstract": "Nature Neuroscience, Published online: 17 August 2026; doi:10.1038/s41593-026-02404-y Reawakening of endogenous retroviruses due to loss of chromatin compaction causes microglia to acquire aging-associated features, leading to perturbed tissue homeostasis and behavior.",
+    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41593-026-02404-y/MediaObjects/41593_2026_2404_Fig1_HTML.png",
+    "topic": "microglia",
+    "topic_color": "#38bdf8",
+    "priority_score": 186
   },
   {
     "title": "TIF1γ holds the line against regulatory T cell plasticity",
@@ -26,30 +26,17 @@
     "priority_score": 133
   },
   {
-    "title": "TIF1γ regulates stability of regulatory T cells during inflammation",
-    "link": "https://www.nature.com/articles/s41590-026-02603-6",
+    "title": "A NOD2 to the endothelium for protective gut immunity",
+    "link": "https://www.nature.com/articles/s41590-026-02626-z",
     "journal": "Nature Immunology",
     "source_type": "journal",
-    "date": "2026-08-11",
-    "summary": "Nature Immunology, Published online: 11 August 2026; doi:10.1038/s41590-026-02603-6 This study identifies TIF1γ as a critical regulator of regulatory T cell stability during inflammation. By restraining β-catenin–TCF7 signaling, TIF1γ preserves Foxp3 expression, prevents inflammatory reprogramming and maintains immune tolerance.",
-    "abstract": "Nature Immunology, Published online: 11 August 2026; doi:10.1038/s41590-026-02603-6 This study identifies TIF1γ as a critical regulator of regulatory T cell stability during inflammation. By restraining β-catenin–TCF7 signaling, TIF1γ preserves Foxp3 expression, prevents inflammatory reprogramming and maintains immune tolerance.",
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41590-026-02603-6/MediaObjects/41590_2026_2603_Fig1_HTML.png",
-    "topic": "inflammation",
-    "topic_color": "#fb7185",
-    "priority_score": 98
-  },
-  {
-    "title": "Epigenetic modulation of stromal cell states underpins pathological tissue niches in Crohn’s disease",
-    "link": "https://www.nature.com/articles/s41590-026-02617-0",
-    "journal": "Nature Immunology",
-    "source_type": "journal",
-    "date": "2026-08-12",
-    "summary": "Nature Immunology, Published online: 12 August 2026; doi:10.1038/s41590-026-02617-0 The authors provide a multiomic single-cell and spatial atlas of Crohn’s disease, focusing on the crosstalk between immune and stromal cells and heterogeneity around mucosal lesions.",
-    "abstract": "Nature Immunology, Published online: 12 August 2026; doi:10.1038/s41590-026-02617-0 The authors provide a multiomic single-cell and spatial atlas of Crohn’s disease, focusing on the crosstalk between immune and stromal cells and heterogeneity around mucosal lesions.",
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41590-026-02617-0/MediaObjects/41590_2026_2617_Fig1_HTML.png",
-    "topic": "High-Signal Discovery",
+    "date": "2026-08-17",
+    "summary": "Nature Immunology, Published online: 17 August 2026; doi:10.1038/s41590-026-02626-z Endothelial cells form the cell migration highways between organs. New results demonstrate that NOD2-dependent microbial sensing by these structural cells promotes antigen-specific T cell accumulation in gut-associated lymphoid tissues and protective mucosal immunity.",
+    "abstract": "Nature Immunology, Published online: 17 August 2026; doi:10.1038/s41590-026-02626-z Endothelial cells form the cell migration highways between organs. New results demonstrate that NOD2-dependent microbial sensing by these structural cells promotes antigen-specific T cell accumulation in gut-associated lymphoid tissues and protective mucosal immunity.",
+    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41590-026-02626-z/MediaObjects/41590_2026_2626_Fig1_HTML.png",
+    "topic": "Immunology",
     "topic_color": "#60a5fa",
-    "priority_score": 81
+    "priority_score": 93
   },
   {
     "title": "Peyer’s patch M cells organize an epithelial niche that sustains group 3 innate lymphoid cells and IL-22",
@@ -104,6 +91,19 @@
     "priority_score": 45
   },
   {
+    "title": "Mind the Notch as AXL<sup>+</sup> DC3s creep through the gap",
+    "link": "https://www.nature.com/articles/s41590-026-02625-0",
+    "journal": "Nature Immunology",
+    "source_type": "journal",
+    "date": "2026-08-17",
+    "summary": "Nature Immunology, Published online: 17 August 2026; doi:10.1038/s41590-026-02625-0 Notch2 deletion in dendritic cells (DCs), already known to impair type 2a DC development and intestinal immunity, is now demonstrated to promote dysbiosis and unleash inflammatory AXL-expressing type 3 DCs, driving preclinical autoimmunity.",
+    "abstract": "Nature Immunology, Published online: 17 August 2026; doi:10.1038/s41590-026-02625-0 Notch2 deletion in dendritic cells (DCs), already known to impair type 2a DC development and intestinal immunity, is now demonstrated to promote dysbiosis and unleash inflammatory AXL-expressing type 3 DCs, driving preclinical autoimmunity.",
+    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41590-026-02625-0/MediaObjects/41590_2026_2625_Fig1_HTML.png",
+    "topic": "inflammation",
+    "topic_color": "#fb7185",
+    "priority_score": 29
+  },
+  {
     "title": "How the story of life and our planet unfolded — together",
     "link": "https://www.nature.com/articles/d41586-026-02530-4",
     "journal": "Nature",
@@ -125,6 +125,45 @@
     "summary": "Nature, Published online: 17 August 2026; doi:10.1038/d41586-026-02526-0 Letting powerful academics off the hook and punishing the people they bullied sends the message that abuse is acceptable in academia.",
     "abstract": "Nature, Published online: 17 August 2026; doi:10.1038/d41586-026-02526-0 Letting powerful academics off the hook and punishing the people they bullied sends the message that abuse is acceptable in academia.",
     "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-02526-0/d41586-026-02526-0_53064482.jpg",
+    "topic": "default",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
+    "title": "Reusable modular architecture enables flexible cognitive operations in the mouse brain and artificial recurrent networks",
+    "link": "https://www.nature.com/articles/s41593-026-02410-0",
+    "journal": "Nature Neuroscience",
+    "source_type": "journal",
+    "date": "2026-08-17",
+    "summary": "Nature Neuroscience, Published online: 17 August 2026; doi:10.1038/s41593-026-02410-0 Mice flexibly reuse neurons specialized for stimulus processing and memory maintenance, regardless of the content, providing evidence for reusable modular organization in the brain.",
+    "abstract": "Nature Neuroscience, Published online: 17 August 2026; doi:10.1038/s41593-026-02410-0 Mice flexibly reuse neurons specialized for stimulus processing and memory maintenance, regardless of the content, providing evidence for reusable modular organization in the brain.",
+    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41593-026-02410-0/MediaObjects/41593_2026_2410_Fig1_HTML.png",
+    "topic": "neuroscience",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
+    "title": "Where risk resides",
+    "link": "https://www.nature.com/articles/s41590-026-02621-4",
+    "journal": "Nature Immunology",
+    "source_type": "journal",
+    "date": "2026-08-17",
+    "summary": "Nature Immunology, Published online: 17 August 2026; doi:10.1038/s41590-026-02621-4 A comprehensive atlas of tissue-resident immune cells reveals where disease-risk variants regulate gene expression, helping connect genome-wide association study signals to disease mechanisms.",
+    "abstract": "Nature Immunology, Published online: 17 August 2026; doi:10.1038/s41590-026-02621-4 A comprehensive atlas of tissue-resident immune cells reveals where disease-risk variants regulate gene expression, helping connect genome-wide association study signals to disease mechanisms.",
+    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41590-026-02621-4/MediaObjects/41590_2026_2621_Fig1_HTML.png",
+    "topic": "immunology",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
+    "title": "Emergence and spread of <i>Plasmodium falciparum</i> PX1 polymorphisms associated with decreased susceptibility to antimalarials in Uganda",
+    "link": "https://www.nature.com/articles/s41591-026-04590-5",
+    "journal": "Nature Medicine",
+    "source_type": "journal",
+    "date": "2026-08-17",
+    "summary": "Nature Medicine, Published online: 17 August 2026; doi:10.1038/s41591-026-04590-5 Whole-genome sequencing of clinical isolates of Plasmodium falciparum in Uganda reveals rapid selection of a PX1-associated haplotype linked to reduced susceptibility to commonly used antimalarials.",
+    "abstract": "Nature Medicine, Published online: 17 August 2026; doi:10.1038/s41591-026-04590-5 Whole-genome sequencing of clinical isolates of Plasmodium falciparum in Uganda reveals rapid selection of a PX1-associated haplotype linked to reduced susceptibility to commonly used antimalarials.",
+    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41591-026-04590-5/MediaObjects/41591_2026_4590_Fig1_HTML.png",
     "topic": "default",
     "topic_color": "#60a5fa",
     "priority_score": 0
@@ -520,19 +559,6 @@
     "priority_score": 0
   },
   {
-    "title": "Frugal AI is the missing piece in cervical cancer screening",
-    "link": "https://www.nature.com/articles/s41591-026-04568-3",
-    "journal": "Nature Medicine",
-    "source_type": "journal",
-    "date": "2026-08-12",
-    "summary": "Nature Medicine, Published online: 12 August 2026; doi:10.1038/s41591-026-04568-3 Automated visual evaluation (AVE) could be transformative for cervical cancer screening in low-resource settings. However, AVE research has yet to yield robust clinical tools. Frugal approaches are needed that emphasize efficient, multimodal models, explainable outputs, local calibration and evaluation in real-world screening workflows.",
-    "abstract": "Nature Medicine, Published online: 12 August 2026; doi:10.1038/s41591-026-04568-3 Automated visual evaluation (AVE) could be transformative for cervical cancer screening in low-resource settings. However, AVE research has yet to yield robust clinical tools. Frugal approaches are needed that emphasize efficient, multimodal models, explainable outputs, local calibration and evaluation in real-world screening workflows.",
-    "image": "data:image/svg+xml;charset=utf-8,%0A%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23111827%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23374151%22/%3E%0A%20%20%20%20%3C/linearGradient%3E%0A%20%20%20%20%3Cfilter%20id%3D%22blur%22%3E%0A%20%20%20%20%20%20%3CfeGaussianBlur%20stdDeviation%3D%2230%22/%3E%0A%20%20%20%20%3C/filter%3E%0A%20%20%3C/defs%3E%0A%0A%20%20%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22url%28%23bg%29%22/%3E%0A%0A%20%20%3Ccircle%20cx%3D%221030%22%20cy%3D%22110%22%20r%3D%22170%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.18%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%20%20%3Ccircle%20cx%3D%22180%22%20cy%3D%22560%22%20r%3D%22150%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.16%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%0A%20%20%3Crect%20x%3D%2256%22%20y%3D%2252%22%20rx%3D%2218%22%20ry%3D%2218%22%20width%3D%22260%22%20height%3D%2254%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.08%29%22/%3E%0A%20%20%3Ctext%20x%3D%2284%22%20y%3D%2287%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2228%22%20fill%3D%22%23e5e7eb%22%3ENature%20Medicine%3C/text%3E%0A%0A%20%20%3Ctext%20x%3D%221010%22%20y%3D%22560%22%0A%20%20%20%20%20%20%20%20text-anchor%3D%22middle%22%0A%20%20%20%20%20%20%20%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%0A%20%20%20%20%20%20%20%20font-size%3D%22160%22%0A%20%20%20%20%20%20%20%20fill%3D%22%2360a5fa%22%0A%20%20%20%20%20%20%20%20opacity%3D%220.85%22%3E%0A%20%20%20%20%E2%80%A2%0A%20%20%3C/text%3E%0A%3C/svg%3E%0A",
-    "topic": "default",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
     "title": "In This Issue",
     "link": "https://www.pnas.org/doi/abs/10.1073/iti3226123?af=R",
     "journal": "PNAS",
@@ -606,32 +632,6 @@
     "summary": "Nature Neuroscience, Published online: 07 August 2026; doi:10.1038/s41593-026-02391-0 A multimodal cell-type atlas of the mouse insular cortex reveals specialized pyramidal types and circuits in distinct insular subregions, as well as intra-insular functional connections that integrate sensory inputs with valence.",
     "abstract": "Nature Neuroscience, Published online: 07 August 2026; doi:10.1038/s41593-026-02391-0 A multimodal cell-type atlas of the mouse insular cortex reveals specialized pyramidal types and circuits in distinct insular subregions, as well as intra-insular functional connections that integrate sensory inputs with valence.",
     "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41593-026-02391-0/MediaObjects/41593_2026_2391_Fig1_HTML.png",
-    "topic": "neuroscience",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
-    "title": "Comparative insights into insula structure and function",
-    "link": "https://www.nature.com/articles/s41593-026-02380-3",
-    "journal": "Nature Neuroscience",
-    "source_type": "journal",
-    "date": "2026-08-06",
-    "summary": "Nature Neuroscience, Published online: 06 August 2026; doi:10.1038/s41593-026-02380-3 Charbonneau et al. compare how the insula is structured and functions in humans, monkeys and rodents, revealing similarities and differences across species that are likely to impact the translation of animal research to humans.",
-    "abstract": "Nature Neuroscience, Published online: 06 August 2026; doi:10.1038/s41593-026-02380-3 Charbonneau et al. compare how the insula is structured and functions in humans, monkeys and rodents, revealing similarities and differences across species that are likely to impact the translation of animal research to humans.",
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41593-026-02380-3/MediaObjects/41593_2026_2380_Fig1_HTML.png",
-    "topic": "neuroscience",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
-    "title": "Neuroligin-3–CSPG4 interaction maintains oligodendrocyte precursor cell progenitor state and promotes glioma proliferation through mechanotransduction",
-    "link": "https://www.nature.com/articles/s41593-026-02397-8",
-    "journal": "Nature Neuroscience",
-    "source_type": "journal",
-    "date": "2026-08-06",
-    "summary": "Nature Neuroscience, Published online: 06 August 2026; doi:10.1038/s41593-026-02397-8 This study finds that shed NLGN3 interacts with the glycosylated surface protein CSPG4 on both normal and malignant glial cells, activating mechanotransduction pathways that drive glioma growth and maintain oligodendroglial progenitor states.",
-    "abstract": "Nature Neuroscience, Published online: 06 August 2026; doi:10.1038/s41593-026-02397-8 This study finds that shed NLGN3 interacts with the glycosylated surface protein CSPG4 on both normal and malignant glial cells, activating mechanotransduction pathways that drive glioma growth and maintain oligodendroglial progenitor states.",
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41593-026-02397-8/MediaObjects/41593_2026_2397_Fig1_HTML.png",
     "topic": "neuroscience",
     "topic_color": "#60a5fa",
     "priority_score": 0
