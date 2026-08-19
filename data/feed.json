@@ -78,6 +78,19 @@
     "priority_score": 41
   },
   {
+    "title": "Cortical thickness changes precede high levels of amyloid by at least 7 years",
+    "link": "https://www.nature.com/articles/s41593-026-02363-4",
+    "journal": "Nature Neuroscience",
+    "source_type": "journal",
+    "date": "2026-08-19",
+    "summary": "Nature Neuroscience, Published online: 19 August 2026; doi:10.1038/s41593-026-02363-4 Longitudinal MRI reveals that the cortex becomes relatively thicker years before amyloid positivity is detected on PET, providing insight into the earliest brain changes and potential consequences of amyloid accumulation in Alzheimer’s disease.",
+    "abstract": "Nature Neuroscience, Published online: 19 August 2026; doi:10.1038/s41593-026-02363-4 Longitudinal MRI reveals that the cortex becomes relatively thicker years before amyloid positivity is detected on PET, providing insight into the earliest brain changes and potential consequences of amyloid accumulation in Alzheimer’s disease.",
+    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41593-026-02363-4/MediaObjects/41593_2026_2363_Fig1_HTML.png",
+    "topic": "neurodegeneration",
+    "topic_color": "#fda4af",
+    "priority_score": 35
+  },
+  {
     "title": "Mind the Notch as AXL<sup>+</sup> DC3s creep through the gap",
     "link": "https://www.nature.com/articles/s41590-026-02625-0",
     "journal": "Nature Immunology",
@@ -89,6 +102,32 @@
     "topic": "inflammation",
     "topic_color": "#fb7185",
     "priority_score": 29
+  },
+  {
+    "title": "Screening babies’ genomes could save lives. Here’s how it would work",
+    "link": "https://www.nature.com/articles/d41586-026-02528-y",
+    "journal": "Nature",
+    "source_type": "journal",
+    "date": "2026-08-19",
+    "summary": "Nature, Published online: 19 August 2026; doi:10.1038/d41586-026-02528-y Massive genomic newborn-screening studies are under way all over the globe. But questions about scalability, feasibility and net benefit remain.",
+    "abstract": "Nature, Published online: 19 August 2026; doi:10.1038/d41586-026-02528-y Massive genomic newborn-screening studies are under way all over the globe. But questions about scalability, feasibility and net benefit remain.",
+    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-02528-y/d41586-026-02528-y_53116542.jpg",
+    "topic": "default",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
+    "title": "Strong and localized recurrence controls the dimensionality of neural activity across brain areas",
+    "link": "https://www.nature.com/articles/s41593-026-02395-w",
+    "journal": "Nature Neuroscience",
+    "source_type": "journal",
+    "date": "2026-08-19",
+    "summary": "Nature Neuroscience, Published online: 19 August 2026; doi:10.1038/s41593-026-02395-w Brain activity is complex but not arbitrary, and some patterns dominate others, with dimensionality describing how many such patterns exist. The authors show how brain connectivity controls dimensionality, allowing complexity to vary across time and behavior.",
+    "abstract": "Nature Neuroscience, Published online: 19 August 2026; doi:10.1038/s41593-026-02395-w Brain activity is complex but not arbitrary, and some patterns dominate others, with dimensionality describing how many such patterns exist. The authors show how brain connectivity controls dimensionality, allowing complexity to vary across time and behavior.",
+    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41593-026-02395-w/MediaObjects/41593_2026_2395_Fig1_HTML.png",
+    "topic": "neuroscience",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
   },
   {
     "title": "Could indigo light prevent nearsightedness in children?",
@@ -281,19 +320,6 @@
     "summary": "Nature, Published online: 18 August 2026; doi:10.1038/d41586-026-02524-2 It is 20 years since induced pluripotent stem cells shook biomedicine. Public trust must be retained now that clinical trials are well under way.",
     "abstract": "Nature, Published online: 18 August 2026; doi:10.1038/d41586-026-02524-2 It is 20 years since induced pluripotent stem cells shook biomedicine. Public trust must be retained now that clinical trials are well under way.",
     "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-02524-2/d41586-026-02524-2_53129534.jpg",
-    "topic": "default",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
-    "title": "How the Middle East can become a hub for sustainable aviation fuels",
-    "link": "https://www.nature.com/articles/d41586-026-02531-3",
-    "journal": "Nature",
-    "source_type": "journal",
-    "date": "2026-08-18",
-    "summary": "Nature, Published online: 18 August 2026; doi:10.1038/d41586-026-02531-3 Building on the region’s oil infrastructure, investment funds and shipping corridors, Gulf nations can thrive in the clean-energy economy.",
-    "abstract": "Nature, Published online: 18 August 2026; doi:10.1038/d41586-026-02531-3 Building on the region’s oil infrastructure, investment funds and shipping corridors, Gulf nations can thrive in the clean-energy economy.",
-    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-02531-3/d41586-026-02531-3_53111898.jpg",
     "topic": "default",
     "topic_color": "#60a5fa",
     "priority_score": 0
@@ -711,32 +737,6 @@
     "abstract": "Proceedings of the National Academy of Sciences, Volume 123, Issue 33, August 2026. SignificanceDiving while supplied by compressed gas can be limited in duration by the need to perform prolonged decompression in order to prevent decompression sickness (DCS) due to inert gas supersaturation and bubble formation. This study in swine ...",
     "image": "data:image/svg+xml;charset=utf-8,%0A%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23111827%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23374151%22/%3E%0A%20%20%20%20%3C/linearGradient%3E%0A%20%20%20%20%3Cfilter%20id%3D%22blur%22%3E%0A%20%20%20%20%20%20%3CfeGaussianBlur%20stdDeviation%3D%2230%22/%3E%0A%20%20%20%20%3C/filter%3E%0A%20%20%3C/defs%3E%0A%0A%20%20%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22url%28%23bg%29%22/%3E%0A%0A%20%20%3Ccircle%20cx%3D%221030%22%20cy%3D%22110%22%20r%3D%22170%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.18%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%20%20%3Ccircle%20cx%3D%22180%22%20cy%3D%22560%22%20r%3D%22150%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.16%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%0A%20%20%3Crect%20x%3D%2256%22%20y%3D%2252%22%20rx%3D%2218%22%20ry%3D%2218%22%20width%3D%22260%22%20height%3D%2254%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.08%29%22/%3E%0A%20%20%3Ctext%20x%3D%2284%22%20y%3D%2287%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2228%22%20fill%3D%22%23e5e7eb%22%3EPNAS%3C/text%3E%0A%0A%20%20%3Ctext%20x%3D%221010%22%20y%3D%22560%22%0A%20%20%20%20%20%20%20%20text-anchor%3D%22middle%22%0A%20%20%20%20%20%20%20%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%0A%20%20%20%20%20%20%20%20font-size%3D%22160%22%0A%20%20%20%20%20%20%20%20fill%3D%22%2360a5fa%22%0A%20%20%20%20%20%20%20%20opacity%3D%220.85%22%3E%0A%20%20%20%20%E2%80%A2%0A%20%20%3C/text%3E%0A%3C/svg%3E%0A",
     "topic": "default",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
-    "title": "Striatal endocannabinoids drive one-shot learning",
-    "link": "https://www.nature.com/articles/s41593-026-02392-z",
-    "journal": "Nature Neuroscience",
-    "source_type": "journal",
-    "date": "2026-08-07",
-    "summary": "Nature Neuroscience, Published online: 07 August 2026; doi:10.1038/s41593-026-02392-z Endocannabinoid-dependent corticostriatal plasticity underlies avoidance learning in mice after a single experience. Disrupting this process impairs learning, revealing a nonclassical synaptic basis supporting one-shot learning.",
-    "abstract": "Nature Neuroscience, Published online: 07 August 2026; doi:10.1038/s41593-026-02392-z Endocannabinoid-dependent corticostriatal plasticity underlies avoidance learning in mice after a single experience. Disrupting this process impairs learning, revealing a nonclassical synaptic basis supporting one-shot learning.",
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41593-026-02392-z/MediaObjects/41593_2026_2392_Fig1_HTML.png",
-    "topic": "neuroscience",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
-    "title": "Pyramidal cell types and circuit organization of the mouse insular cortex reveal functional specializations",
-    "link": "https://www.nature.com/articles/s41593-026-02391-0",
-    "journal": "Nature Neuroscience",
-    "source_type": "journal",
-    "date": "2026-08-07",
-    "summary": "Nature Neuroscience, Published online: 07 August 2026; doi:10.1038/s41593-026-02391-0 A multimodal cell-type atlas of the mouse insular cortex reveals specialized pyramidal types and circuits in distinct insular subregions, as well as intra-insular functional connections that integrate sensory inputs with valence.",
-    "abstract": "Nature Neuroscience, Published online: 07 August 2026; doi:10.1038/s41593-026-02391-0 A multimodal cell-type atlas of the mouse insular cortex reveals specialized pyramidal types and circuits in distinct insular subregions, as well as intra-insular functional connections that integrate sensory inputs with valence.",
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41593-026-02391-0/MediaObjects/41593_2026_2391_Fig1_HTML.png",
-    "topic": "neuroscience",
     "topic_color": "#60a5fa",
     "priority_score": 0
   },
