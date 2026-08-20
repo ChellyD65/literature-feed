@@ -39,6 +39,19 @@
     "priority_score": 98
   },
   {
+    "title": "<b>Intercepting pancreatic cancer with a vaccine</b>",
+    "link": "https://www.nature.com/articles/d41591-026-00041-3",
+    "journal": "Nature Medicine",
+    "source_type": "journal",
+    "date": "2026-08-20",
+    "summary": "Nature Medicine, Published online: 20 August 2026; doi:10.1038/d41591-026-00041-3 An ‘off-the-shelf’ vaccine that targets mutant KRAS can safely and durably activate T cell responses in healthy people at high risk of developing pancreatic cancer, according to a phase 1 study.",
+    "abstract": "Nature Medicine, Published online: 20 August 2026; doi:10.1038/d41591-026-00041-3 An ‘off-the-shelf’ vaccine that targets mutant KRAS can safely and durably activate T cell responses in healthy people at high risk of developing pancreatic cancer, according to a phase 1 study.",
+    "image": "https://media.nature.com/lw1200/magazine-assets/d41591-026-00041-3/d41591-026-00041-3_53146380.jpg",
+    "topic": "Immunology",
+    "topic_color": "#60a5fa",
+    "priority_score": 93
+  },
+  {
     "title": "Hallmarks of the multidimensional immune response to trauma in humans",
     "link": "https://www.nature.com/articles/s41590-026-02618-z",
     "journal": "Nature Immunology",
@@ -203,6 +216,19 @@
     "summary": "Nature, Published online: 20 August 2026; doi:10.1038/d41586-026-02549-7 The approach could speed up investment decisions, but researchers say it has flaws.",
     "abstract": "Nature, Published online: 20 August 2026; doi:10.1038/d41586-026-02549-7 The approach could speed up investment decisions, but researchers say it has flaws.",
     "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-02549-7/d41586-026-02549-7_53140790.jpg",
+    "topic": "default",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
+    "title": "Staggering 90% of biomedical papers now show signs of AI help",
+    "link": "https://www.nature.com/articles/d41586-026-02551-z",
+    "journal": "Nature",
+    "source_type": "journal",
+    "date": "2026-08-20",
+    "summary": "Nature, Published online: 20 August 2026; doi:10.1038/d41586-026-02551-z The figure, which is much higher than previous estimates of Large Language Model use, is for papers published in December and archived in PubMed",
+    "abstract": "Nature, Published online: 20 August 2026; doi:10.1038/d41586-026-02551-z The figure, which is much higher than previous estimates of Large Language Model use, is for papers published in December and archived in PubMed",
+    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-02551-z/d41586-026-02551-z_53140916.jpg",
     "topic": "default",
     "topic_color": "#60a5fa",
     "priority_score": 0
@@ -377,19 +403,6 @@
     "priority_score": 0
   },
   {
-    "title": "Artefacts in single-cell mtDNA analyses misinform phylogenies",
-    "link": "https://www.nature.com/articles/s41586-026-10777-0",
-    "journal": "Nature",
-    "source_type": "journal",
-    "date": "2026-08-19",
-    "summary": "Nature, Published online: 19 August 2026; doi:10.1038/s41586-026-10777-0 Artefacts in single-cell mtDNA analyses misinform phylogenies",
-    "abstract": "Nature, Published online: 19 August 2026; doi:10.1038/s41586-026-10777-0 Artefacts in single-cell mtDNA analyses misinform phylogenies",
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-10777-0/MediaObjects/41586_2026_10777_Fig1_HTML.png",
-    "topic": "default",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
     "title": "Strong and localized recurrence controls the dimensionality of neural activity across brain areas",
     "link": "https://www.nature.com/articles/s41593-026-02395-w",
     "journal": "Nature Neuroscience",
@@ -516,19 +529,6 @@
     "abstract": "Nature Immunology, Published online: 18 August 2026; doi:10.1038/s41590-026-02624-1 High-throughput, high-dimensional profiling technologies have transformed the ability to generate and test hypotheses of human immunology. Investment in infrastructure has catalyzed the expansion of human cohorts and data repositories and enabled opportunities to predict disease risk, promote early diagnosis and design interventions that promote health.",
     "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41590-026-02624-1/MediaObjects/41590_2026_2624_Fig1_HTML.png",
     "topic": "immunology",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
-    "title": "Food is medicine: an opportunity to transform nutrition care in oncology",
-    "link": "https://www.nature.com/articles/s41591-026-04591-4",
-    "journal": "Nature Medicine",
-    "source_type": "journal",
-    "date": "2026-08-18",
-    "summary": "Nature Medicine, Published online: 18 August 2026; doi:10.1038/s41591-026-04591-4 Food is medicine: an opportunity to transform nutrition care in oncology",
-    "abstract": "Nature Medicine, Published online: 18 August 2026; doi:10.1038/s41591-026-04591-4 Food is medicine: an opportunity to transform nutrition care in oncology",
-    "image": "data:image/svg+xml;charset=utf-8,%0A%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23111827%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23374151%22/%3E%0A%20%20%20%20%3C/linearGradient%3E%0A%20%20%20%20%3Cfilter%20id%3D%22blur%22%3E%0A%20%20%20%20%20%20%3CfeGaussianBlur%20stdDeviation%3D%2230%22/%3E%0A%20%20%20%20%3C/filter%3E%0A%20%20%3C/defs%3E%0A%0A%20%20%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22url%28%23bg%29%22/%3E%0A%0A%20%20%3Ccircle%20cx%3D%221030%22%20cy%3D%22110%22%20r%3D%22170%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.18%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%20%20%3Ccircle%20cx%3D%22180%22%20cy%3D%22560%22%20r%3D%22150%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.16%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%0A%20%20%3Crect%20x%3D%2256%22%20y%3D%2252%22%20rx%3D%2218%22%20ry%3D%2218%22%20width%3D%22260%22%20height%3D%2254%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.08%29%22/%3E%0A%20%20%3Ctext%20x%3D%2284%22%20y%3D%2287%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2228%22%20fill%3D%22%23e5e7eb%22%3ENature%20Medicine%3C/text%3E%0A%0A%20%20%3Ctext%20x%3D%221010%22%20y%3D%22560%22%0A%20%20%20%20%20%20%20%20text-anchor%3D%22middle%22%0A%20%20%20%20%20%20%20%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%0A%20%20%20%20%20%20%20%20font-size%3D%22160%22%0A%20%20%20%20%20%20%20%20fill%3D%22%2360a5fa%22%0A%20%20%20%20%20%20%20%20opacity%3D%220.85%22%3E%0A%20%20%20%20%E2%80%A2%0A%20%20%3C/text%3E%0A%3C/svg%3E%0A",
-    "topic": "default",
     "topic_color": "#60a5fa",
     "priority_score": 0
   },
