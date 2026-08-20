@@ -117,6 +117,19 @@
     "priority_score": 35
   },
   {
+    "title": "To shield the fetus, link a protein to these drugs",
+    "link": "https://www.nature.com/articles/d41586-026-02553-x",
+    "journal": "Nature",
+    "source_type": "journal",
+    "date": "2026-08-20",
+    "summary": "Nature, Published online: 20 August 2026; doi:10.1038/d41586-026-02553-x Adding albumin to popular antibody-based medicines helps to block their passage through the placenta.",
+    "abstract": "Nature, Published online: 20 August 2026; doi:10.1038/d41586-026-02553-x Adding albumin to popular antibody-based medicines helps to block their passage through the placenta.",
+    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-02553-x/d41586-026-02553-x_53129526.jpg",
+    "topic": "default",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
     "title": "These trees are making air quality in cities worse",
     "link": "https://www.nature.com/articles/d41586-026-02586-2",
     "journal": "Nature",
@@ -333,19 +346,6 @@
     "summary": "Nature, Published online: 19 August 2026; doi:10.1038/s41586-026-10935-4 By combining a meta-analysis of CO2 enrichment experiments with three decades of southern African savanna observations, an increase in biomass production by C4 grasses under rising CO2 levels in water-limited environments is revealed.",
     "abstract": "Nature, Published online: 19 August 2026; doi:10.1038/s41586-026-10935-4 By combining a meta-analysis of CO2 enrichment experiments with three decades of southern African savanna observations, an increase in biomass production by C4 grasses under rising CO2 levels in water-limited environments is revealed.",
     "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-10935-4/MediaObjects/41586_2026_10935_Fig1_HTML.png",
-    "topic": "default",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
-    "title": "A global atmospheric methane record from a tropical ice core",
-    "link": "https://www.nature.com/articles/s41586-026-10938-1",
-    "journal": "Nature",
-    "source_type": "journal",
-    "date": "2026-08-19",
-    "summary": "Nature, Published online: 19 August 2026; doi:10.1038/s41586-026-10938-1 A 2,000-year Peruvian ice core record of atmospheric CH4 concentrations contains the first historical global CH4 record from the low latitudes, and implementation of a four-box model indicates higher equatorial CH4 strength than previous estimates from polar-only records.",
-    "abstract": "Nature, Published online: 19 August 2026; doi:10.1038/s41586-026-10938-1 A 2,000-year Peruvian ice core record of atmospheric CH4 concentrations contains the first historical global CH4 record from the low latitudes, and implementation of a four-box model indicates higher equatorial CH4 strength than previous estimates from polar-only records.",
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-10938-1/MediaObjects/41586_2026_10938_Fig1_HTML.png",
     "topic": "default",
     "topic_color": "#60a5fa",
     "priority_score": 0
