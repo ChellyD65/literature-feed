@@ -39,6 +39,19 @@
     "priority_score": 98
   },
   {
+    "title": "Daily briefing: People older than 100 have more cancer-killing cells",
+    "link": "https://www.nature.com/articles/d41586-026-02617-y",
+    "journal": "Nature",
+    "source_type": "journal",
+    "date": "2026-08-20",
+    "summary": "Nature, Published online: 20 August 2026; doi:10.1038/d41586-026-02617-y Killer T cells might help people to live to extraordinarily old ages. Plus, the longest-lived brain organoids so far and how mass genome-screening programmes for newborns might work.",
+    "abstract": "Nature, Published online: 20 August 2026; doi:10.1038/d41586-026-02617-y Killer T cells might help people to live to extraordinarily old ages. Plus, the longest-lived brain organoids so far and how mass genome-screening programmes for newborns might work.",
+    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-02617-y/d41586-026-02617-y_53146212.png",
+    "topic": "Immunology",
+    "topic_color": "#60a5fa",
+    "priority_score": 93
+  },
+  {
     "title": "<b>Intercepting pancreatic cancer with a vaccine</b>",
     "link": "https://www.nature.com/articles/d41591-026-00041-3",
     "journal": "Nature Medicine",
@@ -130,6 +143,19 @@
     "priority_score": 35
   },
   {
+    "title": "Briefing Chat: New narcolepsy drug could unlock host of novel brain therapies",
+    "link": "https://www.nature.com/articles/d41586-026-02626-x",
+    "journal": "Nature",
+    "source_type": "journal",
+    "date": "2026-08-21",
+    "summary": "Nature, Published online: 21 August 2026; doi:10.1038/d41586-026-02626-x Nature staff discuss how an FDA-approved drug for narcolepsy could have promise beyond the condition, and the longest-lived human brain organoids yet.",
+    "abstract": "Nature, Published online: 21 August 2026; doi:10.1038/d41586-026-02626-x Nature staff discuss how an FDA-approved drug for narcolepsy could have promise beyond the condition, and the longest-lived human brain organoids yet.",
+    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-02626-x/d41586-026-02626-x_53151434.jpg",
+    "topic": "default",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
     "title": "Why we must stop talking about artificial general intelligence — and instead build ‘pro-worker’ AI",
     "link": "https://www.nature.com/articles/d41586-026-02566-6",
     "journal": "Nature",
@@ -148,8 +174,8 @@
     "journal": "Nature",
     "source_type": "journal",
     "date": "2026-08-21",
-    "summary": "Nature, Published online: 21 August 2026; doi:10.1038/d41586-026-02352-4 The case is the latest example of this scientific workhorse being misused in experiments.",
-    "abstract": "Nature, Published online: 21 August 2026; doi:10.1038/d41586-026-02352-4 The case is the latest example of this scientific workhorse being misused in experiments.",
+    "summary": "Nature, Published online: 21 August 2026; doi:10.1038/d41586-026-02352-4 The case is the latest example of a scientific workhorse being misused in experiments.",
+    "abstract": "Nature, Published online: 21 August 2026; doi:10.1038/d41586-026-02352-4 The case is the latest example of a scientific workhorse being misused in experiments.",
     "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-02352-4/d41586-026-02352-4_53033974.jpg",
     "topic": "default",
     "topic_color": "#60a5fa",
@@ -372,32 +398,6 @@
     "summary": "Nature, Published online: 20 August 2026; doi:10.1038/d41586-026-02549-7 The approach could speed up investment decisions, but researchers say it has flaws.",
     "abstract": "Nature, Published online: 20 August 2026; doi:10.1038/d41586-026-02549-7 The approach could speed up investment decisions, but researchers say it has flaws.",
     "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-02549-7/d41586-026-02549-7_53140790.jpg",
-    "topic": "default",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
-    "title": "Staggering 90% of biomedical papers now show signs of AI help",
-    "link": "https://www.nature.com/articles/d41586-026-02551-z",
-    "journal": "Nature",
-    "source_type": "journal",
-    "date": "2026-08-20",
-    "summary": "Nature, Published online: 20 August 2026; doi:10.1038/d41586-026-02551-z The figure, which is much higher than previous estimates of Large Language Model use, is for papers published in December and archived in PubMed",
-    "abstract": "Nature, Published online: 20 August 2026; doi:10.1038/d41586-026-02551-z The figure, which is much higher than previous estimates of Large Language Model use, is for papers published in December and archived in PubMed",
-    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-02551-z/d41586-026-02551-z_53140916.jpg",
-    "topic": "default",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
-    "title": "Researcher, heal thyself: meet the scientists studying their own diseases",
-    "link": "https://www.nature.com/articles/d41586-026-02455-y",
-    "journal": "Nature",
-    "source_type": "journal",
-    "date": "2026-08-20",
-    "summary": "Nature, Published online: 20 August 2026; doi:10.1038/d41586-026-02455-y Studying a condition after being diagnosed with it can be rewarding but also presents some ethical and psychological challenges.",
-    "abstract": "Nature, Published online: 20 August 2026; doi:10.1038/d41586-026-02455-y Studying a condition after being diagnosed with it can be rewarding but also presents some ethical and psychological challenges.",
-    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-02455-y/d41586-026-02455-y_53116258.jpg",
     "topic": "default",
     "topic_color": "#60a5fa",
     "priority_score": 0
