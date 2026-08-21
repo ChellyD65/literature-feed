@@ -65,6 +65,19 @@
     "priority_score": 93
   },
   {
+    "title": "A NOD2 to the endothelium for protective gut immunity",
+    "link": "https://www.nature.com/articles/s41590-026-02626-z",
+    "journal": "Nature Immunology",
+    "source_type": "journal",
+    "date": "2026-08-17",
+    "summary": "Nature Immunology, Published online: 17 August 2026; doi:10.1038/s41590-026-02626-z Endothelial cells form the cell migration highways between organs. New results demonstrate that NOD2-dependent microbial sensing by these structural cells promotes antigen-specific T cell accumulation in gut-associated lymphoid tissues and protective mucosal immunity.",
+    "abstract": "Nature Immunology, Published online: 17 August 2026; doi:10.1038/s41590-026-02626-z Endothelial cells form the cell migration highways between organs. New results demonstrate that NOD2-dependent microbial sensing by these structural cells promotes antigen-specific T cell accumulation in gut-associated lymphoid tissues and protective mucosal immunity.",
+    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41590-026-02626-z/MediaObjects/41590_2026_2626_Fig1_HTML.png",
+    "topic": "Immunology",
+    "topic_color": "#60a5fa",
+    "priority_score": 93
+  },
+  {
     "title": "Antigen-sampling gut cells moonlight as organizers of immune defense",
     "link": "https://www.nature.com/articles/s41590-026-02612-5",
     "journal": "Nature Immunology",
@@ -102,19 +115,6 @@
     "topic": "inflammation",
     "topic_color": "#fb7185",
     "priority_score": 81
-  },
-  {
-    "title": "Collaborative functionality between three types of inflammation in idiopathic pulmonary fibrosis",
-    "link": "https://www.nature.com/articles/s41590-026-02616-1",
-    "journal": "Nature Immunology",
-    "source_type": "journal",
-    "date": "2026-08-21",
-    "summary": "Nature Immunology, Published online: 21 August 2026; doi:10.1038/s41590-026-02616-1 In this Review, Hart and colleagues summarize some of the key cellular players and soluble mediators involved in idiopathic pulmonary fibrosis progression, and how distinct types of inflammation jointly regulate disease progression in concert rather than focusing on individual cytokines or immune cells.",
-    "abstract": "Nature Immunology, Published online: 21 August 2026; doi:10.1038/s41590-026-02616-1 In this Review, Hart and colleagues summarize some of the key cellular players and soluble mediators involved in idiopathic pulmonary fibrosis progression, and how distinct types of inflammation jointly regulate disease progression in concert rather than focusing on individual cytokines or immune cells.",
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41590-026-02616-1/MediaObjects/41590_2026_2616_Fig1_HTML.png",
-    "topic": "inflammation",
-    "topic_color": "#fb7185",
-    "priority_score": 58
   },
   {
     "title": "Cortical thickness changes precede high levels of amyloid by at least 7 years",
