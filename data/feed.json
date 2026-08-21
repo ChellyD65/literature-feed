@@ -65,19 +65,6 @@
     "priority_score": 93
   },
   {
-    "title": "A NOD2 to the endothelium for protective gut immunity",
-    "link": "https://www.nature.com/articles/s41590-026-02626-z",
-    "journal": "Nature Immunology",
-    "source_type": "journal",
-    "date": "2026-08-17",
-    "summary": "Nature Immunology, Published online: 17 August 2026; doi:10.1038/s41590-026-02626-z Endothelial cells form the cell migration highways between organs. New results demonstrate that NOD2-dependent microbial sensing by these structural cells promotes antigen-specific T cell accumulation in gut-associated lymphoid tissues and protective mucosal immunity.",
-    "abstract": "Nature Immunology, Published online: 17 August 2026; doi:10.1038/s41590-026-02626-z Endothelial cells form the cell migration highways between organs. New results demonstrate that NOD2-dependent microbial sensing by these structural cells promotes antigen-specific T cell accumulation in gut-associated lymphoid tissues and protective mucosal immunity.",
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41590-026-02626-z/MediaObjects/41590_2026_2626_Fig1_HTML.png",
-    "topic": "Immunology",
-    "topic_color": "#60a5fa",
-    "priority_score": 93
-  },
-  {
     "title": "Antigen-sampling gut cells moonlight as organizers of immune defense",
     "link": "https://www.nature.com/articles/s41590-026-02612-5",
     "journal": "Nature Immunology",
@@ -89,6 +76,19 @@
     "topic": "inflammation",
     "topic_color": "#fb7185",
     "priority_score": 82
+  },
+  {
+    "title": "Dysregulated adult hippocampal neurogenesis in major depressive disorders",
+    "link": "https://www.nature.com/articles/s41591-026-04571-8",
+    "journal": "Nature Medicine",
+    "source_type": "journal",
+    "date": "2026-08-21",
+    "summary": "Nature Medicine, Published online: 21 August 2026; doi:10.1038/s41591-026-04571-8 The largest multiomic atlas of the adult human hippocampus identifies disrupted neurogenesis, gene regulation and neural circuits in major depressive disorder, revealing molecular pathways and potential therapeutic targets related to stress, cellular aging and neuroplasticity.",
+    "abstract": "Nature Medicine, Published online: 21 August 2026; doi:10.1038/s41591-026-04571-8 The largest multiomic atlas of the adult human hippocampus identifies disrupted neurogenesis, gene regulation and neural circuits in major depressive disorder, revealing molecular pathways and potential therapeutic targets related to stress, cellular aging and neuroplasticity.",
+    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41591-026-04571-8/MediaObjects/41591_2026_4571_Fig1_HTML.png",
+    "topic": "High-Signal Discovery",
+    "topic_color": "#60a5fa",
+    "priority_score": 81
   },
   {
     "title": "Progenitor T cells drive chronic pulmonary type 2 inflammation",
@@ -104,6 +104,19 @@
     "priority_score": 81
   },
   {
+    "title": "Collaborative functionality between three types of inflammation in idiopathic pulmonary fibrosis",
+    "link": "https://www.nature.com/articles/s41590-026-02616-1",
+    "journal": "Nature Immunology",
+    "source_type": "journal",
+    "date": "2026-08-21",
+    "summary": "Nature Immunology, Published online: 21 August 2026; doi:10.1038/s41590-026-02616-1 In this Review, Hart and colleagues summarize some of the key cellular players and soluble mediators involved in idiopathic pulmonary fibrosis progression, and how distinct types of inflammation jointly regulate disease progression in concert rather than focusing on individual cytokines or immune cells.",
+    "abstract": "Nature Immunology, Published online: 21 August 2026; doi:10.1038/s41590-026-02616-1 In this Review, Hart and colleagues summarize some of the key cellular players and soluble mediators involved in idiopathic pulmonary fibrosis progression, and how distinct types of inflammation jointly regulate disease progression in concert rather than focusing on individual cytokines or immune cells.",
+    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41590-026-02616-1/MediaObjects/41590_2026_2616_Fig1_HTML.png",
+    "topic": "inflammation",
+    "topic_color": "#fb7185",
+    "priority_score": 58
+  },
+  {
     "title": "Cortical thickness changes precede high levels of amyloid by at least 7 years",
     "link": "https://www.nature.com/articles/s41593-026-02363-4",
     "journal": "Nature Neuroscience",
@@ -115,6 +128,58 @@
     "topic": "neurodegeneration",
     "topic_color": "#fda4af",
     "priority_score": 35
+  },
+  {
+    "title": "The trials of translating psilocybin treatment from research to practice",
+    "link": "https://www.nature.com/articles/s41591-026-04597-y",
+    "journal": "Nature Medicine",
+    "source_type": "journal",
+    "date": "2026-08-21",
+    "summary": "Nature Medicine, Published online: 21 August 2026; doi:10.1038/s41591-026-04597-y A feasibility trial delivering psilocybin-assisted therapy for treatment-resistant depression within the UK health service reports encouraging adherence and safety — it opens future questions about who is reached, where treatment happens and what standards will be needed to sustain it.",
+    "abstract": "Nature Medicine, Published online: 21 August 2026; doi:10.1038/s41591-026-04597-y A feasibility trial delivering psilocybin-assisted therapy for treatment-resistant depression within the UK health service reports encouraging adherence and safety — it opens future questions about who is reached, where treatment happens and what standards will be needed to sustain it.",
+    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41591-026-04597-y/MediaObjects/41591_2026_4597_Fig1_HTML.png",
+    "topic": "default",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
+    "title": "Putting epigenetic aging clocks on trial",
+    "link": "https://www.nature.com/articles/s41591-026-04524-1",
+    "journal": "Nature Medicine",
+    "source_type": "journal",
+    "date": "2026-08-21",
+    "summary": "Nature Medicine, Published online: 21 August 2026; doi:10.1038/s41591-026-04524-1 A new study offers the first systematic test of whether DNA methylation clocks behave the way a surrogate endpoint for aging should, responding to genuine clinical benefit and remaining stable when there is none.",
+    "abstract": "Nature Medicine, Published online: 21 August 2026; doi:10.1038/s41591-026-04524-1 A new study offers the first systematic test of whether DNA methylation clocks behave the way a surrogate endpoint for aging should, responding to genuine clinical benefit and remaining stable when there is none.",
+    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41591-026-04524-1/MediaObjects/41591_2026_4524_Fig1_HTML.png",
+    "topic": "default",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
+    "title": "Can traditional medicines go mainstream?",
+    "link": "https://www.nature.com/articles/s41591-026-04588-z",
+    "journal": "Nature Medicine",
+    "source_type": "journal",
+    "date": "2026-08-21",
+    "summary": "Nature Medicine, Published online: 21 August 2026; doi:10.1038/s41591-026-04588-z Traditional medicine is already used by billions worldwide. Researchers, regulators and the World Health Organization (WHO) are now working to generate acceptable evidence, win regulatory acceptance, and integrate traditional medicines into modern clinical care.",
+    "abstract": "Nature Medicine, Published online: 21 August 2026; doi:10.1038/s41591-026-04588-z Traditional medicine is already used by billions worldwide. Researchers, regulators and the World Health Organization (WHO) are now working to generate acceptable evidence, win regulatory acceptance, and integrate traditional medicines into modern clinical care.",
+    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41591-026-04588-z/MediaObjects/41591_2026_4588_Figa_HTML.png",
+    "topic": "default",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
+    "title": "Responsiveness of epigenetic aging biomarkers to longevity interventions in humans",
+    "link": "https://www.nature.com/articles/s41591-026-04562-9",
+    "journal": "Nature Medicine",
+    "source_type": "journal",
+    "date": "2026-08-21",
+    "summary": "Nature Medicine, Published online: 21 August 2026; doi:10.1038/s41591-026-04562-9 The responsiveness of 16 different epigenetic aging clocks to a broad array of pharmacological and lifestyle interventions in humans was assessed across 51 different longitudinal studies, providing insights into the potential of aging clocks to serve as reliable aging biomarkers.",
+    "abstract": "Nature Medicine, Published online: 21 August 2026; doi:10.1038/s41591-026-04562-9 The responsiveness of 16 different epigenetic aging clocks to a broad array of pharmacological and lifestyle interventions in humans was assessed across 51 different longitudinal studies, providing insights into the potential of aging clocks to serve as reliable aging biomarkers.",
+    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41591-026-04562-9/MediaObjects/41591_2026_4562_Fig1_HTML.png",
+    "topic": "default",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
   },
   {
     "title": "Footprints may reveal biggest known mammal from age of the dinosaurs",
@@ -437,71 +502,6 @@
     "summary": "Nature Medicine, Published online: 19 August 2026; doi:10.1038/s41591-026-04586-1 Dronabinol, the pharmaceutical form of Δ9-tetrahydrocannabinol, shows promise in the treatment of nightmares related to post-traumatic stress disorder (PTSD), but additional studies are needed to confirm safety and efficacy.",
     "abstract": "Nature Medicine, Published online: 19 August 2026; doi:10.1038/s41591-026-04586-1 Dronabinol, the pharmaceutical form of Δ9-tetrahydrocannabinol, shows promise in the treatment of nightmares related to post-traumatic stress disorder (PTSD), but additional studies are needed to confirm safety and efficacy.",
     "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41591-026-04586-1/MediaObjects/41591_2026_4586_Figa_HTML.png",
-    "topic": "default",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
-    "title": "The <i>px1</i> locus is linked to declining susceptibility to malaria drugs in Uganda",
-    "link": "https://www.nature.com/articles/s41591-026-04624-y",
-    "journal": "Nature Medicine",
-    "source_type": "journal",
-    "date": "2026-08-19",
-    "summary": "Nature Medicine, Published online: 19 August 2026; doi:10.1038/s41591-026-04624-y The emergence and spread of drug resistance threatens progress toward malaria control and elimination. We identified a rapidly spreading haplotype on chromosome 7 of Plasmodium falciparum that contains mutations and deletions in the px1 gene. This genomic locus is strongly associated with reduced susceptibility of P. falciparum to the primary first-line antimalarial drugs lumefantrine and dihydroartemisinin.",
-    "abstract": "Nature Medicine, Published online: 19 August 2026; doi:10.1038/s41591-026-04624-y The emergence and spread of drug resistance threatens progress toward malaria control and elimination. We identified a rapidly spreading haplotype on chromosome 7 of Plasmodium falciparum that contains mutations and deletions in the px1 gene. This genomic locus is strongly associated with reduced susceptibility of P. falciparum to the primary first-line antimalarial drugs lumefantrine and dihydroartemisinin.",
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41591-026-04624-y/MediaObjects/41591_2026_4624_Fig1_HTML.png",
-    "topic": "default",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
-    "title": "Prospective evaluation of a large language model clinical decision support system in the emergency department",
-    "link": "https://www.nature.com/articles/s41591-026-04601-5",
-    "journal": "Nature Medicine",
-    "source_type": "journal",
-    "date": "2026-08-19",
-    "summary": "Nature Medicine, Published online: 19 August 2026; doi:10.1038/s41591-026-04601-5 A pilot implementation study of a large language model clinical decision support system in a tertiary emergency department showed safe integration but steadily declining clinical adoption over 4 weeks.",
-    "abstract": "Nature Medicine, Published online: 19 August 2026; doi:10.1038/s41591-026-04601-5 A pilot implementation study of a large language model clinical decision support system in a tertiary emergency department showed safe integration but steadily declining clinical adoption over 4 weeks.",
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41591-026-04601-5/MediaObjects/41591_2026_4601_Fig1_HTML.png",
-    "topic": "default",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
-    "title": "Intramyocardial injection of allogeneic human induced pluripotent stem cell-derived cardiomyocytes in advanced ischemic heart failure: an early-stage randomized trial",
-    "link": "https://www.nature.com/articles/s41591-026-04605-1",
-    "journal": "Nature Medicine",
-    "source_type": "journal",
-    "date": "2026-08-19",
-    "summary": "Nature Medicine, Published online: 19 August 2026; doi:10.1038/s41591-026-04605-1 In an early-stage randomized trial, the safety and efficacy of intramyocardial injection of hiPSC-derived cardiomyocytes in patients with advanced heart failure were evaluated.",
-    "abstract": "Nature Medicine, Published online: 19 August 2026; doi:10.1038/s41591-026-04605-1 In an early-stage randomized trial, the safety and efficacy of intramyocardial injection of hiPSC-derived cardiomyocytes in patients with advanced heart failure were evaluated.",
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41591-026-04605-1/MediaObjects/41591_2026_4605_Fig1_HTML.png",
-    "topic": "default",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
-    "title": "Traumatic brain injury outcomes across human development index strata in 29 countries",
-    "link": "https://www.nature.com/articles/s41591-026-04600-6",
-    "journal": "Nature Medicine",
-    "source_type": "journal",
-    "date": "2026-08-19",
-    "summary": "Nature Medicine, Published online: 19 August 2026; doi:10.1038/s41591-026-04600-6 The Global Neurosurgical Study-1 (GNS-I), conducted across 100 hospitals in 29 countries, found substantial variation in the causes of traumatic brain injury and in associated mortality outcomes across Human Development Index tiers.",
-    "abstract": "Nature Medicine, Published online: 19 August 2026; doi:10.1038/s41591-026-04600-6 The Global Neurosurgical Study-1 (GNS-I), conducted across 100 hospitals in 29 countries, found substantial variation in the causes of traumatic brain injury and in associated mortality outcomes across Human Development Index tiers.",
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41591-026-04600-6/MediaObjects/41591_2026_4600_Fig1_HTML.png",
-    "topic": "default",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
-    "title": "Large-scale AI-guided liver malignancy diagnosis: multicenter study and a single-arm trial",
-    "link": "https://www.nature.com/articles/s41591-026-04589-y",
-    "journal": "Nature Medicine",
-    "source_type": "journal",
-    "date": "2026-08-19",
-    "summary": "Nature Medicine, Published online: 19 August 2026; doi:10.1038/s41591-026-04589-y Liver DiagnOsis Network (LiON), a contrast-enhanced-computed tomography-based AI system that supports flexible multiphase processing, clinical data integration and workflow-compatible liver malignancy diagnosis, may help reduce missed or delayed diagnoses and guide clinical interventions.",
-    "abstract": "Nature Medicine, Published online: 19 August 2026; doi:10.1038/s41591-026-04589-y Liver DiagnOsis Network (LiON), a contrast-enhanced-computed tomography-based AI system that supports flexible multiphase processing, clinical data integration and workflow-compatible liver malignancy diagnosis, may help reduce missed or delayed diagnoses and guide clinical interventions.",
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41591-026-04589-y/MediaObjects/41591_2026_4589_Fig1_HTML.png",
     "topic": "default",
     "topic_color": "#60a5fa",
     "priority_score": 0
