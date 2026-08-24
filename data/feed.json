@@ -26,6 +26,19 @@
     "priority_score": 125
   },
   {
+    "title": "Roles of autophagy in brain homeostasis and disease",
+    "link": "https://www.nature.com/articles/s41593-026-02426-6",
+    "journal": "Nature Neuroscience",
+    "source_type": "journal",
+    "date": "2026-08-24",
+    "summary": "Nature Neuroscience, Published online: 24 August 2026; doi:10.1038/s41593-026-02426-6 Autophagy, a quality-control pathway for protein and organelle degradation, is indispensable to CNS cells, with impairments in autophagy linking it to a spectrum of disorders—from neurodegenerative to psychiatric diseases.",
+    "abstract": "Nature Neuroscience, Published online: 24 August 2026; doi:10.1038/s41593-026-02426-6 Autophagy, a quality-control pathway for protein and organelle degradation, is indispensable to CNS cells, with impairments in autophagy linking it to a spectrum of disorders—from neurodegenerative to psychiatric diseases.",
+    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41593-026-02426-6/MediaObjects/41593_2026_2426_Fig1_HTML.png",
+    "topic": "Aging & Senescence",
+    "topic_color": "#60a5fa",
+    "priority_score": 116
+  },
+  {
     "title": "Regulatory CD8<sup>+</sup> T lymphocytes control intestinal inflammation",
     "link": "https://www.nature.com/articles/s41590-026-02627-y",
     "journal": "Nature Immunology",
@@ -141,6 +154,45 @@
     "topic": "neurodegeneration",
     "topic_color": "#fda4af",
     "priority_score": 35
+  },
+  {
+    "title": "Frontier-technology markets are too narrow — here’s how to widen them",
+    "link": "https://www.nature.com/articles/d41586-026-02572-8",
+    "journal": "Nature",
+    "source_type": "journal",
+    "date": "2026-08-24",
+    "summary": "Nature, Published online: 24 August 2026; doi:10.1038/d41586-026-02572-8 Governments need to keep their procurement processes as open as possible, or they will face risks of technological lock-in down the line.",
+    "abstract": "Nature, Published online: 24 August 2026; doi:10.1038/d41586-026-02572-8 Governments need to keep their procurement processes as open as possible, or they will face risks of technological lock-in down the line.",
+    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-02572-8/d41586-026-02572-8_53111364.jpg",
+    "topic": "default",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
+    "title": "Lack of sensorimotor toxicity when using the clinical SMN expression cassette in scAAV9",
+    "link": "https://www.nature.com/articles/s41593-026-02411-z",
+    "journal": "Nature Neuroscience",
+    "source_type": "journal",
+    "date": "2026-08-24",
+    "summary": "Nature Neuroscience, Published online: 24 August 2026; doi:10.1038/s41593-026-02411-z Lack of sensorimotor toxicity when using the clinical SMN expression cassette in scAAV9",
+    "abstract": "Nature Neuroscience, Published online: 24 August 2026; doi:10.1038/s41593-026-02411-z Lack of sensorimotor toxicity when using the clinical SMN expression cassette in scAAV9",
+    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41593-026-02411-z/MediaObjects/41593_2026_2411_Fig1_HTML.png",
+    "topic": "neuroscience",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
+    "title": "Motor neurons organize <i>Drosophila</i> feeding sequences via a disinhibitory cascade",
+    "link": "https://www.nature.com/articles/s41593-026-02412-y",
+    "journal": "Nature Neuroscience",
+    "source_type": "journal",
+    "date": "2026-08-24",
+    "summary": "Nature Neuroscience, Published online: 24 August 2026; doi:10.1038/s41593-026-02412-y Sui, Yi, Zhou and colleagues show that motor neurons actively orchestrate Drosophila feeding sequences through a feedforward disinhibition cascade. In coordinating their own activity, these neurons function as more than passive relays.",
+    "abstract": "Nature Neuroscience, Published online: 24 August 2026; doi:10.1038/s41593-026-02412-y Sui, Yi, Zhou and colleagues show that motor neurons actively orchestrate Drosophila feeding sequences through a feedforward disinhibition cascade. In coordinating their own activity, these neurons function as more than passive relays.",
+    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41593-026-02412-y/MediaObjects/41593_2026_2412_Fig1_HTML.png",
+    "topic": "neuroscience",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
   },
   {
     "title": "Citywide implementation of a rapid whole-genome sequencing program for critically ill pediatric patients",
@@ -429,19 +481,6 @@
     "priority_score": 0
   },
   {
-    "title": "Moderna cancer vaccine stops melanoma returning: what’s next for personalized treatments?",
-    "link": "https://www.nature.com/articles/d41586-026-02612-3",
-    "journal": "Nature",
-    "source_type": "journal",
-    "date": "2026-08-20",
-    "summary": "Nature, Published online: 20 August 2026; doi:10.1038/d41586-026-02612-3 Promising trial results suggest cancer vaccines work and could be used to target other tumours.",
-    "abstract": "Nature, Published online: 20 August 2026; doi:10.1038/d41586-026-02612-3 Promising trial results suggest cancer vaccines work and could be used to target other tumours.",
-    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-02612-3/d41586-026-02612-3_53145956.jpg",
-    "topic": "default",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
     "title": "County surveillance failed to detect that measles transmission reached epidemic threshold in schools",
     "link": "https://www.nature.com/articles/s41591-026-04612-2",
     "journal": "Nature Medicine",
@@ -581,45 +620,6 @@
     "abstract": "Proceedings of the National Academy of Sciences, Volume 123, Issue 33, August 2026.",
     "image": "data:image/svg+xml;charset=utf-8,%0A%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23111827%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23374151%22/%3E%0A%20%20%20%20%3C/linearGradient%3E%0A%20%20%20%20%3Cfilter%20id%3D%22blur%22%3E%0A%20%20%20%20%20%20%3CfeGaussianBlur%20stdDeviation%3D%2230%22/%3E%0A%20%20%20%20%3C/filter%3E%0A%20%20%3C/defs%3E%0A%0A%20%20%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22url%28%23bg%29%22/%3E%0A%0A%20%20%3Ccircle%20cx%3D%221030%22%20cy%3D%22110%22%20r%3D%22170%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.18%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%20%20%3Ccircle%20cx%3D%22180%22%20cy%3D%22560%22%20r%3D%22150%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.16%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%0A%20%20%3Crect%20x%3D%2256%22%20y%3D%2252%22%20rx%3D%2218%22%20ry%3D%2218%22%20width%3D%22260%22%20height%3D%2254%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.08%29%22/%3E%0A%20%20%3Ctext%20x%3D%2284%22%20y%3D%2287%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2228%22%20fill%3D%22%23e5e7eb%22%3EPNAS%3C/text%3E%0A%0A%20%20%3Ctext%20x%3D%221010%22%20y%3D%22560%22%0A%20%20%20%20%20%20%20%20text-anchor%3D%22middle%22%0A%20%20%20%20%20%20%20%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%0A%20%20%20%20%20%20%20%20font-size%3D%22160%22%0A%20%20%20%20%20%20%20%20fill%3D%22%2360a5fa%22%0A%20%20%20%20%20%20%20%20opacity%3D%220.85%22%3E%0A%20%20%20%20%E2%80%A2%0A%20%20%3C/text%3E%0A%3C/svg%3E%0A",
     "topic": "default",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
-    "title": "Cross-region neuron co-firing mediated by ripple oscillations supports distributed working memory representations",
-    "link": "https://www.nature.com/articles/s41593-026-02403-z",
-    "journal": "Nature Neuroscience",
-    "source_type": "journal",
-    "date": "2026-08-12",
-    "summary": "Nature Neuroscience, Published online: 12 August 2026; doi:10.1038/s41593-026-02403-z The authors show that human neurons in bilateral corticolimbic sites fire together, modulated by working memory, and reinstate stimulus-selective firings when both sites briefly oscillate at 90 Hz, suggesting a mechanism for long-distance integration.",
-    "abstract": "Nature Neuroscience, Published online: 12 August 2026; doi:10.1038/s41593-026-02403-z The authors show that human neurons in bilateral corticolimbic sites fire together, modulated by working memory, and reinstate stimulus-selective firings when both sites briefly oscillate at 90 Hz, suggesting a mechanism for long-distance integration.",
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41593-026-02403-z/MediaObjects/41593_2026_2403_Fig1_HTML.png",
-    "topic": "neuroscience",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
-    "title": "Susumu Tonegawa (1939–2026)",
-    "link": "https://www.nature.com/articles/s41593-026-02416-8",
-    "journal": "Nature Neuroscience",
-    "source_type": "journal",
-    "date": "2026-08-11",
-    "summary": "Nature Neuroscience, Published online: 11 August 2026; doi:10.1038/s41593-026-02416-8 On 11 July 2026, neuroscience lost one of its most visionary scientists with the passing of Susumu Tonegawa at the age of 86. Across an extraordinary career spanning more than five decades, Tonegawa pursued biology’s deepest mysteries with relentless curiosity and unwavering conviction, inspiring generations of scientists to keep asking the hardest questions.",
-    "abstract": "Nature Neuroscience, Published online: 11 August 2026; doi:10.1038/s41593-026-02416-8 On 11 July 2026, neuroscience lost one of its most visionary scientists with the passing of Susumu Tonegawa at the age of 86. Across an extraordinary career spanning more than five decades, Tonegawa pursued biology’s deepest mysteries with relentless curiosity and unwavering conviction, inspiring generations of scientists to keep asking the hardest questions.",
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41593-026-02416-8/MediaObjects/41593_2026_2416_Figa_HTML.png",
-    "topic": "neuroscience",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
-    "title": "Modeling maternal immune activation in 3D ex vivo human fetal brain cerebroids reveals IL-17A-driven disruption of cortical development",
-    "link": "https://www.nature.com/articles/s41593-026-02400-2",
-    "journal": "Nature Neuroscience",
-    "source_type": "journal",
-    "date": "2026-08-11",
-    "summary": "Nature Neuroscience, Published online: 11 August 2026; doi:10.1038/s41593-026-02400-2 Using cerebroids, a 3D ex vivo model of the human fetal brain, the authors show that IL-17A, a mediator of maternal immune activation linked to neurodevelopmental disorders, disrupts early human cortical development through NF-κB signaling.",
-    "abstract": "Nature Neuroscience, Published online: 11 August 2026; doi:10.1038/s41593-026-02400-2 Using cerebroids, a 3D ex vivo model of the human fetal brain, the authors show that IL-17A, a mediator of maternal immune activation linked to neurodevelopmental disorders, disrupts early human cortical development through NF-κB signaling.",
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41593-026-02400-2/MediaObjects/41593_2026_2400_Fig1_HTML.png",
-    "topic": "neuroscience",
     "topic_color": "#60a5fa",
     "priority_score": 0
   },
