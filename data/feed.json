@@ -39,19 +39,6 @@
     "priority_score": 98
   },
   {
-    "title": "Daily briefing: People older than 100 have more cancer-killing cells",
-    "link": "https://www.nature.com/articles/d41586-026-02617-y",
-    "journal": "Nature",
-    "source_type": "journal",
-    "date": "2026-08-20",
-    "summary": "Nature, Published online: 20 August 2026; doi:10.1038/d41586-026-02617-y Killer T cells might help people to live to extraordinarily old ages. Plus, the longest-lived brain organoids so far and how mass genome-screening programmes for newborns might work.",
-    "abstract": "Nature, Published online: 20 August 2026; doi:10.1038/d41586-026-02617-y Killer T cells might help people to live to extraordinarily old ages. Plus, the longest-lived brain organoids so far and how mass genome-screening programmes for newborns might work.",
-    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-02617-y/d41586-026-02617-y_53146212.png",
-    "topic": "Immunology",
-    "topic_color": "#60a5fa",
-    "priority_score": 93
-  },
-  {
     "title": "<b>Intercepting pancreatic cancer with a vaccine</b>",
     "link": "https://www.nature.com/articles/d41591-026-00041-3",
     "journal": "Nature Medicine",
@@ -128,6 +115,19 @@
     "topic": "inflammation",
     "topic_color": "#fb7185",
     "priority_score": 58
+  },
+  {
+    "title": "Patient’s own mitochondria injected into eyes in attempt to restore vision",
+    "link": "https://www.nature.com/articles/d41586-026-02616-z",
+    "journal": "Nature",
+    "source_type": "journal",
+    "date": "2026-08-24",
+    "summary": "Nature, Published online: 24 August 2026; doi:10.1038/d41586-026-02616-z Injection of a person’s own mitochondria into the retina was safe but had only a temporary effect on restoring vision.",
+    "abstract": "Nature, Published online: 24 August 2026; doi:10.1038/d41586-026-02616-z Injection of a person’s own mitochondria into the retina was safe but had only a temporary effect on restoring vision.",
+    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-02616-z/d41586-026-02616-z_53146042.jpg",
+    "topic": "retina",
+    "topic_color": "#f472b6",
+    "priority_score": 40
   },
   {
     "title": "Cortical thickness changes precede high levels of amyloid by at least 7 years",
