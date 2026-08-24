@@ -52,19 +52,6 @@
     "priority_score": 98
   },
   {
-    "title": "<b>Intercepting pancreatic cancer with a vaccine</b>",
-    "link": "https://www.nature.com/articles/d41591-026-00041-3",
-    "journal": "Nature Medicine",
-    "source_type": "journal",
-    "date": "2026-08-20",
-    "summary": "Nature Medicine, Published online: 20 August 2026; doi:10.1038/d41591-026-00041-3 An ‘off-the-shelf’ vaccine that targets mutant KRAS can safely and durably activate T cell responses in healthy people at high risk of developing pancreatic cancer, according to a phase 1 study.",
-    "abstract": "Nature Medicine, Published online: 20 August 2026; doi:10.1038/d41591-026-00041-3 An ‘off-the-shelf’ vaccine that targets mutant KRAS can safely and durably activate T cell responses in healthy people at high risk of developing pancreatic cancer, according to a phase 1 study.",
-    "image": "https://media.nature.com/lw1200/magazine-assets/d41591-026-00041-3/d41591-026-00041-3_53146380.jpg",
-    "topic": "Immunology",
-    "topic_color": "#60a5fa",
-    "priority_score": 93
-  },
-  {
     "title": "Hallmarks of the multidimensional immune response to trauma in humans",
     "link": "https://www.nature.com/articles/s41590-026-02618-z",
     "journal": "Nature Immunology",
@@ -156,6 +143,19 @@
     "priority_score": 35
   },
   {
+    "title": "China abruptly delays mission to probe Moon’s hidden water",
+    "link": "https://www.science.org/content/article/china-abruptly-delays-mission-probe-moon-s-hidden-water",
+    "journal": "Science",
+    "source_type": "journal",
+    "date": "2026-08-24T12:20:00Z",
+    "summary": "Chang’e-7, which will investigate the origin of and abundance of lunar ice, set back until 2027",
+    "abstract": "Chang’e-7, which will investigate the origin of and abundance of lunar ice, set back until 2027",
+    "image": "data:image/svg+xml;charset=utf-8,%0A%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23111827%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23374151%22/%3E%0A%20%20%20%20%3C/linearGradient%3E%0A%20%20%20%20%3Cfilter%20id%3D%22blur%22%3E%0A%20%20%20%20%20%20%3CfeGaussianBlur%20stdDeviation%3D%2230%22/%3E%0A%20%20%20%20%3C/filter%3E%0A%20%20%3C/defs%3E%0A%0A%20%20%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22url%28%23bg%29%22/%3E%0A%0A%20%20%3Ccircle%20cx%3D%221030%22%20cy%3D%22110%22%20r%3D%22170%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.18%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%20%20%3Ccircle%20cx%3D%22180%22%20cy%3D%22560%22%20r%3D%22150%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.16%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%0A%20%20%3Crect%20x%3D%2256%22%20y%3D%2252%22%20rx%3D%2218%22%20ry%3D%2218%22%20width%3D%22260%22%20height%3D%2254%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.08%29%22/%3E%0A%20%20%3Ctext%20x%3D%2284%22%20y%3D%2287%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2228%22%20fill%3D%22%23e5e7eb%22%3EScience%3C/text%3E%0A%0A%20%20%3Ctext%20x%3D%221010%22%20y%3D%22560%22%0A%20%20%20%20%20%20%20%20text-anchor%3D%22middle%22%0A%20%20%20%20%20%20%20%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%0A%20%20%20%20%20%20%20%20font-size%3D%22160%22%0A%20%20%20%20%20%20%20%20fill%3D%22%2360a5fa%22%0A%20%20%20%20%20%20%20%20opacity%3D%220.85%22%3E%0A%20%20%20%20%E2%80%A2%0A%20%20%3C/text%3E%0A%3C/svg%3E%0A",
+    "topic": "default",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
     "title": "The exoskeletons are coming (to a store near you)",
     "link": "https://www.nature.com/articles/d41586-026-02641-y",
     "journal": "Nature",
@@ -217,6 +217,32 @@
     "abstract": "Nature Neuroscience, Published online: 24 August 2026; doi:10.1038/s41593-026-02412-y Sui, Yi, Zhou and colleagues show that motor neurons actively orchestrate Drosophila feeding sequences through a feedforward disinhibition cascade. In coordinating their own activity, these neurons function as more than passive relays.",
     "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41593-026-02412-y/MediaObjects/41593_2026_2412_Fig1_HTML.png",
     "topic": "neuroscience",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
+    "title": "A case of Bundibugyo virus disease treated with monoclonal antibodies and remdesivir",
+    "link": "https://www.nature.com/articles/s41591-026-04663-5",
+    "journal": "Nature Medicine",
+    "source_type": "journal",
+    "date": "2026-08-24",
+    "summary": "Nature Medicine, Published online: 24 August 2026; doi:10.1038/s41591-026-04663-5 In a case report of an individual with Bundibugyo virus infection, treatment with emergency use of the monoclonal antibody cocktail MBP134 with remdesivir and supportive care treatment resulted in recovery and discharge 22 days after symptom onset, supporting further evaluation of MBP134.",
+    "abstract": "Nature Medicine, Published online: 24 August 2026; doi:10.1038/s41591-026-04663-5 In a case report of an individual with Bundibugyo virus infection, treatment with emergency use of the monoclonal antibody cocktail MBP134 with remdesivir and supportive care treatment resulted in recovery and discharge 22 days after symptom onset, supporting further evaluation of MBP134.",
+    "image": "data:image/svg+xml;charset=utf-8,%0A%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23111827%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23374151%22/%3E%0A%20%20%20%20%3C/linearGradient%3E%0A%20%20%20%20%3Cfilter%20id%3D%22blur%22%3E%0A%20%20%20%20%20%20%3CfeGaussianBlur%20stdDeviation%3D%2230%22/%3E%0A%20%20%20%20%3C/filter%3E%0A%20%20%3C/defs%3E%0A%0A%20%20%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22url%28%23bg%29%22/%3E%0A%0A%20%20%3Ccircle%20cx%3D%221030%22%20cy%3D%22110%22%20r%3D%22170%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.18%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%20%20%3Ccircle%20cx%3D%22180%22%20cy%3D%22560%22%20r%3D%22150%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.16%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%0A%20%20%3Crect%20x%3D%2256%22%20y%3D%2252%22%20rx%3D%2218%22%20ry%3D%2218%22%20width%3D%22260%22%20height%3D%2254%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.08%29%22/%3E%0A%20%20%3Ctext%20x%3D%2284%22%20y%3D%2287%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2228%22%20fill%3D%22%23e5e7eb%22%3ENature%20Medicine%3C/text%3E%0A%0A%20%20%3Ctext%20x%3D%221010%22%20y%3D%22560%22%0A%20%20%20%20%20%20%20%20text-anchor%3D%22middle%22%0A%20%20%20%20%20%20%20%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%0A%20%20%20%20%20%20%20%20font-size%3D%22160%22%0A%20%20%20%20%20%20%20%20fill%3D%22%2360a5fa%22%0A%20%20%20%20%20%20%20%20opacity%3D%220.85%22%3E%0A%20%20%20%20%E2%80%A2%0A%20%20%3C/text%3E%0A%3C/svg%3E%0A",
+    "topic": "default",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
+    "title": "Post-Exposure Prophylaxis with a monoclonal antibody cocktail Following Bundibugyo Ebolavirus Exposure in Adults and Children",
+    "link": "https://www.nature.com/articles/s41591-026-04664-4",
+    "journal": "Nature Medicine",
+    "source_type": "journal",
+    "date": "2026-08-24",
+    "summary": "Nature Medicine, Published online: 24 August 2026; doi:10.1038/s41591-026-04664-4 In a case series of an adult and four children with high- to intermediate-risk exposure to Bundibugyo ebolavirus, emergency use post-exposure prophylaxis monoclonal antibody cocktail (MBP134) treatment was well tolerated with no evidence of Bundibugyo virus disease, supporting future evaluation of MBP134 as a post-exposure prophylaxis for outbreaks.",
+    "abstract": "Nature Medicine, Published online: 24 August 2026; doi:10.1038/s41591-026-04664-4 In a case series of an adult and four children with high- to intermediate-risk exposure to Bundibugyo ebolavirus, emergency use post-exposure prophylaxis monoclonal antibody cocktail (MBP134) treatment was well tolerated with no evidence of Bundibugyo virus disease, supporting future evaluation of MBP134 as a post-exposure prophylaxis for outbreaks.",
+    "image": "data:image/svg+xml;charset=utf-8,%0A%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23111827%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23374151%22/%3E%0A%20%20%20%20%3C/linearGradient%3E%0A%20%20%20%20%3Cfilter%20id%3D%22blur%22%3E%0A%20%20%20%20%20%20%3CfeGaussianBlur%20stdDeviation%3D%2230%22/%3E%0A%20%20%20%20%3C/filter%3E%0A%20%20%3C/defs%3E%0A%0A%20%20%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22url%28%23bg%29%22/%3E%0A%0A%20%20%3Ccircle%20cx%3D%221030%22%20cy%3D%22110%22%20r%3D%22170%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.18%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%20%20%3Ccircle%20cx%3D%22180%22%20cy%3D%22560%22%20r%3D%22150%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.16%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%0A%20%20%3Crect%20x%3D%2256%22%20y%3D%2252%22%20rx%3D%2218%22%20ry%3D%2218%22%20width%3D%22260%22%20height%3D%2254%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.08%29%22/%3E%0A%20%20%3Ctext%20x%3D%2284%22%20y%3D%2287%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2228%22%20fill%3D%22%23e5e7eb%22%3ENature%20Medicine%3C/text%3E%0A%0A%20%20%3Ctext%20x%3D%221010%22%20y%3D%22560%22%0A%20%20%20%20%20%20%20%20text-anchor%3D%22middle%22%0A%20%20%20%20%20%20%20%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%0A%20%20%20%20%20%20%20%20font-size%3D%22160%22%0A%20%20%20%20%20%20%20%20fill%3D%22%2360a5fa%22%0A%20%20%20%20%20%20%20%20opacity%3D%220.85%22%3E%0A%20%20%20%20%E2%80%A2%0A%20%20%3C/text%3E%0A%3C/svg%3E%0A",
+    "topic": "default",
     "topic_color": "#60a5fa",
     "priority_score": 0
   },
@@ -476,32 +502,6 @@
     "summary": "Nature, Published online: 20 August 2026; doi:10.1038/d41586-026-02556-8 Tests on uncrewed NASA mission showed garment could spare astronauts the worst effects of solar storms.",
     "abstract": "Nature, Published online: 20 August 2026; doi:10.1038/d41586-026-02556-8 Tests on uncrewed NASA mission showed garment could spare astronauts the worst effects of solar storms.",
     "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-02556-8/d41586-026-02556-8_53140866.jpg",
-    "topic": "default",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
-    "title": "County surveillance failed to detect that measles transmission reached epidemic threshold in schools",
-    "link": "https://www.nature.com/articles/s41591-026-04612-2",
-    "journal": "Nature Medicine",
-    "source_type": "journal",
-    "date": "2026-08-20",
-    "summary": "Nature Medicine, Published online: 20 August 2026; doi:10.1038/s41591-026-04612-2 A nationwide analysis of measles vaccination records from more than 50,000 US schools shows that measles transmission risk crossed the threshold that can lead to epidemics at the school level in the 2–3 years before the 2025–2026 outbreaks, whereas county-level estimates always remained below that threshold.",
-    "abstract": "Nature Medicine, Published online: 20 August 2026; doi:10.1038/s41591-026-04612-2 A nationwide analysis of measles vaccination records from more than 50,000 US schools shows that measles transmission risk crossed the threshold that can lead to epidemics at the school level in the 2–3 years before the 2025–2026 outbreaks, whereas county-level estimates always remained below that threshold.",
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41591-026-04612-2/MediaObjects/41591_2026_4612_Fig1_HTML.png",
-    "topic": "default",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
-    "title": "‘Brain-eating amoeba’ appears to love crawling into narrow spaces",
-    "link": "https://www.science.org/content/article/brain-eating-amoeba-appears-love-crawling-narrow-spaces",
-    "journal": "Science",
-    "source_type": "journal",
-    "date": "2026-08-19T12:10:00Z",
-    "summary": "Claustrophilic behavior may help Naegleria fowleri find food—and accidentally travel up the human nasal cavity",
-    "abstract": "Claustrophilic behavior may help Naegleria fowleri find food—and accidentally travel up the human nasal cavity",
-    "image": "data:image/svg+xml;charset=utf-8,%0A%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23111827%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23374151%22/%3E%0A%20%20%20%20%3C/linearGradient%3E%0A%20%20%20%20%3Cfilter%20id%3D%22blur%22%3E%0A%20%20%20%20%20%20%3CfeGaussianBlur%20stdDeviation%3D%2230%22/%3E%0A%20%20%20%20%3C/filter%3E%0A%20%20%3C/defs%3E%0A%0A%20%20%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22url%28%23bg%29%22/%3E%0A%0A%20%20%3Ccircle%20cx%3D%221030%22%20cy%3D%22110%22%20r%3D%22170%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.18%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%20%20%3Ccircle%20cx%3D%22180%22%20cy%3D%22560%22%20r%3D%22150%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.16%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%0A%20%20%3Crect%20x%3D%2256%22%20y%3D%2252%22%20rx%3D%2218%22%20ry%3D%2218%22%20width%3D%22260%22%20height%3D%2254%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.08%29%22/%3E%0A%20%20%3Ctext%20x%3D%2284%22%20y%3D%2287%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2228%22%20fill%3D%22%23e5e7eb%22%3EScience%3C/text%3E%0A%0A%20%20%3Ctext%20x%3D%221010%22%20y%3D%22560%22%0A%20%20%20%20%20%20%20%20text-anchor%3D%22middle%22%0A%20%20%20%20%20%20%20%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%0A%20%20%20%20%20%20%20%20font-size%3D%22160%22%0A%20%20%20%20%20%20%20%20fill%3D%22%2360a5fa%22%0A%20%20%20%20%20%20%20%20opacity%3D%220.85%22%3E%0A%20%20%20%20%E2%80%A2%0A%20%20%3C/text%3E%0A%3C/svg%3E%0A",
     "topic": "default",
     "topic_color": "#60a5fa",
     "priority_score": 0
