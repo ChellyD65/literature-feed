@@ -143,6 +143,19 @@
     "priority_score": 35
   },
   {
+    "title": "Citywide implementation of a rapid whole-genome sequencing program for critically ill pediatric patients",
+    "link": "https://www.nature.com/articles/s41591-026-04598-x",
+    "journal": "Nature Medicine",
+    "source_type": "journal",
+    "date": "2026-08-24",
+    "summary": "Nature Medicine, Published online: 24 August 2026; doi:10.1038/s41591-026-04598-x Little Falcon, a citywide rapid whole-genome sequencing program implemented within centralized neonatal and pediatric intensive care units within the Dubai healthcare system, led to clinically meaningful shifts in care trajectory in 53% of patients.",
+    "abstract": "Nature Medicine, Published online: 24 August 2026; doi:10.1038/s41591-026-04598-x Little Falcon, a citywide rapid whole-genome sequencing program implemented within centralized neonatal and pediatric intensive care units within the Dubai healthcare system, led to clinically meaningful shifts in care trajectory in 53% of patients.",
+    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41591-026-04598-x/MediaObjects/41591_2026_4598_Fig1_HTML.png",
+    "topic": "default",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
     "title": "Neurologist with antivaccine views to lead NIH’s child health institute",
     "link": "https://www.science.org/content/article/neurologist-antivaccine-views-lead-nih-s-child-health-institute",
     "journal": "Science",
@@ -490,19 +503,6 @@
     "abstract": "Nature Neuroscience, Published online: 19 August 2026; doi:10.1038/s41593-026-02395-w Brain activity is complex but not arbitrary, and some patterns dominate others, with dimensionality describing how many such patterns exist. The authors show how brain connectivity controls dimensionality, allowing complexity to vary across time and behavior.",
     "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41593-026-02395-w/MediaObjects/41593_2026_2395_Fig1_HTML.png",
     "topic": "neuroscience",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
-    "title": "Waking from the nightmare of PTSD",
-    "link": "https://www.nature.com/articles/s41591-026-04586-1",
-    "journal": "Nature Medicine",
-    "source_type": "journal",
-    "date": "2026-08-19",
-    "summary": "Nature Medicine, Published online: 19 August 2026; doi:10.1038/s41591-026-04586-1 Dronabinol, the pharmaceutical form of Δ9-tetrahydrocannabinol, shows promise in the treatment of nightmares related to post-traumatic stress disorder (PTSD), but additional studies are needed to confirm safety and efficacy.",
-    "abstract": "Nature Medicine, Published online: 19 August 2026; doi:10.1038/s41591-026-04586-1 Dronabinol, the pharmaceutical form of Δ9-tetrahydrocannabinol, shows promise in the treatment of nightmares related to post-traumatic stress disorder (PTSD), but additional studies are needed to confirm safety and efficacy.",
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41591-026-04586-1/MediaObjects/41591_2026_4586_Figa_HTML.png",
-    "topic": "default",
     "topic_color": "#60a5fa",
     "priority_score": 0
   },
