@@ -143,6 +143,19 @@
     "priority_score": 35
   },
   {
+    "title": "Social isolation recruits amygdala–medial prefrontal cortex projections to escalate alcohol drinking in male mice",
+    "link": "https://www.nature.com/articles/s41593-026-02413-x",
+    "journal": "Nature Neuroscience",
+    "source_type": "journal",
+    "date": "2026-08-25",
+    "summary": "Nature Neuroscience, Published online: 25 August 2026; doi:10.1038/s41593-026-02413-x Social isolation recruits a basolateral amygdala–medial prefrontal cortex circuit to escalate alcohol drinking in male mice. This pathway reshapes prefrontal population dynamics, suppressing natural reward responses while amplifying alcohol-evoked activity.",
+    "abstract": "Nature Neuroscience, Published online: 25 August 2026; doi:10.1038/s41593-026-02413-x Social isolation recruits a basolateral amygdala–medial prefrontal cortex circuit to escalate alcohol drinking in male mice. This pathway reshapes prefrontal population dynamics, suppressing natural reward responses while amplifying alcohol-evoked activity.",
+    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41593-026-02413-x/MediaObjects/41593_2026_2413_Fig1_HTML.png",
+    "topic": "neuroscience",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
     "title": "China abruptly delays mission to probe Moon’s hidden water",
     "link": "https://www.science.org/content/article/china-abruptly-delays-mission-probe-moon-s-hidden-water",
     "journal": "Science",
@@ -594,19 +607,6 @@
     "abstract": "Nature Immunology, Published online: 17 August 2026; doi:10.1038/s41590-026-02621-4 A comprehensive atlas of tissue-resident immune cells reveals where disease-risk variants regulate gene expression, helping connect genome-wide association study signals to disease mechanisms.",
     "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41590-026-02621-4/MediaObjects/41590_2026_2621_Fig1_HTML.png",
     "topic": "immunology",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
-    "title": "Dendritic translation and neuroproteasome-mediated degradation of endogenous tau revealed by STARFISH",
-    "link": "https://www.nature.com/articles/s41593-026-02398-7",
-    "journal": "Nature Neuroscience",
-    "source_type": "journal",
-    "date": "2026-08-13",
-    "summary": "Nature Neuroscience, Published online: 13 August 2026; doi:10.1038/s41593-026-02398-7 STARFISH, a method for visualizing endogenous mRNA translation, is used to show that tau is translated exclusively in neuronal dendrites and rapidly degraded by neuroproteasomes. Failure of this degradation leads to accumulation of tau aggregates.",
-    "abstract": "Nature Neuroscience, Published online: 13 August 2026; doi:10.1038/s41593-026-02398-7 STARFISH, a method for visualizing endogenous mRNA translation, is used to show that tau is translated exclusively in neuronal dendrites and rapidly degraded by neuroproteasomes. Failure of this degradation leads to accumulation of tau aggregates.",
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41593-026-02398-7/MediaObjects/41593_2026_2398_Fig1_HTML.png",
-    "topic": "neuroscience",
     "topic_color": "#60a5fa",
     "priority_score": 0
   },
