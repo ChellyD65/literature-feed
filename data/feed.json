@@ -91,6 +91,19 @@
     "priority_score": 35
   },
   {
+    "title": "To predict tree death, scientists tapped gamma rays to peer underground",
+    "link": "https://www.science.org/content/article/predict-tree-death-scientists-tapped-gamma-rays-peer-underground",
+    "journal": "Science",
+    "source_type": "journal",
+    "date": "2026-08-25T12:00:00Z",
+    "summary": "Airborne radiation sensors could help forecast and prevent drought-driven tree mortality",
+    "abstract": "Airborne radiation sensors could help forecast and prevent drought-driven tree mortality",
+    "image": "data:image/svg+xml;charset=utf-8,%0A%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23111827%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23374151%22/%3E%0A%20%20%20%20%3C/linearGradient%3E%0A%20%20%20%20%3Cfilter%20id%3D%22blur%22%3E%0A%20%20%20%20%20%20%3CfeGaussianBlur%20stdDeviation%3D%2230%22/%3E%0A%20%20%20%20%3C/filter%3E%0A%20%20%3C/defs%3E%0A%0A%20%20%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22url%28%23bg%29%22/%3E%0A%0A%20%20%3Ccircle%20cx%3D%221030%22%20cy%3D%22110%22%20r%3D%22170%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.18%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%20%20%3Ccircle%20cx%3D%22180%22%20cy%3D%22560%22%20r%3D%22150%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.16%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%0A%20%20%3Crect%20x%3D%2256%22%20y%3D%2252%22%20rx%3D%2218%22%20ry%3D%2218%22%20width%3D%22260%22%20height%3D%2254%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.08%29%22/%3E%0A%20%20%3Ctext%20x%3D%2284%22%20y%3D%2287%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2228%22%20fill%3D%22%23e5e7eb%22%3EScience%3C/text%3E%0A%0A%20%20%3Ctext%20x%3D%221010%22%20y%3D%22560%22%0A%20%20%20%20%20%20%20%20text-anchor%3D%22middle%22%0A%20%20%20%20%20%20%20%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%0A%20%20%20%20%20%20%20%20font-size%3D%22160%22%0A%20%20%20%20%20%20%20%20fill%3D%22%2360a5fa%22%0A%20%20%20%20%20%20%20%20opacity%3D%220.85%22%3E%0A%20%20%20%20%E2%80%A2%0A%20%20%3C/text%3E%0A%3C/svg%3E%0A",
+    "topic": "default",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
     "title": "Fraudulent images are rife on antibody sellers’ websites, researcher says",
     "link": "https://www.science.org/content/article/fraudulent-images-are-rife-antibody-sellers-websites-researcher-says",
     "journal": "Science",
@@ -182,6 +195,19 @@
     "priority_score": 0
   },
   {
+    "title": "Asthma in some boys stops at puberty: mouse results hint at why",
+    "link": "https://www.nature.com/articles/d41586-026-02611-4",
+    "journal": "Nature",
+    "source_type": "journal",
+    "date": "2026-08-25",
+    "summary": "Nature, Published online: 25 August 2026; doi:10.1038/d41586-026-02611-4 Study suggests that male hormones have an effect on nerve endings in the lungs.",
+    "abstract": "Nature, Published online: 25 August 2026; doi:10.1038/d41586-026-02611-4 Study suggests that male hormones have an effect on nerve endings in the lungs.",
+    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-02611-4/d41586-026-02611-4_53140972.jpg",
+    "topic": "default",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
     "title": "How to manage AI risks while reaping the benefits",
     "link": "https://www.nature.com/articles/d41586-026-02567-5",
     "journal": "Nature",
@@ -190,6 +216,19 @@
     "summary": "Nature, Published online: 25 August 2026; doi:10.1038/d41586-026-02567-5 As the world debates how to regulate artificial intelligence, Europe’s lawmakers are doing a lot of the heavy lifting.",
     "abstract": "Nature, Published online: 25 August 2026; doi:10.1038/d41586-026-02567-5 As the world debates how to regulate artificial intelligence, Europe’s lawmakers are doing a lot of the heavy lifting.",
     "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-02567-5/d41586-026-02567-5_53160608.jpg",
+    "topic": "default",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
+    "title": "The brain struggles to make new neurons in people with depression",
+    "link": "https://www.nature.com/articles/d41586-026-02661-8",
+    "journal": "Nature",
+    "source_type": "journal",
+    "date": "2026-08-25",
+    "summary": "Nature, Published online: 25 August 2026; doi:10.1038/d41586-026-02661-8 High resolution, wide-coverage map of the hippocampus reveals possible pathways for therapy.",
+    "abstract": "Nature, Published online: 25 August 2026; doi:10.1038/d41586-026-02661-8 High resolution, wide-coverage map of the hippocampus reveals possible pathways for therapy.",
+    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-02661-8/d41586-026-02661-8_53165452.jpg",
     "topic": "default",
     "topic_color": "#60a5fa",
     "priority_score": 0
@@ -229,32 +268,6 @@
     "summary": "Nature, Published online: 25 August 2026; doi:10.1038/d41586-026-02622-1 Health-care partnerships can provide other nations with cheap diagnostics, medicines and more — but global institutions should help to ensure that they also strengthen local capacity and preserve sovereignty.",
     "abstract": "Nature, Published online: 25 August 2026; doi:10.1038/d41586-026-02622-1 Health-care partnerships can provide other nations with cheap diagnostics, medicines and more — but global institutions should help to ensure that they also strengthen local capacity and preserve sovereignty.",
     "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-02622-1/d41586-026-02622-1_53134462.jpg",
-    "topic": "default",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
-    "title": "How tech-enhanced sleep could improve rest but erode privacy",
-    "link": "https://www.nature.com/articles/d41586-026-02573-7",
-    "journal": "Nature",
-    "source_type": "journal",
-    "date": "2026-08-25",
-    "summary": "Nature, Published online: 25 August 2026; doi:10.1038/d41586-026-02573-7 Technologies that promise better-than-usual sleep could improve people’s performance and health but also turn the need for rest into an auditable obligation. Ethical norms and regulations are needed.",
-    "abstract": "Nature, Published online: 25 August 2026; doi:10.1038/d41586-026-02573-7 Technologies that promise better-than-usual sleep could improve people’s performance and health but also turn the need for rest into an auditable obligation. Ethical norms and regulations are needed.",
-    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-02573-7/d41586-026-02573-7_53146502.jpg",
-    "topic": "default",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
-    "title": "AI-detection tools have made huge leaps forward — how good are they?",
-    "link": "https://www.nature.com/articles/d41586-026-02569-3",
-    "journal": "Nature",
-    "source_type": "journal",
-    "date": "2026-08-25",
-    "summary": "Nature, Published online: 25 August 2026; doi:10.1038/d41586-026-02569-3 Scientists and publishers are testing a new breed of software that promises impressive accuracy at spotting AI-written text.",
-    "abstract": "Nature, Published online: 25 August 2026; doi:10.1038/d41586-026-02569-3 Scientists and publishers are testing a new breed of software that promises impressive accuracy at spotting AI-written text.",
-    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-02569-3/d41586-026-02569-3_53140632.jpg",
     "topic": "default",
     "topic_color": "#60a5fa",
     "priority_score": 0
@@ -332,6 +345,19 @@
     "date": "2026-08-25",
     "summary": "Nature Medicine, Published online: 25 August 2026; doi:10.1038/s41591-026-04592-3 Beyond Ebola: armed conflict and humanitarian funding cuts threaten control of malaria, TB and HIV in eastern DRC",
     "abstract": "Nature Medicine, Published online: 25 August 2026; doi:10.1038/s41591-026-04592-3 Beyond Ebola: armed conflict and humanitarian funding cuts threaten control of malaria, TB and HIV in eastern DRC",
+    "image": "data:image/svg+xml;charset=utf-8,%0A%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23111827%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23374151%22/%3E%0A%20%20%20%20%3C/linearGradient%3E%0A%20%20%20%20%3Cfilter%20id%3D%22blur%22%3E%0A%20%20%20%20%20%20%3CfeGaussianBlur%20stdDeviation%3D%2230%22/%3E%0A%20%20%20%20%3C/filter%3E%0A%20%20%3C/defs%3E%0A%0A%20%20%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22url%28%23bg%29%22/%3E%0A%0A%20%20%3Ccircle%20cx%3D%221030%22%20cy%3D%22110%22%20r%3D%22170%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.18%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%20%20%3Ccircle%20cx%3D%22180%22%20cy%3D%22560%22%20r%3D%22150%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.16%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%0A%20%20%3Crect%20x%3D%2256%22%20y%3D%2252%22%20rx%3D%2218%22%20ry%3D%2218%22%20width%3D%22260%22%20height%3D%2254%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.08%29%22/%3E%0A%20%20%3Ctext%20x%3D%2284%22%20y%3D%2287%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2228%22%20fill%3D%22%23e5e7eb%22%3ENature%20Medicine%3C/text%3E%0A%0A%20%20%3Ctext%20x%3D%221010%22%20y%3D%22560%22%0A%20%20%20%20%20%20%20%20text-anchor%3D%22middle%22%0A%20%20%20%20%20%20%20%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%0A%20%20%20%20%20%20%20%20font-size%3D%22160%22%0A%20%20%20%20%20%20%20%20fill%3D%22%2360a5fa%22%0A%20%20%20%20%20%20%20%20opacity%3D%220.85%22%3E%0A%20%20%20%20%E2%80%A2%0A%20%20%3C/text%3E%0A%3C/svg%3E%0A",
+    "topic": "default",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
+    "title": "Author Correction: Survodutide in adults with obesity and metabolic dysfunction-associated steatotic liver disease: SYNCHRONIZE-MASLD, a randomized, double-blind, placebo-controlled phase 3 trial",
+    "link": "https://www.nature.com/articles/s41591-026-04650-w",
+    "journal": "Nature Medicine",
+    "source_type": "journal",
+    "date": "2026-08-25",
+    "summary": "Nature Medicine, Published online: 25 August 2026; doi:10.1038/s41591-026-04650-w Author Correction: Survodutide in adults with obesity and metabolic dysfunction-associated steatotic liver disease: SYNCHRONIZE-MASLD, a randomized, double-blind, placebo-controlled phase 3 trial",
+    "abstract": "Nature Medicine, Published online: 25 August 2026; doi:10.1038/s41591-026-04650-w Author Correction: Survodutide in adults with obesity and metabolic dysfunction-associated steatotic liver disease: SYNCHRONIZE-MASLD, a randomized, double-blind, placebo-controlled phase 3 trial",
     "image": "data:image/svg+xml;charset=utf-8,%0A%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23111827%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23374151%22/%3E%0A%20%20%20%20%3C/linearGradient%3E%0A%20%20%20%20%3Cfilter%20id%3D%22blur%22%3E%0A%20%20%20%20%20%20%3CfeGaussianBlur%20stdDeviation%3D%2230%22/%3E%0A%20%20%20%20%3C/filter%3E%0A%20%20%3C/defs%3E%0A%0A%20%20%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22url%28%23bg%29%22/%3E%0A%0A%20%20%3Ccircle%20cx%3D%221030%22%20cy%3D%22110%22%20r%3D%22170%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.18%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%20%20%3Ccircle%20cx%3D%22180%22%20cy%3D%22560%22%20r%3D%22150%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.16%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%0A%20%20%3Crect%20x%3D%2256%22%20y%3D%2252%22%20rx%3D%2218%22%20ry%3D%2218%22%20width%3D%22260%22%20height%3D%2254%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.08%29%22/%3E%0A%20%20%3Ctext%20x%3D%2284%22%20y%3D%2287%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2228%22%20fill%3D%22%23e5e7eb%22%3ENature%20Medicine%3C/text%3E%0A%0A%20%20%3Ctext%20x%3D%221010%22%20y%3D%22560%22%0A%20%20%20%20%20%20%20%20text-anchor%3D%22middle%22%0A%20%20%20%20%20%20%20%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%0A%20%20%20%20%20%20%20%20font-size%3D%22160%22%0A%20%20%20%20%20%20%20%20fill%3D%22%2360a5fa%22%0A%20%20%20%20%20%20%20%20opacity%3D%220.85%22%3E%0A%20%20%20%20%E2%80%A2%0A%20%20%3C/text%3E%0A%3C/svg%3E%0A",
     "topic": "default",
     "topic_color": "#60a5fa",
@@ -481,19 +507,6 @@
     "priority_score": 0
   },
   {
-    "title": "Can traditional medicines go mainstream?",
-    "link": "https://www.nature.com/articles/s41591-026-04588-z",
-    "journal": "Nature Medicine",
-    "source_type": "journal",
-    "date": "2026-08-21",
-    "summary": "Nature Medicine, Published online: 21 August 2026; doi:10.1038/s41591-026-04588-z Traditional medicine is already used by billions worldwide. Researchers, regulators and the World Health Organization (WHO) are now working to generate acceptable evidence, win regulatory acceptance, and integrate traditional medicines into modern clinical care.",
-    "abstract": "Nature Medicine, Published online: 21 August 2026; doi:10.1038/s41591-026-04588-z Traditional medicine is already used by billions worldwide. Researchers, regulators and the World Health Organization (WHO) are now working to generate acceptable evidence, win regulatory acceptance, and integrate traditional medicines into modern clinical care.",
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41591-026-04588-z/MediaObjects/41591_2026_4588_Figa_HTML.png",
-    "topic": "default",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
     "title": "Footprints may reveal biggest known mammal from age of the dinosaurs",
     "link": "https://www.science.org/content/article/footprints-may-reveal-biggest-known-mammal-age-dinosaurs",
     "journal": "Science",
@@ -553,19 +566,6 @@
     "date": "2026-08-20T02:00:00Z",
     "summary": "ChatGPT and other AIs use a flood of facts, and the occasional lie, to persuade humans",
     "abstract": "ChatGPT and other AIs use a flood of facts, and the occasional lie, to persuade humans",
-    "image": "data:image/svg+xml;charset=utf-8,%0A%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23111827%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23374151%22/%3E%0A%20%20%20%20%3C/linearGradient%3E%0A%20%20%20%20%3Cfilter%20id%3D%22blur%22%3E%0A%20%20%20%20%20%20%3CfeGaussianBlur%20stdDeviation%3D%2230%22/%3E%0A%20%20%20%20%3C/filter%3E%0A%20%20%3C/defs%3E%0A%0A%20%20%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22url%28%23bg%29%22/%3E%0A%0A%20%20%3Ccircle%20cx%3D%221030%22%20cy%3D%22110%22%20r%3D%22170%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.18%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%20%20%3Ccircle%20cx%3D%22180%22%20cy%3D%22560%22%20r%3D%22150%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.16%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%0A%20%20%3Crect%20x%3D%2256%22%20y%3D%2252%22%20rx%3D%2218%22%20ry%3D%2218%22%20width%3D%22260%22%20height%3D%2254%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.08%29%22/%3E%0A%20%20%3Ctext%20x%3D%2284%22%20y%3D%2287%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2228%22%20fill%3D%22%23e5e7eb%22%3EScience%3C/text%3E%0A%0A%20%20%3Ctext%20x%3D%221010%22%20y%3D%22560%22%0A%20%20%20%20%20%20%20%20text-anchor%3D%22middle%22%0A%20%20%20%20%20%20%20%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%0A%20%20%20%20%20%20%20%20font-size%3D%22160%22%0A%20%20%20%20%20%20%20%20fill%3D%22%2360a5fa%22%0A%20%20%20%20%20%20%20%20opacity%3D%220.85%22%3E%0A%20%20%20%20%E2%80%A2%0A%20%20%3C/text%3E%0A%3C/svg%3E%0A",
-    "topic": "default",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
-    "title": "Truck-size crocodilians once ruled South America’s wetlands",
-    "link": "https://www.science.org/content/article/truck-size-crocodilians-once-ruled-south-america-s-wetlands",
-    "journal": "Science",
-    "source_type": "journal",
-    "date": "2026-08-19T05:30:00Z",
-    "summary": "The region’s enormous herbivores, some weighing more than 1 ton, were no match for this prehistoric beast",
-    "abstract": "The region’s enormous herbivores, some weighing more than 1 ton, were no match for this prehistoric beast",
     "image": "data:image/svg+xml;charset=utf-8,%0A%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23111827%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23374151%22/%3E%0A%20%20%20%20%3C/linearGradient%3E%0A%20%20%20%20%3Cfilter%20id%3D%22blur%22%3E%0A%20%20%20%20%20%20%3CfeGaussianBlur%20stdDeviation%3D%2230%22/%3E%0A%20%20%20%20%3C/filter%3E%0A%20%20%3C/defs%3E%0A%0A%20%20%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22url%28%23bg%29%22/%3E%0A%0A%20%20%3Ccircle%20cx%3D%221030%22%20cy%3D%22110%22%20r%3D%22170%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.18%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%20%20%3Ccircle%20cx%3D%22180%22%20cy%3D%22560%22%20r%3D%22150%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.16%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%0A%20%20%3Crect%20x%3D%2256%22%20y%3D%2252%22%20rx%3D%2218%22%20ry%3D%2218%22%20width%3D%22260%22%20height%3D%2254%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.08%29%22/%3E%0A%20%20%3Ctext%20x%3D%2284%22%20y%3D%2287%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2228%22%20fill%3D%22%23e5e7eb%22%3EScience%3C/text%3E%0A%0A%20%20%3Ctext%20x%3D%221010%22%20y%3D%22560%22%0A%20%20%20%20%20%20%20%20text-anchor%3D%22middle%22%0A%20%20%20%20%20%20%20%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%0A%20%20%20%20%20%20%20%20font-size%3D%22160%22%0A%20%20%20%20%20%20%20%20fill%3D%22%2360a5fa%22%0A%20%20%20%20%20%20%20%20opacity%3D%220.85%22%3E%0A%20%20%20%20%E2%80%A2%0A%20%20%3C/text%3E%0A%3C/svg%3E%0A",
     "topic": "default",
     "topic_color": "#60a5fa",
