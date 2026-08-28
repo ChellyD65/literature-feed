@@ -104,19 +104,6 @@
     "priority_score": 58
   },
   {
-    "title": "Recombinant shingles vaccination and the risk of cardiovascular events",
-    "link": "https://www.nature.com/articles/s41591-026-04606-0",
-    "journal": "Nature Medicine",
-    "source_type": "journal",
-    "date": "2026-08-26",
-    "summary": "Nature Medicine, Published online: 26 August 2026; doi:10.1038/s41591-026-04606-0 A natural experiment comparing recipients of the live attenuated versus recombinant herpes zoster vaccines found that the recombinant vaccine was associated with a lower incidence of cardiovascular events across 7 years of follow-up.",
-    "abstract": "Nature Medicine, Published online: 26 August 2026; doi:10.1038/s41591-026-04606-0 A natural experiment comparing recipients of the live attenuated versus recombinant herpes zoster vaccines found that the recombinant vaccine was associated with a lower incidence of cardiovascular events across 7 years of follow-up.",
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41591-026-04606-0/MediaObjects/41591_2026_4606_Fig1_HTML.png",
-    "topic": "retina",
-    "topic_color": "#f472b6",
-    "priority_score": 52
-  },
-  {
     "title": "Cortical thickness changes precede high levels of amyloid by at least 7 years",
     "link": "https://www.nature.com/articles/s41593-026-02363-4",
     "journal": "Nature Neuroscience",
@@ -128,6 +115,32 @@
     "topic": "neurodegeneration",
     "topic_color": "#fda4af",
     "priority_score": 35
+  },
+  {
+    "title": "To doom invasive fish, scientists are breeding ‘supermales’",
+    "link": "https://www.science.org/content/article/doom-invasive-fish-scientists-are-breeding-supermales",
+    "journal": "Science",
+    "source_type": "journal",
+    "date": "2026-08-28T02:00:00Z",
+    "summary": "Technique shown to eradicate exotic trout—by producing all male populations",
+    "abstract": "Technique shown to eradicate exotic trout—by producing all male populations",
+    "image": "data:image/svg+xml;charset=utf-8,%0A%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23111827%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23374151%22/%3E%0A%20%20%20%20%3C/linearGradient%3E%0A%20%20%20%20%3Cfilter%20id%3D%22blur%22%3E%0A%20%20%20%20%20%20%3CfeGaussianBlur%20stdDeviation%3D%2230%22/%3E%0A%20%20%20%20%3C/filter%3E%0A%20%20%3C/defs%3E%0A%0A%20%20%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22url%28%23bg%29%22/%3E%0A%0A%20%20%3Ccircle%20cx%3D%221030%22%20cy%3D%22110%22%20r%3D%22170%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.18%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%20%20%3Ccircle%20cx%3D%22180%22%20cy%3D%22560%22%20r%3D%22150%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.16%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%0A%20%20%3Crect%20x%3D%2256%22%20y%3D%2252%22%20rx%3D%2218%22%20ry%3D%2218%22%20width%3D%22260%22%20height%3D%2254%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.08%29%22/%3E%0A%20%20%3Ctext%20x%3D%2284%22%20y%3D%2287%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2228%22%20fill%3D%22%23e5e7eb%22%3EScience%3C/text%3E%0A%0A%20%20%3Ctext%20x%3D%221010%22%20y%3D%22560%22%0A%20%20%20%20%20%20%20%20text-anchor%3D%22middle%22%0A%20%20%20%20%20%20%20%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%0A%20%20%20%20%20%20%20%20font-size%3D%22160%22%0A%20%20%20%20%20%20%20%20fill%3D%22%2360a5fa%22%0A%20%20%20%20%20%20%20%20opacity%3D%220.85%22%3E%0A%20%20%20%20%E2%80%A2%0A%20%20%3C/text%3E%0A%3C/svg%3E%0A",
+    "topic": "default",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
+    "title": "Briefing Chat: How Dolly Parton left her mark on science",
+    "link": "https://www.nature.com/articles/d41586-026-02732-w",
+    "journal": "Nature",
+    "source_type": "journal",
+    "date": "2026-08-28",
+    "summary": "Nature, Published online: 28 August 2026; doi:10.1038/d41586-026-02732-w Nature reporters discuss the country-music icon's advocacy for vaccines and public health — plus, promising trial results for an mRNA cancer therapy.",
+    "abstract": "Nature, Published online: 28 August 2026; doi:10.1038/d41586-026-02732-w Nature reporters discuss the country-music icon's advocacy for vaccines and public health — plus, promising trial results for an mRNA cancer therapy.",
+    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-02732-w/d41586-026-02732-w_53175360.jpg",
+    "topic": "default",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
   },
   {
     "title": "Mysteries of the deep and AI friendship: Books in brief",
@@ -143,6 +156,45 @@
     "priority_score": 0
   },
   {
+    "title": "The Moderna cancer vaccine offers hope — now we must speed up personalized therapies",
+    "link": "https://www.nature.com/articles/d41586-026-02680-5",
+    "journal": "Nature",
+    "source_type": "journal",
+    "date": "2026-08-28",
+    "summary": "Nature, Published online: 28 August 2026; doi:10.1038/d41586-026-02680-5 A positive trial holds promise for treating people with cancer. More research is needed to get effective vaccines to the clinic.",
+    "abstract": "Nature, Published online: 28 August 2026; doi:10.1038/d41586-026-02680-5 A positive trial holds promise for treating people with cancer. More research is needed to get effective vaccines to the clinic.",
+    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-02680-5/d41586-026-02680-5_53165912.jpg",
+    "topic": "default",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
+    "title": "Heisuke Hironaka obituary: mathematician who smoothed out geometry’s complexities",
+    "link": "https://www.nature.com/articles/d41586-026-02688-x",
+    "journal": "Nature",
+    "source_type": "journal",
+    "date": "2026-08-28",
+    "summary": "Nature, Published online: 28 August 2026; doi:10.1038/d41586-026-02688-x His awe-inspiring proof for the resolution of singularities — such as peaks, edges and self-crossings — revolutionized algebraic geometry.",
+    "abstract": "Nature, Published online: 28 August 2026; doi:10.1038/d41586-026-02688-x His awe-inspiring proof for the resolution of singularities — such as peaks, edges and self-crossings — revolutionized algebraic geometry.",
+    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-02688-x/d41586-026-02688-x_53146522.jpg",
+    "topic": "default",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
+    "title": "Will Meta’s deal make social media safe for kids? Researchers are dubious",
+    "link": "https://www.nature.com/articles/d41586-026-02733-9",
+    "journal": "Nature",
+    "source_type": "journal",
+    "date": "2026-08-28",
+    "summary": "Nature, Published online: 28 August 2026; doi:10.1038/d41586-026-02733-9 Nature talks to specialists about the changes coming to Facebook and Instagram, and whether there’s evidence they will help.",
+    "abstract": "Nature, Published online: 28 August 2026; doi:10.1038/d41586-026-02733-9 Nature talks to specialists about the changes coming to Facebook and Instagram, and whether there’s evidence they will help.",
+    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-02733-9/d41586-026-02733-9_53176102.jpg",
+    "topic": "default",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
     "title": "What employers are looking for in the age of AI — and four ways to provide it",
     "link": "https://www.nature.com/articles/d41586-026-01913-x",
     "journal": "Nature",
@@ -151,6 +203,32 @@
     "summary": "Nature, Published online: 28 August 2026; doi:10.1038/d41586-026-01913-x For applicants whose knowledge of AI stops at the name ChatGPT, Nature spoke to academics, employers and early-career researchers to find out what you need to expand your understanding.",
     "abstract": "Nature, Published online: 28 August 2026; doi:10.1038/d41586-026-01913-x For applicants whose knowledge of AI stops at the name ChatGPT, Nature spoke to academics, employers and early-career researchers to find out what you need to expand your understanding.",
     "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-01913-x/d41586-026-01913-x_53141006.jpg",
+    "topic": "default",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
+    "title": "<b>What 5-year-old brain organoids can teach us</b>",
+    "link": "https://www.nature.com/articles/d41591-026-00044-0",
+    "journal": "Nature Medicine",
+    "source_type": "journal",
+    "date": "2026-08-28",
+    "summary": "Nature Medicine, Published online: 28 August 2026; doi:10.1038/d41591-026-00044-0 Human brain organoids cultured for 5 years exhibit epigenetic aging dynamics that mirror those seen in vivo, which makes them a powerful tool for studying postnatal brain development.",
+    "abstract": "Nature Medicine, Published online: 28 August 2026; doi:10.1038/d41591-026-00044-0 Human brain organoids cultured for 5 years exhibit epigenetic aging dynamics that mirror those seen in vivo, which makes them a powerful tool for studying postnatal brain development.",
+    "image": "https://media.nature.com/lw1200/magazine-assets/d41591-026-00044-0/d41591-026-00044-0_53181150.jpg",
+    "topic": "default",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
+    "title": "London’s clean air zone benefits child health",
+    "link": "https://www.nature.com/articles/d41591-026-00043-1",
+    "journal": "Nature Medicine",
+    "source_type": "journal",
+    "date": "2026-08-28",
+    "summary": "Nature Medicine, Published online: 28 August 2026; doi:10.1038/d41591-026-00043-1 Children’s lung function growth has accelerated since the introduction of London’s ultra-low-emission zone, which addresses a critical evidence gap and supports wider adoption of this approach.",
+    "abstract": "Nature Medicine, Published online: 28 August 2026; doi:10.1038/d41591-026-00043-1 Children’s lung function growth has accelerated since the introduction of London’s ultra-low-emission zone, which addresses a critical evidence gap and supports wider adoption of this approach.",
+    "image": "https://media.nature.com/lw1200/magazine-assets/d41591-026-00043-1/d41591-026-00043-1_53180918.jpg",
     "topic": "default",
     "topic_color": "#60a5fa",
     "priority_score": 0
@@ -234,7 +312,7 @@
     "priority_score": 0
   },
   {
-    "title": "‘Robot Olympics’ reveal humanoids' rapid progress — but hurdles remain",
+    "title": "‘Robot Olympics’ reveal humanoids’ rapid progress — and flaws",
     "link": "https://www.nature.com/articles/d41586-026-02713-z",
     "journal": "Nature",
     "source_type": "journal",
@@ -278,22 +356,9 @@
     "journal": "Nature",
     "source_type": "journal",
     "date": "2026-08-27",
-    "summary": "Nature, Published online: 27 August 2026; doi:10.1038/d41586-026-02662-7 NASA’s Nancy Grace Roman Space Telescope, set to launch shortly, could find 40 times the number of distant worlds as have been detected so far.",
-    "abstract": "Nature, Published online: 27 August 2026; doi:10.1038/d41586-026-02662-7 NASA’s Nancy Grace Roman Space Telescope, set to launch shortly, could find 40 times the number of distant worlds as have been detected so far.",
+    "summary": "Nature, Published online: 27 August 2026; doi:10.1038/d41586-026-02662-7 NASA’s Nancy Grace Roman Space Telescope, set to launch shortly, could find 40 times the number of distant worlds that have been detected so far.",
+    "abstract": "Nature, Published online: 27 August 2026; doi:10.1038/d41586-026-02662-7 NASA’s Nancy Grace Roman Space Telescope, set to launch shortly, could find 40 times the number of distant worlds that have been detected so far.",
     "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-02662-7/d41586-026-02662-7_53165698.jpg",
-    "topic": "default",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
-    "title": "Why are El Niños getting stronger? 1000-year-coral record points to climate change",
-    "link": "https://www.nature.com/articles/d41586-026-02717-9",
-    "journal": "Nature",
-    "source_type": "journal",
-    "date": "2026-08-27",
-    "summary": "Nature, Published online: 27 August 2026; doi:10.1038/d41586-026-02717-9 A reconstruction of Pacific Ocean sea surface temperatures adds to the evidence that human-caused warming is boosting El Niño events.",
-    "abstract": "Nature, Published online: 27 August 2026; doi:10.1038/d41586-026-02717-9 A reconstruction of Pacific Ocean sea surface temperatures adds to the evidence that human-caused warming is boosting El Niño events.",
-    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-02717-9/d41586-026-02717-9_53171026.jpg",
     "topic": "default",
     "topic_color": "#60a5fa",
     "priority_score": 0
@@ -364,19 +429,6 @@
     "priority_score": 0
   },
   {
-    "title": "Shingles vaccine linked to reduced heart risks",
-    "link": "https://www.science.org/content/article/shingles-vaccine-linked-reduced-heart-risks",
-    "journal": "Science",
-    "source_type": "journal",
-    "date": "2026-08-26T05:00:00Z",
-    "summary": "New data add weight to idea that immunization protects against more than just the chickenpox virus",
-    "abstract": "New data add weight to idea that immunization protects against more than just the chickenpox virus",
-    "image": "data:image/svg+xml;charset=utf-8,%0A%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23111827%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23374151%22/%3E%0A%20%20%20%20%3C/linearGradient%3E%0A%20%20%20%20%3Cfilter%20id%3D%22blur%22%3E%0A%20%20%20%20%20%20%3CfeGaussianBlur%20stdDeviation%3D%2230%22/%3E%0A%20%20%20%20%3C/filter%3E%0A%20%20%3C/defs%3E%0A%0A%20%20%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22url%28%23bg%29%22/%3E%0A%0A%20%20%3Ccircle%20cx%3D%221030%22%20cy%3D%22110%22%20r%3D%22170%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.18%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%20%20%3Ccircle%20cx%3D%22180%22%20cy%3D%22560%22%20r%3D%22150%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.16%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%0A%20%20%3Crect%20x%3D%2256%22%20y%3D%2252%22%20rx%3D%2218%22%20ry%3D%2218%22%20width%3D%22260%22%20height%3D%2254%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.08%29%22/%3E%0A%20%20%3Ctext%20x%3D%2284%22%20y%3D%2287%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2228%22%20fill%3D%22%23e5e7eb%22%3EScience%3C/text%3E%0A%0A%20%20%3Ctext%20x%3D%221010%22%20y%3D%22560%22%0A%20%20%20%20%20%20%20%20text-anchor%3D%22middle%22%0A%20%20%20%20%20%20%20%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%0A%20%20%20%20%20%20%20%20font-size%3D%22160%22%0A%20%20%20%20%20%20%20%20fill%3D%22%2360a5fa%22%0A%20%20%20%20%20%20%20%20opacity%3D%220.85%22%3E%0A%20%20%20%20%E2%80%A2%0A%20%20%3C/text%3E%0A%3C/svg%3E%0A",
-    "topic": "default",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
     "title": "NSF shrinks support for social sciences in prestigious graduate fellowship program",
     "link": "https://www.science.org/content/article/nsf-shrinks-support-social-sciences-prestigious-graduate-fellowship-program",
     "journal": "Science",
@@ -398,45 +450,6 @@
     "summary": "With a view 100 times larger than Hubble, the observatory will survey the cosmos for distant worlds and clues to dark energy",
     "abstract": "With a view 100 times larger than Hubble, the observatory will survey the cosmos for distant worlds and clues to dark energy",
     "image": "data:image/svg+xml;charset=utf-8,%0A%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23111827%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23374151%22/%3E%0A%20%20%20%20%3C/linearGradient%3E%0A%20%20%20%20%3Cfilter%20id%3D%22blur%22%3E%0A%20%20%20%20%20%20%3CfeGaussianBlur%20stdDeviation%3D%2230%22/%3E%0A%20%20%20%20%3C/filter%3E%0A%20%20%3C/defs%3E%0A%0A%20%20%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22url%28%23bg%29%22/%3E%0A%0A%20%20%3Ccircle%20cx%3D%221030%22%20cy%3D%22110%22%20r%3D%22170%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.18%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%20%20%3Ccircle%20cx%3D%22180%22%20cy%3D%22560%22%20r%3D%22150%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.16%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%0A%20%20%3Crect%20x%3D%2256%22%20y%3D%2252%22%20rx%3D%2218%22%20ry%3D%2218%22%20width%3D%22260%22%20height%3D%2254%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.08%29%22/%3E%0A%20%20%3Ctext%20x%3D%2284%22%20y%3D%2287%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2228%22%20fill%3D%22%23e5e7eb%22%3EScience%3C/text%3E%0A%0A%20%20%3Ctext%20x%3D%221010%22%20y%3D%22560%22%0A%20%20%20%20%20%20%20%20text-anchor%3D%22middle%22%0A%20%20%20%20%20%20%20%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%0A%20%20%20%20%20%20%20%20font-size%3D%22160%22%0A%20%20%20%20%20%20%20%20fill%3D%22%2360a5fa%22%0A%20%20%20%20%20%20%20%20opacity%3D%220.85%22%3E%0A%20%20%20%20%E2%80%A2%0A%20%20%3C/text%3E%0A%3C/svg%3E%0A",
-    "topic": "default",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
-    "title": "Highest-ever ocean temperatures recorded as El Niño intensifies",
-    "link": "https://www.nature.com/articles/d41586-026-02681-4",
-    "journal": "Nature",
-    "source_type": "journal",
-    "date": "2026-08-26",
-    "summary": "Nature, Published online: 26 August 2026; doi:10.1038/d41586-026-02681-4 Why extreme temperatures are expected to weaken ocean carbon sinks — plus, how mitochondrial injections could treat vision loss.",
-    "abstract": "Nature, Published online: 26 August 2026; doi:10.1038/d41586-026-02681-4 Why extreme temperatures are expected to weaken ocean carbon sinks — plus, how mitochondrial injections could treat vision loss.",
-    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-02681-4/d41586-026-02681-4_53165476.jpg",
-    "topic": "default",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
-    "title": "Using nuclear waste to power space missions",
-    "link": "https://www.nature.com/articles/d41586-026-02514-4",
-    "journal": "Nature",
-    "source_type": "journal",
-    "date": "2026-08-26",
-    "summary": "Nature, Published online: 26 August 2026; doi:10.1038/d41586-026-02514-4 Researchers plan to use radioactive isotopes to power systems on a future Mars rover.",
-    "abstract": "Nature, Published online: 26 August 2026; doi:10.1038/d41586-026-02514-4 Researchers plan to use radioactive isotopes to power systems on a future Mars rover.",
-    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-02514-4/d41586-026-02514-4_53165724.jpg",
-    "topic": "default",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
-    "title": "Automated prototyping of genetic codes",
-    "link": "https://www.nature.com/articles/s41586-026-10949-y",
-    "journal": "Nature",
-    "source_type": "journal",
-    "date": "2026-08-26",
-    "summary": "Nature, Published online: 26 August 2026; doi:10.1038/s41586-026-10949-y A robotic, cell–free platform rapidly prototypes redesigned genetic codes, enabling the translation of proteins with reassigned codons and non-standard amino acids without altering living genomes.",
-    "abstract": "Nature, Published online: 26 August 2026; doi:10.1038/s41586-026-10949-y A robotic, cell–free platform rapidly prototypes redesigned genetic codes, enabling the translation of proteins with reassigned codons and non-standard amino acids without altering living genomes.",
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-10949-y/MediaObjects/41586_2026_10949_Fig1_HTML.png",
     "topic": "default",
     "topic_color": "#60a5fa",
     "priority_score": 0
@@ -476,19 +489,6 @@
     "summary": "Nature Medicine, Published online: 26 August 2026; doi:10.1038/d41591-026-00042-2 A large study of mother–infant pairs shows that the maternal gut microbiome is a major reservoir for infant gut strains, which impacts early health outcomes such as eczema.",
     "abstract": "Nature Medicine, Published online: 26 August 2026; doi:10.1038/d41591-026-00042-2 A large study of mother–infant pairs shows that the maternal gut microbiome is a major reservoir for infant gut strains, which impacts early health outcomes such as eczema.",
     "image": "https://media.nature.com/lw1200/magazine-assets/d41591-026-00042-2/d41591-026-00042-2_53170516.jpg",
-    "topic": "default",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
-    "title": "A multi-faceted hospital-based intervention for intrapartum care in sub-Saharan Africa: a stepped-wedge cluster-randomized trial",
-    "link": "https://www.nature.com/articles/s41591-026-04599-w",
-    "journal": "Nature Medicine",
-    "source_type": "journal",
-    "date": "2026-08-26",
-    "summary": "Nature Medicine, Published online: 26 August 2026; doi:10.1038/s41591-026-04599-w A stepped-wedge cluster-randomized trial showed that implementation of a multi-faceted ALERT intervention that promoted essential practices of intrapartum childbirth reduced the odds of early perinatal mortality but not stillbirth across 16 hospitals in Benin, Malawi, Tanzania and Uganda.",
-    "abstract": "Nature Medicine, Published online: 26 August 2026; doi:10.1038/s41591-026-04599-w A stepped-wedge cluster-randomized trial showed that implementation of a multi-faceted ALERT intervention that promoted essential practices of intrapartum childbirth reduced the odds of early perinatal mortality but not stillbirth across 16 hospitals in Benin, Malawi, Tanzania and Uganda.",
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41591-026-04599-w/MediaObjects/41591_2026_4599_Fig1_HTML.png",
     "topic": "default",
     "topic_color": "#60a5fa",
     "priority_score": 0
