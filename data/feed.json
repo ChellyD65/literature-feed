@@ -78,19 +78,6 @@
     "priority_score": 98
   },
   {
-    "title": "Systems vaccinology and the architecture of human immunity",
-    "link": "https://www.nature.com/articles/s41586-026-10753-8",
-    "journal": "Nature",
-    "source_type": "journal",
-    "date": "2026-08-26",
-    "summary": "Nature, Published online: 26 August 2026; doi:10.1038/s41586-026-10753-8 A review of the current state of the field of systems vaccinology discusses the challenges in translating insights into clinical and regulatory practice.",
-    "abstract": "Vaccination is one of the greatest triumphs in human history. Traditionally, vaccines were designed to stimulate antibody responses that block infection, but this overlooks the immune system’s complex and multifaceted defence mechanisms. Here we review the current state of the field of systems vaccinology, which has transformed vaccine research by using vaccines as controlled probes of the human immune system and by applying multi-omics and computational approaches to reveal the nature of human immunity. These approaches have identified molecular signatures that predict the magnitude and durability of immune responses and revealed new human biology, including how host genetics, metabolism and the microbiome shape immunity, and demonstrated that host defence emerges from coordinated immune programs spanning baseline immune state, early response dynamics and tissue-level interactions. Rapid advances in artificial intelligence are beginning to accelerate the distillation of knowledge and understanding from vast multi-omics datasets. These developments position systems vaccinology as a powerful framework for rational vaccine design. However, despite its considerable impact on discovery and human immunology, considerable challenges remain in translating these insights into clinical and regulatory practice. Addressing this translational gap will be essential for realizing the full potential of systems vaccinology to deliver safer, more effective vaccines against existing and emerging infectious threats. A review of the current state of the field of systems vaccinology discusses the challenges in translating insights into clinical and regulatory practice.",
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-10753-8/MediaObjects/41586_2026_10753_Fig1_HTML.png",
-    "topic": "High-Signal Discovery",
-    "topic_color": "#60a5fa",
-    "priority_score": 81
-  },
-  {
     "title": "Neonatal diethylstilbestrol exposure disrupts uterine epithelial apical–basal polarity and partial EMT state",
     "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2603458123?af=R",
     "journal": "PNAS",
@@ -141,6 +128,32 @@
     "topic": "neurodegeneration",
     "topic_color": "#fda4af",
     "priority_score": 35
+  },
+  {
+    "title": "Mysteries of the deep and AI friendship: Books in brief",
+    "link": "https://www.nature.com/articles/d41586-026-02725-9",
+    "journal": "Nature",
+    "source_type": "journal",
+    "date": "2026-08-28",
+    "summary": "Nature, Published online: 28 August 2026; doi:10.1038/d41586-026-02725-9 Andrew Robinson reviews five of the best science picks.",
+    "abstract": "Nature, Published online: 28 August 2026; doi:10.1038/d41586-026-02725-9 Andrew Robinson reviews five of the best science picks.",
+    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-02725-9/d41586-026-02725-9_53030048.jpg",
+    "topic": "default",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
+    "title": "What employers are looking for in the age of AI — and four ways to provide it",
+    "link": "https://www.nature.com/articles/d41586-026-01913-x",
+    "journal": "Nature",
+    "source_type": "journal",
+    "date": "2026-08-28",
+    "summary": "Nature, Published online: 28 August 2026; doi:10.1038/d41586-026-01913-x For applicants whose knowledge of AI stops at the name ChatGPT, Nature spoke to academics, employers and early-career researchers to find out what you need to expand your understanding.",
+    "abstract": "Nature, Published online: 28 August 2026; doi:10.1038/d41586-026-01913-x For applicants whose knowledge of AI stops at the name ChatGPT, Nature spoke to academics, employers and early-career researchers to find out what you need to expand your understanding.",
+    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-01913-x/d41586-026-01913-x_53141006.jpg",
+    "topic": "default",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
   },
   {
     "title": "NSF’s new plan to fund graduate students to work in industry covers familiar ground",
@@ -424,19 +437,6 @@
     "summary": "Nature, Published online: 26 August 2026; doi:10.1038/s41586-026-10949-y A robotic, cell–free platform rapidly prototypes redesigned genetic codes, enabling the translation of proteins with reassigned codons and non-standard amino acids without altering living genomes.",
     "abstract": "Nature, Published online: 26 August 2026; doi:10.1038/s41586-026-10949-y A robotic, cell–free platform rapidly prototypes redesigned genetic codes, enabling the translation of proteins with reassigned codons and non-standard amino acids without altering living genomes.",
     "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-10949-y/MediaObjects/41586_2026_10949_Fig1_HTML.png",
-    "topic": "default",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
-    "title": "Insights into longevity and virus-driven adaptation from <i>Myotis</i> bat genomes",
-    "link": "https://www.nature.com/articles/s41586-026-10932-7",
-    "journal": "Nature",
-    "source_type": "journal",
-    "date": "2026-08-26",
-    "summary": "Nature, Published online: 26 August 2026; doi:10.1038/s41586-026-10932-7 Comparative and functional analyses of Myotis bats uncover unique patterns of adaptation in virus-interacting proteins and longevity-associated pathways, linking two hallmarks of bat biology.",
-    "abstract": "Nature, Published online: 26 August 2026; doi:10.1038/s41586-026-10932-7 Comparative and functional analyses of Myotis bats uncover unique patterns of adaptation in virus-interacting proteins and longevity-associated pathways, linking two hallmarks of bat biology.",
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-10932-7/MediaObjects/41586_2026_10932_Fig1_HTML.png",
     "topic": "default",
     "topic_color": "#60a5fa",
     "priority_score": 0
