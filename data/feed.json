@@ -26,6 +26,19 @@
     "priority_score": 93
   },
   {
+    "title": "Say hello to the next generation of lobsters — August’s best science images",
+    "link": "https://www.nature.com/articles/d41586-026-02597-z",
+    "journal": "Nature",
+    "source_type": "journal",
+    "date": "2026-09-02",
+    "summary": "Nature, Published online: 02 September 2026; doi:10.1038/d41586-026-02597-z The month’s sharpest science shots, selected by Nature’s photo team.",
+    "abstract": "Nature, Published online: 02 September 2026; doi:10.1038/d41586-026-02597-z The month’s sharpest science shots, selected by Nature’s photo team.",
+    "image": "https://www.nature.com/immersive/d41586-026-02597-z/assets/7pwjzYBew2/2026-08-31_news_iom-august_opy_lobster_sm-1066x600.jpg",
+    "topic": "retina",
+    "topic_color": "#f472b6",
+    "priority_score": 52
+  },
+  {
     "title": "Good neighbors make lasting memory",
     "link": "https://www.nature.com/articles/s41590-026-02645-w",
     "journal": "Nature Immunology",
@@ -52,6 +65,19 @@
     "priority_score": 41
   },
   {
+    "title": "Satellite images before Nepal disaster showed warning signs",
+    "link": "https://www.nature.com/articles/d41586-026-02746-4",
+    "journal": "Nature",
+    "source_type": "journal",
+    "date": "2026-09-02",
+    "summary": "Nature, Published online: 02 September 2026; doi:10.1038/d41586-026-02746-4 Images revealed the accelerated movement of a glacier–rock mass just days before it collapsed, triggering a deadly flash flood.",
+    "abstract": "Nature, Published online: 02 September 2026; doi:10.1038/d41586-026-02746-4 Images revealed the accelerated movement of a glacier–rock mass just days before it collapsed, triggering a deadly flash flood.",
+    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-02746-4/d41586-026-02746-4_53198874.jpg",
+    "topic": "default",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
     "title": "UN finally admits global warming will shoot past 1.5 ºC climate limit",
     "link": "https://www.nature.com/articles/d41586-026-02753-5",
     "journal": "Nature",
@@ -61,6 +87,45 @@
     "abstract": "Nature, Published online: 02 September 2026; doi:10.1038/d41586-026-02753-5 Earth will breach a long-standing target before the end of the decade, report says.",
     "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-02753-5/d41586-026-02753-5_53199302.jpg",
     "topic": "default",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
+    "title": "When do infections lead to long COVID? Scientists close in on triggers and treatments for post-viral syndromes",
+    "link": "https://www.nature.com/articles/d41586-026-02683-2",
+    "journal": "Nature",
+    "source_type": "journal",
+    "date": "2026-09-02",
+    "summary": "Nature, Published online: 02 September 2026; doi:10.1038/d41586-026-02683-2 Hundreds of millions of people have long-term conditions as a result of an infection. Researchers are working out how to help them.",
+    "abstract": "Nature, Published online: 02 September 2026; doi:10.1038/d41586-026-02683-2 Hundreds of millions of people have long-term conditions as a result of an infection. Researchers are working out how to help them.",
+    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-02683-2/d41586-026-02683-2_53160432.jpg",
+    "topic": "default",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
+    "title": "Glutamate concentration tunes AMPA receptor function through conductance-state occupancy",
+    "link": "https://www.nature.com/articles/s41593-026-02414-w",
+    "journal": "Nature Neuroscience",
+    "source_type": "journal",
+    "date": "2026-09-02",
+    "summary": "Nature Neuroscience, Published online: 02 September 2026; doi:10.1038/s41593-026-02414-w This study shows that glutamate concentration at synapses can dynamically reshape how synaptic AMPA receptors pass current and calcium. This reveals a rapid way that synapses tune communication in the brain.",
+    "abstract": "Nature Neuroscience, Published online: 02 September 2026; doi:10.1038/s41593-026-02414-w This study shows that glutamate concentration at synapses can dynamically reshape how synaptic AMPA receptors pass current and calcium. This reveals a rapid way that synapses tune communication in the brain.",
+    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41593-026-02414-w/MediaObjects/41593_2026_2414_Fig1_HTML.png",
+    "topic": "neuroscience",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
+    "title": "Mitochondrial calcium influx-driven bioenergetics selectively enable drug addiction",
+    "link": "https://www.nature.com/articles/s41593-026-02421-x",
+    "journal": "Nature Neuroscience",
+    "source_type": "journal",
+    "date": "2026-09-02",
+    "summary": "Nature Neuroscience, Published online: 02 September 2026; doi:10.1038/s41593-026-02421-x This study shows that addictive drugs hijack mitochondrial Ca2+-dependent bioenergetics in reward circuits to drive pathological dopamine release, identifying mitochondrial calcium uniporter as a metabolic gatekeeper.",
+    "abstract": "Nature Neuroscience, Published online: 02 September 2026; doi:10.1038/s41593-026-02421-x This study shows that addictive drugs hijack mitochondrial Ca2+-dependent bioenergetics in reward circuits to drive pathological dopamine release, identifying mitochondrial calcium uniporter as a metabolic gatekeeper.",
+    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41593-026-02421-x/MediaObjects/41593_2026_2421_Fig1_HTML.png",
+    "topic": "neuroscience",
     "topic_color": "#60a5fa",
     "priority_score": 0
   },
@@ -255,45 +320,6 @@
     "summary": "Nature, Published online: 01 September 2026; doi:10.1038/d41586-026-01985-9 An experiment spots an energy flash similar to that of the long-sought weakly interacting massive particle, or WIMP.",
     "abstract": "Nature, Published online: 01 September 2026; doi:10.1038/d41586-026-01985-9 An experiment spots an energy flash similar to that of the long-sought weakly interacting massive particle, or WIMP.",
     "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-01985-9/d41586-026-01985-9_53198864.jpg",
-    "topic": "default",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
-    "title": "India has an ambitious plan to lure scientists back — will it work?",
-    "link": "https://www.nature.com/articles/d41586-026-02636-9",
-    "journal": "Nature",
-    "source_type": "journal",
-    "date": "2026-09-01",
-    "summary": "Nature, Published online: 01 September 2026; doi:10.1038/d41586-026-02636-9 Initiatives to attract Indian researchers who are working abroad do not offer long-term income security, some scientists say.",
-    "abstract": "Nature, Published online: 01 September 2026; doi:10.1038/d41586-026-02636-9 Initiatives to attract Indian researchers who are working abroad do not offer long-term income security, some scientists say.",
-    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-02636-9/d41586-026-02636-9_53167102.jpg",
-    "topic": "default",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
-    "title": "From Trojan horses to AI-proof exams: how professors are tackling students’ AI use",
-    "link": "https://www.nature.com/articles/d41586-026-02370-2",
-    "journal": "Nature",
-    "source_type": "journal",
-    "date": "2026-09-01",
-    "summary": "Nature, Published online: 01 September 2026; doi:10.1038/d41586-026-02370-2 Academics worldwide are rethinking their assessment approaches — from developing exams that artificial-intelligence tools can’t pass to sneaking hidden AI prompts into tasks to catch cheating students.",
-    "abstract": "Nature, Published online: 01 September 2026; doi:10.1038/d41586-026-02370-2 Academics worldwide are rethinking their assessment approaches — from developing exams that artificial-intelligence tools can’t pass to sneaking hidden AI prompts into tasks to catch cheating students.",
-    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-02370-2/d41586-026-02370-2_53117056.jpg",
-    "topic": "default",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
-    "title": "Who is responsible when AI helps to write science?",
-    "link": "https://www.nature.com/articles/d41586-026-02686-z",
-    "journal": "Nature",
-    "source_type": "journal",
-    "date": "2026-09-01",
-    "summary": "Nature, Published online: 01 September 2026; doi:10.1038/d41586-026-02686-z As generative AI becomes embedded in research and publishing, the deeper challenge is preserving accountability for scholarly work.",
-    "abstract": "Nature, Published online: 01 September 2026; doi:10.1038/d41586-026-02686-z As generative AI becomes embedded in research and publishing, the deeper challenge is preserving accountability for scholarly work.",
-    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-02686-z/d41586-026-02686-z_53140766.jpg",
     "topic": "default",
     "topic_color": "#60a5fa",
     "priority_score": 0
@@ -520,19 +546,6 @@
     "priority_score": 0
   },
   {
-    "title": "Spatial mapping of RNA turnover kinetics in the mouse brain",
-    "link": "https://www.nature.com/articles/s41593-026-02420-y",
-    "journal": "Nature Neuroscience",
-    "source_type": "journal",
-    "date": "2026-08-31",
-    "summary": "Nature Neuroscience, Published online: 31 August 2026; doi:10.1038/s41593-026-02420-y The authors developed spatial NT-seq to map the landscape of RNA turnover and stability regulation in the mouse brain, identifying the dentate gyrus as a turnover hotspot and revealing region-specific responses to electroconvulsive stimulation.",
-    "abstract": "Nature Neuroscience, Published online: 31 August 2026; doi:10.1038/s41593-026-02420-y The authors developed spatial NT-seq to map the landscape of RNA turnover and stability regulation in the mouse brain, identifying the dentate gyrus as a turnover hotspot and revealing region-specific responses to electroconvulsive stimulation.",
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41593-026-02420-y/MediaObjects/41593_2026_2420_Fig1_HTML.png",
-    "topic": "neuroscience",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
     "title": "Short-term effects of combinations of heart failure therapies on blood pressure, kidney function and serum potassium",
     "link": "https://www.nature.com/articles/s41591-026-04623-z",
     "journal": "Nature Medicine",
@@ -607,19 +620,6 @@
     "abstract": "Nature Immunology, Published online: 26 August 2026; doi:10.1038/s41590-026-02662-9 Author Correction: Short IL-18 generated by caspase-3 cleavage mobilizes NK cells to suppress tumor growth",
     "image": "data:image/svg+xml;charset=utf-8,%0A%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23111827%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23374151%22/%3E%0A%20%20%20%20%3C/linearGradient%3E%0A%20%20%20%20%3Cfilter%20id%3D%22blur%22%3E%0A%20%20%20%20%20%20%3CfeGaussianBlur%20stdDeviation%3D%2230%22/%3E%0A%20%20%20%20%3C/filter%3E%0A%20%20%3C/defs%3E%0A%0A%20%20%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22url%28%23bg%29%22/%3E%0A%0A%20%20%3Ccircle%20cx%3D%221030%22%20cy%3D%22110%22%20r%3D%22170%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.18%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%20%20%3Ccircle%20cx%3D%22180%22%20cy%3D%22560%22%20r%3D%22150%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.16%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%0A%20%20%3Crect%20x%3D%2256%22%20y%3D%2252%22%20rx%3D%2218%22%20ry%3D%2218%22%20width%3D%22260%22%20height%3D%2254%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.08%29%22/%3E%0A%20%20%3Ctext%20x%3D%2284%22%20y%3D%2287%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2228%22%20fill%3D%22%23e5e7eb%22%3ENature%20Immunology%3C/text%3E%0A%0A%20%20%3Ctext%20x%3D%221010%22%20y%3D%22560%22%0A%20%20%20%20%20%20%20%20text-anchor%3D%22middle%22%0A%20%20%20%20%20%20%20%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%0A%20%20%20%20%20%20%20%20font-size%3D%22160%22%0A%20%20%20%20%20%20%20%20fill%3D%22%2360a5fa%22%0A%20%20%20%20%20%20%20%20opacity%3D%220.85%22%3E%0A%20%20%20%20%E2%80%A2%0A%20%20%3C/text%3E%0A%3C/svg%3E%0A",
     "topic": "immunology",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
-    "title": "Social isolation recruits amygdala–medial prefrontal cortex projections to escalate alcohol drinking in male mice",
-    "link": "https://www.nature.com/articles/s41593-026-02413-x",
-    "journal": "Nature Neuroscience",
-    "source_type": "journal",
-    "date": "2026-08-25",
-    "summary": "Nature Neuroscience, Published online: 25 August 2026; doi:10.1038/s41593-026-02413-x Social isolation recruits a basolateral amygdala–medial prefrontal cortex circuit to escalate alcohol drinking in male mice. This pathway reshapes prefrontal population dynamics, suppressing natural reward responses while amplifying alcohol-evoked activity.",
-    "abstract": "Nature Neuroscience, Published online: 25 August 2026; doi:10.1038/s41593-026-02413-x Social isolation recruits a basolateral amygdala–medial prefrontal cortex circuit to escalate alcohol drinking in male mice. This pathway reshapes prefrontal population dynamics, suppressing natural reward responses while amplifying alcohol-evoked activity.",
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41593-026-02413-x/MediaObjects/41593_2026_2413_Fig1_HTML.png",
-    "topic": "neuroscience",
     "topic_color": "#60a5fa",
     "priority_score": 0
   },
