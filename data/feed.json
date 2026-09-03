@@ -1,5 +1,18 @@
 [
   {
+    "title": "Priming of CD8<sup>+</sup> T cells by peripheral dendritic cells exacerbates tau-mediated neurodegeneration",
+    "link": "https://www.nature.com/articles/s41593-026-02427-5",
+    "journal": "Nature Neuroscience",
+    "source_type": "journal",
+    "date": "2026-09-03",
+    "summary": "Nature Neuroscience, Published online: 03 September 2026; doi:10.1038/s41593-026-02427-5 The authors identify peripheral dendritic cell priming of T cells as a key driver of brain inflammation and neurodegeneration in a mouse model of tauopathy, providing new insights into immune mechanisms contributing to tau-dependent neurodegeneration.",
+    "abstract": "Nature Neuroscience, Published online: 03 September 2026; doi:10.1038/s41593-026-02427-5 The authors identify peripheral dendritic cell priming of T cells as a key driver of brain inflammation and neurodegeneration in a mouse model of tauopathy, providing new insights into immune mechanisms contributing to tau-dependent neurodegeneration.",
+    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41593-026-02427-5/MediaObjects/41593_2026_2427_Fig1_HTML.png",
+    "topic": "neurodegeneration",
+    "topic_color": "#fda4af",
+    "priority_score": 153
+  },
+  {
     "title": "Monocyte-derived galectin-1<sup>hi</sup> cells provide innate immune help in the generation of functional memory CD8<sup>+</sup> T cells",
     "link": "https://www.nature.com/articles/s41590-026-02638-9",
     "journal": "Nature Immunology",
@@ -63,6 +76,58 @@
     "topic": "inflammation",
     "topic_color": "#fb7185",
     "priority_score": 29
+  },
+  {
+    "title": "Structured experience shapes strategy learning and neural dynamics in the medial entorhinal cortex",
+    "link": "https://www.nature.com/articles/s41593-026-02409-7",
+    "journal": "Nature Neuroscience",
+    "source_type": "journal",
+    "date": "2026-09-03",
+    "summary": "Nature Neuroscience, Published online: 03 September 2026; doi:10.1038/s41593-026-02409-7 The authors use recurrent neural networks to predict how structured prior experience shapes neural dynamics as mice learn flexible timing strategies during complex context-dependent behavior.",
+    "abstract": "Nature Neuroscience, Published online: 03 September 2026; doi:10.1038/s41593-026-02409-7 The authors use recurrent neural networks to predict how structured prior experience shapes neural dynamics as mice learn flexible timing strategies during complex context-dependent behavior.",
+    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41593-026-02409-7/MediaObjects/41593_2026_2409_Fig1_HTML.png",
+    "topic": "neuroscience",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
+    "title": "Reply to: Limited benchmarks constrain the conclusions of a general-purpose versus clinical AI comparison",
+    "link": "https://www.nature.com/articles/s41591-026-04637-7",
+    "journal": "Nature Medicine",
+    "source_type": "journal",
+    "date": "2026-09-03",
+    "summary": "Nature Medicine, Published online: 03 September 2026; doi:10.1038/s41591-026-04637-7 Reply to: Limited benchmarks constrain the conclusions of a general-purpose versus clinical AI comparison",
+    "abstract": "Nature Medicine, Published online: 03 September 2026; doi:10.1038/s41591-026-04637-7 Reply to: Limited benchmarks constrain the conclusions of a general-purpose versus clinical AI comparison",
+    "image": "data:image/svg+xml;charset=utf-8,%0A%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23111827%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23374151%22/%3E%0A%20%20%20%20%3C/linearGradient%3E%0A%20%20%20%20%3Cfilter%20id%3D%22blur%22%3E%0A%20%20%20%20%20%20%3CfeGaussianBlur%20stdDeviation%3D%2230%22/%3E%0A%20%20%20%20%3C/filter%3E%0A%20%20%3C/defs%3E%0A%0A%20%20%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22url%28%23bg%29%22/%3E%0A%0A%20%20%3Ccircle%20cx%3D%221030%22%20cy%3D%22110%22%20r%3D%22170%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.18%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%20%20%3Ccircle%20cx%3D%22180%22%20cy%3D%22560%22%20r%3D%22150%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.16%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%0A%20%20%3Crect%20x%3D%2256%22%20y%3D%2252%22%20rx%3D%2218%22%20ry%3D%2218%22%20width%3D%22260%22%20height%3D%2254%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.08%29%22/%3E%0A%20%20%3Ctext%20x%3D%2284%22%20y%3D%2287%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2228%22%20fill%3D%22%23e5e7eb%22%3ENature%20Medicine%3C/text%3E%0A%0A%20%20%3Ctext%20x%3D%221010%22%20y%3D%22560%22%0A%20%20%20%20%20%20%20%20text-anchor%3D%22middle%22%0A%20%20%20%20%20%20%20%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%0A%20%20%20%20%20%20%20%20font-size%3D%22160%22%0A%20%20%20%20%20%20%20%20fill%3D%22%2360a5fa%22%0A%20%20%20%20%20%20%20%20opacity%3D%220.85%22%3E%0A%20%20%20%20%E2%80%A2%0A%20%20%3C/text%3E%0A%3C/svg%3E%0A",
+    "topic": "default",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
+    "title": "Limited benchmarks constrain the conclusions of a general-purpose versus clinical AI comparison",
+    "link": "https://www.nature.com/articles/s41591-026-04638-6",
+    "journal": "Nature Medicine",
+    "source_type": "journal",
+    "date": "2026-09-03",
+    "summary": "Nature Medicine, Published online: 03 September 2026; doi:10.1038/s41591-026-04638-6 Limited benchmarks constrain the conclusions of a general-purpose versus clinical AI comparison",
+    "abstract": "Nature Medicine, Published online: 03 September 2026; doi:10.1038/s41591-026-04638-6 Limited benchmarks constrain the conclusions of a general-purpose versus clinical AI comparison",
+    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41591-026-04638-6/MediaObjects/41591_2026_4638_Fig1_HTML.png",
+    "topic": "default",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
+    "title": "Induced proximity comes of age",
+    "link": "https://www.nature.com/articles/d41591-026-00045-z",
+    "journal": "Nature Medicine",
+    "source_type": "journal",
+    "date": "2026-09-03",
+    "summary": "Nature Medicine, Published online: 03 September 2026; doi:10.1038/d41591-026-00045-z The first approved PROTAC for breast cancer validated the idea that medicines can work by bringing proteins together rather than by simply blocking them. Now, a new generation of proximity-based therapies is pushing that principle further.",
+    "abstract": "Nature Medicine, Published online: 03 September 2026; doi:10.1038/d41591-026-00045-z The first approved PROTAC for breast cancer validated the idea that medicines can work by bringing proteins together rather than by simply blocking them. Now, a new generation of proximity-based therapies is pushing that principle further.",
+    "image": "https://media.nature.com/lw1200/magazine-assets/d41591-026-00045-z/d41591-026-00045-z_50850336.jpg",
+    "topic": "default",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
   },
   {
     "title": "Fauci speaks out about the pandemic, global health—and his own record",
@@ -416,32 +481,6 @@
     "priority_score": 0
   },
   {
-    "title": "State-dependent signal flow hierarchy in the human cerebral cortex",
-    "link": "https://www.nature.com/articles/s41593-026-02389-8",
-    "journal": "Nature Neuroscience",
-    "source_type": "journal",
-    "date": "2026-09-01",
-    "summary": "Nature Neuroscience, Published online: 01 September 2026; doi:10.1038/s41593-026-02389-8 A unified imaging framework integrates effective connectivity algorithms, revealing state-dependent functional hierarchies in the human brain. Simulations and empirical validation demonstrate its ability to capture directed signal flows across various cognitive states.",
-    "abstract": "Nature Neuroscience, Published online: 01 September 2026; doi:10.1038/s41593-026-02389-8 A unified imaging framework integrates effective connectivity algorithms, revealing state-dependent functional hierarchies in the human brain. Simulations and empirical validation demonstrate its ability to capture directed signal flows across various cognitive states.",
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41593-026-02389-8/MediaObjects/41593_2026_2389_Fig1_HTML.png",
-    "topic": "neuroscience",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
-    "title": "Whole-exome sequencing in individuals with obsessive–compulsive disorder and chronic tic disorders identifies 36 large-effect risk genes",
-    "link": "https://www.nature.com/articles/s41593-026-02419-5",
-    "journal": "Nature Neuroscience",
-    "source_type": "journal",
-    "date": "2026-09-01",
-    "summary": "Nature Neuroscience, Published online: 01 September 2026; doi:10.1038/s41593-026-02419-5 The authors used whole-exome sequencing and analysis of rare coding variation in individuals with obsessive–compulsive disorder and chronic tic disorders, including Tourette disorder, to identify 36 large-effect risk genes, highlighting both shared genetic risks and convergent biology.",
-    "abstract": "Nature Neuroscience, Published online: 01 September 2026; doi:10.1038/s41593-026-02419-5 The authors used whole-exome sequencing and analysis of rare coding variation in individuals with obsessive–compulsive disorder and chronic tic disorders, including Tourette disorder, to identify 36 large-effect risk genes, highlighting both shared genetic risks and convergent biology.",
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41593-026-02419-5/MediaObjects/41593_2026_2419_Fig1_HTML.png",
-    "topic": "neuroscience",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
     "title": "Author Correction: Peyer’s patch M cells organize an epithelial niche that sustains group 3 innate lymphoid cells and IL-22",
     "link": "https://www.nature.com/articles/s41590-026-02669-2",
     "journal": "Nature Immunology",
@@ -520,19 +559,6 @@
     "priority_score": 0
   },
   {
-    "title": "Atezolizumab in early triple-negative breast cancer: the randomized phase 3 NSABP B-59/GeparDouze trial",
-    "link": "https://www.nature.com/articles/s41591-026-04565-6",
-    "journal": "Nature Medicine",
-    "source_type": "journal",
-    "date": "2026-09-01",
-    "summary": "Nature Medicine, Published online: 01 September 2026; doi:10.1038/s41591-026-04565-6 The phase 3 NSABP B-59/GeparDouze trial, in which patients with early-stage triple-negative breast cancer received neoadjuvant chemotherapy with or without atezolizumab, did not meet its primary endpoint of event-free survival, and comprehensive translational analyses show tumor microenvironment-dependent determinants of response, with basal-like immune-activated tumors potentially responding to atezolizumab and chemotherapy.",
-    "abstract": "Nature Medicine, Published online: 01 September 2026; doi:10.1038/s41591-026-04565-6 The phase 3 NSABP B-59/GeparDouze trial, in which patients with early-stage triple-negative breast cancer received neoadjuvant chemotherapy with or without atezolizumab, did not meet its primary endpoint of event-free survival, and comprehensive translational analyses show tumor microenvironment-dependent determinants of response, with basal-like immune-activated tumors potentially responding to atezolizumab and chemotherapy.",
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41591-026-04565-6/MediaObjects/41591_2026_4565_Fig1_HTML.png",
-    "topic": "default",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
     "title": "Scientists identify early signal of dangerous pregnancy complications",
     "link": "https://www.science.org/content/article/scientists-identify-early-signal-dangerous-pregnancy-complications",
     "journal": "Science",
@@ -554,32 +580,6 @@
     "summary": "The new plan, marked by a turbulent rollout and vote, urges more research on poorly understood “regression” to autism",
     "abstract": "The new plan, marked by a turbulent rollout and vote, urges more research on poorly understood “regression” to autism",
     "image": "data:image/svg+xml;charset=utf-8,%0A%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23111827%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23374151%22/%3E%0A%20%20%20%20%3C/linearGradient%3E%0A%20%20%20%20%3Cfilter%20id%3D%22blur%22%3E%0A%20%20%20%20%20%20%3CfeGaussianBlur%20stdDeviation%3D%2230%22/%3E%0A%20%20%20%20%3C/filter%3E%0A%20%20%3C/defs%3E%0A%0A%20%20%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22url%28%23bg%29%22/%3E%0A%0A%20%20%3Ccircle%20cx%3D%221030%22%20cy%3D%22110%22%20r%3D%22170%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.18%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%20%20%3Ccircle%20cx%3D%22180%22%20cy%3D%22560%22%20r%3D%22150%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.16%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%0A%20%20%3Crect%20x%3D%2256%22%20y%3D%2252%22%20rx%3D%2218%22%20ry%3D%2218%22%20width%3D%22260%22%20height%3D%2254%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.08%29%22/%3E%0A%20%20%3Ctext%20x%3D%2284%22%20y%3D%2287%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2228%22%20fill%3D%22%23e5e7eb%22%3EScience%3C/text%3E%0A%0A%20%20%3Ctext%20x%3D%221010%22%20y%3D%22560%22%0A%20%20%20%20%20%20%20%20text-anchor%3D%22middle%22%0A%20%20%20%20%20%20%20%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%0A%20%20%20%20%20%20%20%20font-size%3D%22160%22%0A%20%20%20%20%20%20%20%20fill%3D%22%2360a5fa%22%0A%20%20%20%20%20%20%20%20opacity%3D%220.85%22%3E%0A%20%20%20%20%E2%80%A2%0A%20%20%3C/text%3E%0A%3C/svg%3E%0A",
-    "topic": "default",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
-    "title": "Short-term effects of combinations of heart failure therapies on blood pressure, kidney function and serum potassium",
-    "link": "https://www.nature.com/articles/s41591-026-04623-z",
-    "journal": "Nature Medicine",
-    "source_type": "journal",
-    "date": "2026-08-31",
-    "summary": "Nature Medicine, Published online: 31 August 2026; doi:10.1038/s41591-026-04623-z A cross-trial analysis using data from 38,753 participants across nine trials estimates effects of comprehensive medical therapy for heart failure on blood pressure, kidney function and potassium levels, potentially guiding safer therapy initiation.",
-    "abstract": "Nature Medicine, Published online: 31 August 2026; doi:10.1038/s41591-026-04623-z A cross-trial analysis using data from 38,753 participants across nine trials estimates effects of comprehensive medical therapy for heart failure on blood pressure, kidney function and potassium levels, potentially guiding safer therapy initiation.",
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41591-026-04623-z/MediaObjects/41591_2026_4623_Fig1_HTML.png",
-    "topic": "default",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
-    "title": "Eplontersen with and without background transthyretin stabilizers in transthyretin amyloid cardiomyopathy: secondary analysis of a phase 3, randomized controlled trial",
-    "link": "https://www.nature.com/articles/s41591-026-04670-6",
-    "journal": "Nature Medicine",
-    "source_type": "journal",
-    "date": "2026-08-30",
-    "summary": "Nature Medicine, Published online: 30 August 2026; doi:10.1038/s41591-026-04670-6 As presented at the 2026 ESC Congress, in a secondary analysis of the CARDIOTTRansform trial testing the transthyretin-targeting antisense oligonucleotide eplontersen in patients with transthyretin amyloid cardiomyopathy, a beneficial effect was observed in patients who were not on transthyretin stabilizers at baseline, but not in those who were on stabilizers.",
-    "abstract": "Nature Medicine, Published online: 30 August 2026; doi:10.1038/s41591-026-04670-6 As presented at the 2026 ESC Congress, in a secondary analysis of the CARDIOTTRansform trial testing the transthyretin-targeting antisense oligonucleotide eplontersen in patients with transthyretin amyloid cardiomyopathy, a beneficial effect was observed in patients who were not on transthyretin stabilizers at baseline, but not in those who were on stabilizers.",
-    "image": "data:image/svg+xml;charset=utf-8,%0A%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23111827%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23374151%22/%3E%0A%20%20%20%20%3C/linearGradient%3E%0A%20%20%20%20%3Cfilter%20id%3D%22blur%22%3E%0A%20%20%20%20%20%20%3CfeGaussianBlur%20stdDeviation%3D%2230%22/%3E%0A%20%20%20%20%3C/filter%3E%0A%20%20%3C/defs%3E%0A%0A%20%20%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22url%28%23bg%29%22/%3E%0A%0A%20%20%3Ccircle%20cx%3D%221030%22%20cy%3D%22110%22%20r%3D%22170%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.18%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%20%20%3Ccircle%20cx%3D%22180%22%20cy%3D%22560%22%20r%3D%22150%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.16%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%0A%20%20%3Crect%20x%3D%2256%22%20y%3D%2252%22%20rx%3D%2218%22%20ry%3D%2218%22%20width%3D%22260%22%20height%3D%2254%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.08%29%22/%3E%0A%20%20%3Ctext%20x%3D%2284%22%20y%3D%2287%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2228%22%20fill%3D%22%23e5e7eb%22%3ENature%20Medicine%3C/text%3E%0A%0A%20%20%3Ctext%20x%3D%221010%22%20y%3D%22560%22%0A%20%20%20%20%20%20%20%20text-anchor%3D%22middle%22%0A%20%20%20%20%20%20%20%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%0A%20%20%20%20%20%20%20%20font-size%3D%22160%22%0A%20%20%20%20%20%20%20%20fill%3D%22%2360a5fa%22%0A%20%20%20%20%20%20%20%20opacity%3D%220.85%22%3E%0A%20%20%20%20%E2%80%A2%0A%20%20%3C/text%3E%0A%3C/svg%3E%0A",
     "topic": "default",
     "topic_color": "#60a5fa",
     "priority_score": 0
