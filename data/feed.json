@@ -13,6 +13,19 @@
     "priority_score": 139
   },
   {
+    "title": "Author Correction: A novel CAF population coordinates hyper-suppressive regulatory T cell recruitment and localization in lung cancer",
+    "link": "https://www.nature.com/articles/s41590-026-02680-7",
+    "journal": "Nature Immunology",
+    "source_type": "journal",
+    "date": "2026-09-10",
+    "summary": "Nature Immunology, Published online: 10 September 2026; doi:10.1038/s41590-026-02680-7 Author Correction: A novel CAF population coordinates hyper-suppressive regulatory T cell recruitment and localization in lung cancer",
+    "abstract": "Nature Immunology, Published online: 10 September 2026; doi:10.1038/s41590-026-02680-7 Author Correction: A novel CAF population coordinates hyper-suppressive regulatory T cell recruitment and localization in lung cancer",
+    "image": "data:image/svg+xml;charset=utf-8,%0A%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23111827%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23374151%22/%3E%0A%20%20%20%20%3C/linearGradient%3E%0A%20%20%20%20%3Cfilter%20id%3D%22blur%22%3E%0A%20%20%20%20%20%20%3CfeGaussianBlur%20stdDeviation%3D%2230%22/%3E%0A%20%20%20%20%3C/filter%3E%0A%20%20%3C/defs%3E%0A%0A%20%20%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22url%28%23bg%29%22/%3E%0A%0A%20%20%3Ccircle%20cx%3D%221030%22%20cy%3D%22110%22%20r%3D%22170%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.18%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%20%20%3Ccircle%20cx%3D%22180%22%20cy%3D%22560%22%20r%3D%22150%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.16%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%0A%20%20%3Crect%20x%3D%2256%22%20y%3D%2252%22%20rx%3D%2218%22%20ry%3D%2218%22%20width%3D%22260%22%20height%3D%2254%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.08%29%22/%3E%0A%20%20%3Ctext%20x%3D%2284%22%20y%3D%2287%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2228%22%20fill%3D%22%23e5e7eb%22%3ENature%20Immunology%3C/text%3E%0A%0A%20%20%3Ctext%20x%3D%221010%22%20y%3D%22560%22%0A%20%20%20%20%20%20%20%20text-anchor%3D%22middle%22%0A%20%20%20%20%20%20%20%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%0A%20%20%20%20%20%20%20%20font-size%3D%22160%22%0A%20%20%20%20%20%20%20%20fill%3D%22%2360a5fa%22%0A%20%20%20%20%20%20%20%20opacity%3D%220.85%22%3E%0A%20%20%20%20%E2%80%A2%0A%20%20%3C/text%3E%0A%3C/svg%3E%0A",
+    "topic": "Immunology",
+    "topic_color": "#60a5fa",
+    "priority_score": 133
+  },
+  {
     "title": "CD8<sup>+</sup> T cells kill tumors by proxy",
     "link": "https://www.nature.com/articles/s41590-026-02664-7",
     "journal": "Nature Immunology",
@@ -216,6 +229,19 @@
     "summary": "Nature Medicine, Published online: 10 September 2026; doi:10.1038/s41591-026-04596-z An early assessment of the UK’s Our Future Health project shows how national-scale cohorts may reshape population medicine by accelerating discovery and clinical recruitment, provided that selection and phenotyping biases are carefully measured and managed.",
     "abstract": "Nature Medicine, Published online: 10 September 2026; doi:10.1038/s41591-026-04596-z An early assessment of the UK’s Our Future Health project shows how national-scale cohorts may reshape population medicine by accelerating discovery and clinical recruitment, provided that selection and phenotyping biases are carefully measured and managed.",
     "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41591-026-04596-z/MediaObjects/41591_2026_4596_Fig1_HTML.png",
+    "topic": "default",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
+    "title": "Author Correction: Colonoscopy and fecal immunochemical testing versus usual care in diagnostic colorectal cancer screening: the SCREESCO randomized controlled trial",
+    "link": "https://www.nature.com/articles/s41591-026-04702-1",
+    "journal": "Nature Medicine",
+    "source_type": "journal",
+    "date": "2026-09-10",
+    "summary": "Nature Medicine, Published online: 10 September 2026; doi:10.1038/s41591-026-04702-1 Author Correction: Colonoscopy and fecal immunochemical testing versus usual care in diagnostic colorectal cancer screening: the SCREESCO randomized controlled trial",
+    "abstract": "Nature Medicine, Published online: 10 September 2026; doi:10.1038/s41591-026-04702-1 Author Correction: Colonoscopy and fecal immunochemical testing versus usual care in diagnostic colorectal cancer screening: the SCREESCO randomized controlled trial",
+    "image": "data:image/svg+xml;charset=utf-8,%0A%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23111827%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23374151%22/%3E%0A%20%20%20%20%3C/linearGradient%3E%0A%20%20%20%20%3Cfilter%20id%3D%22blur%22%3E%0A%20%20%20%20%20%20%3CfeGaussianBlur%20stdDeviation%3D%2230%22/%3E%0A%20%20%20%20%3C/filter%3E%0A%20%20%3C/defs%3E%0A%0A%20%20%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22url%28%23bg%29%22/%3E%0A%0A%20%20%3Ccircle%20cx%3D%221030%22%20cy%3D%22110%22%20r%3D%22170%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.18%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%20%20%3Ccircle%20cx%3D%22180%22%20cy%3D%22560%22%20r%3D%22150%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.16%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%0A%20%20%3Crect%20x%3D%2256%22%20y%3D%2252%22%20rx%3D%2218%22%20ry%3D%2218%22%20width%3D%22260%22%20height%3D%2254%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.08%29%22/%3E%0A%20%20%3Ctext%20x%3D%2284%22%20y%3D%2287%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2228%22%20fill%3D%22%23e5e7eb%22%3ENature%20Medicine%3C/text%3E%0A%0A%20%20%3Ctext%20x%3D%221010%22%20y%3D%22560%22%0A%20%20%20%20%20%20%20%20text-anchor%3D%22middle%22%0A%20%20%20%20%20%20%20%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%0A%20%20%20%20%20%20%20%20font-size%3D%22160%22%0A%20%20%20%20%20%20%20%20fill%3D%22%2360a5fa%22%0A%20%20%20%20%20%20%20%20opacity%3D%220.85%22%3E%0A%20%20%20%20%E2%80%A2%0A%20%20%3C/text%3E%0A%3C/svg%3E%0A",
     "topic": "default",
     "topic_color": "#60a5fa",
     "priority_score": 0
@@ -507,19 +533,6 @@
     "priority_score": 0
   },
   {
-    "title": "Author Correction: Ablation of <i>TRIP-Br2</i>, a regulator of fat lipolysis, thermogenesis and oxidative metabolism, prevents diet-induced obesity and insulin resistance",
-    "link": "https://www.nature.com/articles/s41591-026-04678-y",
-    "journal": "Nature Medicine",
-    "source_type": "journal",
-    "date": "2026-09-09",
-    "summary": "Nature Medicine, Published online: 09 September 2026; doi:10.1038/s41591-026-04678-y Author Correction: Ablation of TRIP-Br2 , a regulator of fat lipolysis, thermogenesis and oxidative metabolism, prevents diet-induced obesity and insulin resistance",
-    "abstract": "Nature Medicine, Published online: 09 September 2026; doi:10.1038/s41591-026-04678-y Author Correction: Ablation of TRIP-Br2 , a regulator of fat lipolysis, thermogenesis and oxidative metabolism, prevents diet-induced obesity and insulin resistance",
-    "image": "data:image/svg+xml;charset=utf-8,%0A%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23111827%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23374151%22/%3E%0A%20%20%20%20%3C/linearGradient%3E%0A%20%20%20%20%3Cfilter%20id%3D%22blur%22%3E%0A%20%20%20%20%20%20%3CfeGaussianBlur%20stdDeviation%3D%2230%22/%3E%0A%20%20%20%20%3C/filter%3E%0A%20%20%3C/defs%3E%0A%0A%20%20%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22url%28%23bg%29%22/%3E%0A%0A%20%20%3Ccircle%20cx%3D%221030%22%20cy%3D%22110%22%20r%3D%22170%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.18%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%20%20%3Ccircle%20cx%3D%22180%22%20cy%3D%22560%22%20r%3D%22150%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.16%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%0A%20%20%3Crect%20x%3D%2256%22%20y%3D%2252%22%20rx%3D%2218%22%20ry%3D%2218%22%20width%3D%22260%22%20height%3D%2254%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.08%29%22/%3E%0A%20%20%3Ctext%20x%3D%2284%22%20y%3D%2287%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2228%22%20fill%3D%22%23e5e7eb%22%3ENature%20Medicine%3C/text%3E%0A%0A%20%20%3Ctext%20x%3D%221010%22%20y%3D%22560%22%0A%20%20%20%20%20%20%20%20text-anchor%3D%22middle%22%0A%20%20%20%20%20%20%20%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%0A%20%20%20%20%20%20%20%20font-size%3D%22160%22%0A%20%20%20%20%20%20%20%20fill%3D%22%2360a5fa%22%0A%20%20%20%20%20%20%20%20opacity%3D%220.85%22%3E%0A%20%20%20%20%E2%80%A2%0A%20%20%3C/text%3E%0A%3C/svg%3E%0A",
-    "topic": "default",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
     "title": "How an AI math breakthrough ignited a controversy",
     "link": "https://www.science.org/content/article/how-ai-math-breakthrough-ignited-controversy",
     "journal": "Science",
@@ -593,19 +606,6 @@
     "summary": "Nature Immunology, Published online: 08 September 2026; doi:10.1038/s41590-026-02659-4 The Zeb2 −165-kb enhancer is not a simple genetic switch but a regulatory crossroads where transcription factors compete to calibrate lineage decisions and shape immune cell diversity.",
     "abstract": "Nature Immunology, Published online: 08 September 2026; doi:10.1038/s41590-026-02659-4 The Zeb2 −165-kb enhancer is not a simple genetic switch but a regulatory crossroads where transcription factors compete to calibrate lineage decisions and shape immune cell diversity.",
     "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41590-026-02659-4/MediaObjects/41590_2026_2659_Fig1_HTML.png",
-    "topic": "immunology",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
-    "title": "New frontiers in pathogen immunity",
-    "link": "https://www.nature.com/articles/s41590-026-02657-6",
-    "journal": "Nature Immunology",
-    "source_type": "journal",
-    "date": "2026-09-08",
-    "summary": "Nature Immunology, Published online: 08 September 2026; doi:10.1038/s41590-026-02657-6 The EMBO workshop ‘Pathogen Immunity and Signaling’ was held from 8 to 11 June 2026 in Leiden, the Netherlands, bringing together 175 participants from 25 countries to discuss the latest advances in antimicrobial immune defense.",
-    "abstract": "Nature Immunology, Published online: 08 September 2026; doi:10.1038/s41590-026-02657-6 The EMBO workshop ‘Pathogen Immunity and Signaling’ was held from 8 to 11 June 2026 in Leiden, the Netherlands, bringing together 175 participants from 25 countries to discuss the latest advances in antimicrobial immune defense.",
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41590-026-02657-6/MediaObjects/41590_2026_2657_Figa_HTML.png",
     "topic": "immunology",
     "topic_color": "#60a5fa",
     "priority_score": 0
