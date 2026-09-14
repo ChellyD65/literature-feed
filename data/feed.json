@@ -65,19 +65,6 @@
     "priority_score": 120
   },
   {
-    "title": "The hidden role of the bone marrow in Alzheimer’s disease",
-    "link": "https://www.nature.com/articles/s41593-026-02418-6",
-    "journal": "Nature Neuroscience",
-    "source_type": "journal",
-    "date": "2026-09-08",
-    "summary": "Nature Neuroscience, Published online: 08 September 2026; doi:10.1038/s41593-026-02418-6 Although Alzheimer’s disease (AD) is a disease of the brain, we demonstrate that it disrupts myeloid cell production in the bone marrow via a type I interferon signal, preventing protective monocyte-derived macrophages from reaching the brain. Blocking this signal in the 5xFAD mouse model of amyloidosis restored healthy monocyte output and alleviated disease manifestations, highlighting the peripheral immune system as a therapeutic target.",
-    "abstract": "Nature Neuroscience, Published online: 08 September 2026; doi:10.1038/s41593-026-02418-6 Although Alzheimer’s disease (AD) is a disease of the brain, we demonstrate that it disrupts myeloid cell production in the bone marrow via a type I interferon signal, preventing protective monocyte-derived macrophages from reaching the brain. Blocking this signal in the 5xFAD mouse model of amyloidosis restored healthy monocyte output and alleviated disease manifestations, highlighting the peripheral immune system as a therapeutic target.",
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41593-026-02418-6/MediaObjects/41593_2026_2418_Fig1_HTML.png",
-    "topic": "macrophage",
-    "topic_color": "#f59e0b",
-    "priority_score": 85
-  },
-  {
     "title": "Microbial adhesion promotes Piezo1 activation to initiate innate immunity",
     "link": "https://www.nature.com/articles/s41590-026-02643-y",
     "journal": "Nature Immunology",
@@ -117,6 +104,32 @@
     "priority_score": 29
   },
   {
+    "title": "Single brain implant lets paralyzed people both talk and gesture via an avatar",
+    "link": "https://www.science.org/content/article/single-brain-implant-lets-paralyzed-people-both-talk-and-gesture-avatar",
+    "journal": "Science",
+    "source_type": "journal",
+    "date": "2026-09-14T11:50:00Z",
+    "summary": "By decoding two kinds of signals from one brain area, multitasking device offers step toward more natural communication",
+    "abstract": "By decoding two kinds of signals from one brain area, multitasking device offers step toward more natural communication",
+    "image": "data:image/svg+xml;charset=utf-8,%0A%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23111827%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23374151%22/%3E%0A%20%20%20%20%3C/linearGradient%3E%0A%20%20%20%20%3Cfilter%20id%3D%22blur%22%3E%0A%20%20%20%20%20%20%3CfeGaussianBlur%20stdDeviation%3D%2230%22/%3E%0A%20%20%20%20%3C/filter%3E%0A%20%20%3C/defs%3E%0A%0A%20%20%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22url%28%23bg%29%22/%3E%0A%0A%20%20%3Ccircle%20cx%3D%221030%22%20cy%3D%22110%22%20r%3D%22170%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.18%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%20%20%3Ccircle%20cx%3D%22180%22%20cy%3D%22560%22%20r%3D%22150%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.16%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%0A%20%20%3Crect%20x%3D%2256%22%20y%3D%2252%22%20rx%3D%2218%22%20ry%3D%2218%22%20width%3D%22260%22%20height%3D%2254%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.08%29%22/%3E%0A%20%20%3Ctext%20x%3D%2284%22%20y%3D%2287%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2228%22%20fill%3D%22%23e5e7eb%22%3EScience%3C/text%3E%0A%0A%20%20%3Ctext%20x%3D%221010%22%20y%3D%22560%22%0A%20%20%20%20%20%20%20%20text-anchor%3D%22middle%22%0A%20%20%20%20%20%20%20%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%0A%20%20%20%20%20%20%20%20font-size%3D%22160%22%0A%20%20%20%20%20%20%20%20fill%3D%22%2360a5fa%22%0A%20%20%20%20%20%20%20%20opacity%3D%220.85%22%3E%0A%20%20%20%20%E2%80%A2%0A%20%20%3C/text%3E%0A%3C/svg%3E%0A",
+    "topic": "default",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
+    "title": "Encoded and non-genetic protein variants expand human functional proteome",
+    "link": "https://www.nature.com/articles/s41586-026-11124-z",
+    "journal": "Nature",
+    "source_type": "journal",
+    "date": "2026-09-14",
+    "summary": "Nature, Published online: 14 September 2026; doi:10.1038/s41586-026-11124-z Encoded and non-genetic protein variants expand human functional proteome",
+    "abstract": "Each stage of the Central Dogma contributes to proteome diversity through mechanisms such as heterozygosity, somatic mutations, transcriptional errors, and translational errors. As a result, a diverse array of protein variants can coexist within a single proteome, such as that of humans. However, until now, methods to detect, quantify, and evaluate the functional consequences of these variants have been lacking. Here we examined a large-scale proteogenomic dataset from 29 healthy human tissues and uncovered 13,910 confidently localized variants representing 7,215 unique single amino acid substitutions co-existing alongside their corresponding reference proteoforms 1.We found that the abundance of both genetic (SNP’s, somatic mutations) and mistranslated protein variants mirrors their allele frequencies in the human population. Moreover, we show that non-genetic substitutions may provide a distinct route for exploring protein sequence space, circumventing the mutational constraints imposed by the genetic code. In addition, we provide experimental validation of non-genetic substitution on selected purified proteins. We demonstrate specific and recurring non-genetic variation patterns upon amino acid starvation in proteome-wide analyses of cancer-derived cell lines and identify hundreds of substituted non-genetic proteoforms that recur consistently in multiple healthy individuals or map to annotated protein functional sites. We propose that these substitutions constitute a novel class of functional protein phenotypic variants. Collectively, our findings indicate that non-genetic amino acid substitutions in human proteins provide an abundant source to expanding the functional proteome.",
+    "image": "data:image/svg+xml;charset=utf-8,%0A%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23111827%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23374151%22/%3E%0A%20%20%20%20%3C/linearGradient%3E%0A%20%20%20%20%3Cfilter%20id%3D%22blur%22%3E%0A%20%20%20%20%20%20%3CfeGaussianBlur%20stdDeviation%3D%2230%22/%3E%0A%20%20%20%20%3C/filter%3E%0A%20%20%3C/defs%3E%0A%0A%20%20%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22url%28%23bg%29%22/%3E%0A%0A%20%20%3Ccircle%20cx%3D%221030%22%20cy%3D%22110%22%20r%3D%22170%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.18%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%20%20%3Ccircle%20cx%3D%22180%22%20cy%3D%22560%22%20r%3D%22150%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.16%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%0A%20%20%3Crect%20x%3D%2256%22%20y%3D%2252%22%20rx%3D%2218%22%20ry%3D%2218%22%20width%3D%22260%22%20height%3D%2254%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.08%29%22/%3E%0A%20%20%3Ctext%20x%3D%2284%22%20y%3D%2287%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2228%22%20fill%3D%22%23e5e7eb%22%3ENature%3C/text%3E%0A%0A%20%20%3Ctext%20x%3D%221010%22%20y%3D%22560%22%0A%20%20%20%20%20%20%20%20text-anchor%3D%22middle%22%0A%20%20%20%20%20%20%20%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%0A%20%20%20%20%20%20%20%20font-size%3D%22160%22%0A%20%20%20%20%20%20%20%20fill%3D%22%2360a5fa%22%0A%20%20%20%20%20%20%20%20opacity%3D%220.85%22%3E%0A%20%20%20%20%E2%80%A2%0A%20%20%3C/text%3E%0A%3C/svg%3E%0A",
+    "topic": "default",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
     "title": "The roots of astrology, the mysterious nature of time and more: Books in brief",
     "link": "https://www.nature.com/articles/d41586-026-02908-4",
     "journal": "Nature",
@@ -130,6 +143,19 @@
     "priority_score": 0
   },
   {
+    "title": "How is climate change affecting conifers and their ability to sequester carbon?",
+    "link": "https://www.nature.com/articles/d41586-026-02847-0",
+    "journal": "Nature",
+    "source_type": "journal",
+    "date": "2026-09-14",
+    "summary": "Nature, Published online: 14 September 2026; doi:10.1038/d41586-026-02847-0 Fresh evidence reveals that the interplay of several factors could affect the ability of these trees to grow.",
+    "abstract": "Nature, Published online: 14 September 2026; doi:10.1038/d41586-026-02847-0 Fresh evidence reveals that the interplay of several factors could affect the ability of these trees to grow.",
+    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-02847-0/d41586-026-02847-0_53690528.jpg",
+    "topic": "default",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
     "title": "The pet trade puts reptiles and amphibians at risk: close legal gaps now",
     "link": "https://www.nature.com/articles/d41586-026-02852-3",
     "journal": "Nature",
@@ -138,6 +164,32 @@
     "summary": "Nature, Published online: 14 September 2026; doi:10.1038/d41586-026-02852-3 Patchy legislation means that animals are routinely taken from their natural habitats and sold in other countries. Fresh national and international measures could help to stop this exploitation.",
     "abstract": "Nature, Published online: 14 September 2026; doi:10.1038/d41586-026-02852-3 Patchy legislation means that animals are routinely taken from their natural habitats and sold in other countries. Fresh national and international measures could help to stop this exploitation.",
     "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-02852-3/d41586-026-02852-3_53696598.jpg",
+    "topic": "default",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
+    "title": "Donor-funded science is rising in Brazil ― upending a long tradition",
+    "link": "https://www.nature.com/articles/d41586-026-02829-2",
+    "journal": "Nature",
+    "source_type": "journal",
+    "date": "2026-09-14",
+    "summary": "Nature, Published online: 14 September 2026; doi:10.1038/d41586-026-02829-2 Philanthropists are stepping up support for research in a country where scientists have relied on the government alone for funding.",
+    "abstract": "Nature, Published online: 14 September 2026; doi:10.1038/d41586-026-02829-2 Philanthropists are stepping up support for research in a country where scientists have relied on the government alone for funding.",
+    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-02829-2/d41586-026-02829-2_53713060.jpg",
+    "topic": "default",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
+    "title": "‘Multifunctional’ brain implant translates speech and gestures in real time",
+    "link": "https://www.nature.com/articles/d41586-026-02895-6",
+    "journal": "Nature",
+    "source_type": "journal",
+    "date": "2026-09-14",
+    "summary": "Nature, Published online: 14 September 2026; doi:10.1038/d41586-026-02895-6 A neural device uses artificial intelligence to read brain activity for intended words and gestures simultaneously.",
+    "abstract": "Nature, Published online: 14 September 2026; doi:10.1038/d41586-026-02895-6 A neural device uses artificial intelligence to read brain activity for intended words and gestures simultaneously.",
+    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-02895-6/d41586-026-02895-6_53713270.jpg",
     "topic": "default",
     "topic_color": "#60a5fa",
     "priority_score": 0
@@ -182,6 +234,19 @@
     "priority_score": 0
   },
   {
+    "title": "Simultaneous speech and gesture decoding for multimodal communication in paralysis",
+    "link": "https://www.nature.com/articles/s41593-026-02446-2",
+    "journal": "Nature Neuroscience",
+    "source_type": "journal",
+    "date": "2026-09-14",
+    "summary": "Nature Neuroscience, Published online: 14 September 2026; doi:10.1038/s41593-026-02446-2 Brosler et al. develop a brain–computer interface that simultaneously decodes speech and gestures from a single cortical implant to animate a virtual avatar, providing a step toward more flexible communication for people with paralysis.",
+    "abstract": "Nature Neuroscience, Published online: 14 September 2026; doi:10.1038/s41593-026-02446-2 Brosler et al. develop a brain–computer interface that simultaneously decodes speech and gestures from a single cortical implant to animate a virtual avatar, providing a step toward more flexible communication for people with paralysis.",
+    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41593-026-02446-2/MediaObjects/41593_2026_2446_Fig1_HTML.png",
+    "topic": "neuroscience",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
     "title": "Overlapping representations in the ventral hippocampus support rapid fear memory retrieval",
     "link": "https://www.nature.com/articles/s41593-026-02435-5",
     "journal": "Nature Neuroscience",
@@ -191,6 +256,19 @@
     "abstract": "Nature Neuroscience, Published online: 14 September 2026; doi:10.1038/s41593-026-02435-5 Fear learning increases the similarity of threatening and neutral context representations in ventral CA1, which may enable faster reinstatement of threat memories, compared to dorsal CA1.",
     "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41593-026-02435-5/MediaObjects/41593_2026_2435_Fig1_HTML.png",
     "topic": "neuroscience",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
+    "title": "De novo mutations bridge parental reproductive factors and offspring health",
+    "link": "https://www.nature.com/articles/s41591-026-04676-0",
+    "journal": "Nature Medicine",
+    "source_type": "journal",
+    "date": "2026-09-14",
+    "summary": "Nature Medicine, Published online: 14 September 2026; doi:10.1038/s41591-026-04676-0 Whole-genome sequencing of 7,851 parent–offspring families enabled the identification of parent-of-origin and post-zygotic de novo mutations that were associated with distinct procedures of assisted reproductive technology (ART), independently of parental age at conception. Increased paternal mutational burden statistically mediates the effects of advanced parental age and ART on gestational duration and other birth outcomes.",
+    "abstract": "Nature Medicine, Published online: 14 September 2026; doi:10.1038/s41591-026-04676-0 Whole-genome sequencing of 7,851 parent–offspring families enabled the identification of parent-of-origin and post-zygotic de novo mutations that were associated with distinct procedures of assisted reproductive technology (ART), independently of parental age at conception. Increased paternal mutational burden statistically mediates the effects of advanced parental age and ART on gestational duration and other birth outcomes.",
+    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41591-026-04676-0/MediaObjects/41591_2026_4676_Fig1_HTML.png",
+    "topic": "default",
     "topic_color": "#60a5fa",
     "priority_score": 0
   },
@@ -221,7 +299,7 @@
     "priority_score": 0
   },
   {
-    "title": "“Chilling” warning or overreaction? AI bioweapons report divides experts",
+    "title": "‘Chilling’ warning or overreaction? AI bioweapons report divides experts",
     "link": "https://www.science.org/content/article/chilling-warning-or-overreaction-ai-bioweapons-report-divides-experts",
     "journal": "Science",
     "source_type": "journal",
@@ -351,58 +429,6 @@
     "priority_score": 0
   },
   {
-    "title": "People trust scientists seen to be 'on their side', UK study finds",
-    "link": "https://www.nature.com/articles/d41586-026-02883-w",
-    "journal": "Nature",
-    "source_type": "journal",
-    "date": "2026-09-11",
-    "summary": "Nature, Published online: 11 September 2026; doi:10.1038/d41586-026-02883-w Politics and personal values influence people’s confidence in scientists, finds new report",
-    "abstract": "Nature, Published online: 11 September 2026; doi:10.1038/d41586-026-02883-w Politics and personal values influence people’s confidence in scientists, finds new report",
-    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-02883-w/d41586-026-02883-w_53696190.jpg",
-    "topic": "default",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
-    "title": "El Niño goes viral — and scientists learn what makes people care about the climate",
-    "link": "https://www.nature.com/articles/d41586-026-02763-3",
-    "journal": "Nature",
-    "source_type": "journal",
-    "date": "2026-09-11",
-    "summary": "Nature, Published online: 11 September 2026; doi:10.1038/d41586-026-02763-3 Evoking emotions is more likely to prompt people to engage with climate efforts than are data alone.",
-    "abstract": "Nature, Published online: 11 September 2026; doi:10.1038/d41586-026-02763-3 Evoking emotions is more likely to prompt people to engage with climate efforts than are data alone.",
-    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-02763-3/d41586-026-02763-3_53703368.jpg",
-    "topic": "default",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
-    "title": "Successful early-career scientists rely on network of mentors",
-    "link": "https://www.nature.com/articles/d41586-026-02827-4",
-    "journal": "Nature",
-    "source_type": "journal",
-    "date": "2026-09-11",
-    "summary": "Nature, Published online: 11 September 2026; doi:10.1038/d41586-026-02827-4 Large networks are particularly beneficial to researchers in under-represented groups.",
-    "abstract": "Nature, Published online: 11 September 2026; doi:10.1038/d41586-026-02827-4 Large networks are particularly beneficial to researchers in under-represented groups.",
-    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-02827-4/d41586-026-02827-4_53689998.jpg",
-    "topic": "default",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
-    "title": "Osteoporosis affects millions: could modified cells rebuild their bones?",
-    "link": "https://www.nature.com/articles/d41586-026-02828-3",
-    "journal": "Nature",
-    "source_type": "journal",
-    "date": "2026-09-11",
-    "summary": "Nature, Published online: 11 September 2026; doi:10.1038/d41586-026-02828-3 Small trial hints at regenerative potential of bone-seeking marrow cells.",
-    "abstract": "Nature, Published online: 11 September 2026; doi:10.1038/d41586-026-02828-3 Small trial hints at regenerative potential of bone-seeking marrow cells.",
-    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-02828-3/d41586-026-02828-3_53684220.jpg",
-    "topic": "default",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
     "title": "Human tau pathology is associated with lonely, nontraveling slow waves linked to memory impairment",
     "link": "https://www.nature.com/articles/s41593-026-02415-9",
     "journal": "Nature Neuroscience",
@@ -507,19 +533,6 @@
     "priority_score": 0
   },
   {
-    "title": "A clinically-oriented foundation model for intraoperative pathology",
-    "link": "https://www.nature.com/articles/s41591-026-04703-0",
-    "journal": "Nature Medicine",
-    "source_type": "journal",
-    "date": "2026-09-10",
-    "summary": "Nature Medicine, Published online: 10 September 2026; doi:10.1038/s41591-026-04703-0 CRISP, a vision-based pathology foundation model developed exclusively from frozen section slides, supports treatment decision-making throughout the surgical workflow with superior performance to current foundation models and extensive validation, including in a prospective cohort.",
-    "abstract": "Nature Medicine, Published online: 10 September 2026; doi:10.1038/s41591-026-04703-0 CRISP, a vision-based pathology foundation model developed exclusively from frozen section slides, supports treatment decision-making throughout the surgical workflow with superior performance to current foundation models and extensive validation, including in a prospective cohort.",
-    "image": "data:image/svg+xml;charset=utf-8,%0A%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23111827%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23374151%22/%3E%0A%20%20%20%20%3C/linearGradient%3E%0A%20%20%20%20%3Cfilter%20id%3D%22blur%22%3E%0A%20%20%20%20%20%20%3CfeGaussianBlur%20stdDeviation%3D%2230%22/%3E%0A%20%20%20%20%3C/filter%3E%0A%20%20%3C/defs%3E%0A%0A%20%20%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22url%28%23bg%29%22/%3E%0A%0A%20%20%3Ccircle%20cx%3D%221030%22%20cy%3D%22110%22%20r%3D%22170%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.18%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%20%20%3Ccircle%20cx%3D%22180%22%20cy%3D%22560%22%20r%3D%22150%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.16%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%0A%20%20%3Crect%20x%3D%2256%22%20y%3D%2252%22%20rx%3D%2218%22%20ry%3D%2218%22%20width%3D%22260%22%20height%3D%2254%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.08%29%22/%3E%0A%20%20%3Ctext%20x%3D%2284%22%20y%3D%2287%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2228%22%20fill%3D%22%23e5e7eb%22%3ENature%20Medicine%3C/text%3E%0A%0A%20%20%3Ctext%20x%3D%221010%22%20y%3D%22560%22%0A%20%20%20%20%20%20%20%20text-anchor%3D%22middle%22%0A%20%20%20%20%20%20%20%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%0A%20%20%20%20%20%20%20%20font-size%3D%22160%22%0A%20%20%20%20%20%20%20%20fill%3D%22%2360a5fa%22%0A%20%20%20%20%20%20%20%20opacity%3D%220.85%22%3E%0A%20%20%20%20%E2%80%A2%0A%20%20%3C/text%3E%0A%3C/svg%3E%0A",
-    "topic": "default",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
     "title": "Italian hunting bill will sideline science, critics say",
     "link": "https://www.science.org/content/article/italian-hunting-bill-will-sideline-science-critics-say",
     "journal": "Science",
@@ -527,19 +540,6 @@
     "date": "2026-09-09T03:40:00Z",
     "summary": "New legislation would loosen regulations and reduce the role of an environmental research body in decisions affecting wildlife",
     "abstract": "New legislation would loosen regulations and reduce the role of an environmental research body in decisions affecting wildlife",
-    "image": "data:image/svg+xml;charset=utf-8,%0A%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23111827%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23374151%22/%3E%0A%20%20%20%20%3C/linearGradient%3E%0A%20%20%20%20%3Cfilter%20id%3D%22blur%22%3E%0A%20%20%20%20%20%20%3CfeGaussianBlur%20stdDeviation%3D%2230%22/%3E%0A%20%20%20%20%3C/filter%3E%0A%20%20%3C/defs%3E%0A%0A%20%20%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22url%28%23bg%29%22/%3E%0A%0A%20%20%3Ccircle%20cx%3D%221030%22%20cy%3D%22110%22%20r%3D%22170%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.18%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%20%20%3Ccircle%20cx%3D%22180%22%20cy%3D%22560%22%20r%3D%22150%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.16%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%0A%20%20%3Crect%20x%3D%2256%22%20y%3D%2252%22%20rx%3D%2218%22%20ry%3D%2218%22%20width%3D%22260%22%20height%3D%2254%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.08%29%22/%3E%0A%20%20%3Ctext%20x%3D%2284%22%20y%3D%2287%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2228%22%20fill%3D%22%23e5e7eb%22%3EScience%3C/text%3E%0A%0A%20%20%3Ctext%20x%3D%221010%22%20y%3D%22560%22%0A%20%20%20%20%20%20%20%20text-anchor%3D%22middle%22%0A%20%20%20%20%20%20%20%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%0A%20%20%20%20%20%20%20%20font-size%3D%22160%22%0A%20%20%20%20%20%20%20%20fill%3D%22%2360a5fa%22%0A%20%20%20%20%20%20%20%20opacity%3D%220.85%22%3E%0A%20%20%20%20%E2%80%A2%0A%20%20%3C/text%3E%0A%3C/svg%3E%0A",
-    "topic": "default",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
-    "title": "Pangaea’s ‘little brother’ may finally qualify as a supercontinent",
-    "link": "https://www.science.org/content/article/pangaea-s-little-brother-may-finally-qualify-supercontinent",
-    "journal": "Science",
-    "source_type": "journal",
-    "date": "2026-09-09T02:00:00Z",
-    "summary": "New evidence suggests Gondwana was far larger than previously thought, challenging models of continental cycling",
-    "abstract": "New evidence suggests Gondwana was far larger than previously thought, challenging models of continental cycling",
     "image": "data:image/svg+xml;charset=utf-8,%0A%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23111827%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23374151%22/%3E%0A%20%20%20%20%3C/linearGradient%3E%0A%20%20%20%20%3Cfilter%20id%3D%22blur%22%3E%0A%20%20%20%20%20%20%3CfeGaussianBlur%20stdDeviation%3D%2230%22/%3E%0A%20%20%20%20%3C/filter%3E%0A%20%20%3C/defs%3E%0A%0A%20%20%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22url%28%23bg%29%22/%3E%0A%0A%20%20%3Ccircle%20cx%3D%221030%22%20cy%3D%22110%22%20r%3D%22170%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.18%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%20%20%3Ccircle%20cx%3D%22180%22%20cy%3D%22560%22%20r%3D%22150%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.16%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%0A%20%20%3Crect%20x%3D%2256%22%20y%3D%2252%22%20rx%3D%2218%22%20ry%3D%2218%22%20width%3D%22260%22%20height%3D%2254%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.08%29%22/%3E%0A%20%20%3Ctext%20x%3D%2284%22%20y%3D%2287%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2228%22%20fill%3D%22%23e5e7eb%22%3EScience%3C/text%3E%0A%0A%20%20%3Ctext%20x%3D%221010%22%20y%3D%22560%22%0A%20%20%20%20%20%20%20%20text-anchor%3D%22middle%22%0A%20%20%20%20%20%20%20%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%0A%20%20%20%20%20%20%20%20font-size%3D%22160%22%0A%20%20%20%20%20%20%20%20fill%3D%22%2360a5fa%22%0A%20%20%20%20%20%20%20%20opacity%3D%220.85%22%3E%0A%20%20%20%20%E2%80%A2%0A%20%20%3C/text%3E%0A%3C/svg%3E%0A",
     "topic": "default",
     "topic_color": "#60a5fa",
