@@ -78,6 +78,19 @@
     "priority_score": 82
   },
   {
+    "title": "Quality control of glycogen through direct ubiquitylation by RNF213",
+    "link": "https://www.nature.com/articles/s41586-026-11139-6",
+    "journal": "Nature",
+    "source_type": "journal",
+    "date": "2026-09-15",
+    "summary": "Nature, Published online: 15 September 2026; doi:10.1038/s41586-026-11139-6 Quality control of glycogen through direct ubiquitylation by RNF213",
+    "abstract": "Quality control of biomolecules is vital for organismal health. While DNA repair and protein quality control are well understood, how cells monitor other important biomolecules such as glycogen remains ill-defined. The accumulation of aberrant, poorly branched glycogen into insoluble polyglucosan bodies causes severe disease1,2. Here, we discover autophagy of ubiquitylated aberrant glycogen as a previously unrecognized quality control mechanism safeguarding the brain from polyglucosan buildup. This mechanism depends on the E3 ubiquitin ligase RNF213. Mice lacking ligase activity in RNF213 accumulate polyglucosan in cerebellum, pons, and hippocampus. Using cells engineered to produce polyglucosan, we show that RNF213 selectively ubiquitylates abnormal glycogen. Cryo-EM analysis of RNF213 bound to glycogen-derived maltoheptaose revealed its CBM20 domain binds linear oligosaccharides. Disrupting carbohydrate binding results in gain of E3 ligase activity towards physiological glycogen, indicating the CBM20 domain limits RNF213 activity towards physiological glycogen. Epistasis analysis places RNF213 upstream of LUBAC, suggesting a hierarchical network of multiple E3 ligases surveying glycogen quality. Ubiquitylated polyglucosan recruits the autophagy receptors SQSTM1, TAX1BP1, and optineurin, thereby triggering uptake into autophagosomes. These findings identify RNF213 as a quality control factor preventing polyglucosan accumulation in astrocytes through direct ubiquitylation of polyglucosan, revealing an essential role for non-protein ubiquitylation in glycogen quality control.",
+    "image": "data:image/svg+xml;charset=utf-8,%0A%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23111827%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23374151%22/%3E%0A%20%20%20%20%3C/linearGradient%3E%0A%20%20%20%20%3Cfilter%20id%3D%22blur%22%3E%0A%20%20%20%20%20%20%3CfeGaussianBlur%20stdDeviation%3D%2230%22/%3E%0A%20%20%20%20%3C/filter%3E%0A%20%20%3C/defs%3E%0A%0A%20%20%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22url%28%23bg%29%22/%3E%0A%0A%20%20%3Ccircle%20cx%3D%221030%22%20cy%3D%22110%22%20r%3D%22170%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.18%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%20%20%3Ccircle%20cx%3D%22180%22%20cy%3D%22560%22%20r%3D%22150%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.16%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%0A%20%20%3Crect%20x%3D%2256%22%20y%3D%2252%22%20rx%3D%2218%22%20ry%3D%2218%22%20width%3D%22260%22%20height%3D%2254%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.08%29%22/%3E%0A%20%20%3Ctext%20x%3D%2284%22%20y%3D%2287%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2228%22%20fill%3D%22%23e5e7eb%22%3ENature%3C/text%3E%0A%0A%20%20%3Ctext%20x%3D%221010%22%20y%3D%22560%22%0A%20%20%20%20%20%20%20%20text-anchor%3D%22middle%22%0A%20%20%20%20%20%20%20%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%0A%20%20%20%20%20%20%20%20font-size%3D%22160%22%0A%20%20%20%20%20%20%20%20fill%3D%22%2360a5fa%22%0A%20%20%20%20%20%20%20%20opacity%3D%220.85%22%3E%0A%20%20%20%20%E2%80%A2%0A%20%20%3C/text%3E%0A%3C/svg%3E%0A",
+    "topic": "Aging & Senescence",
+    "topic_color": "#60a5fa",
+    "priority_score": 81
+  },
+  {
     "title": "The overlooked plasticity of monocytes in uterine homeostasis",
     "link": "https://www.nature.com/articles/s41590-026-02658-5",
     "journal": "Nature Immunology",
@@ -89,6 +102,32 @@
     "topic": "inflammation",
     "topic_color": "#fb7185",
     "priority_score": 29
+  },
+  {
+    "title": "Why AI agents invent their own language if you let them chat",
+    "link": "https://www.science.org/content/article/why-ai-agents-invent-their-own-language-if-you-let-them-chat",
+    "journal": "Science",
+    "source_type": "journal",
+    "date": "2026-09-15T12:00:00Z",
+    "summary": "“Weird terms” are a natural—but disturbing—byproduct of agent swarms, researchers find",
+    "abstract": "“Weird terms” are a natural—but disturbing—byproduct of agent swarms, researchers find",
+    "image": "data:image/svg+xml;charset=utf-8,%0A%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23111827%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23374151%22/%3E%0A%20%20%20%20%3C/linearGradient%3E%0A%20%20%20%20%3Cfilter%20id%3D%22blur%22%3E%0A%20%20%20%20%20%20%3CfeGaussianBlur%20stdDeviation%3D%2230%22/%3E%0A%20%20%20%20%3C/filter%3E%0A%20%20%3C/defs%3E%0A%0A%20%20%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22url%28%23bg%29%22/%3E%0A%0A%20%20%3Ccircle%20cx%3D%221030%22%20cy%3D%22110%22%20r%3D%22170%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.18%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%20%20%3Ccircle%20cx%3D%22180%22%20cy%3D%22560%22%20r%3D%22150%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.16%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%0A%20%20%3Crect%20x%3D%2256%22%20y%3D%2252%22%20rx%3D%2218%22%20ry%3D%2218%22%20width%3D%22260%22%20height%3D%2254%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.08%29%22/%3E%0A%20%20%3Ctext%20x%3D%2284%22%20y%3D%2287%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2228%22%20fill%3D%22%23e5e7eb%22%3EScience%3C/text%3E%0A%0A%20%20%3Ctext%20x%3D%221010%22%20y%3D%22560%22%0A%20%20%20%20%20%20%20%20text-anchor%3D%22middle%22%0A%20%20%20%20%20%20%20%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%0A%20%20%20%20%20%20%20%20font-size%3D%22160%22%0A%20%20%20%20%20%20%20%20fill%3D%22%2360a5fa%22%0A%20%20%20%20%20%20%20%20opacity%3D%220.85%22%3E%0A%20%20%20%20%E2%80%A2%0A%20%20%3C/text%3E%0A%3C/svg%3E%0A",
+    "topic": "default",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
+    "title": "Exclusive: New NIH research center on vaccine harms takes shape",
+    "link": "https://www.science.org/content/article/exclusive-new-nih-research-center-vaccine-harms-takes-shape",
+    "journal": "Science",
+    "source_type": "journal",
+    "date": "2026-09-15T09:55:00Z",
+    "summary": "Clinical researchers will probe complications that can arise after immunization, but some worry about political influence",
+    "abstract": "Clinical researchers will probe complications that can arise after immunization, but some worry about political influence",
+    "image": "data:image/svg+xml;charset=utf-8,%0A%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23111827%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23374151%22/%3E%0A%20%20%20%20%3C/linearGradient%3E%0A%20%20%20%20%3Cfilter%20id%3D%22blur%22%3E%0A%20%20%20%20%20%20%3CfeGaussianBlur%20stdDeviation%3D%2230%22/%3E%0A%20%20%20%20%3C/filter%3E%0A%20%20%3C/defs%3E%0A%0A%20%20%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22url%28%23bg%29%22/%3E%0A%0A%20%20%3Ccircle%20cx%3D%221030%22%20cy%3D%22110%22%20r%3D%22170%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.18%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%20%20%3Ccircle%20cx%3D%22180%22%20cy%3D%22560%22%20r%3D%22150%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.16%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%0A%20%20%3Crect%20x%3D%2256%22%20y%3D%2252%22%20rx%3D%2218%22%20ry%3D%2218%22%20width%3D%22260%22%20height%3D%2254%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.08%29%22/%3E%0A%20%20%3Ctext%20x%3D%2284%22%20y%3D%2287%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2228%22%20fill%3D%22%23e5e7eb%22%3EScience%3C/text%3E%0A%0A%20%20%3Ctext%20x%3D%221010%22%20y%3D%22560%22%0A%20%20%20%20%20%20%20%20text-anchor%3D%22middle%22%0A%20%20%20%20%20%20%20%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%0A%20%20%20%20%20%20%20%20font-size%3D%22160%22%0A%20%20%20%20%20%20%20%20fill%3D%22%2360a5fa%22%0A%20%20%20%20%20%20%20%20opacity%3D%220.85%22%3E%0A%20%20%20%20%E2%80%A2%0A%20%20%3C/text%3E%0A%3C/svg%3E%0A",
+    "topic": "default",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
   },
   {
     "title": "Author Correction: Erythropoietin receptor on cDC1s dictates immune tolerance",
@@ -130,6 +169,19 @@
     "priority_score": 0
   },
   {
+    "title": "The geometric genius of René Descartes",
+    "link": "https://www.nature.com/articles/d41586-026-02723-x",
+    "journal": "Nature",
+    "source_type": "journal",
+    "date": "2026-09-15",
+    "summary": "Nature, Published online: 15 September 2026; doi:10.1038/d41586-026-02723-x The achievements of a visionary mathematician, and a trip to the National Air and Space Museum in Washington DC, in this week’s pick from the Nature archive.",
+    "abstract": "Nature, Published online: 15 September 2026; doi:10.1038/d41586-026-02723-x The achievements of a visionary mathematician, and a trip to the National Air and Space Museum in Washington DC, in this week’s pick from the Nature archive.",
+    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-02723-x/d41586-026-02723-x_15948434.jpg",
+    "topic": "default",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
     "title": "Make AI traceable before it shapes global climate assessments",
     "link": "https://www.nature.com/articles/d41586-026-02905-7",
     "journal": "Nature",
@@ -151,6 +203,19 @@
     "summary": "Nature, Published online: 15 September 2026; doi:10.1038/d41586-026-02906-6 Why the NIH must resist the metrics trap",
     "abstract": "Nature, Published online: 15 September 2026; doi:10.1038/d41586-026-02906-6 Why the NIH must resist the metrics trap",
     "image": "data:image/svg+xml;charset=utf-8,%0A%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23111827%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23374151%22/%3E%0A%20%20%20%20%3C/linearGradient%3E%0A%20%20%20%20%3Cfilter%20id%3D%22blur%22%3E%0A%20%20%20%20%20%20%3CfeGaussianBlur%20stdDeviation%3D%2230%22/%3E%0A%20%20%20%20%3C/filter%3E%0A%20%20%3C/defs%3E%0A%0A%20%20%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22url%28%23bg%29%22/%3E%0A%0A%20%20%3Ccircle%20cx%3D%221030%22%20cy%3D%22110%22%20r%3D%22170%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.18%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%20%20%3Ccircle%20cx%3D%22180%22%20cy%3D%22560%22%20r%3D%22150%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.16%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%0A%20%20%3Crect%20x%3D%2256%22%20y%3D%2252%22%20rx%3D%2218%22%20ry%3D%2218%22%20width%3D%22260%22%20height%3D%2254%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.08%29%22/%3E%0A%20%20%3Ctext%20x%3D%2284%22%20y%3D%2287%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2228%22%20fill%3D%22%23e5e7eb%22%3ENature%3C/text%3E%0A%0A%20%20%3Ctext%20x%3D%221010%22%20y%3D%22560%22%0A%20%20%20%20%20%20%20%20text-anchor%3D%22middle%22%0A%20%20%20%20%20%20%20%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%0A%20%20%20%20%20%20%20%20font-size%3D%22160%22%0A%20%20%20%20%20%20%20%20fill%3D%22%2360a5fa%22%0A%20%20%20%20%20%20%20%20opacity%3D%220.85%22%3E%0A%20%20%20%20%E2%80%A2%0A%20%20%3C/text%3E%0A%3C/svg%3E%0A",
+    "topic": "default",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
+    "title": "Global inequality panel is a chance for research to change lives",
+    "link": "https://www.nature.com/articles/d41586-026-02885-8",
+    "journal": "Nature",
+    "source_type": "journal",
+    "date": "2026-09-15",
+    "summary": "Nature, Published online: 15 September 2026; doi:10.1038/d41586-026-02885-8 The scientific panel is welcomed. It must now invite all interested researchers to participate.",
+    "abstract": "Nature, Published online: 15 September 2026; doi:10.1038/d41586-026-02885-8 The scientific panel is welcomed. It must now invite all interested researchers to participate.",
+    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-02885-8/d41586-026-02885-8_53713110.jpg",
     "topic": "default",
     "topic_color": "#60a5fa",
     "priority_score": 0
@@ -208,6 +273,19 @@
     "priority_score": 0
   },
   {
+    "title": "Beyond the breakthrough for RAS-driven cancers",
+    "link": "https://www.nature.com/articles/s41591-026-04610-4",
+    "journal": "Nature Medicine",
+    "source_type": "journal",
+    "date": "2026-09-15",
+    "summary": "Nature Medicine, Published online: 15 September 2026; doi:10.1038/s41591-026-04610-4 Two early clinical studies of selective KRASG12D inhibitors show encouraging activity in advanced cancers with G12D mutations, signaling a transformative change in the treatment landscape for RAS-driven cancers with potential applications across tumor types and stages of disease.",
+    "abstract": "Nature Medicine, Published online: 15 September 2026; doi:10.1038/s41591-026-04610-4 Two early clinical studies of selective KRASG12D inhibitors show encouraging activity in advanced cancers with G12D mutations, signaling a transformative change in the treatment landscape for RAS-driven cancers with potential applications across tumor types and stages of disease.",
+    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41591-026-04610-4/MediaObjects/41591_2026_4610_Fig1_HTML.png",
+    "topic": "default",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
     "title": "On-premise medical AI agents for reliable clinical decision-making",
     "link": "https://www.nature.com/articles/s41591-026-04609-x",
     "journal": "Nature Medicine",
@@ -229,6 +307,19 @@
     "summary": "Nature Medicine, Published online: 15 September 2026; doi:10.1038/s41591-026-04644-8 In the phase 2 RIO trial, there was delayed viral rebound and resistance to broadly neutralizing antibodies 3BNC117-LS and 10-1074-LS in adult males living with HIV undergoing analytical treatment interruption, and initial reservoir sensitivity to autologous antibodies was associated with a longer time to rebound.",
     "abstract": "Nature Medicine, Published online: 15 September 2026; doi:10.1038/s41591-026-04644-8 In the phase 2 RIO trial, there was delayed viral rebound and resistance to broadly neutralizing antibodies 3BNC117-LS and 10-1074-LS in adult males living with HIV undergoing analytical treatment interruption, and initial reservoir sensitivity to autologous antibodies was associated with a longer time to rebound.",
     "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41591-026-04644-8/MediaObjects/41591_2026_4644_Fig1_HTML.png",
+    "topic": "default",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
+    "title": "Oral KRAS G12D inhibitor GFH375 for previously treated advanced solid tumors with <i>KRAS</i><sup>G12D</sup> mutations: a phase 1 trial",
+    "link": "https://www.nature.com/articles/s41591-026-04559-4",
+    "journal": "Nature Medicine",
+    "source_type": "journal",
+    "date": "2026-09-15",
+    "summary": "Nature Medicine, Published online: 15 September 2026; doi:10.1038/s41591-026-04559-4 In a phase 1 trial evaluating GFH375, an oral, dual on–off binding KRAS G12D inhibitor, in patients with KRASG12D-mutated solid tumors, there was one treatment-related death, while most treatment-related adverse events were low-grade, and encouraging response rates were observed in non-small cell lung cancer and pancreatic cancer.",
+    "abstract": "Nature Medicine, Published online: 15 September 2026; doi:10.1038/s41591-026-04559-4 In a phase 1 trial evaluating GFH375, an oral, dual on–off binding KRAS G12D inhibitor, in patients with KRASG12D-mutated solid tumors, there was one treatment-related death, while most treatment-related adverse events were low-grade, and encouraging response rates were observed in non-small cell lung cancer and pancreatic cancer.",
+    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41591-026-04559-4/MediaObjects/41591_2026_4559_Fig1_HTML.png",
     "topic": "default",
     "topic_color": "#60a5fa",
     "priority_score": 0
@@ -281,45 +372,6 @@
     "summary": "Nature, Published online: 14 September 2026; doi:10.1038/s41586-026-11124-z Encoded and non-genetic protein variants expand human functional proteome",
     "abstract": "Each stage of the Central Dogma contributes to proteome diversity through mechanisms such as heterozygosity, somatic mutations, transcriptional errors, and translational errors. As a result, a diverse array of protein variants can coexist within a single proteome, such as that of humans. However, until now, methods to detect, quantify, and evaluate the functional consequences of these variants have been lacking. Here we examined a large-scale proteogenomic dataset from 29 healthy human tissues and uncovered 13,910 confidently localized variants representing 7,215 unique single amino acid substitutions co-existing alongside their corresponding reference proteoforms 1.We found that the abundance of both genetic (SNP’s, somatic mutations) and mistranslated protein variants mirrors their allele frequencies in the human population. Moreover, we show that non-genetic substitutions may provide a distinct route for exploring protein sequence space, circumventing the mutational constraints imposed by the genetic code. In addition, we provide experimental validation of non-genetic substitution on selected purified proteins. We demonstrate specific and recurring non-genetic variation patterns upon amino acid starvation in proteome-wide analyses of cancer-derived cell lines and identify hundreds of substituted non-genetic proteoforms that recur consistently in multiple healthy individuals or map to annotated protein functional sites. We propose that these substitutions constitute a novel class of functional protein phenotypic variants. Collectively, our findings indicate that non-genetic amino acid substitutions in human proteins provide an abundant source to expanding the functional proteome.",
     "image": "data:image/svg+xml;charset=utf-8,%0A%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23111827%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23374151%22/%3E%0A%20%20%20%20%3C/linearGradient%3E%0A%20%20%20%20%3Cfilter%20id%3D%22blur%22%3E%0A%20%20%20%20%20%20%3CfeGaussianBlur%20stdDeviation%3D%2230%22/%3E%0A%20%20%20%20%3C/filter%3E%0A%20%20%3C/defs%3E%0A%0A%20%20%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22url%28%23bg%29%22/%3E%0A%0A%20%20%3Ccircle%20cx%3D%221030%22%20cy%3D%22110%22%20r%3D%22170%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.18%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%20%20%3Ccircle%20cx%3D%22180%22%20cy%3D%22560%22%20r%3D%22150%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.16%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%0A%20%20%3Crect%20x%3D%2256%22%20y%3D%2252%22%20rx%3D%2218%22%20ry%3D%2218%22%20width%3D%22260%22%20height%3D%2254%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.08%29%22/%3E%0A%20%20%3Ctext%20x%3D%2284%22%20y%3D%2287%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2228%22%20fill%3D%22%23e5e7eb%22%3ENature%3C/text%3E%0A%0A%20%20%3Ctext%20x%3D%221010%22%20y%3D%22560%22%0A%20%20%20%20%20%20%20%20text-anchor%3D%22middle%22%0A%20%20%20%20%20%20%20%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%0A%20%20%20%20%20%20%20%20font-size%3D%22160%22%0A%20%20%20%20%20%20%20%20fill%3D%22%2360a5fa%22%0A%20%20%20%20%20%20%20%20opacity%3D%220.85%22%3E%0A%20%20%20%20%E2%80%A2%0A%20%20%3C/text%3E%0A%3C/svg%3E%0A",
-    "topic": "default",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
-    "title": "The roots of astrology, the mysterious nature of time and more: Books in brief",
-    "link": "https://www.nature.com/articles/d41586-026-02908-4",
-    "journal": "Nature",
-    "source_type": "journal",
-    "date": "2026-09-14",
-    "summary": "Nature, Published online: 14 September 2026; doi:10.1038/d41586-026-02908-4 Andrew Robinson reviews five of the best science picks.",
-    "abstract": "Nature, Published online: 14 September 2026; doi:10.1038/d41586-026-02908-4 Andrew Robinson reviews five of the best science picks.",
-    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-02908-4/d41586-026-02908-4_53151692.jpg",
-    "topic": "default",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
-    "title": "How is climate change affecting conifers and their ability to sequester carbon?",
-    "link": "https://www.nature.com/articles/d41586-026-02847-0",
-    "journal": "Nature",
-    "source_type": "journal",
-    "date": "2026-09-14",
-    "summary": "Nature, Published online: 14 September 2026; doi:10.1038/d41586-026-02847-0 Fresh evidence reveals that the interplay of several factors could affect the ability of these trees to grow.",
-    "abstract": "Nature, Published online: 14 September 2026; doi:10.1038/d41586-026-02847-0 Fresh evidence reveals that the interplay of several factors could affect the ability of these trees to grow.",
-    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-02847-0/d41586-026-02847-0_53690528.jpg",
-    "topic": "default",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
-    "title": "The pet trade puts reptiles and amphibians at risk: close legal gaps now",
-    "link": "https://www.nature.com/articles/d41586-026-02852-3",
-    "journal": "Nature",
-    "source_type": "journal",
-    "date": "2026-09-14",
-    "summary": "Nature, Published online: 14 September 2026; doi:10.1038/d41586-026-02852-3 Patchy legislation means that animals are routinely taken from their natural habitats and sold in other countries. Fresh national and international measures could help to stop this exploitation.",
-    "abstract": "Nature, Published online: 14 September 2026; doi:10.1038/d41586-026-02852-3 Patchy legislation means that animals are routinely taken from their natural habitats and sold in other countries. Fresh national and international measures could help to stop this exploitation.",
-    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-02852-3/d41586-026-02852-3_53696598.jpg",
     "topic": "default",
     "topic_color": "#60a5fa",
     "priority_score": 0
@@ -394,7 +446,7 @@
     "link": "https://www.science.org/content/article/chilling-warning-or-overreaction-ai-bioweapons-report-divides-experts",
     "journal": "Science",
     "source_type": "journal",
-    "date": "2026-09-13T10:40:00Z",
+    "date": "2026-09-13T04:40:00Z",
     "summary": "Anthropic describes five cases where scientists in unnamed countries tried to use its Claude software for potentially nefarious work on viruses or toxins",
     "abstract": "Anthropic describes five cases where scientists in unnamed countries tried to use its Claude software for potentially nefarious work on viruses or toxins",
     "image": "data:image/svg+xml;charset=utf-8,%0A%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23111827%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23374151%22/%3E%0A%20%20%20%20%3C/linearGradient%3E%0A%20%20%20%20%3Cfilter%20id%3D%22blur%22%3E%0A%20%20%20%20%20%20%3CfeGaussianBlur%20stdDeviation%3D%2230%22/%3E%0A%20%20%20%20%3C/filter%3E%0A%20%20%3C/defs%3E%0A%0A%20%20%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22url%28%23bg%29%22/%3E%0A%0A%20%20%3Ccircle%20cx%3D%221030%22%20cy%3D%22110%22%20r%3D%22170%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.18%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%20%20%3Ccircle%20cx%3D%22180%22%20cy%3D%22560%22%20r%3D%22150%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.16%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%0A%20%20%3Crect%20x%3D%2256%22%20y%3D%2252%22%20rx%3D%2218%22%20ry%3D%2218%22%20width%3D%22260%22%20height%3D%2254%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.08%29%22/%3E%0A%20%20%3Ctext%20x%3D%2284%22%20y%3D%2287%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2228%22%20fill%3D%22%23e5e7eb%22%3EScience%3C/text%3E%0A%0A%20%20%3Ctext%20x%3D%221010%22%20y%3D%22560%22%0A%20%20%20%20%20%20%20%20text-anchor%3D%22middle%22%0A%20%20%20%20%20%20%20%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%0A%20%20%20%20%20%20%20%20font-size%3D%22160%22%0A%20%20%20%20%20%20%20%20fill%3D%22%2360a5fa%22%0A%20%20%20%20%20%20%20%20opacity%3D%220.85%22%3E%0A%20%20%20%20%E2%80%A2%0A%20%20%3C/text%3E%0A%3C/svg%3E%0A",
@@ -411,19 +463,6 @@
     "summary": "Nature Medicine, Published online: 13 September 2026; doi:10.1038/s41591-026-04587-0 A study shows that integrating numerous multimodal, patient-level biomarkers enhances the prediction of cancer immunotherapy response, but generalizability is still a challenge.",
     "abstract": "Nature Medicine, Published online: 13 September 2026; doi:10.1038/s41591-026-04587-0 A study shows that integrating numerous multimodal, patient-level biomarkers enhances the prediction of cancer immunotherapy response, but generalizability is still a challenge.",
     "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41591-026-04587-0/MediaObjects/41591_2026_4587_Fig1_HTML.png",
-    "topic": "default",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
-    "title": "Clinical usability of an explainable AI decision support tool and evaluation of multimodal models in NSCLC",
-    "link": "https://www.nature.com/articles/s41591-026-04488-2",
-    "journal": "Nature Medicine",
-    "source_type": "journal",
-    "date": "2026-09-13",
-    "summary": "Nature Medicine, Published online: 13 September 2026; doi:10.1038/s41591-026-04488-2 In a large international real-world study of non-small cell lung cancer, a multimodal explainable AI model outperformed established biomarkers for immunotherapy outcome prediction and improved physician decision-making.",
-    "abstract": "Nature Medicine, Published online: 13 September 2026; doi:10.1038/s41591-026-04488-2 In a large international real-world study of non-small cell lung cancer, a multimodal explainable AI model outperformed established biomarkers for immunotherapy outcome prediction and improved physician decision-making.",
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41591-026-04488-2/MediaObjects/41591_2026_4488_Fig1_HTML.png",
     "topic": "default",
     "topic_color": "#60a5fa",
     "priority_score": 0
@@ -490,45 +529,6 @@
     "abstract": "Nature Neuroscience, Published online: 11 September 2026; doi:10.1038/s41593-026-02415-9 Frontal cortical tau pathology in aging humans is associated with reduced slow-wave travel during sleep. This reduced propagation is associated with poorer overnight memory retention, supporting a link between slow-wave travel and age-related memory function.",
     "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41593-026-02415-9/MediaObjects/41593_2026_2415_Fig1_HTML.png",
     "topic": "neuroscience",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
-    "title": "A global digital navigator of human health for precision medicine",
-    "link": "https://www.nature.com/articles/s41591-026-04621-1",
-    "journal": "Nature Medicine",
-    "source_type": "journal",
-    "date": "2026-09-11",
-    "summary": "Nature Medicine, Published online: 11 September 2026; doi:10.1038/s41591-026-04621-1 The International Consortium of Digital Twins in Healthcare and Medicine was established to advance medical digital twin technology as a new infrastructure for precision health.",
-    "abstract": "Nature Medicine, Published online: 11 September 2026; doi:10.1038/s41591-026-04621-1 The International Consortium of Digital Twins in Healthcare and Medicine was established to advance medical digital twin technology as a new infrastructure for precision health.",
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41591-026-04621-1/MediaObjects/41591_2026_4621_Fig1_HTML.png",
-    "topic": "default",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
-    "title": "Physicists detect the tiny atomic collisions that give a gas its pressure",
-    "link": "https://www.science.org/content/article/physicists-detect-tiny-atomic-collisions-give-gas-its-pressure",
-    "journal": "Science",
-    "source_type": "journal",
-    "date": "2026-09-10T05:05:00Z",
-    "summary": "Twist on classic Brownian motion experiment could help test bounds of quantum theory and aid search for new particles",
-    "abstract": "Twist on classic Brownian motion experiment could help test bounds of quantum theory and aid search for new particles",
-    "image": "data:image/svg+xml;charset=utf-8,%0A%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23111827%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23374151%22/%3E%0A%20%20%20%20%3C/linearGradient%3E%0A%20%20%20%20%3Cfilter%20id%3D%22blur%22%3E%0A%20%20%20%20%20%20%3CfeGaussianBlur%20stdDeviation%3D%2230%22/%3E%0A%20%20%20%20%3C/filter%3E%0A%20%20%3C/defs%3E%0A%0A%20%20%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22url%28%23bg%29%22/%3E%0A%0A%20%20%3Ccircle%20cx%3D%221030%22%20cy%3D%22110%22%20r%3D%22170%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.18%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%20%20%3Ccircle%20cx%3D%22180%22%20cy%3D%22560%22%20r%3D%22150%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.16%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%0A%20%20%3Crect%20x%3D%2256%22%20y%3D%2252%22%20rx%3D%2218%22%20ry%3D%2218%22%20width%3D%22260%22%20height%3D%2254%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.08%29%22/%3E%0A%20%20%3Ctext%20x%3D%2284%22%20y%3D%2287%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2228%22%20fill%3D%22%23e5e7eb%22%3EScience%3C/text%3E%0A%0A%20%20%3Ctext%20x%3D%221010%22%20y%3D%22560%22%0A%20%20%20%20%20%20%20%20text-anchor%3D%22middle%22%0A%20%20%20%20%20%20%20%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%0A%20%20%20%20%20%20%20%20font-size%3D%22160%22%0A%20%20%20%20%20%20%20%20fill%3D%22%2360a5fa%22%0A%20%20%20%20%20%20%20%20opacity%3D%220.85%22%3E%0A%20%20%20%20%E2%80%A2%0A%20%20%3C/text%3E%0A%3C/svg%3E%0A",
-    "topic": "default",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
-    "title": "What science problem should AI tackle next? A new ‘challenge atlas’ offers answers",
-    "link": "https://www.science.org/content/article/what-science-problem-should-ai-tackle-next-new-challenge-atlas-offers-answers",
-    "journal": "Science",
-    "source_type": "journal",
-    "date": "2026-09-10T04:15:00Z",
-    "summary": "Four complex physics problems are now within AI’s reach, researchers say",
-    "abstract": "Four complex physics problems are now within AI’s reach, researchers say",
-    "image": "data:image/svg+xml;charset=utf-8,%0A%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23111827%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23374151%22/%3E%0A%20%20%20%20%3C/linearGradient%3E%0A%20%20%20%20%3Cfilter%20id%3D%22blur%22%3E%0A%20%20%20%20%20%20%3CfeGaussianBlur%20stdDeviation%3D%2230%22/%3E%0A%20%20%20%20%3C/filter%3E%0A%20%20%3C/defs%3E%0A%0A%20%20%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22url%28%23bg%29%22/%3E%0A%0A%20%20%3Ccircle%20cx%3D%221030%22%20cy%3D%22110%22%20r%3D%22170%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.18%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%20%20%3Ccircle%20cx%3D%22180%22%20cy%3D%22560%22%20r%3D%22150%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.16%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%0A%20%20%3Crect%20x%3D%2256%22%20y%3D%2252%22%20rx%3D%2218%22%20ry%3D%2218%22%20width%3D%22260%22%20height%3D%2254%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.08%29%22/%3E%0A%20%20%3Ctext%20x%3D%2284%22%20y%3D%2287%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2228%22%20fill%3D%22%23e5e7eb%22%3EScience%3C/text%3E%0A%0A%20%20%3Ctext%20x%3D%221010%22%20y%3D%22560%22%0A%20%20%20%20%20%20%20%20text-anchor%3D%22middle%22%0A%20%20%20%20%20%20%20%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%0A%20%20%20%20%20%20%20%20font-size%3D%22160%22%0A%20%20%20%20%20%20%20%20fill%3D%22%2360a5fa%22%0A%20%20%20%20%20%20%20%20opacity%3D%220.85%22%3E%0A%20%20%20%20%E2%80%A2%0A%20%20%3C/text%3E%0A%3C/svg%3E%0A",
-    "topic": "default",
     "topic_color": "#60a5fa",
     "priority_score": 0
   },
