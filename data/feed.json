@@ -104,6 +104,45 @@
     "priority_score": 29
   },
   {
+    "title": "Exclusive: New evidence for hidden chambers beyond Tutankhamun’s tomb",
+    "link": "https://www.nature.com/articles/d41586-026-02621-2",
+    "journal": "Nature",
+    "source_type": "journal",
+    "date": "2026-09-17",
+    "summary": "Nature, Published online: 17 September 2026; doi:10.1038/d41586-026-02621-2 Geophysical survey yields ‘tantalizing’ data that could point to Nefertiti’s burial place – but it’s too early to draw definitive conclusions.",
+    "abstract": "Nature, Published online: 17 September 2026; doi:10.1038/d41586-026-02621-2 Geophysical survey yields ‘tantalizing’ data that could point to Nefertiti’s burial place – but it’s too early to draw definitive conclusions.",
+    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-02621-2/d41586-026-02621-2_53718150.jpg",
+    "topic": "default",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
+    "title": "OpenAI maths bombshell sparks debate about who gets credit in age of AI",
+    "link": "https://www.nature.com/articles/d41586-026-02910-w",
+    "journal": "Nature",
+    "source_type": "journal",
+    "date": "2026-09-17",
+    "summary": "Nature, Published online: 17 September 2026; doi:10.1038/d41586-026-02910-w Controversy around OpenAI’s claim to have solved the Navier–Stokes problem highlights how researchers could be inadvertently sharing — and absorbing— ideas through chatbots.",
+    "abstract": "Nature, Published online: 17 September 2026; doi:10.1038/d41586-026-02910-w Controversy around OpenAI’s claim to have solved the Navier–Stokes problem highlights how researchers could be inadvertently sharing — and absorbing— ideas through chatbots.",
+    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-02910-w/d41586-026-02910-w_53713378.jpg",
+    "topic": "default",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
+    "title": "Levetiracetam therapeutically targets GABAergic synapses in diffuse midline glioma",
+    "link": "https://www.nature.com/articles/s41591-026-04646-6",
+    "journal": "Nature Medicine",
+    "source_type": "journal",
+    "date": "2026-09-17",
+    "summary": "Nature Medicine, Published online: 17 September 2026; doi:10.1038/s41591-026-04646-6 Results of this study show in experimental models and data from patient cohorts that the antiseizure medication levetiracetam is associated with longer survival and reduced tumor growth in diffuse midline glioma, but not hemispheric high-grade glioma, by selectively dampening GABAergic synaptic signaling, independently of its canonical SV2A-mediated primary antiseizure mechanism.",
+    "abstract": "Nature Medicine, Published online: 17 September 2026; doi:10.1038/s41591-026-04646-6 Results of this study show in experimental models and data from patient cohorts that the antiseizure medication levetiracetam is associated with longer survival and reduced tumor growth in diffuse midline glioma, but not hemispheric high-grade glioma, by selectively dampening GABAergic synaptic signaling, independently of its canonical SV2A-mediated primary antiseizure mechanism.",
+    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41591-026-04646-6/MediaObjects/41591_2026_4646_Fig1_HTML.png",
+    "topic": "default",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
     "title": "Human neurons flourish in mouse brains, offering a new view of neurodevelopmental disorders",
     "link": "https://www.science.org/content/article/human-neurons-flourish-mouse-brains-offering-new-view-neurodevelopmental-disorders",
     "journal": "Science",
@@ -242,32 +281,6 @@
     "summary": "Nature, Published online: 16 September 2026; doi:10.1038/s41586-026-11011-7 Absorption spectroscopy of thorium-229 nuclear excited states in a thorium-doped calcium fluoride crystal demonstrates a path towards a much more efficient way to build a highly stable and robust solid-state optical nuclear clock.",
     "abstract": "Nature, Published online: 16 September 2026; doi:10.1038/s41586-026-11011-7 Absorption spectroscopy of thorium-229 nuclear excited states in a thorium-doped calcium fluoride crystal demonstrates a path towards a much more efficient way to build a highly stable and robust solid-state optical nuclear clock.",
     "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-11011-7/MediaObjects/41586_2026_11011_Fig1_HTML.png",
-    "topic": "default",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
-    "title": "Mutational constraints on RSV F and its neutralization by antibodies",
-    "link": "https://www.nature.com/articles/s41586-026-11030-4",
-    "journal": "Nature",
-    "source_type": "journal",
-    "date": "2026-09-16",
-    "summary": "Nature, Published online: 16 September 2026; doi:10.1038/s41586-026-11030-4 How respiratory syncytial virus mutations affect antibody neutralization is defined, and a biophysical model of the mechanism is provided, to show how Fab potency and epitope specificity combine to determine the effects of viral mutations on antibody neutralization.",
-    "abstract": "Nature, Published online: 16 September 2026; doi:10.1038/s41586-026-11030-4 How respiratory syncytial virus mutations affect antibody neutralization is defined, and a biophysical model of the mechanism is provided, to show how Fab potency and epitope specificity combine to determine the effects of viral mutations on antibody neutralization.",
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-11030-4/MediaObjects/41586_2026_11030_Fig1_HTML.png",
-    "topic": "default",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
-    "title": "Evolution and heterogeneity of lethal metastatic bladder cancer subtypes",
-    "link": "https://www.nature.com/articles/s41586-026-11035-z",
-    "journal": "Nature",
-    "source_type": "journal",
-    "date": "2026-09-16",
-    "summary": "Nature, Published online: 16 September 2026; doi:10.1038/s41586-026-11035-z A rapid autopsy programme provides valuable resources to enable detailed molecular and genetic analyses of the temporal evolution of aggressive histological subtypes and therapy resistance in metastatic bladder cancer.",
-    "abstract": "Nature, Published online: 16 September 2026; doi:10.1038/s41586-026-11035-z A rapid autopsy programme provides valuable resources to enable detailed molecular and genetic analyses of the temporal evolution of aggressive histological subtypes and therapy resistance in metastatic bladder cancer.",
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-11035-z/MediaObjects/41586_2026_11035_Fig1_HTML.png",
     "topic": "default",
     "topic_color": "#60a5fa",
     "priority_score": 0
@@ -489,19 +502,6 @@
     "summary": "Nature Medicine, Published online: 15 September 2026; doi:10.1038/s41591-026-04644-8 In the phase 2 RIO trial, there was delayed viral rebound and resistance to broadly neutralizing antibodies 3BNC117-LS and 10-1074-LS in adult males living with HIV undergoing analytical treatment interruption, and initial reservoir sensitivity to autologous antibodies was associated with a longer time to rebound.",
     "abstract": "Nature Medicine, Published online: 15 September 2026; doi:10.1038/s41591-026-04644-8 In the phase 2 RIO trial, there was delayed viral rebound and resistance to broadly neutralizing antibodies 3BNC117-LS and 10-1074-LS in adult males living with HIV undergoing analytical treatment interruption, and initial reservoir sensitivity to autologous antibodies was associated with a longer time to rebound.",
     "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41591-026-04644-8/MediaObjects/41591_2026_4644_Fig1_HTML.png",
-    "topic": "default",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
-    "title": "Oral KRAS G12D inhibitor GFH375 for previously treated advanced solid tumors with <i>KRAS</i><sup>G12D</sup> mutations: a phase 1 trial",
-    "link": "https://www.nature.com/articles/s41591-026-04559-4",
-    "journal": "Nature Medicine",
-    "source_type": "journal",
-    "date": "2026-09-15",
-    "summary": "Nature Medicine, Published online: 15 September 2026; doi:10.1038/s41591-026-04559-4 In a phase 1 trial evaluating GFH375, an oral, dual on–off binding KRAS G12D inhibitor, in patients with KRASG12D-mutated solid tumors, there was one treatment-related death, while most treatment-related adverse events were low-grade, and encouraging response rates were observed in non-small cell lung cancer and pancreatic cancer.",
-    "abstract": "Nature Medicine, Published online: 15 September 2026; doi:10.1038/s41591-026-04559-4 In a phase 1 trial evaluating GFH375, an oral, dual on–off binding KRAS G12D inhibitor, in patients with KRASG12D-mutated solid tumors, there was one treatment-related death, while most treatment-related adverse events were low-grade, and encouraging response rates were observed in non-small cell lung cancer and pancreatic cancer.",
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41591-026-04559-4/MediaObjects/41591_2026_4559_Fig1_HTML.png",
     "topic": "default",
     "topic_color": "#60a5fa",
     "priority_score": 0
