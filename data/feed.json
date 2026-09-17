@@ -1,5 +1,18 @@
 [
   {
+    "title": "Spatiotemporal single-cell profiling reveals T cell clonal dynamics and phenotypic plasticity in human graft-versus-host disease",
+    "link": "https://www.nature.com/articles/s41590-026-02631-2",
+    "journal": "Nature Immunology",
+    "source_type": "journal",
+    "date": "2026-09-17",
+    "summary": "Nature Immunology, Published online: 17 September 2026; doi:10.1038/s41590-026-02631-2 Shi et al. use a spatiotemporal framework to profile alloreactive T cells in humans undergoing hematopoietic cell transplantation and demonstrate how severe graft‑versus‑host disease is driven by tissue-resident memory programs that target intestinal stem cell niches.",
+    "abstract": "Nature Immunology, Published online: 17 September 2026; doi:10.1038/s41590-026-02631-2 Shi et al. use a spatiotemporal framework to profile alloreactive T cells in humans undergoing hematopoietic cell transplantation and demonstrate how severe graft‑versus‑host disease is driven by tissue-resident memory programs that target intestinal stem cell niches.",
+    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41590-026-02631-2/MediaObjects/41590_2026_2631_Fig1_HTML.png",
+    "topic": "Immunology",
+    "topic_color": "#60a5fa",
+    "priority_score": 133
+  },
+  {
     "title": "ANKRD11 deficiency reprograms CD8<sup>+</sup> T cell differentiation to enhance immunity in chronic infection and cancer",
     "link": "https://www.nature.com/articles/s41590-026-02652-x",
     "journal": "Nature Immunology",
@@ -52,19 +65,6 @@
     "priority_score": 120
   },
   {
-    "title": "Microbial adhesion promotes Piezo1 activation to initiate innate immunity",
-    "link": "https://www.nature.com/articles/s41590-026-02643-y",
-    "journal": "Nature Immunology",
-    "source_type": "journal",
-    "date": "2026-09-09",
-    "summary": "Nature Immunology, Published online: 09 September 2026; doi:10.1038/s41590-026-02643-y Granucci and colleagues identify microbial adhesion to myeloid cells as a critical initiating event that precedes engagement of pattern recognition receptors.",
-    "abstract": "How mammals mount an effective immune response against infectious agents remains unresolved. Here we identify microbial adhesion to myeloid cells as a critical initiating event that precedes pattern recognition receptor (PRR) engagement. Using a skin infection model with pathogenic bacteria and fungi, we demonstrate that neutrophil recruitment occurs in two sequential phases. The early phase is PRR-independent and instead driven by microbial adhesion, which engages the mechanosensitive ion channel Piezo1 to promote leukotriene (LT)B4 production. Together with interleukin-1α, LTB4 induces CXCL1 release, triggering neutrophil infiltration via the same circuit at play during sterile inflammation. By contrast, the late phase is toll-like receptor (TLR)- and CXCL2-dependent, marking a transition to the canonical, pathogen-driven response. Our findings uncover microbial adhesion as a previously unrecognized danger signal that activates innate immunity via mechanotransduction, revealing a paradigm of how immune responses to infection are initiated. Granucci and colleagues identify microbial adhesion to myeloid cells as a critical initiating event that precedes engagement of pattern recognition receptors.",
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41590-026-02643-y/MediaObjects/41590_2026_2643_Fig1_HTML.png",
-    "topic": "inflammation",
-    "topic_color": "#fb7185",
-    "priority_score": 82
-  },
-  {
     "title": "Inflection points and transitions in Alzheimer’s disease",
     "link": "https://www.nature.com/articles/s41586-026-11110-5",
     "journal": "Nature",
@@ -104,6 +104,45 @@
     "priority_score": 29
   },
   {
+    "title": "Author Correction: Genomic deletion of malic enzyme 2 confers collateral lethality in pancreatic cancer",
+    "link": "https://www.nature.com/articles/s41586-026-11134-x",
+    "journal": "Nature",
+    "source_type": "journal",
+    "date": "2026-09-17",
+    "summary": "Nature, Published online: 17 September 2026; doi:10.1038/s41586-026-11134-x Author Correction: Genomic deletion of malic enzyme 2 confers collateral lethality in pancreatic cancer",
+    "abstract": "Nature, Published online: 17 September 2026; doi:10.1038/s41586-026-11134-x Author Correction: Genomic deletion of malic enzyme 2 confers collateral lethality in pancreatic cancer",
+    "image": "data:image/svg+xml;charset=utf-8,%0A%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23111827%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23374151%22/%3E%0A%20%20%20%20%3C/linearGradient%3E%0A%20%20%20%20%3Cfilter%20id%3D%22blur%22%3E%0A%20%20%20%20%20%20%3CfeGaussianBlur%20stdDeviation%3D%2230%22/%3E%0A%20%20%20%20%3C/filter%3E%0A%20%20%3C/defs%3E%0A%0A%20%20%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22url%28%23bg%29%22/%3E%0A%0A%20%20%3Ccircle%20cx%3D%221030%22%20cy%3D%22110%22%20r%3D%22170%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.18%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%20%20%3Ccircle%20cx%3D%22180%22%20cy%3D%22560%22%20r%3D%22150%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.16%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%0A%20%20%3Crect%20x%3D%2256%22%20y%3D%2252%22%20rx%3D%2218%22%20ry%3D%2218%22%20width%3D%22260%22%20height%3D%2254%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.08%29%22/%3E%0A%20%20%3Ctext%20x%3D%2284%22%20y%3D%2287%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2228%22%20fill%3D%22%23e5e7eb%22%3ENature%3C/text%3E%0A%0A%20%20%3Ctext%20x%3D%221010%22%20y%3D%22560%22%0A%20%20%20%20%20%20%20%20text-anchor%3D%22middle%22%0A%20%20%20%20%20%20%20%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%0A%20%20%20%20%20%20%20%20font-size%3D%22160%22%0A%20%20%20%20%20%20%20%20fill%3D%22%2360a5fa%22%0A%20%20%20%20%20%20%20%20opacity%3D%220.85%22%3E%0A%20%20%20%20%E2%80%A2%0A%20%20%3C/text%3E%0A%3C/svg%3E%0A",
+    "topic": "default",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
+    "title": "Schoolhouse meals serve up an income bump",
+    "link": "https://www.nature.com/articles/d41586-026-02896-5",
+    "journal": "Nature",
+    "source_type": "journal",
+    "date": "2026-09-17",
+    "summary": "Nature, Published online: 17 September 2026; doi:10.1038/d41586-026-02896-5 Modelling shows a link between feeding programmes and higher potential earning in five African nations.",
+    "abstract": "Nature, Published online: 17 September 2026; doi:10.1038/d41586-026-02896-5 Modelling shows a link between feeding programmes and higher potential earning in five African nations.",
+    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-02896-5/d41586-026-02896-5_53717708.jpg",
+    "topic": "default",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
+    "title": "How fast are you ageing? Ask AI",
+    "link": "https://www.nature.com/articles/d41586-026-02913-7",
+    "journal": "Nature",
+    "source_type": "journal",
+    "date": "2026-09-17",
+    "summary": "Nature, Published online: 17 September 2026; doi:10.1038/d41586-026-02913-7 A new system will help scientists to refine large language models for longevity research and clarify ‘biological’ age.",
+    "abstract": "Nature, Published online: 17 September 2026; doi:10.1038/d41586-026-02913-7 A new system will help scientists to refine large language models for longevity research and clarify ‘biological’ age.",
+    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-02913-7/d41586-026-02913-7_53723354.jpg",
+    "topic": "default",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
     "title": "Exclusive: New evidence for hidden chambers beyond Tutankhamun’s tomb",
     "link": "https://www.nature.com/articles/d41586-026-02621-2",
     "journal": "Nature",
@@ -117,7 +156,20 @@
     "priority_score": 0
   },
   {
-    "title": "OpenAI maths bombshell sparks debate about who gets credit in age of AI",
+    "title": "Take a risk or play it safe? Neuronal tug-of-war helps the brain decide",
+    "link": "https://www.nature.com/articles/d41586-026-02911-9",
+    "journal": "Nature",
+    "source_type": "journal",
+    "date": "2026-09-17",
+    "summary": "Nature, Published online: 17 September 2026; doi:10.1038/d41586-026-02911-9 Using a video game involving bombs and treasure chests, researchers show how neural activity flickers between two regions of the frontal cortex when the brain weighs up a tricky decision.",
+    "abstract": "Nature, Published online: 17 September 2026; doi:10.1038/d41586-026-02911-9 Using a video game involving bombs and treasure chests, researchers show how neural activity flickers between two regions of the frontal cortex when the brain weighs up a tricky decision.",
+    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-02911-9/d41586-026-02911-9_53728314.jpg",
+    "topic": "default",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
+    "title": "Who gets credit in the AI era? OpenAI maths bombshell sparks debate",
     "link": "https://www.nature.com/articles/d41586-026-02910-w",
     "journal": "Nature",
     "source_type": "journal",
@@ -229,58 +281,6 @@
     "summary": "Nature, Published online: 16 September 2026; doi:10.1038/s41586-026-11032-2 Xenocortication with human neurons enables circuit- and behaviour-level analysis of neurodevelopment in mice.",
     "abstract": "The inaccessibility of human brain tissue limits the study of human development and function, a challenge that human stem-cell-derived neural models are beginning to address1,2. Transplantation of neural organoids into rodent hosts enables the in vivo study of aspects of human neurodevelopment and circuit function, alongside behavioural phenotyping of the host animals. However, spatial limitations and competition with host circuits constrain the integration of neural organoids, which is critical for studying disease. Here we establish a transplantation platform using a genetic strategy to effectively deplete glutamatergic neurons from mouse neocortex and hippocampus (apallial) and neonatally engraft the cortical cavity with human stem-cell-derived cortical organoids (hCO) to generate xenocortical mice. This leads to robust graft growth with hCOs occupying most of the cortical volume and generating a diversity of human cortical cell types, including layer 5 extratelencephalic projection neurons. Human cortical neurons integrate with the mouse nervous system, and in vivo cortical graft-wide calcium imaging and electrophysiological analyses revealed patterns of organized activity resembling developing circuits. Behavioural analyses of apallial and xenocortical mice revealed broadly preserved locomotion alongside selective differences in limb coordination and altered organization of spontaneous behaviour. Lastly, this platform enabled behavioural readouts in a model of injury to developing human cortical cells. We envision that xenocortication will be useful for obtaining circuit- and behaviour-level readouts using human neurons to study neurodevelopment, model disease and develop therapeutics. Xenocortication with human neurons enables circuit- and behaviour-level analysis of neurodevelopment in mice.",
     "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-11032-2/MediaObjects/41586_2026_11032_Fig1_HTML.png",
-    "topic": "default",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
-    "title": "Mitochondrial fission factor senses and governs ferroptosis",
-    "link": "https://www.nature.com/articles/s41586-026-11020-6",
-    "journal": "Nature",
-    "source_type": "journal",
-    "date": "2026-09-16",
-    "summary": "Nature, Published online: 16 September 2026; doi:10.1038/s41586-026-11020-6 The mitochondrial–peroxisomal fission adaptor MFF is identified as a selective pro-ferroptotic mediator, and the newly developed MFF–SPARK sensor enables high-content screening of ferroptosis-sensitizing compounds and the discovery of upstream regulators of MFF.",
-    "abstract": "Nature, Published online: 16 September 2026; doi:10.1038/s41586-026-11020-6 The mitochondrial–peroxisomal fission adaptor MFF is identified as a selective pro-ferroptotic mediator, and the newly developed MFF–SPARK sensor enables high-content screening of ferroptosis-sensitizing compounds and the discovery of upstream regulators of MFF.",
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-11020-6/MediaObjects/41586_2026_11020_Fig1_HTML.png",
-    "topic": "default",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
-    "title": "Reimagining research papers as interactive and reliable AI agents",
-    "link": "https://www.nature.com/articles/s41586-026-11044-y",
-    "journal": "Nature",
-    "source_type": "journal",
-    "date": "2026-09-16",
-    "summary": "Nature, Published online: 16 September 2026; doi:10.1038/s41586-026-11044-y Paper2Agent converts research papers into interactive artificial intelligence agents by turning manuscripts, code and data into model context protocol-based tool-invoking systems that reproduce original results, answer new scientific queries and collaborate to generate novel insights.",
-    "abstract": "Nature, Published online: 16 September 2026; doi:10.1038/s41586-026-11044-y Paper2Agent converts research papers into interactive artificial intelligence agents by turning manuscripts, code and data into model context protocol-based tool-invoking systems that reproduce original results, answer new scientific queries and collaborate to generate novel insights.",
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-11044-y/MediaObjects/41586_2026_11044_Fig1_HTML.png",
-    "topic": "default",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
-    "title": "Electroluminescent photoresists extending lithographic scaling to OLEDs",
-    "link": "https://www.nature.com/articles/s41586-026-11042-0",
-    "journal": "Nature",
-    "source_type": "journal",
-    "date": "2026-09-16",
-    "summary": "Nature, Published online: 16 September 2026; doi:10.1038/s41586-026-11042-0 Electroluminescent photoresists synthesized via atom transfer radical polymerization can be directly patterned by ultraviolet and electron-beam lithography, and used to fabricate monolithic, multicolour organic-light-emitting-diode micro-pixel arrays.",
-    "abstract": "Nature, Published online: 16 September 2026; doi:10.1038/s41586-026-11042-0 Electroluminescent photoresists synthesized via atom transfer radical polymerization can be directly patterned by ultraviolet and electron-beam lithography, and used to fabricate monolithic, multicolour organic-light-emitting-diode micro-pixel arrays.",
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-11042-0/MediaObjects/41586_2026_11042_Fig1_HTML.png",
-    "topic": "default",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
-    "title": "Continuous-wave laser absorption spectroscopy of the thorium-229 nucleus",
-    "link": "https://www.nature.com/articles/s41586-026-11011-7",
-    "journal": "Nature",
-    "source_type": "journal",
-    "date": "2026-09-16",
-    "summary": "Nature, Published online: 16 September 2026; doi:10.1038/s41586-026-11011-7 Absorption spectroscopy of thorium-229 nuclear excited states in a thorium-doped calcium fluoride crystal demonstrates a path towards a much more efficient way to build a highly stable and robust solid-state optical nuclear clock.",
-    "abstract": "Nature, Published online: 16 September 2026; doi:10.1038/s41586-026-11011-7 Absorption spectroscopy of thorium-229 nuclear excited states in a thorium-doped calcium fluoride crystal demonstrates a path towards a much more efficient way to build a highly stable and robust solid-state optical nuclear clock.",
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-11011-7/MediaObjects/41586_2026_11011_Fig1_HTML.png",
     "topic": "default",
     "topic_color": "#60a5fa",
     "priority_score": 0
