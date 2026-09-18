@@ -91,6 +91,19 @@
     "priority_score": 50
   },
   {
+    "title": "Cognitive resilience helps to predict Alzheimer’s dementia",
+    "link": "https://www.nature.com/articles/d41586-026-02897-4",
+    "journal": "Nature",
+    "source_type": "journal",
+    "date": "2026-09-18",
+    "summary": "Nature, Published online: 18 September 2026; doi:10.1038/d41586-026-02897-4 The trait could explain why symptoms vary in severity between people with similar brain pathology.",
+    "abstract": "Nature, Published online: 18 September 2026; doi:10.1038/d41586-026-02897-4 The trait could explain why symptoms vary in severity between people with similar brain pathology.",
+    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-02897-4/d41586-026-02897-4_53717650.jpg",
+    "topic": "neurodegeneration",
+    "topic_color": "#fda4af",
+    "priority_score": 45
+  },
+  {
     "title": "The overlooked plasticity of monocytes in uterine homeostasis",
     "link": "https://www.nature.com/articles/s41590-026-02658-5",
     "journal": "Nature Immunology",
@@ -102,6 +115,19 @@
     "topic": "inflammation",
     "topic_color": "#fb7185",
     "priority_score": 29
+  },
+  {
+    "title": "Chinese companies doubled down on science after US tech restrictions",
+    "link": "https://www.nature.com/articles/d41586-026-02946-y",
+    "journal": "Nature",
+    "source_type": "journal",
+    "date": "2026-09-18",
+    "summary": "Nature, Published online: 18 September 2026; doi:10.1038/d41586-026-02946-y Affected Chinese companies adjusted their sources of knowledge to stay competitive.",
+    "abstract": "Nature, Published online: 18 September 2026; doi:10.1038/d41586-026-02946-y Affected Chinese companies adjusted their sources of knowledge to stay competitive.",
+    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-02946-y/d41586-026-02946-y_53727804.jpg",
+    "topic": "default",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
   },
   {
     "title": "As forests burn, can we replant trees ready for a warmer world?",
@@ -281,32 +307,6 @@
     "summary": "Nature, Published online: 16 September 2026; doi:10.1038/s41586-026-11123-0 Mechanisms of Transcriptional Regulation by Salicylic Acid Receptors",
     "abstract": "Salicylic acid (SA) is a key phytohormone that activates plant defense responses 1-3. In Arabidopsis, NPR1 (also known as NIM1) and NPR3/NPR4 have been identified as dual SA receptors responsible for perceiving SA 4-6. However, the mechanisms of how SA binding to the NPR proteins leads to induction of defense gene expression remain unclear. Here, we elucidate how SA triggers transcriptional activation via NPR1 and relieves transcriptional repression mediated by NPR3/NPR4. We identified Mediator Complex Subunit 15A (MED15A) as a bridge between NPR1 and the Mediator complex governing transcription. SA induces direct interaction of NPR1 with MED15A. Structural and functional analysis showed that the binding of NPR1 to MED15A is essential for NPR1-mediated transcriptional activation. Meanwhile, SA relieves transcriptional repression mediated by NPR3/NPR4. NIM1-interacting 1 (NIMIN1) interacts with NPR3/NPR4 and the Topless (TPL) co-repressor, connecting them to Polycomb Repressive Complex 2 (PRC2) to mediate H3K27 trimethylation of SA-responsive genes. SA inhibits the interactions between NPR3/NPR4 and NIMIN1, reduces H3K27 trimethylation levels and increases histone acetylation of the target genes to release NPR3/NPR4-mediated repression. Our study offers a comprehensive view of SA-mediated defense gene activation. These findings lay a foundation for designing more effective SA analogs as agrochemicals and for engineering crop resistance by manipulating SA perception and signaling.",
     "image": "data:image/svg+xml;charset=utf-8,%0A%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23111827%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23374151%22/%3E%0A%20%20%20%20%3C/linearGradient%3E%0A%20%20%20%20%3Cfilter%20id%3D%22blur%22%3E%0A%20%20%20%20%20%20%3CfeGaussianBlur%20stdDeviation%3D%2230%22/%3E%0A%20%20%20%20%3C/filter%3E%0A%20%20%3C/defs%3E%0A%0A%20%20%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22url%28%23bg%29%22/%3E%0A%0A%20%20%3Ccircle%20cx%3D%221030%22%20cy%3D%22110%22%20r%3D%22170%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.18%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%20%20%3Ccircle%20cx%3D%22180%22%20cy%3D%22560%22%20r%3D%22150%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.16%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%0A%20%20%3Crect%20x%3D%2256%22%20y%3D%2252%22%20rx%3D%2218%22%20ry%3D%2218%22%20width%3D%22260%22%20height%3D%2254%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.08%29%22/%3E%0A%20%20%3Ctext%20x%3D%2284%22%20y%3D%2287%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2228%22%20fill%3D%22%23e5e7eb%22%3ENature%3C/text%3E%0A%0A%20%20%3Ctext%20x%3D%221010%22%20y%3D%22560%22%0A%20%20%20%20%20%20%20%20text-anchor%3D%22middle%22%0A%20%20%20%20%20%20%20%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%0A%20%20%20%20%20%20%20%20font-size%3D%22160%22%0A%20%20%20%20%20%20%20%20fill%3D%22%2360a5fa%22%0A%20%20%20%20%20%20%20%20opacity%3D%220.85%22%3E%0A%20%20%20%20%E2%80%A2%0A%20%20%3C/text%3E%0A%3C/svg%3E%0A",
-    "topic": "default",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
-    "title": "Why most  stars don’t have outbursts like our Sun’s",
-    "link": "https://www.nature.com/articles/d41586-026-02833-6",
-    "journal": "Nature",
-    "source_type": "journal",
-    "date": "2026-09-16",
-    "summary": "Nature, Published online: 16 September 2026; doi:10.1038/d41586-026-02833-6 A strong magnetic field can disrupt a star’s ability to produce the fountains of matter called coronal mass ejections.",
-    "abstract": "Nature, Published online: 16 September 2026; doi:10.1038/d41586-026-02833-6 A strong magnetic field can disrupt a star’s ability to produce the fountains of matter called coronal mass ejections.",
-    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-02833-6/d41586-026-02833-6_53413902.jpg",
-    "topic": "default",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
-    "title": "Transplanted human brain-tissue takes root in mice without a cortex",
-    "link": "https://www.nature.com/articles/d41586-026-02927-1",
-    "journal": "Nature",
-    "source_type": "journal",
-    "date": "2026-09-16",
-    "summary": "Nature, Published online: 16 September 2026; doi:10.1038/d41586-026-02927-1 Extensive cellular integration might provide platform for in vivo testing of new therapies — plus, the AI tool that turns papers into ‘virtual corresponding authors’.",
-    "abstract": "Nature, Published online: 16 September 2026; doi:10.1038/d41586-026-02927-1 Extensive cellular integration might provide platform for in vivo testing of new therapies — plus, the AI tool that turns papers into ‘virtual corresponding authors’.",
-    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-02927-1/d41586-026-02927-1_53723296.jpg",
     "topic": "default",
     "topic_color": "#60a5fa",
     "priority_score": 0
