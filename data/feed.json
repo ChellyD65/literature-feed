@@ -104,6 +104,19 @@
     "priority_score": 29
   },
   {
+    "title": "Briefing Chat: Evidence mounts for hidden chambers beyond Tutankhamun's tomb",
+    "link": "https://www.nature.com/articles/d41586-026-02984-6",
+    "journal": "Nature",
+    "source_type": "journal",
+    "date": "2026-09-18",
+    "summary": "Nature, Published online: 18 September 2026; doi:10.1038/d41586-026-02984-6 Nature staff discuss data that could point to Nefertiti’s burial place — plus, the implant that translates brain activity into speech and gestures.",
+    "abstract": "Nature, Published online: 18 September 2026; doi:10.1038/d41586-026-02984-6 Nature staff discuss data that could point to Nefertiti’s burial place — plus, the implant that translates brain activity into speech and gestures.",
+    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-02984-6/d41586-026-02984-6_53732888.jpg",
+    "topic": "default",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
     "title": "Europe pushes for space independence amid geopolitical rifts",
     "link": "https://www.nature.com/articles/d41586-026-02919-1",
     "journal": "Nature",
@@ -138,6 +151,32 @@
     "summary": "Nature, Published online: 18 September 2026; doi:10.1038/d41586-026-02945-z Gene-targeting treatments could be used to treat other people with rare forms of amyotrophic lateral sclerosis (ALS).",
     "abstract": "Nature, Published online: 18 September 2026; doi:10.1038/d41586-026-02945-z Gene-targeting treatments could be used to treat other people with rare forms of amyotrophic lateral sclerosis (ALS).",
     "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-02945-z/d41586-026-02945-z_53727942.jpg",
+    "topic": "default",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
+    "title": "How to make a brain: new experiments challenge existing picture",
+    "link": "https://www.nature.com/articles/d41586-026-02943-1",
+    "journal": "Nature",
+    "source_type": "journal",
+    "date": "2026-09-18",
+    "summary": "Nature, Published online: 18 September 2026; doi:10.1038/d41586-026-02943-1 Research also uncovers an efficient way to grow hindbrain cells from stem cells — a difficult feat.",
+    "abstract": "Nature, Published online: 18 September 2026; doi:10.1038/d41586-026-02943-1 Research also uncovers an efficient way to grow hindbrain cells from stem cells — a difficult feat.",
+    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-02943-1/d41586-026-02943-1_53728306.jpg",
+    "topic": "default",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
+    "title": "AI cracked the Navier–Stokes challenge. What does that mean for physics?",
+    "link": "https://www.nature.com/articles/d41586-026-02922-6",
+    "journal": "Nature",
+    "source_type": "journal",
+    "date": "2026-09-18",
+    "summary": "Nature, Published online: 18 September 2026; doi:10.1038/d41586-026-02922-6 Physicists and mathematicians are going beyond the classic equations of fluid dynamics to understand turbulence — often with the help of AI.",
+    "abstract": "Nature, Published online: 18 September 2026; doi:10.1038/d41586-026-02922-6 Physicists and mathematicians are going beyond the classic equations of fluid dynamics to understand turbulence — often with the help of AI.",
+    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-02922-6/d41586-026-02922-6_53732854.jpg",
     "topic": "default",
     "topic_color": "#60a5fa",
     "priority_score": 0
@@ -294,45 +333,6 @@
     "summary": "Nature, Published online: 17 September 2026; doi:10.1038/d41586-026-02913-7 A new system will help scientists to refine large language models for longevity research and clarify ‘biological’ age.",
     "abstract": "Nature, Published online: 17 September 2026; doi:10.1038/d41586-026-02913-7 A new system will help scientists to refine large language models for longevity research and clarify ‘biological’ age.",
     "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-02913-7/d41586-026-02913-7_53723354.jpg",
-    "topic": "default",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
-    "title": "Exclusive: New evidence for hidden chambers beyond Tutankhamun’s tomb",
-    "link": "https://www.nature.com/articles/d41586-026-02621-2",
-    "journal": "Nature",
-    "source_type": "journal",
-    "date": "2026-09-17",
-    "summary": "Nature, Published online: 17 September 2026; doi:10.1038/d41586-026-02621-2 Geophysical survey yields ‘tantalizing’ data that could point to Nefertiti’s burial place — but it’s too early to draw definitive conclusions.",
-    "abstract": "Nature, Published online: 17 September 2026; doi:10.1038/d41586-026-02621-2 Geophysical survey yields ‘tantalizing’ data that could point to Nefertiti’s burial place — but it’s too early to draw definitive conclusions.",
-    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-02621-2/d41586-026-02621-2_53718150.jpg",
-    "topic": "default",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
-    "title": "Take a risk or play it safe? Neuronal tug-of-war helps the brain decide",
-    "link": "https://www.nature.com/articles/d41586-026-02911-9",
-    "journal": "Nature",
-    "source_type": "journal",
-    "date": "2026-09-17",
-    "summary": "Nature, Published online: 17 September 2026; doi:10.1038/d41586-026-02911-9 Using a video game involving bombs and treasure chests, researchers show how neural activity flickers between two regions of the frontal cortex when the brain weighs up a tricky decision.",
-    "abstract": "Nature, Published online: 17 September 2026; doi:10.1038/d41586-026-02911-9 Using a video game involving bombs and treasure chests, researchers show how neural activity flickers between two regions of the frontal cortex when the brain weighs up a tricky decision.",
-    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-02911-9/d41586-026-02911-9_53728314.jpg",
-    "topic": "default",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
-    "title": "How a team of AIs discovered a promising lung-cancer drug",
-    "link": "https://www.nature.com/articles/d41586-026-02954-y",
-    "journal": "Nature",
-    "source_type": "journal",
-    "date": "2026-09-17",
-    "summary": "Nature, Published online: 17 September 2026; doi:10.1038/d41586-026-02954-y Researchers developed a ‘virtual biotech’ made up of as many as 37,000 agents reporting to an 'chief scientist'.",
-    "abstract": "Nature, Published online: 17 September 2026; doi:10.1038/d41586-026-02954-y Researchers developed a ‘virtual biotech’ made up of as many as 37,000 agents reporting to an 'chief scientist'.",
-    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-02954-y/d41586-026-02954-y_53728366.jpg",
     "topic": "default",
     "topic_color": "#60a5fa",
     "priority_score": 0
