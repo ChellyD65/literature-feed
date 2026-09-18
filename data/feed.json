@@ -65,19 +65,6 @@
     "priority_score": 120
   },
   {
-    "title": "Inflection points and transitions in Alzheimer’s disease",
-    "link": "https://www.nature.com/articles/s41586-026-11110-5",
-    "journal": "Nature",
-    "source_type": "journal",
-    "date": "2026-09-16",
-    "summary": "Nature, Published online: 16 September 2026; doi:10.1038/s41586-026-11110-5 Inflection points and transitions in Alzheimer’s disease",
-    "abstract": "Alzheimer’s disease is widely depicted as a linear cascade from amyloid-β accumulation to Tau pathology and neurodegeneration. We propose instead that the disease unfolds through discrete molecular, cellular and network phases organized around biological inflection points. At these thresholds, stress-driven loss of homeostasis produces qualitative shifts in cellular behavior that alters disease progression. These altered states spread across local tissue-domains, accumulate as a mosaic across the brain, and progressively engage vulnerable centres of information processing that control cognitive performance. The induction of amyloid-associated Tau phosphorylation marks a pivotal inflection point, separating amyloid-dominated tissue states from domains in which neuronal Tau stress responses have emerged. This framework helps reconcile the dissociation between pathology and symptoms, clarifies the shared architecture of familial and sporadic disease and reframes Alzheimer’s disease as a disorder shaped by biological thresholds, timing, and progressive erosion of homeostatic resilience.",
-    "image": "data:image/svg+xml;charset=utf-8,%0A%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%2327272a%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2352525b%22/%3E%0A%20%20%20%20%3C/linearGradient%3E%0A%20%20%20%20%3Cfilter%20id%3D%22blur%22%3E%0A%20%20%20%20%20%20%3CfeGaussianBlur%20stdDeviation%3D%2230%22/%3E%0A%20%20%20%20%3C/filter%3E%0A%20%20%3C/defs%3E%0A%0A%20%20%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22url%28%23bg%29%22/%3E%0A%0A%20%20%3Ccircle%20cx%3D%221030%22%20cy%3D%22110%22%20r%3D%22170%22%20fill%3D%22%23fda4af%22%20opacity%3D%220.18%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%20%20%3Ccircle%20cx%3D%22180%22%20cy%3D%22560%22%20r%3D%22150%22%20fill%3D%22%23fda4af%22%20opacity%3D%220.16%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%0A%20%20%3Crect%20x%3D%2256%22%20y%3D%2252%22%20rx%3D%2218%22%20ry%3D%2218%22%20width%3D%22260%22%20height%3D%2254%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.08%29%22/%3E%0A%20%20%3Ctext%20x%3D%2284%22%20y%3D%2287%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2228%22%20fill%3D%22%23e5e7eb%22%3ENature%3C/text%3E%0A%0A%20%20%3Ctext%20x%3D%221010%22%20y%3D%22560%22%0A%20%20%20%20%20%20%20%20text-anchor%3D%22middle%22%0A%20%20%20%20%20%20%20%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%0A%20%20%20%20%20%20%20%20font-size%3D%22160%22%0A%20%20%20%20%20%20%20%20fill%3D%22%23fda4af%22%0A%20%20%20%20%20%20%20%20opacity%3D%220.85%22%3E%0A%20%20%20%20%E2%97%88%0A%20%20%3C/text%3E%0A%3C/svg%3E%0A",
-    "topic": "neurodegeneration",
-    "topic_color": "#fda4af",
-    "priority_score": 66
-  },
-  {
     "title": "Lasker~Bloomberg Public Service Award to Michael J. Fox: The challenge of Parkinson’s disease",
     "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2622460123?af=R",
     "journal": "PNAS",
@@ -117,6 +104,32 @@
     "priority_score": 29
   },
   {
+    "title": "Europe pushes for space independence amid geopolitical rifts",
+    "link": "https://www.nature.com/articles/d41586-026-02919-1",
+    "journal": "Nature",
+    "source_type": "journal",
+    "date": "2026-09-18",
+    "summary": "Nature, Published online: 18 September 2026; doi:10.1038/d41586-026-02919-1 The European Union is easing its reliance on US space infrastructure — and is seeking to grow its satellite and launch operations.",
+    "abstract": "Nature, Published online: 18 September 2026; doi:10.1038/d41586-026-02919-1 The European Union is easing its reliance on US space infrastructure — and is seeking to grow its satellite and launch operations.",
+    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-02919-1/d41586-026-02919-1_53717730.jpg",
+    "topic": "default",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
+    "title": "How research funding took me out of the lab and into leadership",
+    "link": "https://www.nature.com/articles/d41586-026-02184-2",
+    "journal": "Nature",
+    "source_type": "journal",
+    "date": "2026-09-18",
+    "summary": "Nature, Published online: 18 September 2026; doi:10.1038/d41586-026-02184-2 Landing two large grants caused Anna Sandak to take on a managerial role in her team and made her reflect on what it means to contribute to research.",
+    "abstract": "Nature, Published online: 18 September 2026; doi:10.1038/d41586-026-02184-2 Landing two large grants caused Anna Sandak to take on a managerial role in her team and made her reflect on what it means to contribute to research.",
+    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-02184-2/d41586-026-02184-2_53151940.jpg",
+    "topic": "default",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
     "title": "First for RNA therapy: man with rare motor-neuron disease improves after treatment",
     "link": "https://www.nature.com/articles/d41586-026-02945-z",
     "journal": "Nature",
@@ -124,7 +137,7 @@
     "date": "2026-09-18",
     "summary": "Nature, Published online: 18 September 2026; doi:10.1038/d41586-026-02945-z Gene-targeting treatments could be used to treat other people with rare forms of amyotrophic lateral sclerosis (ALS).",
     "abstract": "Nature, Published online: 18 September 2026; doi:10.1038/d41586-026-02945-z Gene-targeting treatments could be used to treat other people with rare forms of amyotrophic lateral sclerosis (ALS).",
-    "image": "data:image/svg+xml;charset=utf-8,%0A%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23111827%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23374151%22/%3E%0A%20%20%20%20%3C/linearGradient%3E%0A%20%20%20%20%3Cfilter%20id%3D%22blur%22%3E%0A%20%20%20%20%20%20%3CfeGaussianBlur%20stdDeviation%3D%2230%22/%3E%0A%20%20%20%20%3C/filter%3E%0A%20%20%3C/defs%3E%0A%0A%20%20%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22url%28%23bg%29%22/%3E%0A%0A%20%20%3Ccircle%20cx%3D%221030%22%20cy%3D%22110%22%20r%3D%22170%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.18%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%20%20%3Ccircle%20cx%3D%22180%22%20cy%3D%22560%22%20r%3D%22150%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.16%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%0A%20%20%3Crect%20x%3D%2256%22%20y%3D%2252%22%20rx%3D%2218%22%20ry%3D%2218%22%20width%3D%22260%22%20height%3D%2254%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.08%29%22/%3E%0A%20%20%3Ctext%20x%3D%2284%22%20y%3D%2287%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2228%22%20fill%3D%22%23e5e7eb%22%3ENature%3C/text%3E%0A%0A%20%20%3Ctext%20x%3D%221010%22%20y%3D%22560%22%0A%20%20%20%20%20%20%20%20text-anchor%3D%22middle%22%0A%20%20%20%20%20%20%20%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%0A%20%20%20%20%20%20%20%20font-size%3D%22160%22%0A%20%20%20%20%20%20%20%20fill%3D%22%2360a5fa%22%0A%20%20%20%20%20%20%20%20opacity%3D%220.85%22%3E%0A%20%20%20%20%E2%80%A2%0A%20%20%3C/text%3E%0A%3C/svg%3E%0A",
+    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-02945-z/d41586-026-02945-z_53727942.jpg",
     "topic": "default",
     "topic_color": "#60a5fa",
     "priority_score": 0
@@ -178,6 +191,32 @@
     "abstract": "Nature Neuroscience, Published online: 18 September 2026; doi:10.1038/s41593-026-02433-7 This study shows that the brain arises from two distinct progenitors: one forms the forebrain and midbrain, whereas the other generates the hindbrain. These insights enable the generation of human hindbrain motor neurons from pluripotent stem cells.",
     "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41593-026-02433-7/MediaObjects/41593_2026_2433_Fig1_HTML.png",
     "topic": "neuroscience",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
+    "title": "Editorial Expression of Concern: SWI/SNF-mutant cancers depend on catalytic and non-catalytic activity of EZH2",
+    "link": "https://www.nature.com/articles/s41591-026-04708-9",
+    "journal": "Nature Medicine",
+    "source_type": "journal",
+    "date": "2026-09-18",
+    "summary": "Nature Medicine, Published online: 18 September 2026; doi:10.1038/s41591-026-04708-9 Editorial Expression of Concern: SWI/SNF-mutant cancers depend on catalytic and non-catalytic activity of EZH2",
+    "abstract": "Nature Medicine, Published online: 18 September 2026; doi:10.1038/s41591-026-04708-9 Editorial Expression of Concern: SWI/SNF-mutant cancers depend on catalytic and non-catalytic activity of EZH2",
+    "image": "data:image/svg+xml;charset=utf-8,%0A%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23111827%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23374151%22/%3E%0A%20%20%20%20%3C/linearGradient%3E%0A%20%20%20%20%3Cfilter%20id%3D%22blur%22%3E%0A%20%20%20%20%20%20%3CfeGaussianBlur%20stdDeviation%3D%2230%22/%3E%0A%20%20%20%20%3C/filter%3E%0A%20%20%3C/defs%3E%0A%0A%20%20%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22url%28%23bg%29%22/%3E%0A%0A%20%20%3Ccircle%20cx%3D%221030%22%20cy%3D%22110%22%20r%3D%22170%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.18%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%20%20%3Ccircle%20cx%3D%22180%22%20cy%3D%22560%22%20r%3D%22150%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.16%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%0A%20%20%3Crect%20x%3D%2256%22%20y%3D%2252%22%20rx%3D%2218%22%20ry%3D%2218%22%20width%3D%22260%22%20height%3D%2254%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.08%29%22/%3E%0A%20%20%3Ctext%20x%3D%2284%22%20y%3D%2287%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2228%22%20fill%3D%22%23e5e7eb%22%3ENature%20Medicine%3C/text%3E%0A%0A%20%20%3Ctext%20x%3D%221010%22%20y%3D%22560%22%0A%20%20%20%20%20%20%20%20text-anchor%3D%22middle%22%0A%20%20%20%20%20%20%20%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%0A%20%20%20%20%20%20%20%20font-size%3D%22160%22%0A%20%20%20%20%20%20%20%20fill%3D%22%2360a5fa%22%0A%20%20%20%20%20%20%20%20opacity%3D%220.85%22%3E%0A%20%20%20%20%E2%80%A2%0A%20%20%3C/text%3E%0A%3C/svg%3E%0A",
+    "topic": "default",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
+    "title": "<b>How genes shape personality and experience</b>",
+    "link": "https://www.nature.com/articles/d41591-026-00046-y",
+    "journal": "Nature Medicine",
+    "source_type": "journal",
+    "date": "2026-09-18",
+    "summary": "Nature Medicine, Published online: 18 September 2026; doi:10.1038/d41591-026-00046-y A genome-wide association study involving over one million people reveals genetic contributions to personality traits, with potential causal effects on physical and mental health and behaviors.",
+    "abstract": "Nature Medicine, Published online: 18 September 2026; doi:10.1038/d41591-026-00046-y A genome-wide association study involving over one million people reveals genetic contributions to personality traits, with potential causal effects on physical and mental health and behaviors.",
+    "image": "https://media.nature.com/lw1200/magazine-assets/d41591-026-00046-y/d41591-026-00046-y_53732678.jpg",
+    "topic": "default",
     "topic_color": "#60a5fa",
     "priority_score": 0
   },
@@ -265,8 +304,8 @@
     "journal": "Nature",
     "source_type": "journal",
     "date": "2026-09-17",
-    "summary": "Nature, Published online: 17 September 2026; doi:10.1038/d41586-026-02621-2 Geophysical survey yields ‘tantalizing’ data that could point to Nefertiti’s burial place – but it’s too early to draw definitive conclusions.",
-    "abstract": "Nature, Published online: 17 September 2026; doi:10.1038/d41586-026-02621-2 Geophysical survey yields ‘tantalizing’ data that could point to Nefertiti’s burial place – but it’s too early to draw definitive conclusions.",
+    "summary": "Nature, Published online: 17 September 2026; doi:10.1038/d41586-026-02621-2 Geophysical survey yields ‘tantalizing’ data that could point to Nefertiti’s burial place — but it’s too early to draw definitive conclusions.",
+    "abstract": "Nature, Published online: 17 September 2026; doi:10.1038/d41586-026-02621-2 Geophysical survey yields ‘tantalizing’ data that could point to Nefertiti’s burial place — but it’s too early to draw definitive conclusions.",
     "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-02621-2/d41586-026-02621-2_53718150.jpg",
     "topic": "default",
     "topic_color": "#60a5fa",
@@ -294,19 +333,6 @@
     "summary": "Nature, Published online: 17 September 2026; doi:10.1038/d41586-026-02954-y Researchers developed a ‘virtual biotech’ made up of as many as 37,000 agents reporting to an 'chief scientist'.",
     "abstract": "Nature, Published online: 17 September 2026; doi:10.1038/d41586-026-02954-y Researchers developed a ‘virtual biotech’ made up of as many as 37,000 agents reporting to an 'chief scientist'.",
     "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-02954-y/d41586-026-02954-y_53728366.jpg",
-    "topic": "default",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
-    "title": "Who gets credit in the AI era? OpenAI maths bombshell sparks debate",
-    "link": "https://www.nature.com/articles/d41586-026-02910-w",
-    "journal": "Nature",
-    "source_type": "journal",
-    "date": "2026-09-17",
-    "summary": "Nature, Published online: 17 September 2026; doi:10.1038/d41586-026-02910-w Controversy around OpenAI’s claim to have solved the Navier–Stokes problem highlights how researchers could be inadvertently sharing — and absorbing— ideas through chatbots.",
-    "abstract": "Nature, Published online: 17 September 2026; doi:10.1038/d41586-026-02910-w Controversy around OpenAI’s claim to have solved the Navier–Stokes problem highlights how researchers could be inadvertently sharing — and absorbing— ideas through chatbots.",
-    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-02910-w/d41586-026-02910-w_53713378.jpg",
     "topic": "default",
     "topic_color": "#60a5fa",
     "priority_score": 0
@@ -541,32 +567,6 @@
     "summary": "Nature Medicine, Published online: 15 September 2026; doi:10.1038/s41591-026-04610-4 Two early clinical studies of selective KRASG12D inhibitors show encouraging activity in advanced cancers with G12D mutations, signaling a transformative change in the treatment landscape for RAS-driven cancers with potential applications across tumor types and stages of disease.",
     "abstract": "Nature Medicine, Published online: 15 September 2026; doi:10.1038/s41591-026-04610-4 Two early clinical studies of selective KRASG12D inhibitors show encouraging activity in advanced cancers with G12D mutations, signaling a transformative change in the treatment landscape for RAS-driven cancers with potential applications across tumor types and stages of disease.",
     "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41591-026-04610-4/MediaObjects/41591_2026_4610_Fig1_HTML.png",
-    "topic": "default",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
-    "title": "On-premise medical AI agents for reliable clinical decision-making",
-    "link": "https://www.nature.com/articles/s41591-026-04609-x",
-    "journal": "Nature Medicine",
-    "source_type": "journal",
-    "date": "2026-09-15",
-    "summary": "Nature Medicine, Published online: 15 September 2026; doi:10.1038/s41591-026-04609-x An autonomous clinical AI agent enhances decision-making through on-premise deployment and reliability metrics, achieving high diagnostic accuracy and selective autonomy.",
-    "abstract": "Nature Medicine, Published online: 15 September 2026; doi:10.1038/s41591-026-04609-x An autonomous clinical AI agent enhances decision-making through on-premise deployment and reliability metrics, achieving high diagnostic accuracy and selective autonomy.",
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41591-026-04609-x/MediaObjects/41591_2026_4609_Fig1_HTML.png",
-    "topic": "default",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
-    "title": "Broadly neutralizing antibodies in adult males living with HIV undergoing analytical treatment interruption: secondary and exploratory outcomes of the phase II randomized controlled RIO trial",
-    "link": "https://www.nature.com/articles/s41591-026-04644-8",
-    "journal": "Nature Medicine",
-    "source_type": "journal",
-    "date": "2026-09-15",
-    "summary": "Nature Medicine, Published online: 15 September 2026; doi:10.1038/s41591-026-04644-8 In the phase 2 RIO trial, there was delayed viral rebound and resistance to broadly neutralizing antibodies 3BNC117-LS and 10-1074-LS in adult males living with HIV undergoing analytical treatment interruption, and initial reservoir sensitivity to autologous antibodies was associated with a longer time to rebound.",
-    "abstract": "Nature Medicine, Published online: 15 September 2026; doi:10.1038/s41591-026-04644-8 In the phase 2 RIO trial, there was delayed viral rebound and resistance to broadly neutralizing antibodies 3BNC117-LS and 10-1074-LS in adult males living with HIV undergoing analytical treatment interruption, and initial reservoir sensitivity to autologous antibodies was associated with a longer time to rebound.",
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41591-026-04644-8/MediaObjects/41591_2026_4644_Fig1_HTML.png",
     "topic": "default",
     "topic_color": "#60a5fa",
     "priority_score": 0
