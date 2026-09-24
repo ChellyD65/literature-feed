@@ -39,6 +39,19 @@
     "priority_score": 133
   },
   {
+    "title": "Remodeling of a distal <i>IRF4</i> element spurs human regulatory T cell instability under inflammatory conditions",
+    "link": "https://www.nature.com/articles/s41590-026-02663-8",
+    "journal": "Nature Immunology",
+    "source_type": "journal",
+    "date": "2026-09-24",
+    "summary": "Nature Immunology, Published online: 24 September 2026; doi:10.1038/s41590-026-02663-8 In an in vitro model, human regulatory T cells undergo inflammatory cytokine-driven reprogramming, resulting in increased chromatin accessibility at AP-1-binding sites, increased IRF4 expression and, ultimately, loss of lineage identity and suppressive function. Deletion of an open chromatin region distal to IRF4 protects cells from this cytokine-induced destabilization.",
+    "abstract": "Nature Immunology, Published online: 24 September 2026; doi:10.1038/s41590-026-02663-8 In an in vitro model, human regulatory T cells undergo inflammatory cytokine-driven reprogramming, resulting in increased chromatin accessibility at AP-1-binding sites, increased IRF4 expression and, ultimately, loss of lineage identity and suppressive function. Deletion of an open chromatin region distal to IRF4 protects cells from this cytokine-induced destabilization.",
+    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41590-026-02663-8/MediaObjects/41590_2026_2663_Fig1_HTML.png",
+    "topic": "inflammation",
+    "topic_color": "#fb7185",
+    "priority_score": 111
+  },
+  {
     "title": "Deletion of a distal <i>IRF4</i> element prevents inflammation-induced reprogramming of human regulatory T cell fate",
     "link": "https://www.nature.com/articles/s41590-026-02655-8",
     "journal": "Nature Immunology",
@@ -115,6 +128,58 @@
     "topic": "inflammation",
     "topic_color": "#fb7185",
     "priority_score": 41
+  },
+  {
+    "title": "AI agent hacks government website for first time: why this breach matters",
+    "link": "https://www.nature.com/articles/d41586-026-03024-z",
+    "journal": "Nature",
+    "source_type": "journal",
+    "date": "2026-09-24",
+    "summary": "Nature, Published online: 24 September 2026; doi:10.1038/d41586-026-03024-z An OpenAI agent accessed secure data on an Australian health-care website, but the incident wasn’t reported for months.",
+    "abstract": "Nature, Published online: 24 September 2026; doi:10.1038/d41586-026-03024-z An OpenAI agent accessed secure data on an Australian health-care website, but the incident wasn’t reported for months.",
+    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-03024-z/d41586-026-03024-z_53757860.jpg",
+    "topic": "default",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
+    "title": "Reconciling global collaboration and data sovereignty in neuroscience",
+    "link": "https://www.nature.com/articles/s41593-026-02468-w",
+    "journal": "Nature Neuroscience",
+    "source_type": "journal",
+    "date": "2026-09-24",
+    "summary": "Nature Neuroscience, Published online: 24 September 2026; doi:10.1038/s41593-026-02468-w Tension exists between the need for an open science culture and data sovereignty in global brain research. Ray et al. propose practical mechanisms for secure and equitable international collaboration.",
+    "abstract": "Nature Neuroscience, Published online: 24 September 2026; doi:10.1038/s41593-026-02468-w Tension exists between the need for an open science culture and data sovereignty in global brain research. Ray et al. propose practical mechanisms for secure and equitable international collaboration.",
+    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41593-026-02468-w/MediaObjects/41593_2026_2468_Fig1_HTML.png",
+    "topic": "neuroscience",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
+    "title": "Developing cancer-control policies to address the cancer burden among young adults",
+    "link": "https://www.nature.com/articles/s41591-026-04653-7",
+    "journal": "Nature Medicine",
+    "source_type": "journal",
+    "date": "2026-09-24",
+    "summary": "Nature Medicine, Published online: 24 September 2026; doi:10.1038/s41591-026-04653-7 Developing cancer-control policies to address the cancer burden among young adults",
+    "abstract": "Nature Medicine, Published online: 24 September 2026; doi:10.1038/s41591-026-04653-7 Developing cancer-control policies to address the cancer burden among young adults",
+    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41591-026-04653-7/MediaObjects/41591_2026_4653_Fig1_HTML.png",
+    "topic": "default",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
+    "title": "Evorpacept plus trastuzumab, ramucirumab and paclitaxel in HER2-positive gastric cancer: a randomized phase 2 trial",
+    "link": "https://www.nature.com/articles/s41591-026-04700-3",
+    "journal": "Nature Medicine",
+    "source_type": "journal",
+    "date": "2026-09-24",
+    "summary": "Nature Medicine, Published online: 24 September 2026; doi:10.1038/s41591-026-04700-3 In the phase 2 portion of the randomized phase 2/3 ASPEN-06 trial in patients with HER2-positive advanced gastric cancer, which progressed on anti-HER2 treatment, addition of the next-generation CD47 inhibitor evorpacept to trastuzumab, ramucirumab and paclitaxel (TRP) led to a higher objective response rate compared to TRP alone, and response was associated with CD47 and HER2 expression.",
+    "abstract": "Nature Medicine, Published online: 24 September 2026; doi:10.1038/s41591-026-04700-3 In the phase 2 portion of the randomized phase 2/3 ASPEN-06 trial in patients with HER2-positive advanced gastric cancer, which progressed on anti-HER2 treatment, addition of the next-generation CD47 inhibitor evorpacept to trastuzumab, ramucirumab and paclitaxel (TRP) led to a higher objective response rate compared to TRP alone, and response was associated with CD47 and HER2 expression.",
+    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41591-026-04700-3/MediaObjects/41591_2026_4700_Fig1_HTML.png",
+    "topic": "default",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
   },
   {
     "title": "Can an AI feel pain? It can at least act like it does",
@@ -299,19 +364,6 @@
     "priority_score": 0
   },
   {
-    "title": "Banking records reveal characteristics of financial abuse",
-    "link": "https://www.nature.com/articles/s41586-026-11049-7",
-    "journal": "Nature",
-    "source_type": "journal",
-    "date": "2026-09-23",
-    "summary": "Nature, Published online: 23 September 2026; doi:10.1038/s41586-026-11049-7 An analysis of UK banking data reveals that people who reported being victim-survivors of financial abuse experience worse financial outcomes compared with a control group.",
-    "abstract": "The experience of financial abuse, a form of domestic abuse involving control over money and finances, can be severe and long-lasting1–3, yet difficult to document4. Evidence on the everyday experiences of victim-survivors in the context of financial abuse is drawn primarily from small-scale, qualitative surveys5,6. Using anonymized banking data from a major UK retail bank, we compared the financial outcomes of a group of female victim-survivors of financial abuse (n = 5,428; identified from customer disclosures to the bank) with a control group (n = 15,602; consisting of individuals with no known disclosures). The control group matched the demographic and socioeconomic characteristics of the victim-survivor group 7 years before disclosure. A comprehensive set of 373 transactional and non-transactional financial outcomes were analysed over this period. Results indicate that, compared with controls, victim-survivors exhibited depleting savings and increasing debts, culminating in missed payments and declining credit scores. They also spent less on self-care, incurred higher transport and legal costs, increased cash withdrawals, changed addresses and passwords more frequently and were more likely to claim welfare benefits. Our results demonstrate how victim-survivors lose financial independence, experience economic instability and suffer financial distress. An analysis of UK banking data reveals that people who reported being victim-survivors of financial abuse experience worse financial outcomes compared with a control group.",
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-11049-7/MediaObjects/41586_2026_11049_Fig1_HTML.png",
-    "topic": "default",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
     "title": "Massively parallel assessment of gene regulatory activity at human cortical-structure-associated variants",
     "link": "https://www.nature.com/articles/s41593-026-02454-2",
     "journal": "Nature Neuroscience",
@@ -455,32 +507,6 @@
     "priority_score": 0
   },
   {
-    "title": "Some answers, more questions for multi-cancer early detection tests",
-    "link": "https://www.nature.com/articles/s41591-026-04688-w",
-    "journal": "Nature Medicine",
-    "source_type": "journal",
-    "date": "2026-09-22",
-    "summary": "Nature Medicine, Published online: 22 September 2026; doi:10.1038/s41591-026-04688-w The PATHFINDER 2 and NHS-Galleri studies provide complementary evidence on the clinical performance, safety and implementation of multi-cancer early detection, while underscoring the next challenge: demonstrating population-level benefit.",
-    "abstract": "Nature Medicine, Published online: 22 September 2026; doi:10.1038/s41591-026-04688-w The PATHFINDER 2 and NHS-Galleri studies provide complementary evidence on the clinical performance, safety and implementation of multi-cancer early detection, while underscoring the next challenge: demonstrating population-level benefit.",
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41591-026-04688-w/MediaObjects/41591_2026_4688_Figa_HTML.png",
-    "topic": "default",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
-    "title": "Performance and safety of a multi-cancer early detection test: the PATHFINDER 2 study",
-    "link": "https://www.nature.com/articles/s41591-026-04618-w",
-    "journal": "Nature Medicine",
-    "source_type": "journal",
-    "date": "2026-09-22",
-    "summary": "Nature Medicine, Published online: 22 September 2026; doi:10.1038/s41591-026-04618-w The interventional PATHFINDER 2 study provides insights on the safety and performance of a blood-based multi-cancer early detection test in an intended-use population, including more than 35,000 participants aged 50 years or older.",
-    "abstract": "Nature Medicine, Published online: 22 September 2026; doi:10.1038/s41591-026-04618-w The interventional PATHFINDER 2 study provides insights on the safety and performance of a blood-based multi-cancer early detection test in an intended-use population, including more than 35,000 participants aged 50 years or older.",
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41591-026-04618-w/MediaObjects/41591_2026_4618_Fig1_HTML.png",
-    "topic": "default",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
     "title": "White House move to seize control of NIH grant decisions upsets senators and scientists",
     "link": "https://www.science.org/content/article/white-house-move-seize-control-nih-grant-decisions-upsets-senators-and-scientists",
     "journal": "Science",
@@ -567,32 +593,6 @@
     "summary": "Nature Neuroscience, Published online: 16 September 2026; doi:10.1038/s41593-026-02448-0 Senne, Suthard and colleagues show that dorsal hippocampal astrocytes display time-compressed calcium-event sequences after foot shock and upon context re-exposure, and that their spontaneous activity relates to freezing and implicates astrocytes in associative memory.",
     "abstract": "Nature Neuroscience, Published online: 16 September 2026; doi:10.1038/s41593-026-02448-0 Senne, Suthard and colleagues show that dorsal hippocampal astrocytes display time-compressed calcium-event sequences after foot shock and upon context re-exposure, and that their spontaneous activity relates to freezing and implicates astrocytes in associative memory.",
     "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41593-026-02448-0/MediaObjects/41593_2026_2448_Fig1_HTML.png",
-    "topic": "neuroscience",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
-    "title": "Author Correction: The transcription factor TCF-1 initiates the differentiation of T<sub>FH</sub> cells during acute viral infection",
-    "link": "https://www.nature.com/articles/s41590-026-02681-6",
-    "journal": "Nature Immunology",
-    "source_type": "journal",
-    "date": "2026-09-16",
-    "summary": "Nature Immunology, Published online: 16 September 2026; doi:10.1038/s41590-026-02681-6 Author Correction: The transcription factor TCF-1 initiates the differentiation of T FH cells during acute viral infection",
-    "abstract": "Nature Immunology, Published online: 16 September 2026; doi:10.1038/s41590-026-02681-6 Author Correction: The transcription factor TCF-1 initiates the differentiation of T FH cells during acute viral infection",
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41590-026-02681-6/MediaObjects/41590_2026_2681_Fig1_HTML.png",
-    "topic": "immunology",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
-    "title": "Intracranial recordings in humans reveal differential contributions of medial and lateral orbitofrontal cortex to approach–avoidance decision-making",
-    "link": "https://www.nature.com/articles/s41593-026-02444-4",
-    "journal": "Nature Neuroscience",
-    "source_type": "journal",
-    "date": "2026-09-15",
-    "summary": "Nature Neuroscience, Published online: 15 September 2026; doi:10.1038/s41593-026-02444-4 Intracranial recordings reveal oppositely tuned activity in the medial and lateral regions of the human orbitofrontal cortex during approach–avoidance decisions: the medial orbital sulcus activates just before approach, whereas lateral orbitofrontal cortex activity decreases before approach.",
-    "abstract": "Nature Neuroscience, Published online: 15 September 2026; doi:10.1038/s41593-026-02444-4 Intracranial recordings reveal oppositely tuned activity in the medial and lateral regions of the human orbitofrontal cortex during approach–avoidance decisions: the medial orbital sulcus activates just before approach, whereas lateral orbitofrontal cortex activity decreases before approach.",
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41593-026-02444-4/MediaObjects/41593_2026_2444_Fig1_HTML.png",
     "topic": "neuroscience",
     "topic_color": "#60a5fa",
     "priority_score": 0
