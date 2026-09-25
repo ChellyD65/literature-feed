@@ -130,6 +130,19 @@
     "priority_score": 41
   },
   {
+    "title": "AI bots are flooding researchers with requests for money and time",
+    "link": "https://www.nature.com/articles/d41586-026-03005-2",
+    "journal": "Nature",
+    "source_type": "journal",
+    "date": "2026-09-25",
+    "summary": "Nature, Published online: 25 September 2026; doi:10.1038/d41586-026-03005-2 Many scientists use artificial intelligence in their work, but agents are increasingly soliciting researchers for collaborations.",
+    "abstract": "Nature, Published online: 25 September 2026; doi:10.1038/d41586-026-03005-2 Many scientists use artificial intelligence in their work, but agents are increasingly soliciting researchers for collaborations.",
+    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-03005-2/d41586-026-03005-2_53752868.jpg",
+    "topic": "default",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
     "title": "NIH details $170 million biomedical research reproducibility effort",
     "link": "https://www.science.org/content/article/nih-details-170-million-biomedical-research-reproducibility-effort",
     "journal": "Science",
@@ -372,19 +385,6 @@
     "summary": "Nature, Published online: 23 September 2026; doi:10.1038/d41586-026-02986-4 One-tonne cache of iron is the largest ever found — and enough to make roughly 500 swords.",
     "abstract": "Nature, Published online: 23 September 2026; doi:10.1038/d41586-026-02986-4 One-tonne cache of iron is the largest ever found — and enough to make roughly 500 swords.",
     "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-02986-4/d41586-026-02986-4_53741368.jpg",
-    "topic": "default",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
-    "title": "The gene-regulatory evolution of the human skeleton",
-    "link": "https://www.nature.com/articles/s41586-026-11053-x",
-    "journal": "Nature",
-    "source_type": "journal",
-    "date": "2026-09-23",
-    "summary": "Nature, Published online: 23 September 2026; doi:10.1038/s41586-026-11053-x Massively parallel reporter assays and human–ape hybrid skeletal cells are used to study the evolution of human cis-regulatory elements (CREs), revealing how differences in CREs have shaped the composition of human skeletal tissue.",
-    "abstract": "Nature, Published online: 23 September 2026; doi:10.1038/s41586-026-11053-x Massively parallel reporter assays and human–ape hybrid skeletal cells are used to study the evolution of human cis-regulatory elements (CREs), revealing how differences in CREs have shaped the composition of human skeletal tissue.",
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-11053-x/MediaObjects/41586_2026_11053_Fig1_HTML.png",
     "topic": "default",
     "topic_color": "#60a5fa",
     "priority_score": 0
