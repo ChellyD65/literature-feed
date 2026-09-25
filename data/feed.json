@@ -104,6 +104,32 @@
     "priority_score": 41
   },
   {
+    "title": "Why science wouldn’t exist without alchemy, curiosity and great writing: Books in brief",
+    "link": "https://www.nature.com/articles/d41586-026-03032-z",
+    "journal": "Nature",
+    "source_type": "journal",
+    "date": "2026-09-25",
+    "summary": "Nature, Published online: 25 September 2026; doi:10.1038/d41586-026-03032-z Andrew Robinson reviews five of the best science picks.",
+    "abstract": "Nature, Published online: 25 September 2026; doi:10.1038/d41586-026-03032-z Andrew Robinson reviews five of the best science picks.",
+    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-03032-z/d41586-026-03032-z_53209820.jpg",
+    "topic": "default",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
+    "title": "Nepal’s floods expose issues with climate-disaster funding — firmer policies are needed fast",
+    "link": "https://www.nature.com/articles/d41586-026-03016-z",
+    "journal": "Nature",
+    "source_type": "journal",
+    "date": "2026-09-25",
+    "summary": "Nature, Published online: 25 September 2026; doi:10.1038/d41586-026-03016-z The UN’s climate loss and damage fund needs to consider how to make decisions about finance fairly and quickly, without disadvantaging low-resource nations.",
+    "abstract": "Nature, Published online: 25 September 2026; doi:10.1038/d41586-026-03016-z The UN’s climate loss and damage fund needs to consider how to make decisions about finance fairly and quickly, without disadvantaging low-resource nations.",
+    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-03016-z/d41586-026-03016-z_53762354.jpg",
+    "topic": "default",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
     "title": "AI bots are flooding researchers with requests for money and time",
     "link": "https://www.nature.com/articles/d41586-026-03005-2",
     "journal": "Nature",
@@ -113,6 +139,19 @@
     "abstract": "Nature, Published online: 25 September 2026; doi:10.1038/d41586-026-03005-2 Many scientists use artificial intelligence in their work, but agents are increasingly soliciting researchers for collaborations.",
     "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-03005-2/d41586-026-03005-2_53752868.jpg",
     "topic": "default",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
+    "title": "Author Correction: Synaptic-like transmission between neural axons and arteriolar smooth muscle cells drives cerebral neurovascular coupling",
+    "link": "https://www.nature.com/articles/s41593-026-02474-y",
+    "journal": "Nature Neuroscience",
+    "source_type": "journal",
+    "date": "2026-09-25",
+    "summary": "Nature Neuroscience, Published online: 25 September 2026; doi:10.1038/s41593-026-02474-y Author Correction: Synaptic-like transmission between neural axons and arteriolar smooth muscle cells drives cerebral neurovascular coupling",
+    "abstract": "Nature Neuroscience, Published online: 25 September 2026; doi:10.1038/s41593-026-02474-y Author Correction: Synaptic-like transmission between neural axons and arteriolar smooth muscle cells drives cerebral neurovascular coupling",
+    "image": "data:image/svg+xml;charset=utf-8,%0A%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23111827%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23374151%22/%3E%0A%20%20%20%20%3C/linearGradient%3E%0A%20%20%20%20%3Cfilter%20id%3D%22blur%22%3E%0A%20%20%20%20%20%20%3CfeGaussianBlur%20stdDeviation%3D%2230%22/%3E%0A%20%20%20%20%3C/filter%3E%0A%20%20%3C/defs%3E%0A%0A%20%20%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22url%28%23bg%29%22/%3E%0A%0A%20%20%3Ccircle%20cx%3D%221030%22%20cy%3D%22110%22%20r%3D%22170%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.18%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%20%20%3Ccircle%20cx%3D%22180%22%20cy%3D%22560%22%20r%3D%22150%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.16%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%0A%20%20%3Crect%20x%3D%2256%22%20y%3D%2252%22%20rx%3D%2218%22%20ry%3D%2218%22%20width%3D%22260%22%20height%3D%2254%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.08%29%22/%3E%0A%20%20%3Ctext%20x%3D%2284%22%20y%3D%2287%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2228%22%20fill%3D%22%23e5e7eb%22%3ENature%20Neuroscience%3C/text%3E%0A%0A%20%20%3Ctext%20x%3D%221010%22%20y%3D%22560%22%0A%20%20%20%20%20%20%20%20text-anchor%3D%22middle%22%0A%20%20%20%20%20%20%20%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%0A%20%20%20%20%20%20%20%20font-size%3D%22160%22%0A%20%20%20%20%20%20%20%20fill%3D%22%2360a5fa%22%0A%20%20%20%20%20%20%20%20opacity%3D%220.85%22%3E%0A%20%20%20%20%E2%80%A2%0A%20%20%3C/text%3E%0A%3C/svg%3E%0A",
+    "topic": "neuroscience",
     "topic_color": "#60a5fa",
     "priority_score": 0
   },
@@ -273,7 +312,7 @@
     "priority_score": 0
   },
   {
-    "title": "AlphaFold 'goes viral': database adds protein complexes of common viruses",
+    "title": "AlphaFold ‘goes viral’: database adds protein complexes of common viruses",
     "link": "https://www.nature.com/articles/d41586-026-03022-1",
     "journal": "Nature",
     "source_type": "journal",
@@ -385,32 +424,6 @@
     "summary": "Nature, Published online: 23 September 2026; doi:10.1038/s41586-026-11169-0 Chiral oxazolidinones via biocatalytic aziridination of unactivated alkenes",
     "abstract": "Chiral oxazolidinones are privileged heterocycles broadly used in asymmetric synthesis (1) and drug discovery (2–3). Conventional synthetic routes rely on a “chiral pool” strategy, where enantiopure amino alcohols are required as key intermediates. Of particular importance are a class of 5-(S)-aminomethyl oxazolidinones that are key scaffolds in next-generation antibiotics targeting multidrug- and extensively drug-resistant Mycobacterium tuberculosis (4–6). While many strategies exist to construct chirality at the 4-position (α-to-nitrogen), methods to install the desired 5-stereocentre (α-to-oxygen) remain underdeveloped. Here we report a haemprotein-catalysed aziridination/ring-expansion cascade that enables direct, enantioselective synthesis of clinically relevant and discovery-stage oxazolidinones from simple alkenes. This work advances haemprotein-catalysed nitrene transfer by enabling functionalisation of unactivated alkenes, a reactivity previously limited to conjugated systems such as styrenes. Computational analysis further reveals that key mutations introduced through directed evolution are responsible for the enantioselective formation of these products.",
     "image": "data:image/svg+xml;charset=utf-8,%0A%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23111827%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23374151%22/%3E%0A%20%20%20%20%3C/linearGradient%3E%0A%20%20%20%20%3Cfilter%20id%3D%22blur%22%3E%0A%20%20%20%20%20%20%3CfeGaussianBlur%20stdDeviation%3D%2230%22/%3E%0A%20%20%20%20%3C/filter%3E%0A%20%20%3C/defs%3E%0A%0A%20%20%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22url%28%23bg%29%22/%3E%0A%0A%20%20%3Ccircle%20cx%3D%221030%22%20cy%3D%22110%22%20r%3D%22170%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.18%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%20%20%3Ccircle%20cx%3D%22180%22%20cy%3D%22560%22%20r%3D%22150%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.16%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%0A%20%20%3Crect%20x%3D%2256%22%20y%3D%2252%22%20rx%3D%2218%22%20ry%3D%2218%22%20width%3D%22260%22%20height%3D%2254%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.08%29%22/%3E%0A%20%20%3Ctext%20x%3D%2284%22%20y%3D%2287%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2228%22%20fill%3D%22%23e5e7eb%22%3ENature%3C/text%3E%0A%0A%20%20%3Ctext%20x%3D%221010%22%20y%3D%22560%22%0A%20%20%20%20%20%20%20%20text-anchor%3D%22middle%22%0A%20%20%20%20%20%20%20%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%0A%20%20%20%20%20%20%20%20font-size%3D%22160%22%0A%20%20%20%20%20%20%20%20fill%3D%22%2360a5fa%22%0A%20%20%20%20%20%20%20%20opacity%3D%220.85%22%3E%0A%20%20%20%20%E2%80%A2%0A%20%20%3C/text%3E%0A%3C/svg%3E%0A",
-    "topic": "default",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
-    "title": "Bank accounts reveal the fingerprints of abusive financial control",
-    "link": "https://www.nature.com/articles/d41586-026-03021-2",
-    "journal": "Nature",
-    "source_type": "journal",
-    "date": "2026-09-23",
-    "summary": "Nature, Published online: 23 September 2026; doi:10.1038/d41586-026-03021-2 Analysis of anonymized banking data could help inform strategies to support victim-survivors of financial abuse — plus, how opposing forces within the Earth can alter the length of a day.",
-    "abstract": "Nature, Published online: 23 September 2026; doi:10.1038/d41586-026-03021-2 Analysis of anonymized banking data could help inform strategies to support victim-survivors of financial abuse — plus, how opposing forces within the Earth can alter the length of a day.",
-    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-03021-2/d41586-026-03021-2_53753126.jpg",
-    "topic": "default",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
-    "title": "Competition heats up in the regenerative-medicine ranks",
-    "link": "https://www.nature.com/articles/d41586-026-02856-z",
-    "journal": "Nature",
-    "source_type": "journal",
-    "date": "2026-09-23",
-    "summary": "Nature, Published online: 23 September 2026; doi:10.1038/d41586-026-02856-z The United States leads, but China poses strong competition, according to the latest Nature Index data.",
-    "abstract": "Nature, Published online: 23 September 2026; doi:10.1038/d41586-026-02856-z The United States leads, but China poses strong competition, according to the latest Nature Index data.",
-    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-02856-z/d41586-026-02856-z_53728174.jpg",
     "topic": "default",
     "topic_color": "#60a5fa",
     "priority_score": 0
@@ -580,19 +593,6 @@
     "summary": "Nature Neuroscience, Published online: 16 September 2026; doi:10.1038/s41593-026-02449-z Cerebellar neurons encode abstract dopamine rewards using activity patterns that reinforce reward-seeking behavior in mice.",
     "abstract": "To learn motivated behaviors, animals must both anticipate rewards and reinforce actions that yield them. Although cerebellar activity encodes natural rewards such as water and food, it also coordinates physical movements such as eating and drinking. To disentangle reward from consummatory movements, we trained mice to push for delayed dopamine (DA) rewards delivered directly into the brain. Here we show that cerebellar input streams use both predictive and instructive codes for DA reward. Two-photon imaging revealed that many cerebellar granule cells (GrCs) predictively encoded DA rewards with sustained activity that ‘stretched’ to match 1-second or 2-second delay intervals before terminating upon reward receipt. By contrast, most cerebellar climbing fibers (CFs) spiked just after DA delivery. In mice also trained with water rewards, encoding strength for DA matched or exceeded that for water. Both cell types contributed causally: chronic GrC inhibition disrupted self-stimulation learning, and CF self-stimulation ‘rewards’ drove moderate operant learning in naive animals. Thus, cerebellar encoding of DA reward helps drive motivated behavior, suggesting deeper cerebellar integration in brain reward prediction networks. Cerebellar neurons encode abstract dopamine rewards using activity patterns that reinforce reward-seeking behavior in mice.",
     "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41593-026-02449-z/MediaObjects/41593_2026_2449_Fig1_HTML.png",
-    "topic": "neuroscience",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
-    "title": "Hippocampal astrocytic sequences emerge during learning and memory recall",
-    "link": "https://www.nature.com/articles/s41593-026-02448-0",
-    "journal": "Nature Neuroscience",
-    "source_type": "journal",
-    "date": "2026-09-16",
-    "summary": "Nature Neuroscience, Published online: 16 September 2026; doi:10.1038/s41593-026-02448-0 Senne, Suthard and colleagues show that dorsal hippocampal astrocytes display time-compressed calcium-event sequences after foot shock and upon context re-exposure, and that their spontaneous activity relates to freezing and implicates astrocytes in associative memory.",
-    "abstract": "Nature Neuroscience, Published online: 16 September 2026; doi:10.1038/s41593-026-02448-0 Senne, Suthard and colleagues show that dorsal hippocampal astrocytes display time-compressed calcium-event sequences after foot shock and upon context re-exposure, and that their spontaneous activity relates to freezing and implicates astrocytes in associative memory.",
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41593-026-02448-0/MediaObjects/41593_2026_2448_Fig1_HTML.png",
     "topic": "neuroscience",
     "topic_color": "#60a5fa",
     "priority_score": 0
