@@ -78,6 +78,71 @@
     "priority_score": 29
   },
   {
+    "title": "Method for controlling brain cells with light wins Nobel",
+    "link": "https://www.science.org/content/article/method-controlling-brain-cells-light-wins-nobel",
+    "journal": "Science",
+    "source_type": "journal",
+    "date": "2026-10-05T05:40:00Z",
+    "summary": "Karl Deisseroth, Peter Hegemann, and Georg Nagel honored for developing optogenetics",
+    "abstract": "Karl Deisseroth, Peter Hegemann, and Georg Nagel honored for developing optogenetics",
+    "image": "data:image/svg+xml;charset=utf-8,%0A%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23111827%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23374151%22/%3E%0A%20%20%20%20%3C/linearGradient%3E%0A%20%20%20%20%3Cfilter%20id%3D%22blur%22%3E%0A%20%20%20%20%20%20%3CfeGaussianBlur%20stdDeviation%3D%2230%22/%3E%0A%20%20%20%20%3C/filter%3E%0A%20%20%3C/defs%3E%0A%0A%20%20%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22url%28%23bg%29%22/%3E%0A%0A%20%20%3Ccircle%20cx%3D%221030%22%20cy%3D%22110%22%20r%3D%22170%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.18%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%20%20%3Ccircle%20cx%3D%22180%22%20cy%3D%22560%22%20r%3D%22150%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.16%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%0A%20%20%3Crect%20x%3D%2256%22%20y%3D%2252%22%20rx%3D%2218%22%20ry%3D%2218%22%20width%3D%22260%22%20height%3D%2254%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.08%29%22/%3E%0A%20%20%3Ctext%20x%3D%2284%22%20y%3D%2287%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2228%22%20fill%3D%22%23e5e7eb%22%3EScience%3C/text%3E%0A%0A%20%20%3Ctext%20x%3D%221010%22%20y%3D%22560%22%0A%20%20%20%20%20%20%20%20text-anchor%3D%22middle%22%0A%20%20%20%20%20%20%20%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%0A%20%20%20%20%20%20%20%20font-size%3D%22160%22%0A%20%20%20%20%20%20%20%20fill%3D%22%2360a5fa%22%0A%20%20%20%20%20%20%20%20opacity%3D%220.85%22%3E%0A%20%20%20%20%E2%80%A2%0A%20%20%3C/text%3E%0A%3C/svg%3E%0A",
+    "topic": "default",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
+    "title": "Medicine Nobel awarded for brain ‘switch’ that controls neurons with light: live updates",
+    "link": "https://www.nature.com/articles/d41586-026-03091-2",
+    "journal": "Nature",
+    "source_type": "journal",
+    "date": "2026-10-05",
+    "summary": "Nature, Published online: 05 October 2026; doi:10.1038/d41586-026-03091-2 Karl Deisseroth, Peter Hegemann and Georg Nagel win the 2026 Nobel Prize in Physiology or Medicine for their work on optogenetics, which has revolutionized neuroscience.",
+    "abstract": "Nature, Published online: 05 October 2026; doi:10.1038/d41586-026-03091-2 Karl Deisseroth, Peter Hegemann and Georg Nagel win the 2026 Nobel Prize in Physiology or Medicine for their work on optogenetics, which has revolutionized neuroscience.",
+    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-03091-2/d41586-026-03091-2_53808568.jpg",
+    "topic": "default",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
+    "title": "How big tech is building a military–industrial complex in the age of AI",
+    "link": "https://www.nature.com/articles/d41586-026-03134-8",
+    "journal": "Nature",
+    "source_type": "journal",
+    "date": "2026-10-05",
+    "summary": "Nature, Published online: 05 October 2026; doi:10.1038/d41586-026-03134-8 Two books explore how warfare is being reshaped, with influence shifting from states to tech giants.",
+    "abstract": "Nature, Published online: 05 October 2026; doi:10.1038/d41586-026-03134-8 Two books explore how warfare is being reshaped, with influence shifting from states to tech giants.",
+    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-03134-8/d41586-026-03134-8_53753136.jpg",
+    "topic": "default",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
+    "title": "AI biohazard hype must not divert attention from the real risks we face now",
+    "link": "https://www.nature.com/articles/d41586-026-03135-7",
+    "journal": "Nature",
+    "source_type": "journal",
+    "date": "2026-10-05",
+    "summary": "Nature, Published online: 05 October 2026; doi:10.1038/d41586-026-03135-7 Twenty-five years after the US anthrax attacks, fears around AI are distracting people from seeing what’s needed to stay safe: a strong, regulated life-sciences sector.",
+    "abstract": "Nature, Published online: 05 October 2026; doi:10.1038/d41586-026-03135-7 Twenty-five years after the US anthrax attacks, fears around AI are distracting people from seeing what’s needed to stay safe: a strong, regulated life-sciences sector.",
+    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-03135-7/d41586-026-03135-7_53723314.jpg",
+    "topic": "default",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
+    "title": "Oral small-molecule GLP-1RA safiglipron versus dapagliflozin in type 2 diabetes: a randomized, double-blind, active-comparator-controlled phase 3 trial",
+    "link": "https://www.nature.com/articles/s41591-026-04713-y",
+    "journal": "Nature Medicine",
+    "source_type": "journal",
+    "date": "2026-10-05",
+    "summary": "Nature Medicine, Published online: 05 October 2026; doi:10.1038/s41591-026-04713-y Once-daily oral safiglipron is non-inferior to dapagliflozin for HbA1c reduction at all tested doses and superior at 90 mg, with greater improvements in glycemic control, similar modest weight loss and an acceptable safety profile in adults with type 2 diabetes.",
+    "abstract": "Nature Medicine, Published online: 05 October 2026; doi:10.1038/s41591-026-04713-y Once-daily oral safiglipron is non-inferior to dapagliflozin for HbA1c reduction at all tested doses and superior at 90 mg, with greater improvements in glycemic control, similar modest weight loss and an acceptable safety profile in adults with type 2 diabetes.",
+    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41591-026-04713-y/MediaObjects/41591_2026_4713_Fig1_HTML.png",
+    "topic": "default",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
     "title": "Six biology breakthroughs that should have won a Nobel Prize—but didn’t",
     "link": "https://www.science.org/content/article/six-biology-breakthroughs-should-have-won-nobel-prize-didn-t",
     "journal": "Science",
@@ -182,6 +247,19 @@
     "priority_score": 0
   },
   {
+    "title": "Daily briefing: Can you name every female Nobel laureate?",
+    "link": "https://www.nature.com/articles/d41586-026-03164-2",
+    "journal": "Nature",
+    "source_type": "journal",
+    "date": "2026-10-02",
+    "summary": "Nature, Published online: 02 October 2026; doi:10.1038/d41586-026-03164-2 Test yourself on your science Nobel knowledge. Plus, how butterfly markings mislead the eye and how to respond to hate speech without fuelling it further.",
+    "abstract": "Nature, Published online: 02 October 2026; doi:10.1038/d41586-026-03164-2 Test yourself on your science Nobel knowledge. Plus, how butterfly markings mislead the eye and how to respond to hate speech without fuelling it further.",
+    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-03164-2/d41586-026-03164-2_53807948.png",
+    "topic": "default",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
     "title": "Can you name the women who have won a science Nobel prize?",
     "link": "https://www.nature.com/articles/d41586-026-03133-9",
     "journal": "Nature",
@@ -216,19 +294,6 @@
     "summary": "Nature, Published online: 02 October 2026; doi:10.1038/d41586-026-02769-x One small study in Iran swayed meta-analyses in favour of antidepressant use in children, researchers say.",
     "abstract": "Nature, Published online: 02 October 2026; doi:10.1038/d41586-026-02769-x One small study in Iran swayed meta-analyses in favour of antidepressant use in children, researchers say.",
     "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-02769-x/d41586-026-02769-x_53794098.jpg",
-    "topic": "default",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
-    "title": "Can we have class outside? Seven tips to breeze through outdoor lectures",
-    "link": "https://www.nature.com/articles/d41586-026-02564-8",
-    "journal": "Nature",
-    "source_type": "journal",
-    "date": "2026-10-02",
-    "summary": "Nature, Published online: 02 October 2026; doi:10.1038/d41586-026-02564-8 Advocates say that delivering lectures and presentations al fresco can energize students and provide them with a complete experience.",
-    "abstract": "Nature, Published online: 02 October 2026; doi:10.1038/d41586-026-02564-8 Advocates say that delivering lectures and presentations al fresco can energize students and provide them with a complete experience.",
-    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-02564-8/d41586-026-02564-8_53800214.jpg",
     "topic": "default",
     "topic_color": "#60a5fa",
     "priority_score": 0
@@ -338,19 +403,6 @@
     "priority_score": 0
   },
   {
-    "title": "Africa’s effort to make most of its own vaccines by 2040 faces significant headwinds",
-    "link": "https://www.science.org/content/article/africa-s-effort-make-most-its-own-vaccines-2040-faces-significant-headwinds",
-    "journal": "Science",
-    "source_type": "journal",
-    "date": "2026-10-01T02:00:00Z",
-    "summary": "Companies striving to reduce continent’s reliance on foreign shots must overcome major financial and logistical challenges",
-    "abstract": "Companies striving to reduce continent’s reliance on foreign shots must overcome major financial and logistical challenges",
-    "image": "data:image/svg+xml;charset=utf-8,%0A%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23111827%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23374151%22/%3E%0A%20%20%20%20%3C/linearGradient%3E%0A%20%20%20%20%3Cfilter%20id%3D%22blur%22%3E%0A%20%20%20%20%20%20%3CfeGaussianBlur%20stdDeviation%3D%2230%22/%3E%0A%20%20%20%20%3C/filter%3E%0A%20%20%3C/defs%3E%0A%0A%20%20%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22url%28%23bg%29%22/%3E%0A%0A%20%20%3Ccircle%20cx%3D%221030%22%20cy%3D%22110%22%20r%3D%22170%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.18%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%20%20%3Ccircle%20cx%3D%22180%22%20cy%3D%22560%22%20r%3D%22150%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.16%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%0A%20%20%3Crect%20x%3D%2256%22%20y%3D%2252%22%20rx%3D%2218%22%20ry%3D%2218%22%20width%3D%22260%22%20height%3D%2254%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.08%29%22/%3E%0A%20%20%3Ctext%20x%3D%2284%22%20y%3D%2287%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2228%22%20fill%3D%22%23e5e7eb%22%3EScience%3C/text%3E%0A%0A%20%20%3Ctext%20x%3D%221010%22%20y%3D%22560%22%0A%20%20%20%20%20%20%20%20text-anchor%3D%22middle%22%0A%20%20%20%20%20%20%20%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%0A%20%20%20%20%20%20%20%20font-size%3D%22160%22%0A%20%20%20%20%20%20%20%20fill%3D%22%2360a5fa%22%0A%20%20%20%20%20%20%20%20opacity%3D%220.85%22%3E%0A%20%20%20%20%E2%80%A2%0A%20%20%3C/text%3E%0A%3C/svg%3E%0A",
-    "topic": "default",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
     "title": "Menopause puts the brain at risk. Researchers are starting to learn why",
     "link": "https://www.science.org/content/article/menopause-puts-brain-risk-researchers-are-starting-learn-why",
     "journal": "Science",
@@ -364,40 +416,14 @@
     "priority_score": 0
   },
   {
-    "title": "Retraction Note: Ribosomal frameshifting in the <i>CCR5</i> mRNA is regulated by miRNAs and the NMD pathway",
-    "link": "https://www.nature.com/articles/s41586-026-11149-4",
-    "journal": "Nature",
+    "title": "Africa’s effort to make most of its own vaccines by 2040 faces significant headwinds",
+    "link": "https://www.science.org/content/article/africa-s-effort-make-most-its-own-vaccines-2040-faces-significant-headwinds",
+    "journal": "Science",
     "source_type": "journal",
-    "date": "2026-10-01",
-    "summary": "Nature, Published online: 01 October 2026; doi:10.1038/s41586-026-11149-4 Retraction Note: Ribosomal frameshifting in the CCR5 mRNA is regulated by miRNAs and the NMD pathway",
-    "abstract": "Nature, Published online: 01 October 2026; doi:10.1038/s41586-026-11149-4 Retraction Note: Ribosomal frameshifting in the CCR5 mRNA is regulated by miRNAs and the NMD pathway",
-    "image": "data:image/svg+xml;charset=utf-8,%0A%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23111827%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23374151%22/%3E%0A%20%20%20%20%3C/linearGradient%3E%0A%20%20%20%20%3Cfilter%20id%3D%22blur%22%3E%0A%20%20%20%20%20%20%3CfeGaussianBlur%20stdDeviation%3D%2230%22/%3E%0A%20%20%20%20%3C/filter%3E%0A%20%20%3C/defs%3E%0A%0A%20%20%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22url%28%23bg%29%22/%3E%0A%0A%20%20%3Ccircle%20cx%3D%221030%22%20cy%3D%22110%22%20r%3D%22170%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.18%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%20%20%3Ccircle%20cx%3D%22180%22%20cy%3D%22560%22%20r%3D%22150%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.16%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%0A%20%20%3Crect%20x%3D%2256%22%20y%3D%2252%22%20rx%3D%2218%22%20ry%3D%2218%22%20width%3D%22260%22%20height%3D%2254%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.08%29%22/%3E%0A%20%20%3Ctext%20x%3D%2284%22%20y%3D%2287%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2228%22%20fill%3D%22%23e5e7eb%22%3ENature%3C/text%3E%0A%0A%20%20%3Ctext%20x%3D%221010%22%20y%3D%22560%22%0A%20%20%20%20%20%20%20%20text-anchor%3D%22middle%22%0A%20%20%20%20%20%20%20%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%0A%20%20%20%20%20%20%20%20font-size%3D%22160%22%0A%20%20%20%20%20%20%20%20fill%3D%22%2360a5fa%22%0A%20%20%20%20%20%20%20%20opacity%3D%220.85%22%3E%0A%20%20%20%20%E2%80%A2%0A%20%20%3C/text%3E%0A%3C/svg%3E%0A",
-    "topic": "default",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
-    "title": "A black hole’s jets have a halo effect",
-    "link": "https://www.nature.com/articles/d41586-026-03036-9",
-    "journal": "Nature",
-    "source_type": "journal",
-    "date": "2026-10-01",
-    "summary": "Nature, Published online: 01 October 2026; doi:10.1038/d41586-026-03036-9 Observations confirm jets’ expected effect on the gas cloud that surrounds a galaxy.",
-    "abstract": "Nature, Published online: 01 October 2026; doi:10.1038/d41586-026-03036-9 Observations confirm jets’ expected effect on the gas cloud that surrounds a galaxy.",
-    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-03036-9/d41586-026-03036-9_53772898.jpg",
-    "topic": "default",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
-    "title": "Can pancreatic cancer be stopped in its tracks? Radical tactic raises hopes",
-    "link": "https://www.nature.com/articles/d41586-026-03119-7",
-    "journal": "Nature",
-    "source_type": "journal",
-    "date": "2026-10-01",
-    "summary": "Nature, Published online: 01 October 2026; doi:10.1038/d41586-026-03119-7 With prospects for new treatments at an all-time high, researchers are looking for ways to boost survival by treating the disease early.",
-    "abstract": "Nature, Published online: 01 October 2026; doi:10.1038/d41586-026-03119-7 With prospects for new treatments at an all-time high, researchers are looking for ways to boost survival by treating the disease early.",
-    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-03119-7/d41586-026-03119-7_53785232.jpg",
+    "date": "2026-10-01T01:00:00Z",
+    "summary": "Companies striving to reduce continent’s reliance on foreign shots must overcome major financial and logistical challenges",
+    "abstract": "Companies striving to reduce continent’s reliance on foreign shots must overcome major financial and logistical challenges",
+    "image": "data:image/svg+xml;charset=utf-8,%0A%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23111827%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23374151%22/%3E%0A%20%20%20%20%3C/linearGradient%3E%0A%20%20%20%20%3Cfilter%20id%3D%22blur%22%3E%0A%20%20%20%20%20%20%3CfeGaussianBlur%20stdDeviation%3D%2230%22/%3E%0A%20%20%20%20%3C/filter%3E%0A%20%20%3C/defs%3E%0A%0A%20%20%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22url%28%23bg%29%22/%3E%0A%0A%20%20%3Ccircle%20cx%3D%221030%22%20cy%3D%22110%22%20r%3D%22170%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.18%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%20%20%3Ccircle%20cx%3D%22180%22%20cy%3D%22560%22%20r%3D%22150%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.16%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%0A%20%20%3Crect%20x%3D%2256%22%20y%3D%2252%22%20rx%3D%2218%22%20ry%3D%2218%22%20width%3D%22260%22%20height%3D%2254%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.08%29%22/%3E%0A%20%20%3Ctext%20x%3D%2284%22%20y%3D%2287%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2228%22%20fill%3D%22%23e5e7eb%22%3EScience%3C/text%3E%0A%0A%20%20%3Ctext%20x%3D%221010%22%20y%3D%22560%22%0A%20%20%20%20%20%20%20%20text-anchor%3D%22middle%22%0A%20%20%20%20%20%20%20%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%0A%20%20%20%20%20%20%20%20font-size%3D%22160%22%0A%20%20%20%20%20%20%20%20fill%3D%22%2360a5fa%22%0A%20%20%20%20%20%20%20%20opacity%3D%220.85%22%3E%0A%20%20%20%20%E2%80%A2%0A%20%20%3C/text%3E%0A%3C/svg%3E%0A",
     "topic": "default",
     "topic_color": "#60a5fa",
     "priority_score": 0
@@ -520,19 +546,6 @@
     "priority_score": 0
   },
   {
-    "title": "Method to ‘watermark’ AI-designed proteins could deter bioweapons, protect scientific credit",
-    "link": "https://www.science.org/content/article/method-watermark-ai-designed-proteins-could-deter-bioweapons-protect-scientific-credit",
-    "journal": "Science",
-    "source_type": "journal",
-    "date": "2026-09-30T11:00:00Z",
-    "summary": "Google DeepMind team inserts identifiable pattern into protein’s sequence without compromising its structure or function",
-    "abstract": "Google DeepMind team inserts identifiable pattern into protein’s sequence without compromising its structure or function",
-    "image": "data:image/svg+xml;charset=utf-8,%0A%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23111827%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23374151%22/%3E%0A%20%20%20%20%3C/linearGradient%3E%0A%20%20%20%20%3Cfilter%20id%3D%22blur%22%3E%0A%20%20%20%20%20%20%3CfeGaussianBlur%20stdDeviation%3D%2230%22/%3E%0A%20%20%20%20%3C/filter%3E%0A%20%20%3C/defs%3E%0A%0A%20%20%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22url%28%23bg%29%22/%3E%0A%0A%20%20%3Ccircle%20cx%3D%221030%22%20cy%3D%22110%22%20r%3D%22170%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.18%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%20%20%3Ccircle%20cx%3D%22180%22%20cy%3D%22560%22%20r%3D%22150%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.16%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%0A%20%20%3Crect%20x%3D%2256%22%20y%3D%2252%22%20rx%3D%2218%22%20ry%3D%2218%22%20width%3D%22260%22%20height%3D%2254%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.08%29%22/%3E%0A%20%20%3Ctext%20x%3D%2284%22%20y%3D%2287%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2228%22%20fill%3D%22%23e5e7eb%22%3EScience%3C/text%3E%0A%0A%20%20%3Ctext%20x%3D%221010%22%20y%3D%22560%22%0A%20%20%20%20%20%20%20%20text-anchor%3D%22middle%22%0A%20%20%20%20%20%20%20%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%0A%20%20%20%20%20%20%20%20font-size%3D%22160%22%0A%20%20%20%20%20%20%20%20fill%3D%22%2360a5fa%22%0A%20%20%20%20%20%20%20%20opacity%3D%220.85%22%3E%0A%20%20%20%20%E2%80%A2%0A%20%20%3C/text%3E%0A%3C/svg%3E%0A",
-    "topic": "default",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
     "title": "Five physics breakthroughs that should have won a Nobel Prize—but didn’t",
     "link": "https://www.science.org/content/article/five-physics-breakthroughs-should-have-won-nobel-prize-didn-t",
     "journal": "Science",
@@ -580,19 +593,6 @@
     "summary": "Nature Medicine, Published online: 29 September 2026; doi:10.1038/s41591-026-04693-z In a phase 1 trial, inhibition of the Werner syndrome helicase (WRN) enzyme exploits a new synthetic lethal vulnerability in cancers with microsatellite instability, offering a new way to target these tumors beyond immune checkpoint inhibition.",
     "abstract": "Nature Medicine, Published online: 29 September 2026; doi:10.1038/s41591-026-04693-z In a phase 1 trial, inhibition of the Werner syndrome helicase (WRN) enzyme exploits a new synthetic lethal vulnerability in cancers with microsatellite instability, offering a new way to target these tumors beyond immune checkpoint inhibition.",
     "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41591-026-04693-z/MediaObjects/41591_2026_4693_Fig1_HTML.png",
-    "topic": "default",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
-    "title": "Oral small-molecule GLP-1 receptor agonist safiglipron in early type 2 diabetes: a randomized, double-blind, placebo-controlled trial",
-    "link": "https://www.nature.com/articles/s41591-026-04651-9",
-    "journal": "Nature Medicine",
-    "source_type": "journal",
-    "date": "2026-09-29",
-    "summary": "Nature Medicine, Published online: 29 September 2026; doi:10.1038/s41591-026-04651-9 The OUTSTAND-1 trial showed that once-daily oral small-molecule GLP-1 receptor agonist safiglipron reduced HbA1c by up to 1.45% versus placebo over 32 weeks in people with type 2 diabetes without glucose-lowering medication while body weight effects were modest.",
-    "abstract": "Nature Medicine, Published online: 29 September 2026; doi:10.1038/s41591-026-04651-9 The OUTSTAND-1 trial showed that once-daily oral small-molecule GLP-1 receptor agonist safiglipron reduced HbA1c by up to 1.45% versus placebo over 32 weeks in people with type 2 diabetes without glucose-lowering medication while body weight effects were modest.",
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41591-026-04651-9/MediaObjects/41591_2026_4651_Fig1_HTML.png",
     "topic": "default",
     "topic_color": "#60a5fa",
     "priority_score": 0
