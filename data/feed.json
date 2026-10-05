@@ -78,6 +78,19 @@
     "priority_score": 29
   },
   {
+    "title": "How did Rosalind Franklin miss the helix in her iconic DNA image? She didn’t",
+    "link": "https://www.science.org/content/article/how-did-rosalind-franklin-miss-helix-her-iconic-dna-image-she-didn-t",
+    "journal": "Science",
+    "source_type": "journal",
+    "date": "2026-10-05T11:00:00Z",
+    "summary": "New analysis refutes James Watson’s claim he was first to recognize significance of famed photograph 51",
+    "abstract": "New analysis refutes James Watson’s claim he was first to recognize significance of famed photograph 51",
+    "image": "data:image/svg+xml;charset=utf-8,%0A%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23111827%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23374151%22/%3E%0A%20%20%20%20%3C/linearGradient%3E%0A%20%20%20%20%3Cfilter%20id%3D%22blur%22%3E%0A%20%20%20%20%20%20%3CfeGaussianBlur%20stdDeviation%3D%2230%22/%3E%0A%20%20%20%20%3C/filter%3E%0A%20%20%3C/defs%3E%0A%0A%20%20%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22url%28%23bg%29%22/%3E%0A%0A%20%20%3Ccircle%20cx%3D%221030%22%20cy%3D%22110%22%20r%3D%22170%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.18%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%20%20%3Ccircle%20cx%3D%22180%22%20cy%3D%22560%22%20r%3D%22150%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.16%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%0A%20%20%3Crect%20x%3D%2256%22%20y%3D%2252%22%20rx%3D%2218%22%20ry%3D%2218%22%20width%3D%22260%22%20height%3D%2254%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.08%29%22/%3E%0A%20%20%3Ctext%20x%3D%2284%22%20y%3D%2287%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2228%22%20fill%3D%22%23e5e7eb%22%3EScience%3C/text%3E%0A%0A%20%20%3Ctext%20x%3D%221010%22%20y%3D%22560%22%0A%20%20%20%20%20%20%20%20text-anchor%3D%22middle%22%0A%20%20%20%20%20%20%20%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%0A%20%20%20%20%20%20%20%20font-size%3D%22160%22%0A%20%20%20%20%20%20%20%20fill%3D%22%2360a5fa%22%0A%20%20%20%20%20%20%20%20opacity%3D%220.85%22%3E%0A%20%20%20%20%E2%80%A2%0A%20%20%3C/text%3E%0A%3C/svg%3E%0A",
+    "topic": "default",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
     "title": "Method for controlling brain cells with light wins Nobel",
     "link": "https://www.science.org/content/article/method-controlling-brain-cells-light-wins-nobel",
     "journal": "Science",
@@ -91,7 +104,33 @@
     "priority_score": 0
   },
   {
-    "title": "Medicine Nobel awarded for brain ‘switch’ that controls neurons with light: live updates",
+    "title": "The top cancer success stories of the past 50 years, by the numbers",
+    "link": "https://www.nature.com/articles/d41586-026-03157-1",
+    "journal": "Nature",
+    "source_type": "journal",
+    "date": "2026-10-05",
+    "summary": "Nature, Published online: 05 October 2026; doi:10.1038/d41586-026-03157-1 Outcomes have improved drastically in the United States for some forms of the disease, but those for others continue to lag.",
+    "abstract": "Nature, Published online: 05 October 2026; doi:10.1038/d41586-026-03157-1 Outcomes have improved drastically in the United States for some forms of the disease, but those for others continue to lag.",
+    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-03157-1/d41586-026-03157-1_53800280.jpg",
+    "topic": "default",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
+    "title": "‘What took them so long?’ This year’s medicine Nobel winner is overdue",
+    "link": "https://www.nature.com/articles/d41586-026-03094-z",
+    "journal": "Nature",
+    "source_type": "journal",
+    "date": "2026-10-05",
+    "summary": "Nature, Published online: 05 October 2026; doi:10.1038/d41586-026-03094-z Nature’s senior biology reporter Ewen Callaway reflects on today’s prize for optogenetics — which scientists have anticipated for years.",
+    "abstract": "Nature, Published online: 05 October 2026; doi:10.1038/d41586-026-03094-z Nature’s senior biology reporter Ewen Callaway reflects on today’s prize for optogenetics — which scientists have anticipated for years.",
+    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-03094-z/d41586-026-03094-z_53809040.jpg",
+    "topic": "default",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
+    "title": "Medicine Nobel awarded for brain ‘switch’ that controls neurons with light",
     "link": "https://www.nature.com/articles/d41586-026-03091-2",
     "journal": "Nature",
     "source_type": "journal",
@@ -125,6 +164,19 @@
     "summary": "Nature, Published online: 05 October 2026; doi:10.1038/d41586-026-03135-7 Twenty-five years after the US anthrax attacks, fears around AI are distracting people from seeing what’s needed to stay safe: a strong, regulated life-sciences sector.",
     "abstract": "Nature, Published online: 05 October 2026; doi:10.1038/d41586-026-03135-7 Twenty-five years after the US anthrax attacks, fears around AI are distracting people from seeing what’s needed to stay safe: a strong, regulated life-sciences sector.",
     "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-03135-7/d41586-026-03135-7_53723314.jpg",
+    "topic": "default",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
+    "title": "Global and regional reference curves for pain across the lifespan in 6.1 million individuals in 118 countries",
+    "link": "https://www.nature.com/articles/s41591-026-04696-w",
+    "journal": "Nature Medicine",
+    "source_type": "journal",
+    "date": "2026-10-05",
+    "summary": "Nature Medicine, Published online: 05 October 2026; doi:10.1038/s41591-026-04696-w Global age- and sex-specific reference curves for 11 pain sites, from 6.1 million people in 118 countries, found higher late-life pain in the lowest Human Development Index (HDI) countries and provide a tool for benchmarking pain assessments in other cohorts.",
+    "abstract": "Nature Medicine, Published online: 05 October 2026; doi:10.1038/s41591-026-04696-w Global age- and sex-specific reference curves for 11 pain sites, from 6.1 million people in 118 countries, found higher late-life pain in the lowest Human Development Index (HDI) countries and provide a tool for benchmarking pain assessments in other cohorts.",
+    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41591-026-04696-w/MediaObjects/41591_2026_4696_Fig1_HTML.png",
     "topic": "default",
     "topic_color": "#60a5fa",
     "priority_score": 0
@@ -268,32 +320,6 @@
     "summary": "Nature, Published online: 02 October 2026; doi:10.1038/d41586-026-03133-9 Take Nature’s quiz on female Nobel laureates in physics, chemistry and physiology or medicine.",
     "abstract": "Nature, Published online: 02 October 2026; doi:10.1038/d41586-026-03133-9 Take Nature’s quiz on female Nobel laureates in physics, chemistry and physiology or medicine.",
     "image": "https://www.nature.com/immersive/d41586-026-03133-9/img/d41586-026-03133-9.jpg",
-    "topic": "default",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
-    "title": "Von Neumann’s party",
-    "link": "https://www.nature.com/articles/d41586-026-02976-6",
-    "journal": "Nature",
-    "source_type": "journal",
-    "date": "2026-10-02",
-    "summary": "Nature, Published online: 02 October 2026; doi:10.1038/d41586-026-02976-6 A tricky question.",
-    "abstract": "Nature, Published online: 02 October 2026; doi:10.1038/d41586-026-02976-6 A tricky question.",
-    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-02976-6/d41586-026-02976-6_53718346.jpg",
-    "topic": "default",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
-    "title": "Prozac use for childhood depression skewed by single flawed medical trial",
-    "link": "https://www.nature.com/articles/d41586-026-02769-x",
-    "journal": "Nature",
-    "source_type": "journal",
-    "date": "2026-10-02",
-    "summary": "Nature, Published online: 02 October 2026; doi:10.1038/d41586-026-02769-x One small study in Iran swayed meta-analyses in favour of antidepressant use in children, researchers say.",
-    "abstract": "Nature, Published online: 02 October 2026; doi:10.1038/d41586-026-02769-x One small study in Iran swayed meta-analyses in favour of antidepressant use in children, researchers say.",
-    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-02769-x/d41586-026-02769-x_53794098.jpg",
     "topic": "default",
     "topic_color": "#60a5fa",
     "priority_score": 0
@@ -546,19 +572,6 @@
     "priority_score": 0
   },
   {
-    "title": "Five physics breakthroughs that should have won a Nobel Prize—but didn’t",
-    "link": "https://www.science.org/content/article/five-physics-breakthroughs-should-have-won-nobel-prize-didn-t",
-    "journal": "Science",
-    "source_type": "journal",
-    "date": "2026-09-30T06:00:00Z",
-    "summary": "How politics, bad timing, and skepticism left foundation stones of modern physics unrecognized",
-    "abstract": "How politics, bad timing, and skepticism left foundation stones of modern physics unrecognized",
-    "image": "data:image/svg+xml;charset=utf-8,%0A%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23111827%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23374151%22/%3E%0A%20%20%20%20%3C/linearGradient%3E%0A%20%20%20%20%3Cfilter%20id%3D%22blur%22%3E%0A%20%20%20%20%20%20%3CfeGaussianBlur%20stdDeviation%3D%2230%22/%3E%0A%20%20%20%20%3C/filter%3E%0A%20%20%3C/defs%3E%0A%0A%20%20%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22url%28%23bg%29%22/%3E%0A%0A%20%20%3Ccircle%20cx%3D%221030%22%20cy%3D%22110%22%20r%3D%22170%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.18%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%20%20%3Ccircle%20cx%3D%22180%22%20cy%3D%22560%22%20r%3D%22150%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.16%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%0A%20%20%3Crect%20x%3D%2256%22%20y%3D%2252%22%20rx%3D%2218%22%20ry%3D%2218%22%20width%3D%22260%22%20height%3D%2254%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.08%29%22/%3E%0A%20%20%3Ctext%20x%3D%2284%22%20y%3D%2287%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2228%22%20fill%3D%22%23e5e7eb%22%3EScience%3C/text%3E%0A%0A%20%20%3Ctext%20x%3D%221010%22%20y%3D%22560%22%0A%20%20%20%20%20%20%20%20text-anchor%3D%22middle%22%0A%20%20%20%20%20%20%20%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%0A%20%20%20%20%20%20%20%20font-size%3D%22160%22%0A%20%20%20%20%20%20%20%20fill%3D%22%2360a5fa%22%0A%20%20%20%20%20%20%20%20opacity%3D%220.85%22%3E%0A%20%20%20%20%E2%80%A2%0A%20%20%3C/text%3E%0A%3C/svg%3E%0A",
-    "topic": "default",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
     "title": "Intravenous hyaluronidase-expressing oncolytic adenovirus with chemotherapy in metastatic pancreatic cancer: a randomized phase 2b trial",
     "link": "https://www.nature.com/articles/s41591-026-04705-y",
     "journal": "Nature Medicine",
@@ -580,19 +593,6 @@
     "summary": "Proceedings of the National Academy of Sciences, Volume 123, Issue 39, September 2026.",
     "abstract": "Proceedings of the National Academy of Sciences, Volume 123, Issue 39, September 2026.",
     "image": "data:image/svg+xml;charset=utf-8,%0A%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23111827%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23374151%22/%3E%0A%20%20%20%20%3C/linearGradient%3E%0A%20%20%20%20%3Cfilter%20id%3D%22blur%22%3E%0A%20%20%20%20%20%20%3CfeGaussianBlur%20stdDeviation%3D%2230%22/%3E%0A%20%20%20%20%3C/filter%3E%0A%20%20%3C/defs%3E%0A%0A%20%20%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22url%28%23bg%29%22/%3E%0A%0A%20%20%3Ccircle%20cx%3D%221030%22%20cy%3D%22110%22%20r%3D%22170%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.18%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%20%20%3Ccircle%20cx%3D%22180%22%20cy%3D%22560%22%20r%3D%22150%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.16%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%0A%20%20%3Crect%20x%3D%2256%22%20y%3D%2252%22%20rx%3D%2218%22%20ry%3D%2218%22%20width%3D%22260%22%20height%3D%2254%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.08%29%22/%3E%0A%20%20%3Ctext%20x%3D%2284%22%20y%3D%2287%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2228%22%20fill%3D%22%23e5e7eb%22%3EPNAS%3C/text%3E%0A%0A%20%20%3Ctext%20x%3D%221010%22%20y%3D%22560%22%0A%20%20%20%20%20%20%20%20text-anchor%3D%22middle%22%0A%20%20%20%20%20%20%20%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%0A%20%20%20%20%20%20%20%20font-size%3D%22160%22%0A%20%20%20%20%20%20%20%20fill%3D%22%2360a5fa%22%0A%20%20%20%20%20%20%20%20opacity%3D%220.85%22%3E%0A%20%20%20%20%E2%80%A2%0A%20%20%3C/text%3E%0A%3C/svg%3E%0A",
-    "topic": "default",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
-    "title": "A synthetic lethal drug for microsatellite instability cancers",
-    "link": "https://www.nature.com/articles/s41591-026-04693-z",
-    "journal": "Nature Medicine",
-    "source_type": "journal",
-    "date": "2026-09-29",
-    "summary": "Nature Medicine, Published online: 29 September 2026; doi:10.1038/s41591-026-04693-z In a phase 1 trial, inhibition of the Werner syndrome helicase (WRN) enzyme exploits a new synthetic lethal vulnerability in cancers with microsatellite instability, offering a new way to target these tumors beyond immune checkpoint inhibition.",
-    "abstract": "Nature Medicine, Published online: 29 September 2026; doi:10.1038/s41591-026-04693-z In a phase 1 trial, inhibition of the Werner syndrome helicase (WRN) enzyme exploits a new synthetic lethal vulnerability in cancers with microsatellite instability, offering a new way to target these tumors beyond immune checkpoint inhibition.",
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41591-026-04693-z/MediaObjects/41591_2026_4693_Fig1_HTML.png",
     "topic": "default",
     "topic_color": "#60a5fa",
     "priority_score": 0
