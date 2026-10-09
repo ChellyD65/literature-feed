@@ -234,7 +234,7 @@
     "priority_score": 0
   },
   {
-    "title": "How to build a mouse: Embryo development captured in stunning detail",
+    "title": "How to build a mouse: embryo development captured in stunning detail",
     "link": "https://www.nature.com/articles/d41586-026-03193-x",
     "journal": "Nature",
     "source_type": "journal",
@@ -255,6 +255,19 @@
     "summary": "Nature, Published online: 08 October 2026; doi:10.1038/d41586-026-03045-8 A start-up company is testing whether stabilizing areas of rapidly eroding permafrost can prevent greenhouse-gas emissions.",
     "abstract": "Nature, Published online: 08 October 2026; doi:10.1038/d41586-026-03045-8 A start-up company is testing whether stabilizing areas of rapidly eroding permafrost can prevent greenhouse-gas emissions.",
     "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-03045-8/d41586-026-03045-8_53784966.jpg",
+    "topic": "default",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
+    "title": "Will AI scoop your science? Some researchers see a gloomy future",
+    "link": "https://www.nature.com/articles/d41586-026-03128-6",
+    "journal": "Nature",
+    "source_type": "journal",
+    "date": "2026-10-08",
+    "summary": "Nature, Published online: 08 October 2026; doi:10.1038/d41586-026-03128-6 Scientists worry that increasingly capable large language models will beat them to discoveries.",
+    "abstract": "Nature, Published online: 08 October 2026; doi:10.1038/d41586-026-03128-6 Scientists worry that increasingly capable large language models will beat them to discoveries.",
+    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-03128-6/d41586-026-03128-6_53800000.jpg",
     "topic": "default",
     "topic_color": "#60a5fa",
     "priority_score": 0
@@ -385,19 +398,6 @@
     "summary": "Nature, Published online: 07 October 2026; doi:10.1038/d41586-026-03208-7 Nature rounds up the Nobel prizes for science — plus, hints of the ancestral human gut microbiome.",
     "abstract": "Nature, Published online: 07 October 2026; doi:10.1038/d41586-026-03208-7 Nature rounds up the Nobel prizes for science — plus, hints of the ancestral human gut microbiome.",
     "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-03208-7/d41586-026-03208-7_53819394.jpg",
-    "topic": "default",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
-    "title": "NASA releases trove of Moon data from historic Artemis II flight",
-    "link": "https://www.nature.com/articles/d41586-026-03197-7",
-    "journal": "Nature",
-    "source_type": "journal",
-    "date": "2026-10-07",
-    "summary": "Nature, Published online: 07 October 2026; doi:10.1038/d41586-026-03197-7 Annotated images and more collected by the four astronauts could inform missions to the lunar surface.",
-    "abstract": "Nature, Published online: 07 October 2026; doi:10.1038/d41586-026-03197-7 Annotated images and more collected by the four astronauts could inform missions to the lunar surface.",
-    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-03197-7/d41586-026-03197-7_53820496.jpg",
     "topic": "default",
     "topic_color": "#60a5fa",
     "priority_score": 0
