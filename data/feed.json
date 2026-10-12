@@ -91,6 +91,32 @@
     "priority_score": 85
   },
   {
+    "title": "Zbtb44-mediated transcriptional repression critically regulates colonic inflammation",
+    "link": "https://www.nature.com/articles/s41590-026-02675-4",
+    "journal": "Nature Immunology",
+    "source_type": "journal",
+    "date": "2026-10-12",
+    "summary": "Nature Immunology, Published online: 12 October 2026; doi:10.1038/s41590-026-02675-4 Poojary and colleagues show that the transcription factor Zbtb44 suppresses colonic inflammation and epithelial cell damage by deregulated T cells.",
+    "abstract": "The regulatory mechanisms that maintain colonic immune homeostasis remain incompletely understood. Here we show that genetic deletion of Zbtb44, a previously uncharacterized member of the ZBTB transcription factor family, leads to spontaneous colitis and rectal prolapse. Zbtb44−/− T cells expressed increased IFN-γ, a pro-inflammatory cytokine strongly associated with human inflammatory bowel disease. Mechanistically, Zbtb44 undergoes SUMOylation, which facilitates its interaction with a conserved SUMO-interacting motif in T-bet, enabling binding to the IFN-γ promoter and enhancer to restrain chronic IFN-γ production. Together, these findings demonstrate that Zbtb44 is a key regulator of colonic inflammation, a role that could be exploited therapeutically. Poojary and colleagues show that the transcription factor Zbtb44 suppresses colonic inflammation and epithelial cell damage by deregulated T cells.",
+    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41590-026-02675-4/MediaObjects/41590_2026_2675_Fig1_HTML.png",
+    "topic": "inflammation",
+    "topic_color": "#fb7185",
+    "priority_score": 75
+  },
+  {
+    "title": "Genome-wide analysis of common structural variants in Alzheimer’s disease identifies a risk-associated regulatory CCG repeat in <i>FAM193B</i>",
+    "link": "https://www.nature.com/articles/s41593-026-02481-z",
+    "journal": "Nature Neuroscience",
+    "source_type": "journal",
+    "date": "2026-10-12",
+    "summary": "Nature Neuroscience, Published online: 12 October 2026; doi:10.1038/s41593-026-02481-z This study identifies common structural variants contributing to Alzheimer’s disease heritability. An expanded promoter CCG repeat increases FAM193B expression and disease risk, linking its expression to DNA damage and cell death pathways in neurons.",
+    "abstract": "Nature Neuroscience, Published online: 12 October 2026; doi:10.1038/s41593-026-02481-z This study identifies common structural variants contributing to Alzheimer’s disease heritability. An expanded promoter CCG repeat increases FAM193B expression and disease risk, linking its expression to DNA damage and cell death pathways in neurons.",
+    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41593-026-02481-z/MediaObjects/41593_2026_2481_Fig1_HTML.png",
+    "topic": "neurodegeneration",
+    "topic_color": "#fda4af",
+    "priority_score": 50
+  },
+  {
     "title": "A role for heavy chain-modification in protecting hyaluronan from free radical fragmentation during inflammation",
     "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2611716123?af=R",
     "journal": "PNAS",
@@ -128,6 +154,71 @@
     "topic": "inflammation",
     "topic_color": "#fb7185",
     "priority_score": 29
+  },
+  {
+    "title": "Keep medical doctors in academia — without them, health-care research will suffer",
+    "link": "https://www.nature.com/articles/d41586-026-03225-6",
+    "journal": "Nature",
+    "source_type": "journal",
+    "date": "2026-10-12",
+    "summary": "Nature, Published online: 12 October 2026; doi:10.1038/d41586-026-03225-6 Better career support and more funding stability is needed to retain this invaluable group of scientists.",
+    "abstract": "Nature, Published online: 12 October 2026; doi:10.1038/d41586-026-03225-6 Better career support and more funding stability is needed to retain this invaluable group of scientists.",
+    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-03225-6/d41586-026-03225-6_53820458.jpg",
+    "topic": "default",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
+    "title": "I told ChatGPT to ‘continue’ — it went too far",
+    "link": "https://www.nature.com/articles/d41586-026-02714-y",
+    "journal": "Nature",
+    "source_type": "journal",
+    "date": "2026-10-12",
+    "summary": "Nature, Published online: 12 October 2026; doi:10.1038/d41586-026-02714-y An ambiguous instruction caused the chatbot to send three e-mails from Ying Zhao’s connected account. The incident advanced Zhao’s project, but showed that chatbots need limits.",
+    "abstract": "Nature, Published online: 12 October 2026; doi:10.1038/d41586-026-02714-y An ambiguous instruction caused the chatbot to send three e-mails from Ying Zhao’s connected account. The incident advanced Zhao’s project, but showed that chatbots need limits.",
+    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-02714-y/d41586-026-02714-y_53180650.jpg",
+    "topic": "default",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
+    "title": "Alus harbor genetic variants that shape the human cortex",
+    "link": "https://www.nature.com/articles/s41593-026-02492-w",
+    "journal": "Nature Neuroscience",
+    "source_type": "journal",
+    "date": "2026-10-12",
+    "summary": "Nature Neuroscience, Published online: 12 October 2026; doi:10.1038/s41593-026-02492-w The genetic changes associated with development of the human cortex are difficult to test functionally, especially in the context of gene regulation. In this issue, Matoba et al. show that variants that shape human cortical structure are hiding inside Alu transposable elements, co-opting their inbuilt machinery to rewire regulatory networks in the developing brain.",
+    "abstract": "Nature Neuroscience, Published online: 12 October 2026; doi:10.1038/s41593-026-02492-w The genetic changes associated with development of the human cortex are difficult to test functionally, especially in the context of gene regulation. In this issue, Matoba et al. show that variants that shape human cortical structure are hiding inside Alu transposable elements, co-opting their inbuilt machinery to rewire regulatory networks in the developing brain.",
+    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41593-026-02492-w/MediaObjects/41593_2026_2492_Fig1_HTML.png",
+    "topic": "neuroscience",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
+    "title": "Investigating molecular and hemodynamic effects of LSD in the human brain",
+    "link": "https://www.nature.com/articles/s41593-026-02462-2",
+    "journal": "Nature Neuroscience",
+    "source_type": "journal",
+    "date": "2026-10-12",
+    "summary": "Nature Neuroscience, Published online: 12 October 2026; doi:10.1038/s41593-026-02462-2 Using simultaneous PET–MRI, McCulloch, Larsen and colleagues quantify LSD’s dose–occupancy relationship at the serotonin 2A receptor and reveal hemodynamic effects of LSD that contrast with those of psilocybin.",
+    "abstract": "Nature Neuroscience, Published online: 12 October 2026; doi:10.1038/s41593-026-02462-2 Using simultaneous PET–MRI, McCulloch, Larsen and colleagues quantify LSD’s dose–occupancy relationship at the serotonin 2A receptor and reveal hemodynamic effects of LSD that contrast with those of psilocybin.",
+    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41593-026-02462-2/MediaObjects/41593_2026_2462_Fig1_HTML.png",
+    "topic": "neuroscience",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
+    "title": "A health-system-scale, episode-resolved multimodal atlas of cancer cachexia",
+    "link": "https://www.nature.com/articles/s41591-026-04689-9",
+    "journal": "Nature Medicine",
+    "source_type": "journal",
+    "date": "2026-10-12",
+    "summary": "Nature Medicine, Published online: 12 October 2026; doi:10.1038/s41591-026-04689-9 Using longitudinal data from 52,236 patients with cancer, this study created a multimodal atlas of cancer cachexia, demonstrating that weight loss episodes are linked to systemic serologic signatures and specific tumor genotypes and can be predicted using integrated clinical and molecular data, enabling earlier identification.",
+    "abstract": "Nature Medicine, Published online: 12 October 2026; doi:10.1038/s41591-026-04689-9 Using longitudinal data from 52,236 patients with cancer, this study created a multimodal atlas of cancer cachexia, demonstrating that weight loss episodes are linked to systemic serologic signatures and specific tumor genotypes and can be predicted using integrated clinical and molecular data, enabling earlier identification.",
+    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41591-026-04689-9/MediaObjects/41591_2026_4689_Fig1_HTML.png",
+    "topic": "default",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
   },
   {
     "title": "Problems in 22 scientific fields had solutions hiding in plain sight. An AI has found them",
@@ -403,32 +494,6 @@
     "priority_score": 0
   },
   {
-    "title": "Women are talking about menopause — health systems must listen",
-    "link": "https://www.nature.com/articles/d41586-026-03218-5",
-    "journal": "Nature",
-    "source_type": "journal",
-    "date": "2026-10-08",
-    "summary": "Nature, Published online: 08 October 2026; doi:10.1038/d41586-026-03218-5 In the Arab world, lack of training, research and discussion about menopause is hampering care. Three changes can help.",
-    "abstract": "Nature, Published online: 08 October 2026; doi:10.1038/d41586-026-03218-5 In the Arab world, lack of training, research and discussion about menopause is hampering care. Three changes can help.",
-    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-03218-5/d41586-026-03218-5_53703956.jpg",
-    "topic": "default",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
-    "title": "US proposes $100,000 charge for international students to do post-graduate work",
-    "link": "https://www.nature.com/articles/d41586-026-02921-7",
-    "journal": "Nature",
-    "source_type": "journal",
-    "date": "2026-10-08",
-    "summary": "Nature, Published online: 08 October 2026; doi:10.1038/d41586-026-02921-7 Proposed rule would choke off a crucial STEM talent pipeline, policy specialists say",
-    "abstract": "Nature, Published online: 08 October 2026; doi:10.1038/d41586-026-02921-7 Proposed rule would choke off a crucial STEM talent pipeline, policy specialists say",
-    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-02921-7/d41586-026-02921-7_53717628.jpg",
-    "topic": "default",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
     "title": "Watch: What’s the deal with OpenAI’s massive dump of math papers?",
     "link": "https://www.science.org/content/article/watch-what-s-deal-openai-s-massive-dump-math-papers",
     "journal": "Science",
@@ -559,32 +624,6 @@
     "priority_score": 0
   },
   {
-    "title": "Oral small-molecule GLP-1RA safiglipron versus dapagliflozin in type 2 diabetes: a randomized, double-blind, active-comparator-controlled phase 3 trial",
-    "link": "https://www.nature.com/articles/s41591-026-04713-y",
-    "journal": "Nature Medicine",
-    "source_type": "journal",
-    "date": "2026-10-05",
-    "summary": "Nature Medicine, Published online: 05 October 2026; doi:10.1038/s41591-026-04713-y Once-daily oral safiglipron is non-inferior to dapagliflozin for HbA1c reduction at all tested doses and superior at 90 mg, with greater improvements in glycemic control, similar modest weight loss and an acceptable safety profile in adults with type 2 diabetes.",
-    "abstract": "Nature Medicine, Published online: 05 October 2026; doi:10.1038/s41591-026-04713-y Once-daily oral safiglipron is non-inferior to dapagliflozin for HbA1c reduction at all tested doses and superior at 90 mg, with greater improvements in glycemic control, similar modest weight loss and an acceptable safety profile in adults with type 2 diabetes.",
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41591-026-04713-y/MediaObjects/41591_2026_4713_Fig1_HTML.png",
-    "topic": "default",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
-    "title": "Glioblastoma treatment gels",
-    "link": "https://www.nature.com/articles/s41593-026-02479-7",
-    "journal": "Nature Neuroscience",
-    "source_type": "journal",
-    "date": "2026-10-02",
-    "summary": "Nature Neuroscience, Published online: 02 October 2026; doi:10.1038/s41593-026-02479-7 Glioblastoma treatment gels",
-    "abstract": "Nature Neuroscience, Published online: 02 October 2026; doi:10.1038/s41593-026-02479-7 Glioblastoma treatment gels",
-    "image": "data:image/svg+xml;charset=utf-8,%0A%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23111827%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23374151%22/%3E%0A%20%20%20%20%3C/linearGradient%3E%0A%20%20%20%20%3Cfilter%20id%3D%22blur%22%3E%0A%20%20%20%20%20%20%3CfeGaussianBlur%20stdDeviation%3D%2230%22/%3E%0A%20%20%20%20%3C/filter%3E%0A%20%20%3C/defs%3E%0A%0A%20%20%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22url%28%23bg%29%22/%3E%0A%0A%20%20%3Ccircle%20cx%3D%221030%22%20cy%3D%22110%22%20r%3D%22170%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.18%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%20%20%3Ccircle%20cx%3D%22180%22%20cy%3D%22560%22%20r%3D%22150%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.16%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%0A%20%20%3Crect%20x%3D%2256%22%20y%3D%2252%22%20rx%3D%2218%22%20ry%3D%2218%22%20width%3D%22260%22%20height%3D%2254%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.08%29%22/%3E%0A%20%20%3Ctext%20x%3D%2284%22%20y%3D%2287%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2228%22%20fill%3D%22%23e5e7eb%22%3ENature%20Neuroscience%3C/text%3E%0A%0A%20%20%3Ctext%20x%3D%221010%22%20y%3D%22560%22%0A%20%20%20%20%20%20%20%20text-anchor%3D%22middle%22%0A%20%20%20%20%20%20%20%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%0A%20%20%20%20%20%20%20%20font-size%3D%22160%22%0A%20%20%20%20%20%20%20%20fill%3D%22%2360a5fa%22%0A%20%20%20%20%20%20%20%20opacity%3D%220.85%22%3E%0A%20%20%20%20%E2%80%A2%0A%20%20%3C/text%3E%0A%3C/svg%3E%0A",
-    "topic": "neuroscience",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
     "title": "Susumu Tonegawa (1939–2026)",
     "link": "https://www.nature.com/articles/s41590-026-02660-x",
     "journal": "Nature Immunology",
@@ -594,32 +633,6 @@
     "abstract": "Nature Immunology, Published online: 02 October 2026; doi:10.1038/s41590-026-02660-x Susumu Tonegawa (1939–2026)",
     "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41590-026-02660-x/MediaObjects/41590_2026_2660_Figa_HTML.png",
     "topic": "immunology",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
-    "title": "Brain stimulation boosts CSF flow",
-    "link": "https://www.nature.com/articles/s41593-026-02477-9",
-    "journal": "Nature Neuroscience",
-    "source_type": "journal",
-    "date": "2026-10-01",
-    "summary": "Nature Neuroscience, Published online: 01 October 2026; doi:10.1038/s41593-026-02477-9 Brain stimulation boosts CSF flow",
-    "abstract": "Nature Neuroscience, Published online: 01 October 2026; doi:10.1038/s41593-026-02477-9 Brain stimulation boosts CSF flow",
-    "image": "data:image/svg+xml;charset=utf-8,%0A%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23111827%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23374151%22/%3E%0A%20%20%20%20%3C/linearGradient%3E%0A%20%20%20%20%3Cfilter%20id%3D%22blur%22%3E%0A%20%20%20%20%20%20%3CfeGaussianBlur%20stdDeviation%3D%2230%22/%3E%0A%20%20%20%20%3C/filter%3E%0A%20%20%3C/defs%3E%0A%0A%20%20%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22url%28%23bg%29%22/%3E%0A%0A%20%20%3Ccircle%20cx%3D%221030%22%20cy%3D%22110%22%20r%3D%22170%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.18%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%20%20%3Ccircle%20cx%3D%22180%22%20cy%3D%22560%22%20r%3D%22150%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.16%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%0A%20%20%3Crect%20x%3D%2256%22%20y%3D%2252%22%20rx%3D%2218%22%20ry%3D%2218%22%20width%3D%22260%22%20height%3D%2254%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.08%29%22/%3E%0A%20%20%3Ctext%20x%3D%2284%22%20y%3D%2287%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2228%22%20fill%3D%22%23e5e7eb%22%3ENature%20Neuroscience%3C/text%3E%0A%0A%20%20%3Ctext%20x%3D%221010%22%20y%3D%22560%22%0A%20%20%20%20%20%20%20%20text-anchor%3D%22middle%22%0A%20%20%20%20%20%20%20%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%0A%20%20%20%20%20%20%20%20font-size%3D%22160%22%0A%20%20%20%20%20%20%20%20fill%3D%22%2360a5fa%22%0A%20%20%20%20%20%20%20%20opacity%3D%220.85%22%3E%0A%20%20%20%20%E2%80%A2%0A%20%20%3C/text%3E%0A%3C/svg%3E%0A",
-    "topic": "neuroscience",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
-    "title": "WHOLISTIC tracks the entire body",
-    "link": "https://www.nature.com/articles/s41593-026-02478-8",
-    "journal": "Nature Neuroscience",
-    "source_type": "journal",
-    "date": "2026-10-01",
-    "summary": "Nature Neuroscience, Published online: 01 October 2026; doi:10.1038/s41593-026-02478-8 WHOLISTIC tracks the entire body",
-    "abstract": "Nature Neuroscience, Published online: 01 October 2026; doi:10.1038/s41593-026-02478-8 WHOLISTIC tracks the entire body",
-    "image": "data:image/svg+xml;charset=utf-8,%0A%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23111827%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23374151%22/%3E%0A%20%20%20%20%3C/linearGradient%3E%0A%20%20%20%20%3Cfilter%20id%3D%22blur%22%3E%0A%20%20%20%20%20%20%3CfeGaussianBlur%20stdDeviation%3D%2230%22/%3E%0A%20%20%20%20%3C/filter%3E%0A%20%20%3C/defs%3E%0A%0A%20%20%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22url%28%23bg%29%22/%3E%0A%0A%20%20%3Ccircle%20cx%3D%221030%22%20cy%3D%22110%22%20r%3D%22170%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.18%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%20%20%3Ccircle%20cx%3D%22180%22%20cy%3D%22560%22%20r%3D%22150%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.16%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%0A%20%20%3Crect%20x%3D%2256%22%20y%3D%2252%22%20rx%3D%2218%22%20ry%3D%2218%22%20width%3D%22260%22%20height%3D%2254%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.08%29%22/%3E%0A%20%20%3Ctext%20x%3D%2284%22%20y%3D%2287%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2228%22%20fill%3D%22%23e5e7eb%22%3ENature%20Neuroscience%3C/text%3E%0A%0A%20%20%3Ctext%20x%3D%221010%22%20y%3D%22560%22%0A%20%20%20%20%20%20%20%20text-anchor%3D%22middle%22%0A%20%20%20%20%20%20%20%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%0A%20%20%20%20%20%20%20%20font-size%3D%22160%22%0A%20%20%20%20%20%20%20%20fill%3D%22%2360a5fa%22%0A%20%20%20%20%20%20%20%20opacity%3D%220.85%22%3E%0A%20%20%20%20%E2%80%A2%0A%20%20%3C/text%3E%0A%3C/svg%3E%0A",
-    "topic": "neuroscience",
     "topic_color": "#60a5fa",
     "priority_score": 0
   },
@@ -698,19 +711,6 @@
     "abstract": "Proceedings of the National Academy of Sciences, Volume 123, Issue 40, October 2026. SignificanceCurrent antiobesity therapies reduce body weight but often induce loss of lean mass and fail to achieve durable metabolic improvements after treatment ends. We show that an adipose-targeted RNA therapeutic targeting ZFP423, a transcriptional ...",
     "image": "data:image/svg+xml;charset=utf-8,%0A%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23111827%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23374151%22/%3E%0A%20%20%20%20%3C/linearGradient%3E%0A%20%20%20%20%3Cfilter%20id%3D%22blur%22%3E%0A%20%20%20%20%20%20%3CfeGaussianBlur%20stdDeviation%3D%2230%22/%3E%0A%20%20%20%20%3C/filter%3E%0A%20%20%3C/defs%3E%0A%0A%20%20%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22url%28%23bg%29%22/%3E%0A%0A%20%20%3Ccircle%20cx%3D%221030%22%20cy%3D%22110%22%20r%3D%22170%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.18%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%20%20%3Ccircle%20cx%3D%22180%22%20cy%3D%22560%22%20r%3D%22150%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.16%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%0A%20%20%3Crect%20x%3D%2256%22%20y%3D%2252%22%20rx%3D%2218%22%20ry%3D%2218%22%20width%3D%22260%22%20height%3D%2254%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.08%29%22/%3E%0A%20%20%3Ctext%20x%3D%2284%22%20y%3D%2287%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2228%22%20fill%3D%22%23e5e7eb%22%3EPNAS%3C/text%3E%0A%0A%20%20%3Ctext%20x%3D%221010%22%20y%3D%22560%22%0A%20%20%20%20%20%20%20%20text-anchor%3D%22middle%22%0A%20%20%20%20%20%20%20%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%0A%20%20%20%20%20%20%20%20font-size%3D%22160%22%0A%20%20%20%20%20%20%20%20fill%3D%22%2360a5fa%22%0A%20%20%20%20%20%20%20%20opacity%3D%220.85%22%3E%0A%20%20%20%20%E2%80%A2%0A%20%20%3C/text%3E%0A%3C/svg%3E%0A",
     "topic": "default",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
-    "title": "Autoantibody source",
-    "link": "https://www.nature.com/articles/s41590-026-02676-3",
-    "journal": "Nature Immunology",
-    "source_type": "journal",
-    "date": "2026-09-25",
-    "summary": "Nature Immunology, Published online: 25 September 2026; doi:10.1038/s41590-026-02676-3 Autoantibody source",
-    "abstract": "Nature Immunology, Published online: 25 September 2026; doi:10.1038/s41590-026-02676-3 Autoantibody source",
-    "image": "data:image/svg+xml;charset=utf-8,%0A%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23111827%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23374151%22/%3E%0A%20%20%20%20%3C/linearGradient%3E%0A%20%20%20%20%3Cfilter%20id%3D%22blur%22%3E%0A%20%20%20%20%20%20%3CfeGaussianBlur%20stdDeviation%3D%2230%22/%3E%0A%20%20%20%20%3C/filter%3E%0A%20%20%3C/defs%3E%0A%0A%20%20%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22url%28%23bg%29%22/%3E%0A%0A%20%20%3Ccircle%20cx%3D%221030%22%20cy%3D%22110%22%20r%3D%22170%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.18%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%20%20%3Ccircle%20cx%3D%22180%22%20cy%3D%22560%22%20r%3D%22150%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.16%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%0A%20%20%3Crect%20x%3D%2256%22%20y%3D%2252%22%20rx%3D%2218%22%20ry%3D%2218%22%20width%3D%22260%22%20height%3D%2254%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.08%29%22/%3E%0A%20%20%3Ctext%20x%3D%2284%22%20y%3D%2287%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2228%22%20fill%3D%22%23e5e7eb%22%3ENature%20Immunology%3C/text%3E%0A%0A%20%20%3Ctext%20x%3D%221010%22%20y%3D%22560%22%0A%20%20%20%20%20%20%20%20text-anchor%3D%22middle%22%0A%20%20%20%20%20%20%20%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%0A%20%20%20%20%20%20%20%20font-size%3D%22160%22%0A%20%20%20%20%20%20%20%20fill%3D%22%2360a5fa%22%0A%20%20%20%20%20%20%20%20opacity%3D%220.85%22%3E%0A%20%20%20%20%E2%80%A2%0A%20%20%3C/text%3E%0A%3C/svg%3E%0A",
-    "topic": "immunology",
     "topic_color": "#60a5fa",
     "priority_score": 0
   },
