@@ -39,30 +39,30 @@
     "priority_score": 133
   },
   {
-    "title": "Epithelial antigen presentation shapes barrier memory",
-    "link": "https://www.nature.com/articles/s41590-026-02622-3",
+    "title": "Compartment-specific PPARδ activity controls the outcome of cancer–immune cell competition and immunotherapy efficacy",
+    "link": "https://www.nature.com/articles/s41590-026-02685-2",
     "journal": "Nature Immunology",
     "source_type": "journal",
-    "date": "2026-09-30",
-    "summary": "Nature Immunology, Published online: 30 September 2026; doi:10.1038/s41590-026-02622-3 Bacterial antigens injected into the cytosol of intestinal epithelial cells are preferentially presented by MHC II for induction of antigen-specific T cell responses and long-term epithelial cell-associated CD4 tissue-resident memory T cells.",
-    "abstract": "Nature Immunology, Published online: 30 September 2026; doi:10.1038/s41590-026-02622-3 Bacterial antigens injected into the cytosol of intestinal epithelial cells are preferentially presented by MHC II for induction of antigen-specific T cell responses and long-term epithelial cell-associated CD4 tissue-resident memory T cells.",
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41590-026-02622-3/MediaObjects/41590_2026_2622_Fig1_HTML.png",
+    "date": "2026-10-14",
+    "summary": "Nature Immunology, Published online: 14 October 2026; doi:10.1038/s41590-026-02685-2 Cancer cells and immune cells compete for metabolic fitness within the tumor microenvironment. Here the authors show that PPARδ is instrumental in this battle and that activating it in immune cells can boost immunotherapy in resistant mouse tumors and improve human chimeric antigen receptor T cells.",
+    "abstract": "Nature Immunology, Published online: 14 October 2026; doi:10.1038/s41590-026-02685-2 Cancer cells and immune cells compete for metabolic fitness within the tumor microenvironment. Here the authors show that PPARδ is instrumental in this battle and that activating it in immune cells can boost immunotherapy in resistant mouse tumors and improve human chimeric antigen receptor T cells.",
+    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41590-026-02685-2/MediaObjects/41590_2026_2685_Fig1_HTML.png",
     "topic": "Immunology",
     "topic_color": "#60a5fa",
-    "priority_score": 133
+    "priority_score": 93
   },
   {
-    "title": "Author Correction: Natural killer T cells and CD8<sup>+</sup> T cells are dispensable for T cell–dependent allergic airway inflammation",
-    "link": "https://www.nature.com/articles/s41591-026-04709-8",
+    "title": "Personalized neoantigen-targeting cancer vaccines in ovarian cancer: a phase 1 trial",
+    "link": "https://www.nature.com/articles/s41591-026-04717-8",
     "journal": "Nature Medicine",
     "source_type": "journal",
-    "date": "2026-10-08",
-    "summary": "Nature Medicine, Published online: 08 October 2026; doi:10.1038/s41591-026-04709-8 Author Correction: Natural killer T cells and CD8 + T cells are dispensable for T cell–dependent allergic airway inflammation",
-    "abstract": "Nature Medicine, Published online: 08 October 2026; doi:10.1038/s41591-026-04709-8 Author Correction: Natural killer T cells and CD8 + T cells are dispensable for T cell–dependent allergic airway inflammation",
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41591-026-04709-8/MediaObjects/41591_2026_4709_Fig1_HTML.png",
-    "topic": "inflammation",
-    "topic_color": "#fb7185",
-    "priority_score": 94
+    "date": "2026-10-14",
+    "summary": "Nature Medicine, Published online: 14 October 2026; doi:10.1038/s41591-026-04717-8 A phase 1 trial shows that treatment of patients with high-grade serous ovarian cancer with personalized neoantigen vaccines combined with PD-1 blockade was feasible and led to tumor-specific immune responses in many patients and putative mechanisms of resistance related to antigen presentation were identified via cell-free DNA analysis.",
+    "abstract": "Nature Medicine, Published online: 14 October 2026; doi:10.1038/s41591-026-04717-8 A phase 1 trial shows that treatment of patients with high-grade serous ovarian cancer with personalized neoantigen vaccines combined with PD-1 blockade was feasible and led to tumor-specific immune responses in many patients and putative mechanisms of resistance related to antigen presentation were identified via cell-free DNA analysis.",
+    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41591-026-04717-8/MediaObjects/41591_2026_4717_Fig1_HTML.png",
+    "topic": "Immunology",
+    "topic_color": "#60a5fa",
+    "priority_score": 93
   },
   {
     "title": "MicroRNA-driven regulation of immunosuppressive microenvironment in hepatocellular carcinoma",
@@ -130,17 +130,17 @@
     "priority_score": 41
   },
   {
-    "title": "Clonal blood reshapes its home",
-    "link": "https://www.nature.com/articles/s41590-026-02673-6",
-    "journal": "Nature Immunology",
+    "title": "Simons Observatory takes a closer look at the infant universe",
+    "link": "https://www.science.org/content/article/simons-observatory-takes-closer-look-infant-universe",
+    "journal": "Science",
     "source_type": "journal",
-    "date": "2026-09-30",
-    "summary": "Nature Immunology, Published online: 30 September 2026; doi:10.1038/s41590-026-02673-6 Clonal hematopoiesis does more than alter blood cells. Fibroblast-rich inflammatory pockets in bone marrow may help mutant stem cells persist and set the stage for disease.",
-    "abstract": "Nature Immunology, Published online: 30 September 2026; doi:10.1038/s41590-026-02673-6 Clonal hematopoiesis does more than alter blood cells. Fibroblast-rich inflammatory pockets in bone marrow may help mutant stem cells persist and set the stage for disease.",
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41590-026-02673-6/MediaObjects/41590_2026_2673_Fig1_HTML.png",
-    "topic": "inflammation",
-    "topic_color": "#fb7185",
-    "priority_score": 29
+    "date": "2026-10-14T05:00:00Z",
+    "summary": "New facility in Chile will hunt for signs of cosmic inflation while using the microwave background to discover galaxy clusters",
+    "abstract": "New facility in Chile will hunt for signs of cosmic inflation while using the microwave background to discover galaxy clusters",
+    "image": "data:image/svg+xml;charset=utf-8,%0A%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23111827%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23374151%22/%3E%0A%20%20%20%20%3C/linearGradient%3E%0A%20%20%20%20%3Cfilter%20id%3D%22blur%22%3E%0A%20%20%20%20%20%20%3CfeGaussianBlur%20stdDeviation%3D%2230%22/%3E%0A%20%20%20%20%3C/filter%3E%0A%20%20%3C/defs%3E%0A%0A%20%20%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22url%28%23bg%29%22/%3E%0A%0A%20%20%3Ccircle%20cx%3D%221030%22%20cy%3D%22110%22%20r%3D%22170%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.18%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%20%20%3Ccircle%20cx%3D%22180%22%20cy%3D%22560%22%20r%3D%22150%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.16%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%0A%20%20%3Crect%20x%3D%2256%22%20y%3D%2252%22%20rx%3D%2218%22%20ry%3D%2218%22%20width%3D%22260%22%20height%3D%2254%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.08%29%22/%3E%0A%20%20%3Ctext%20x%3D%2284%22%20y%3D%2287%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2228%22%20fill%3D%22%23e5e7eb%22%3EScience%3C/text%3E%0A%0A%20%20%3Ctext%20x%3D%221010%22%20y%3D%22560%22%0A%20%20%20%20%20%20%20%20text-anchor%3D%22middle%22%0A%20%20%20%20%20%20%20%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%0A%20%20%20%20%20%20%20%20font-size%3D%22160%22%0A%20%20%20%20%20%20%20%20fill%3D%22%2360a5fa%22%0A%20%20%20%20%20%20%20%20opacity%3D%220.85%22%3E%0A%20%20%20%20%E2%80%A2%0A%20%20%3C/text%3E%0A%3C/svg%3E%0A",
+    "topic": "default",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
   },
   {
     "title": "China’s AI research is booming. Where is it headed?",
@@ -164,6 +164,58 @@
     "summary": "Nature, Published online: 14 October 2026; doi:10.1038/d41586-026-03222-9 The nation is on a trajectory to lead the world in science, a development that will reshape technological advancement, innovation and the balance of global power.",
     "abstract": "Nature, Published online: 14 October 2026; doi:10.1038/d41586-026-03222-9 The nation is on a trajectory to lead the world in science, a development that will reshape technological advancement, innovation and the balance of global power.",
     "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-03222-9/d41586-026-03222-9_53815520.jpg",
+    "topic": "default",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
+    "title": "Ring attractor networks go full circle",
+    "link": "https://www.nature.com/articles/s41593-026-02394-x",
+    "journal": "Nature Neuroscience",
+    "source_type": "journal",
+    "date": "2026-10-14",
+    "summary": "Nature Neuroscience, Published online: 14 October 2026; doi:10.1038/s41593-026-02394-x Clark et al. demonstrate that heterogeneous data-driven models implement head-direction selectivity through the same dynamical principles as classical ring networks. In doing so, the authors reconcile biological realism with theoretical simplicity, unifying existing frameworks and broadening the space of connectivity structures to be searched in data.",
+    "abstract": "Nature Neuroscience, Published online: 14 October 2026; doi:10.1038/s41593-026-02394-x Clark et al. demonstrate that heterogeneous data-driven models implement head-direction selectivity through the same dynamical principles as classical ring networks. In doing so, the authors reconcile biological realism with theoretical simplicity, unifying existing frameworks and broadening the space of connectivity structures to be searched in data.",
+    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41593-026-02394-x/MediaObjects/41593_2026_2394_Fig1_HTML.png",
+    "topic": "neuroscience",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
+    "title": "Symmetries and continuous attractors in disordered neural circuits",
+    "link": "https://www.nature.com/articles/s41593-026-02452-4",
+    "journal": "Nature Neuroscience",
+    "source_type": "journal",
+    "date": "2026-10-14",
+    "summary": "Nature Neuroscience, Published online: 14 October 2026; doi:10.1038/s41593-026-02452-4 Head-direction cells are far more disorderly than classical continuous-attractor models allow. Clark et al. show that this disorder is nevertheless compatible with these models and that the underlying connectivity matrix hides a circular symmetry.",
+    "abstract": "Nature Neuroscience, Published online: 14 October 2026; doi:10.1038/s41593-026-02452-4 Head-direction cells are far more disorderly than classical continuous-attractor models allow. Clark et al. show that this disorder is nevertheless compatible with these models and that the underlying connectivity matrix hides a circular symmetry.",
+    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41593-026-02452-4/MediaObjects/41593_2026_2452_Fig1_HTML.png",
+    "topic": "neuroscience",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
+    "title": "Evidence for maternal autoantibodies in the pathogenesis of preterm birth",
+    "link": "https://www.nature.com/articles/s41590-026-02689-y",
+    "journal": "Nature Immunology",
+    "source_type": "journal",
+    "date": "2026-10-14",
+    "summary": "Nature Immunology, Published online: 14 October 2026; doi:10.1038/s41590-026-02689-y Preterm labor is linked to breakdown of maternal–fetal tolerance. Rackaityte et al. report that some pregnant mothers harbor maternal autoantibodies, including those against IL-1 receptor antagonist, that may contribute to preterm delivery.",
+    "abstract": "Nature Immunology, Published online: 14 October 2026; doi:10.1038/s41590-026-02689-y Preterm labor is linked to breakdown of maternal–fetal tolerance. Rackaityte et al. report that some pregnant mothers harbor maternal autoantibodies, including those against IL-1 receptor antagonist, that may contribute to preterm delivery.",
+    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41590-026-02689-y/MediaObjects/41590_2026_2689_Fig1_HTML.png",
+    "topic": "immunology",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
+    "title": "Talazoparib plus enzalutamide in high-volume metastatic hormone-naive prostate cancer: a randomized phase 2 trial",
+    "link": "https://www.nature.com/articles/s41591-026-04671-5",
+    "journal": "Nature Medicine",
+    "source_type": "journal",
+    "date": "2026-10-14",
+    "summary": "Nature Medicine, Published online: 14 October 2026; doi:10.1038/s41591-026-04671-5 In the randomized multicenter phase 2 ZZ-FIRST trial, patients with high-volume metastatic hormone-sensitive prostate cancer treated with poly(ADP-ribose) polymerase inhibitor talazoparib combined with androgen receptor inhibitor enzalutamide had an improved prostate-specific antigen response compared with enzalutamide alone, and spatial transcriptomic analyses of paired biopsies linked AR inhibition-induced suppression of HRR-related programs to proliferation arrest rather than functional HRR deficiency.",
+    "abstract": "Nature Medicine, Published online: 14 October 2026; doi:10.1038/s41591-026-04671-5 In the randomized multicenter phase 2 ZZ-FIRST trial, patients with high-volume metastatic hormone-sensitive prostate cancer treated with poly(ADP-ribose) polymerase inhibitor talazoparib combined with androgen receptor inhibitor enzalutamide had an improved prostate-specific antigen response compared with enzalutamide alone, and spatial transcriptomic analyses of paired biopsies linked AR inhibition-induced suppression of HRR-related programs to proliferation arrest rather than functional HRR deficiency.",
+    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41591-026-04671-5/MediaObjects/41591_2026_4671_Fig1_HTML.png",
     "topic": "default",
     "topic_color": "#60a5fa",
     "priority_score": 0
@@ -364,14 +416,14 @@
     "priority_score": 0
   },
   {
-    "title": "Is this idea from AI or humans? A detector claims it can tell",
-    "link": "https://www.nature.com/articles/d41586-026-03247-0",
+    "title": "Whistleblowing in universities is ‘extraordinarily risky’: stronger protections are needed",
+    "link": "https://www.nature.com/articles/d41586-026-03221-w",
     "journal": "Nature",
     "source_type": "journal",
     "date": "2026-10-13",
-    "summary": "Nature, Published online: 13 October 2026; doi:10.1038/d41586-026-03247-0 A tool called IdeaLens helps to judge whether concepts — rather than just writing — in scientific papers are AI-generated.",
-    "abstract": "Nature, Published online: 13 October 2026; doi:10.1038/d41586-026-03247-0 A tool called IdeaLens helps to judge whether concepts — rather than just writing — in scientific papers are AI-generated.",
-    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-03247-0/d41586-026-03247-0_53845688.jpg",
+    "summary": "Nature, Published online: 13 October 2026; doi:10.1038/d41586-026-03221-w Speaking out against misconduct is challenging without external adjudicators.",
+    "abstract": "Nature, Published online: 13 October 2026; doi:10.1038/d41586-026-03221-w Speaking out against misconduct is challenging without external adjudicators.",
+    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-03221-w/d41586-026-03221-w_53198794.jpg",
     "topic": "default",
     "topic_color": "#60a5fa",
     "priority_score": 0
@@ -520,19 +572,6 @@
     "priority_score": 0
   },
   {
-    "title": "Department of Energy expands ‘Genesis Mission’ to boost AI, awarding larger grants",
-    "link": "https://www.science.org/content/article/department-energy-expands-genesis-mission-boost-ai-awarding-larger-grants",
-    "journal": "Science",
-    "source_type": "journal",
-    "date": "2026-10-09T03:21:00Z",
-    "summary": "Department will also initiate new fellowship program to shorten path to Ph.D.",
-    "abstract": "Department will also initiate new fellowship program to shorten path to Ph.D.",
-    "image": "data:image/svg+xml;charset=utf-8,%0A%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23111827%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23374151%22/%3E%0A%20%20%20%20%3C/linearGradient%3E%0A%20%20%20%20%3Cfilter%20id%3D%22blur%22%3E%0A%20%20%20%20%20%20%3CfeGaussianBlur%20stdDeviation%3D%2230%22/%3E%0A%20%20%20%20%3C/filter%3E%0A%20%20%3C/defs%3E%0A%0A%20%20%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22url%28%23bg%29%22/%3E%0A%0A%20%20%3Ccircle%20cx%3D%221030%22%20cy%3D%22110%22%20r%3D%22170%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.18%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%20%20%3Ccircle%20cx%3D%22180%22%20cy%3D%22560%22%20r%3D%22150%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.16%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%0A%20%20%3Crect%20x%3D%2256%22%20y%3D%2252%22%20rx%3D%2218%22%20ry%3D%2218%22%20width%3D%22260%22%20height%3D%2254%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.08%29%22/%3E%0A%20%20%3Ctext%20x%3D%2284%22%20y%3D%2287%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2228%22%20fill%3D%22%23e5e7eb%22%3EScience%3C/text%3E%0A%0A%20%20%3Ctext%20x%3D%221010%22%20y%3D%22560%22%0A%20%20%20%20%20%20%20%20text-anchor%3D%22middle%22%0A%20%20%20%20%20%20%20%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%0A%20%20%20%20%20%20%20%20font-size%3D%22160%22%0A%20%20%20%20%20%20%20%20fill%3D%22%2360a5fa%22%0A%20%20%20%20%20%20%20%20opacity%3D%220.85%22%3E%0A%20%20%20%20%E2%80%A2%0A%20%20%3C/text%3E%0A%3C/svg%3E%0A",
-    "topic": "default",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
     "title": "Addendum: Aberrant epithelial <i>GREM1</i> expression initiates colonic tumorigenesis from cells outside the stem cell niche",
     "link": "https://www.nature.com/articles/s41591-026-04736-5",
     "journal": "Nature Medicine",
@@ -546,19 +585,6 @@
     "priority_score": 0
   },
   {
-    "title": "AI-assisted scoping review of code sharing in clinical prediction model research",
-    "link": "https://www.nature.com/articles/s41591-026-04691-1",
-    "journal": "Nature Medicine",
-    "source_type": "journal",
-    "date": "2026-10-09",
-    "summary": "Nature Medicine, Published online: 09 October 2026; doi:10.1038/s41591-026-04691-1 An analysis of code availability in the open-access published literature shows that code sharing in clinical prediction models remains limited and reveals significant variability in practices and documentation quality.",
-    "abstract": "Nature Medicine, Published online: 09 October 2026; doi:10.1038/s41591-026-04691-1 An analysis of code availability in the open-access published literature shows that code sharing in clinical prediction models remains limited and reveals significant variability in practices and documentation quality.",
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41591-026-04691-1/MediaObjects/41591_2026_4691_Fig1_HTML.png",
-    "topic": "default",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
     "title": "Modality-specific reactive and predictive responses in the human superior colliculus",
     "link": "https://www.nature.com/articles/s41593-026-02480-0",
     "journal": "Nature Neuroscience",
@@ -567,19 +593,6 @@
     "summary": "Nature Neuroscience, Published online: 07 October 2026; doi:10.1038/s41593-026-02480-0 Chen et al. use 7-Tesla fMRI to show that the human superior colliculus has modality-specific, depth-dependent activity prior to visual or somatosensory events, resembling its response to actual stimulation.",
     "abstract": "Nature Neuroscience, Published online: 07 October 2026; doi:10.1038/s41593-026-02480-0 Chen et al. use 7-Tesla fMRI to show that the human superior colliculus has modality-specific, depth-dependent activity prior to visual or somatosensory events, resembling its response to actual stimulation.",
     "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41593-026-02480-0/MediaObjects/41593_2026_2480_Fig1_HTML.png",
-    "topic": "neuroscience",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
-    "title": "Astrocytes regulate axonal mitochondrial transport deficits in C9ORF72 amyotrophic lateral sclerosis motor neurons",
-    "link": "https://www.nature.com/articles/s41593-026-02464-0",
-    "journal": "Nature Neuroscience",
-    "source_type": "journal",
-    "date": "2026-10-07",
-    "summary": "Nature Neuroscience, Published online: 07 October 2026; doi:10.1038/s41593-026-02464-0 Astrocytes regulate axonal mitochondrial transport in motor neurons through mitochondrial bioenergetics, a process disrupted in C9ORF72-mediated amyotrophic lateral sclerosis. Enhancing astrocytic mitochondrial metabolism restores transport deficits.",
-    "abstract": "Nature Neuroscience, Published online: 07 October 2026; doi:10.1038/s41593-026-02464-0 Astrocytes regulate axonal mitochondrial transport in motor neurons through mitochondrial bioenergetics, a process disrupted in C9ORF72-mediated amyotrophic lateral sclerosis. Enhancing astrocytic mitochondrial metabolism restores transport deficits.",
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41593-026-02464-0/MediaObjects/41593_2026_2464_Fig1_HTML.png",
     "topic": "neuroscience",
     "topic_color": "#60a5fa",
     "priority_score": 0
@@ -607,19 +620,6 @@
     "abstract": "Proceedings of the National Academy of Sciences, Volume 123, Issue 40, October 2026.",
     "image": "data:image/svg+xml;charset=utf-8,%0A%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23111827%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23374151%22/%3E%0A%20%20%20%20%3C/linearGradient%3E%0A%20%20%20%20%3Cfilter%20id%3D%22blur%22%3E%0A%20%20%20%20%20%20%3CfeGaussianBlur%20stdDeviation%3D%2230%22/%3E%0A%20%20%20%20%3C/filter%3E%0A%20%20%3C/defs%3E%0A%0A%20%20%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22url%28%23bg%29%22/%3E%0A%0A%20%20%3Ccircle%20cx%3D%221030%22%20cy%3D%22110%22%20r%3D%22170%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.18%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%20%20%3Ccircle%20cx%3D%22180%22%20cy%3D%22560%22%20r%3D%22150%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.16%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%0A%20%20%3Crect%20x%3D%2256%22%20y%3D%2252%22%20rx%3D%2218%22%20ry%3D%2218%22%20width%3D%22260%22%20height%3D%2254%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.08%29%22/%3E%0A%20%20%3Ctext%20x%3D%2284%22%20y%3D%2287%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2228%22%20fill%3D%22%23e5e7eb%22%3EPNAS%3C/text%3E%0A%0A%20%20%3Ctext%20x%3D%221010%22%20y%3D%22560%22%0A%20%20%20%20%20%20%20%20text-anchor%3D%22middle%22%0A%20%20%20%20%20%20%20%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%0A%20%20%20%20%20%20%20%20font-size%3D%22160%22%0A%20%20%20%20%20%20%20%20fill%3D%22%2360a5fa%22%0A%20%20%20%20%20%20%20%20opacity%3D%220.85%22%3E%0A%20%20%20%20%E2%80%A2%0A%20%20%3C/text%3E%0A%3C/svg%3E%0A",
     "topic": "default",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
-    "title": "Publisher Correction: A population code for semantics in human hippocampus",
-    "link": "https://www.nature.com/articles/s41593-026-02501-y",
-    "journal": "Nature Neuroscience",
-    "source_type": "journal",
-    "date": "2026-10-06",
-    "summary": "Nature Neuroscience, Published online: 06 October 2026; doi:10.1038/s41593-026-02501-y Publisher Correction: A population code for semantics in human hippocampus",
-    "abstract": "Nature Neuroscience, Published online: 06 October 2026; doi:10.1038/s41593-026-02501-y Publisher Correction: A population code for semantics in human hippocampus",
-    "image": "data:image/svg+xml;charset=utf-8,%0A%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23111827%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23374151%22/%3E%0A%20%20%20%20%3C/linearGradient%3E%0A%20%20%20%20%3Cfilter%20id%3D%22blur%22%3E%0A%20%20%20%20%20%20%3CfeGaussianBlur%20stdDeviation%3D%2230%22/%3E%0A%20%20%20%20%3C/filter%3E%0A%20%20%3C/defs%3E%0A%0A%20%20%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22url%28%23bg%29%22/%3E%0A%0A%20%20%3Ccircle%20cx%3D%221030%22%20cy%3D%22110%22%20r%3D%22170%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.18%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%20%20%3Ccircle%20cx%3D%22180%22%20cy%3D%22560%22%20r%3D%22150%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.16%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%0A%20%20%3Crect%20x%3D%2256%22%20y%3D%2252%22%20rx%3D%2218%22%20ry%3D%2218%22%20width%3D%22260%22%20height%3D%2254%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.08%29%22/%3E%0A%20%20%3Ctext%20x%3D%2284%22%20y%3D%2287%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2228%22%20fill%3D%22%23e5e7eb%22%3ENature%20Neuroscience%3C/text%3E%0A%0A%20%20%3Ctext%20x%3D%221010%22%20y%3D%22560%22%0A%20%20%20%20%20%20%20%20text-anchor%3D%22middle%22%0A%20%20%20%20%20%20%20%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%0A%20%20%20%20%20%20%20%20font-size%3D%22160%22%0A%20%20%20%20%20%20%20%20fill%3D%22%2360a5fa%22%0A%20%20%20%20%20%20%20%20opacity%3D%220.85%22%3E%0A%20%20%20%20%E2%80%A2%0A%20%20%3C/text%3E%0A%3C/svg%3E%0A",
-    "topic": "neuroscience",
     "topic_color": "#60a5fa",
     "priority_score": 0
   },
