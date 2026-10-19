@@ -1,18 +1,5 @@
 [
   {
-    "title": "Author Correction: T cell-mediated microglial activation triggers myelin pathology in a mouse model of amyloidosis",
-    "link": "https://www.nature.com/articles/s41593-026-02502-x",
-    "journal": "Nature Neuroscience",
-    "source_type": "journal",
-    "date": "2026-10-13",
-    "summary": "Nature Neuroscience, Published online: 13 October 2026; doi:10.1038/s41593-026-02502-x Author Correction: T cell-mediated microglial activation triggers myelin pathology in a mouse model of amyloidosis",
-    "abstract": "Nature Neuroscience, Published online: 13 October 2026; doi:10.1038/s41593-026-02502-x Author Correction: T cell-mediated microglial activation triggers myelin pathology in a mouse model of amyloidosis",
-    "image": "data:image/svg+xml;charset=utf-8,%0A%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%230f172a%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%230b3b5a%22/%3E%0A%20%20%20%20%3C/linearGradient%3E%0A%20%20%20%20%3Cfilter%20id%3D%22blur%22%3E%0A%20%20%20%20%20%20%3CfeGaussianBlur%20stdDeviation%3D%2230%22/%3E%0A%20%20%20%20%3C/filter%3E%0A%20%20%3C/defs%3E%0A%0A%20%20%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22url%28%23bg%29%22/%3E%0A%0A%20%20%3Ccircle%20cx%3D%221030%22%20cy%3D%22110%22%20r%3D%22170%22%20fill%3D%22%2338bdf8%22%20opacity%3D%220.18%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%20%20%3Ccircle%20cx%3D%22180%22%20cy%3D%22560%22%20r%3D%22150%22%20fill%3D%22%2338bdf8%22%20opacity%3D%220.16%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%0A%20%20%3Crect%20x%3D%2256%22%20y%3D%2252%22%20rx%3D%2218%22%20ry%3D%2218%22%20width%3D%22260%22%20height%3D%2254%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.08%29%22/%3E%0A%20%20%3Ctext%20x%3D%2284%22%20y%3D%2287%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2228%22%20fill%3D%22%23e5e7eb%22%3ENature%20Neuroscience%3C/text%3E%0A%0A%20%20%3Ctext%20x%3D%221010%22%20y%3D%22560%22%0A%20%20%20%20%20%20%20%20text-anchor%3D%22middle%22%0A%20%20%20%20%20%20%20%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%0A%20%20%20%20%20%20%20%20font-size%3D%22160%22%0A%20%20%20%20%20%20%20%20fill%3D%22%2338bdf8%22%0A%20%20%20%20%20%20%20%20opacity%3D%220.85%22%3E%0A%20%20%20%20%E2%9C%B6%0A%20%20%3C/text%3E%0A%3C/svg%3E%0A",
-    "topic": "microglia",
-    "topic_color": "#38bdf8",
-    "priority_score": 225
-  },
-  {
     "title": "A reality check for autoimmune CAR T cells",
     "link": "https://www.nature.com/articles/d41591-026-00052-0",
     "journal": "Nature Medicine",
@@ -102,6 +89,32 @@
     "topic": "inflammation",
     "topic_color": "#fb7185",
     "priority_score": 29
+  },
+  {
+    "title": "Spatiotemporal remodeling in habenula marks the onset of depression-related phenotypes",
+    "link": "https://www.nature.com/articles/s41593-026-02488-6",
+    "journal": "Nature Neuroscience",
+    "source_type": "journal",
+    "date": "2026-10-19",
+    "summary": "Nature Neuroscience, Published online: 19 October 2026; doi:10.1038/s41593-026-02488-6 Molina et al. show in chronically stressed mice that neuronal and transcriptional adaptations in the habenula coincide with the onset of depressive phenotype, guiding temporally defined antidepressant interventions.",
+    "abstract": "Nature Neuroscience, Published online: 19 October 2026; doi:10.1038/s41593-026-02488-6 Molina et al. show in chronically stressed mice that neuronal and transcriptional adaptations in the habenula coincide with the onset of depressive phenotype, guiding temporally defined antidepressant interventions.",
+    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41593-026-02488-6/MediaObjects/41593_2026_2488_Fig1_HTML.png",
+    "topic": "neuroscience",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
+    "title": "An amygdala-mediated simulation-to-decision cascade aligns interbrain dynamics to solve social dilemmas",
+    "link": "https://www.nature.com/articles/s41593-026-02473-z",
+    "journal": "Nature Neuroscience",
+    "source_type": "journal",
+    "date": "2026-10-19",
+    "summary": "Nature Neuroscience, Published online: 19 October 2026; doi:10.1038/s41593-026-02473-z Using simultaneous intracranial recordings from interacting human brains, Ma et al. show that mutual cooperation emerges when amygdala activity aligns across partners and predictions about a partner guide each person’s own decisions.",
+    "abstract": "Nature Neuroscience, Published online: 19 October 2026; doi:10.1038/s41593-026-02473-z Using simultaneous intracranial recordings from interacting human brains, Ma et al. show that mutual cooperation emerges when amygdala activity aligns across partners and predictions about a partner guide each person’s own decisions.",
+    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41593-026-02473-z/MediaObjects/41593_2026_2473_Fig1_HTML.png",
+    "topic": "neuroscience",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
   },
   {
     "title": "How scientists domesticated a killer bacterium",
@@ -502,19 +515,6 @@
     "summary": "Nature Neuroscience, Published online: 14 October 2026; doi:10.1038/s41593-026-02394-x Clark et al. demonstrate that heterogeneous data-driven models implement head-direction selectivity through the same dynamical principles as classical ring networks. In doing so, the authors reconcile biological realism with theoretical simplicity, unifying existing frameworks and broadening the space of connectivity structures to be searched in data.",
     "abstract": "Nature Neuroscience, Published online: 14 October 2026; doi:10.1038/s41593-026-02394-x Clark et al. demonstrate that heterogeneous data-driven models implement head-direction selectivity through the same dynamical principles as classical ring networks. In doing so, the authors reconcile biological realism with theoretical simplicity, unifying existing frameworks and broadening the space of connectivity structures to be searched in data.",
     "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41593-026-02394-x/MediaObjects/41593_2026_2394_Fig1_HTML.png",
-    "topic": "neuroscience",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
-    "title": "Symmetries and continuous attractors in disordered neural circuits",
-    "link": "https://www.nature.com/articles/s41593-026-02452-4",
-    "journal": "Nature Neuroscience",
-    "source_type": "journal",
-    "date": "2026-10-14",
-    "summary": "Nature Neuroscience, Published online: 14 October 2026; doi:10.1038/s41593-026-02452-4 Head-direction cells are far more disorderly than classical continuous-attractor models allow. Clark et al. show that this disorder is nevertheless compatible with these models and that the underlying connectivity matrix hides a circular symmetry.",
-    "abstract": "Nature Neuroscience, Published online: 14 October 2026; doi:10.1038/s41593-026-02452-4 Head-direction cells are far more disorderly than classical continuous-attractor models allow. Clark et al. show that this disorder is nevertheless compatible with these models and that the underlying connectivity matrix hides a circular symmetry.",
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41593-026-02452-4/MediaObjects/41593_2026_2452_Fig1_HTML.png",
     "topic": "neuroscience",
     "topic_color": "#60a5fa",
     "priority_score": 0
