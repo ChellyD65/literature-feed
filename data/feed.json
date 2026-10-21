@@ -52,6 +52,19 @@
     "priority_score": 81
   },
   {
+    "title": "With blood test looming, government puts $41 million into clinical trials to ward off Alzheimer’s disease",
+    "link": "https://www.science.org/content/article/blood-test-looming-government-puts-41-million-clinical-trials-ward-alzheimer-s-disease",
+    "journal": "Science",
+    "source_type": "journal",
+    "date": "2026-10-21T04:05:00Z",
+    "summary": "Grant from Advanced Research Projects Agency for Health will expand testing of supplements and approved drugs to prevent dementia in people at risk",
+    "abstract": "Grant from Advanced Research Projects Agency for Health will expand testing of supplements and approved drugs to prevent dementia in people at risk",
+    "image": "data:image/svg+xml;charset=utf-8,%0A%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%2327272a%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2352525b%22/%3E%0A%20%20%20%20%3C/linearGradient%3E%0A%20%20%20%20%3Cfilter%20id%3D%22blur%22%3E%0A%20%20%20%20%20%20%3CfeGaussianBlur%20stdDeviation%3D%2230%22/%3E%0A%20%20%20%20%3C/filter%3E%0A%20%20%3C/defs%3E%0A%0A%20%20%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22url%28%23bg%29%22/%3E%0A%0A%20%20%3Ccircle%20cx%3D%221030%22%20cy%3D%22110%22%20r%3D%22170%22%20fill%3D%22%23fda4af%22%20opacity%3D%220.18%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%20%20%3Ccircle%20cx%3D%22180%22%20cy%3D%22560%22%20r%3D%22150%22%20fill%3D%22%23fda4af%22%20opacity%3D%220.16%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%0A%20%20%3Crect%20x%3D%2256%22%20y%3D%2252%22%20rx%3D%2218%22%20ry%3D%2218%22%20width%3D%22260%22%20height%3D%2254%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.08%29%22/%3E%0A%20%20%3Ctext%20x%3D%2284%22%20y%3D%2287%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2228%22%20fill%3D%22%23e5e7eb%22%3EScience%3C/text%3E%0A%0A%20%20%3Ctext%20x%3D%221010%22%20y%3D%22560%22%0A%20%20%20%20%20%20%20%20text-anchor%3D%22middle%22%0A%20%20%20%20%20%20%20%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%0A%20%20%20%20%20%20%20%20font-size%3D%22160%22%0A%20%20%20%20%20%20%20%20fill%3D%22%23fda4af%22%0A%20%20%20%20%20%20%20%20opacity%3D%220.85%22%3E%0A%20%20%20%20%E2%97%88%0A%20%20%3C/text%3E%0A%3C/svg%3E%0A",
+    "topic": "neurodegeneration",
+    "topic_color": "#fda4af",
+    "priority_score": 45
+  },
+  {
     "title": "Author Correction: pH sensing controls tissue inflammation by modulating cellular metabolism and endo-lysosomal function of immune cells",
     "link": "https://www.nature.com/articles/s41590-026-02721-1",
     "journal": "Nature Immunology",
@@ -130,6 +143,19 @@
     "priority_score": 0
   },
   {
+    "title": "Surprise! White dwarf stars come in a rainbow of colours",
+    "link": "https://www.nature.com/articles/d41586-026-03319-1",
+    "journal": "Nature",
+    "source_type": "journal",
+    "date": "2026-10-21",
+    "summary": "Nature, Published online: 21 October 2026; doi:10.1038/d41586-026-03319-1 Analysis of some nearby stars shows that, despite their name, these bodies can be pink, yellow and more.",
+    "abstract": "Nature, Published online: 21 October 2026; doi:10.1038/d41586-026-03319-1 Analysis of some nearby stars shows that, despite their name, these bodies can be pink, yellow and more.",
+    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-03319-1/d41586-026-03319-1_53869064.jpg",
+    "topic": "default",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
     "title": "To heal sick cities, scientists and residents must work together",
     "link": "https://www.nature.com/articles/d41586-026-03161-5",
     "journal": "Nature",
@@ -151,6 +177,19 @@
     "summary": "Nature, Published online: 21 October 2026; doi:10.1038/d41586-026-03077-0 An innovative artificial-intelligence application enhances weather forecasting in the difficult subseasonal range, providing accurate forecasts of precipitation, temperature and pressure 3–5 weeks in advance. The tool refines both physics- and AI-based weather models and improves the early prediction of extremes of heat, cold, rainfall and flooding.",
     "abstract": "Nature, Published online: 21 October 2026; doi:10.1038/d41586-026-03077-0 An innovative artificial-intelligence application enhances weather forecasting in the difficult subseasonal range, providing accurate forecasts of precipitation, temperature and pressure 3–5 weeks in advance. The tool refines both physics- and AI-based weather models and improves the early prediction of extremes of heat, cold, rainfall and flooding.",
     "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-03077-0/d41586-026-03077-0_53882678.jpg",
+    "topic": "default",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
+    "title": "Teen depression and anxiety predicted by childhood brain development",
+    "link": "https://www.nature.com/articles/d41586-026-03357-9",
+    "journal": "Nature",
+    "source_type": "journal",
+    "date": "2026-10-21",
+    "summary": "Nature, Published online: 21 October 2026; doi:10.1038/d41586-026-03357-9 Analysis of nearly 30,000 brain scans yields detailed timeline of how the brain matures — and hints at the consequences of disrupting it.",
+    "abstract": "Nature, Published online: 21 October 2026; doi:10.1038/d41586-026-03357-9 Analysis of nearly 30,000 brain scans yields detailed timeline of how the brain matures — and hints at the consequences of disrupting it.",
+    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-03357-9/d41586-026-03357-9_53887308.jpg",
     "topic": "default",
     "topic_color": "#60a5fa",
     "priority_score": 0
@@ -221,32 +260,6 @@
     "priority_score": 0
   },
   {
-    "title": "This is what the mysterious Denisovans looked like",
-    "link": "https://www.nature.com/articles/d41586-026-03360-0",
-    "journal": "Nature",
-    "source_type": "journal",
-    "date": "2026-10-21",
-    "summary": "Nature, Published online: 21 October 2026; doi:10.1038/d41586-026-03360-0 Archaeologists identified skulls from China as belonging to this group of ancient human relatives.",
-    "abstract": "Nature, Published online: 21 October 2026; doi:10.1038/d41586-026-03360-0 Archaeologists identified skulls from China as belonging to this group of ancient human relatives.",
-    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-03360-0/d41586-026-03360-0_53887042.jpg",
-    "topic": "default",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
-    "title": "Can plants defend coasts against storms?",
-    "link": "https://www.nature.com/articles/d41586-026-03063-6",
-    "journal": "Nature",
-    "source_type": "journal",
-    "date": "2026-10-21",
-    "summary": "Nature, Published online: 21 October 2026; doi:10.1038/d41586-026-03063-6 Salt-marsh plants can protect inland areas against huge waves — but seemingly only up to a point, and big storms cause progressive damage.",
-    "abstract": "Nature, Published online: 21 October 2026; doi:10.1038/d41586-026-03063-6 Salt-marsh plants can protect inland areas against huge waves — but seemingly only up to a point, and big storms cause progressive damage.",
-    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-03063-6/d41586-026-03063-6_53883100.jpg",
-    "topic": "default",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
     "title": "A corticohypothalamic circuit that mediates maternal awakening to pup cries",
     "link": "https://www.nature.com/articles/s41593-026-02458-y",
     "journal": "Nature Neuroscience",
@@ -295,6 +308,19 @@
     "abstract": "Nature Immunology, Published online: 21 October 2026; doi:10.1038/s41590-026-02698-x Chen et al. examine why germinal centers (GCs) are confined to isolated islands in reactive lymph nodes during an immune response. They find that spatial confinement of GC B cells leads to greater antibody diversity by limiting the exchange and expansion of dominant B cell clones.",
     "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41590-026-02698-x/MediaObjects/41590_2026_2698_Fig1_HTML.png",
     "topic": "immunology",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
+    "title": "Editorial Expression of Concern: Oncogenic transformation of diverse gastrointestinal tissues in primary organoid culture",
+    "link": "https://www.nature.com/articles/s41591-026-04749-0",
+    "journal": "Nature Medicine",
+    "source_type": "journal",
+    "date": "2026-10-21",
+    "summary": "Nature Medicine, Published online: 21 October 2026; doi:10.1038/s41591-026-04749-0 Editorial Expression of Concern: Oncogenic transformation of diverse gastrointestinal tissues in primary organoid culture",
+    "abstract": "Nature Medicine, Published online: 21 October 2026; doi:10.1038/s41591-026-04749-0 Editorial Expression of Concern: Oncogenic transformation of diverse gastrointestinal tissues in primary organoid culture",
+    "image": "data:image/svg+xml;charset=utf-8,%0A%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23111827%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23374151%22/%3E%0A%20%20%20%20%3C/linearGradient%3E%0A%20%20%20%20%3Cfilter%20id%3D%22blur%22%3E%0A%20%20%20%20%20%20%3CfeGaussianBlur%20stdDeviation%3D%2230%22/%3E%0A%20%20%20%20%3C/filter%3E%0A%20%20%3C/defs%3E%0A%0A%20%20%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22url%28%23bg%29%22/%3E%0A%0A%20%20%3Ccircle%20cx%3D%221030%22%20cy%3D%22110%22%20r%3D%22170%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.18%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%20%20%3Ccircle%20cx%3D%22180%22%20cy%3D%22560%22%20r%3D%22150%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.16%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%0A%20%20%3Crect%20x%3D%2256%22%20y%3D%2252%22%20rx%3D%2218%22%20ry%3D%2218%22%20width%3D%22260%22%20height%3D%2254%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.08%29%22/%3E%0A%20%20%3Ctext%20x%3D%2284%22%20y%3D%2287%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2228%22%20fill%3D%22%23e5e7eb%22%3ENature%20Medicine%3C/text%3E%0A%0A%20%20%3Ctext%20x%3D%221010%22%20y%3D%22560%22%0A%20%20%20%20%20%20%20%20text-anchor%3D%22middle%22%0A%20%20%20%20%20%20%20%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%0A%20%20%20%20%20%20%20%20font-size%3D%22160%22%0A%20%20%20%20%20%20%20%20fill%3D%22%2360a5fa%22%0A%20%20%20%20%20%20%20%20opacity%3D%220.85%22%3E%0A%20%20%20%20%E2%80%A2%0A%20%20%3C/text%3E%0A%3C/svg%3E%0A",
+    "topic": "default",
     "topic_color": "#60a5fa",
     "priority_score": 0
   },
@@ -468,19 +494,6 @@
     "priority_score": 0
   },
   {
-    "title": "<cite>Science</cite>’s ‘Dance Your Ph.D.’ contest is open again",
-    "link": "https://www.science.org/content/article/science-s-dance-your-ph-d-contest-open-again-2027",
-    "journal": "Science",
-    "source_type": "journal",
-    "date": "2026-10-19T03:15:00Z",
-    "summary": "",
-    "abstract": "",
-    "image": "data:image/svg+xml;charset=utf-8,%0A%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23111827%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23374151%22/%3E%0A%20%20%20%20%3C/linearGradient%3E%0A%20%20%20%20%3Cfilter%20id%3D%22blur%22%3E%0A%20%20%20%20%20%20%3CfeGaussianBlur%20stdDeviation%3D%2230%22/%3E%0A%20%20%20%20%3C/filter%3E%0A%20%20%3C/defs%3E%0A%0A%20%20%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22url%28%23bg%29%22/%3E%0A%0A%20%20%3Ccircle%20cx%3D%221030%22%20cy%3D%22110%22%20r%3D%22170%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.18%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%20%20%3Ccircle%20cx%3D%22180%22%20cy%3D%22560%22%20r%3D%22150%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.16%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%0A%20%20%3Crect%20x%3D%2256%22%20y%3D%2252%22%20rx%3D%2218%22%20ry%3D%2218%22%20width%3D%22260%22%20height%3D%2254%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.08%29%22/%3E%0A%20%20%3Ctext%20x%3D%2284%22%20y%3D%2287%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2228%22%20fill%3D%22%23e5e7eb%22%3EScience%3C/text%3E%0A%0A%20%20%3Ctext%20x%3D%221010%22%20y%3D%22560%22%0A%20%20%20%20%20%20%20%20text-anchor%3D%22middle%22%0A%20%20%20%20%20%20%20%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%0A%20%20%20%20%20%20%20%20font-size%3D%22160%22%0A%20%20%20%20%20%20%20%20fill%3D%22%2360a5fa%22%0A%20%20%20%20%20%20%20%20opacity%3D%220.85%22%3E%0A%20%20%20%20%E2%80%A2%0A%20%20%3C/text%3E%0A%3C/svg%3E%0A",
-    "topic": "default",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
     "title": "Spatiotemporal remodeling in habenula marks the onset of depression-related phenotypes",
     "link": "https://www.nature.com/articles/s41593-026-02488-6",
     "journal": "Nature Neuroscience",
@@ -541,19 +554,6 @@
     "summary": "Nature Medicine, Published online: 19 October 2026; doi:10.1038/s41591-026-04701-2 The liver can warn us of metabolic dysfunction long before serious consequences emerge. Why aren’t we listening?",
     "abstract": "Nature Medicine, Published online: 19 October 2026; doi:10.1038/s41591-026-04701-2 The liver can warn us of metabolic dysfunction long before serious consequences emerge. Why aren’t we listening?",
     "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41591-026-04701-2/MediaObjects/41591_2026_4701_Figa_HTML.png",
-    "topic": "default",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
-    "title": "Only time will tell",
-    "link": "https://www.nature.com/articles/s41591-026-04699-7",
-    "journal": "Nature Medicine",
-    "source_type": "journal",
-    "date": "2026-10-16",
-    "summary": "Nature Medicine, Published online: 16 October 2026; doi:10.1038/s41591-026-04699-7 Chronotherapy promises to improve medicine by aligning treatment with the body’s internal clock. As this idea moves into clinical trials, a high-profile retraction reveals the ups and downs of circadian medicine.",
-    "abstract": "Nature Medicine, Published online: 16 October 2026; doi:10.1038/s41591-026-04699-7 Chronotherapy promises to improve medicine by aligning treatment with the body’s internal clock. As this idea moves into clinical trials, a high-profile retraction reveals the ups and downs of circadian medicine.",
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41591-026-04699-7/MediaObjects/41591_2026_4699_Figa_HTML.png",
     "topic": "default",
     "topic_color": "#60a5fa",
     "priority_score": 0
