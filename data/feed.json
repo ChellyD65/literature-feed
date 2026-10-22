@@ -78,6 +78,19 @@
     "priority_score": 45
   },
   {
+    "title": "Serine protease inhibitor A3 is a soluble SIRPα ligand that suppresses inflammation and antitumor immunity",
+    "link": "https://www.nature.com/articles/s41590-026-02682-5",
+    "journal": "Nature Immunology",
+    "source_type": "journal",
+    "date": "2026-10-22",
+    "summary": "Nature Immunology, Published online: 22 October 2026; doi:10.1038/s41590-026-02682-5 Here the authors show that SERPINA3 is a soluble SIRPα ligand with immunosuppressive and therapeutic activity against inflammatory and autoimmune diseases, whereas cancer cells overexpress SERPINA3 and blocking it can be protective.",
+    "abstract": "Nature Immunology, Published online: 22 October 2026; doi:10.1038/s41590-026-02682-5 Here the authors show that SERPINA3 is a soluble SIRPα ligand with immunosuppressive and therapeutic activity against inflammatory and autoimmune diseases, whereas cancer cells overexpress SERPINA3 and blocking it can be protective.",
+    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41590-026-02682-5/MediaObjects/41590_2026_2682_Fig1_HTML.png",
+    "topic": "inflammation",
+    "topic_color": "#fb7185",
+    "priority_score": 41
+  },
+  {
     "title": "Author Correction: pH sensing controls tissue inflammation by modulating cellular metabolism and endo-lysosomal function of immune cells",
     "link": "https://www.nature.com/articles/s41590-026-02721-1",
     "journal": "Nature Immunology",
@@ -102,6 +115,32 @@
     "topic": "inflammation",
     "topic_color": "#fb7185",
     "priority_score": 29
+  },
+  {
+    "title": "Network geometry shapes the transformation of task representations across the human cortex",
+    "link": "https://www.nature.com/articles/s41593-026-02486-8",
+    "journal": "Nature Neuroscience",
+    "source_type": "journal",
+    "date": "2026-10-22",
+    "summary": "Nature Neuroscience, Published online: 22 October 2026; doi:10.1038/s41593-026-02486-8 The dimensionality of intrinsic brain connectivity systematically shapes how task representations compress and expand across the cortex, and activity flow modeling shows the active role of network geometry in generating the transformation.",
+    "abstract": "Nature Neuroscience, Published online: 22 October 2026; doi:10.1038/s41593-026-02486-8 The dimensionality of intrinsic brain connectivity systematically shapes how task representations compress and expand across the cortex, and activity flow modeling shows the active role of network geometry in generating the transformation.",
+    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41593-026-02486-8/MediaObjects/41593_2026_2486_Fig1_HTML.png",
+    "topic": "neuroscience",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
+    "title": "Behavioral genomics identifies <i>Creld1</i> as a cross-modal regulator of somatosensation",
+    "link": "https://www.nature.com/articles/s41593-026-02484-w",
+    "journal": "Nature Neuroscience",
+    "source_type": "journal",
+    "date": "2026-10-22",
+    "summary": "Nature Neuroscience, Published online: 22 October 2026; doi:10.1038/s41593-026-02484-w Jiang et al. developed a robust postnatal knockout platform for somatosensory genomics and behavioral screening, identifying Creld1 as a cross-modal regulator of somatosensation through its control of sensory neuron excitability via voltage-gated sodium channels.",
+    "abstract": "Nature Neuroscience, Published online: 22 October 2026; doi:10.1038/s41593-026-02484-w Jiang et al. developed a robust postnatal knockout platform for somatosensory genomics and behavioral screening, identifying Creld1 as a cross-modal regulator of somatosensation through its control of sensory neuron excitability via voltage-gated sodium channels.",
+    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41593-026-02484-w/MediaObjects/41593_2026_2484_Fig1_HTML.png",
+    "topic": "neuroscience",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
   },
   {
     "title": "Two top NSF officials are leaving. In an agency under Trump’s thumb, it may not matter",
@@ -594,45 +633,6 @@
     "abstract": "Nature Medicine, Published online: 19 October 2026; doi:10.1038/s41591-026-04701-2 The liver can warn us of metabolic dysfunction long before serious consequences emerge. Why aren’t we listening?",
     "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41591-026-04701-2/MediaObjects/41591_2026_4701_Figa_HTML.png",
     "topic": "default",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
-    "title": "5-HT<sub>2A</sub> receptors in layer 5 pyramidal neurons mediate the neuroplastic but not the hallucinogenic effects of psilocybin",
-    "link": "https://www.nature.com/articles/s41593-026-02490-y",
-    "journal": "Nature Neuroscience",
-    "source_type": "journal",
-    "date": "2026-10-15",
-    "summary": "Nature Neuroscience, Published online: 15 October 2026; doi:10.1038/s41593-026-02490-y Psilocybin promotes and stabilizes new connections between neurons in the mouse cerebral cortex, especially after stress. Baker et al. show that 5-HT2A receptor signaling in layer 5 pyramidal neurons mediates this effect but is not required for a mouse behavioral proxy of hallucinations.",
-    "abstract": "Nature Neuroscience, Published online: 15 October 2026; doi:10.1038/s41593-026-02490-y Psilocybin promotes and stabilizes new connections between neurons in the mouse cerebral cortex, especially after stress. Baker et al. show that 5-HT2A receptor signaling in layer 5 pyramidal neurons mediates this effect but is not required for a mouse behavioral proxy of hallucinations.",
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41593-026-02490-y/MediaObjects/41593_2026_2490_Fig1_HTML.png",
-    "topic": "neuroscience",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
-    "title": "A half-center oscillator regulates sleep pressure",
-    "link": "https://www.nature.com/articles/s41593-026-02431-9",
-    "journal": "Nature Neuroscience",
-    "source_type": "journal",
-    "date": "2026-10-15",
-    "summary": "Nature Neuroscience, Published online: 15 October 2026; doi:10.1038/s41593-026-02431-9 Hasenhuetl et al. show that neurons innervating the dorsal fan-shaped body of Drosophila form a half-center oscillator, a circuit motif typically found in central pattern generators for locomotion. Here, this circuit generates slow-wave activity for the regulation of sleep.",
-    "abstract": "Nature Neuroscience, Published online: 15 October 2026; doi:10.1038/s41593-026-02431-9 Hasenhuetl et al. show that neurons innervating the dorsal fan-shaped body of Drosophila form a half-center oscillator, a circuit motif typically found in central pattern generators for locomotion. Here, this circuit generates slow-wave activity for the regulation of sleep.",
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41593-026-02431-9/MediaObjects/41593_2026_2431_Fig1_HTML.png",
-    "topic": "neuroscience",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
-    "title": "Author Correction: Type A cholesterol-dependent cytolysins translocate to the <i>trans</i>-Golgi network for NLRP3 inflammasome activation",
-    "link": "https://www.nature.com/articles/s41590-026-02717-x",
-    "journal": "Nature Immunology",
-    "source_type": "journal",
-    "date": "2026-10-15",
-    "summary": "Nature Immunology, Published online: 15 October 2026; doi:10.1038/s41590-026-02717-x Author Correction: Type A cholesterol-dependent cytolysins translocate to the trans -Golgi network for NLRP3 inflammasome activation",
-    "abstract": "Nature Immunology, Published online: 15 October 2026; doi:10.1038/s41590-026-02717-x Author Correction: Type A cholesterol-dependent cytolysins translocate to the trans -Golgi network for NLRP3 inflammasome activation",
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41590-026-02717-x/MediaObjects/41590_2026_2717_Fig1_HTML.png",
-    "topic": "immunology",
     "topic_color": "#60a5fa",
     "priority_score": 0
   },
