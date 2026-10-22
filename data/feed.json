@@ -26,6 +26,19 @@
     "priority_score": 116
   },
   {
+    "title": "<b>Milk multi-omics links maternal health to infant growth</b>",
+    "link": "https://www.nature.com/articles/d41591-026-00053-z",
+    "journal": "Nature Medicine",
+    "source_type": "journal",
+    "date": "2026-10-22",
+    "summary": "Nature Medicine, Published online: 22 October 2026; doi:10.1038/d41591-026-00053-z Researchers identify biomarkers that explain how maternal health is linked to mammary gland function, breast milk composition and infant growth, highlighting maternal nutrition as a public health priority.",
+    "abstract": "Nature Medicine, Published online: 22 October 2026; doi:10.1038/d41591-026-00053-z Researchers identify biomarkers that explain how maternal health is linked to mammary gland function, breast milk composition and infant growth, highlighting maternal nutrition as a public health priority.",
+    "image": "https://media.nature.com/lw1200/magazine-assets/d41591-026-00053-z/d41591-026-00053-z_53891036.jpg",
+    "topic": "High-Signal Discovery",
+    "topic_color": "#60a5fa",
+    "priority_score": 105
+  },
+  {
     "title": "IL-2-producing T<sub>FH</sub> cells sustain T<sub>reg</sub> cell homeostasis and immune tolerance in the gut",
     "link": "https://www.nature.com/articles/s41590-026-02690-5",
     "journal": "Nature Immunology",
@@ -50,19 +63,6 @@
     "topic": "Immunology",
     "topic_color": "#60a5fa",
     "priority_score": 93
-  },
-  {
-    "title": "Molecular predictors of minimal residual disease in newly diagnosed multiple myeloma treated with quadruplet therapy",
-    "link": "https://www.nature.com/articles/s41591-026-04692-0",
-    "journal": "Nature Medicine",
-    "source_type": "journal",
-    "date": "2026-10-19",
-    "summary": "Nature Medicine, Published online: 19 October 2026; doi:10.1038/s41591-026-04692-0 In a multiomic analysis of samples from patients with newly diagnosed multiple myeloma treated with isatuximab, carfilzomib, lenalidomide and dexamethasone induction therapy followed by consolidation treatment guided by minimal residual disease (MRD) status, baseline genomic, transcriptomic and epigenetic features are associated with MRD status after induction.",
-    "abstract": "Nature Medicine, Published online: 19 October 2026; doi:10.1038/s41591-026-04692-0 In a multiomic analysis of samples from patients with newly diagnosed multiple myeloma treated with isatuximab, carfilzomib, lenalidomide and dexamethasone induction therapy followed by consolidation treatment guided by minimal residual disease (MRD) status, baseline genomic, transcriptomic and epigenetic features are associated with MRD status after induction.",
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41591-026-04692-0/MediaObjects/41591_2026_4692_Fig1_HTML.png",
-    "topic": "High-Signal Discovery",
-    "topic_color": "#60a5fa",
-    "priority_score": 81
   },
   {
     "title": "With blood test looming, government puts $41 million into clinical trials to ward off Alzheimer’s disease",
@@ -117,6 +117,19 @@
     "priority_score": 29
   },
   {
+    "title": "Iron at Earth’s heart may take a surprising form",
+    "link": "https://www.science.org/content/article/iron-earth-s-heart-may-take-surprising-form",
+    "journal": "Science",
+    "source_type": "journal",
+    "date": "2026-10-22T09:10:09Z",
+    "summary": "X-ray experiments reveal cubic crystals that could complicate the picture of the inner core",
+    "abstract": "X-ray experiments reveal cubic crystals that could complicate the picture of the inner core",
+    "image": "data:image/svg+xml;charset=utf-8,%0A%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23111827%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23374151%22/%3E%0A%20%20%20%20%3C/linearGradient%3E%0A%20%20%20%20%3Cfilter%20id%3D%22blur%22%3E%0A%20%20%20%20%20%20%3CfeGaussianBlur%20stdDeviation%3D%2230%22/%3E%0A%20%20%20%20%3C/filter%3E%0A%20%20%3C/defs%3E%0A%0A%20%20%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22url%28%23bg%29%22/%3E%0A%0A%20%20%3Ccircle%20cx%3D%221030%22%20cy%3D%22110%22%20r%3D%22170%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.18%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%20%20%3Ccircle%20cx%3D%22180%22%20cy%3D%22560%22%20r%3D%22150%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.16%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%0A%20%20%3Crect%20x%3D%2256%22%20y%3D%2252%22%20rx%3D%2218%22%20ry%3D%2218%22%20width%3D%22260%22%20height%3D%2254%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.08%29%22/%3E%0A%20%20%3Ctext%20x%3D%2284%22%20y%3D%2287%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2228%22%20fill%3D%22%23e5e7eb%22%3EScience%3C/text%3E%0A%0A%20%20%3Ctext%20x%3D%221010%22%20y%3D%22560%22%0A%20%20%20%20%20%20%20%20text-anchor%3D%22middle%22%0A%20%20%20%20%20%20%20%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%0A%20%20%20%20%20%20%20%20font-size%3D%22160%22%0A%20%20%20%20%20%20%20%20fill%3D%22%2360a5fa%22%0A%20%20%20%20%20%20%20%20opacity%3D%220.85%22%3E%0A%20%20%20%20%E2%80%A2%0A%20%20%3C/text%3E%0A%3C/svg%3E%0A",
+    "topic": "default",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
     "title": "Network geometry shapes the transformation of task representations across the human cortex",
     "link": "https://www.nature.com/articles/s41593-026-02486-8",
     "journal": "Nature Neuroscience",
@@ -139,6 +152,19 @@
     "abstract": "Nature Neuroscience, Published online: 22 October 2026; doi:10.1038/s41593-026-02484-w Jiang et al. developed a robust postnatal knockout platform for somatosensory genomics and behavioral screening, identifying Creld1 as a cross-modal regulator of somatosensation through its control of sensory neuron excitability via voltage-gated sodium channels.",
     "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41593-026-02484-w/MediaObjects/41593_2026_2484_Fig1_HTML.png",
     "topic": "neuroscience",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
+    "title": "Author Correction: β-catenin confers resistance to PI3K and AKT inhibitors and subverts FOXO3a to promote metastasis in colon cancer",
+    "link": "https://www.nature.com/articles/s41591-026-04750-7",
+    "journal": "Nature Medicine",
+    "source_type": "journal",
+    "date": "2026-10-22",
+    "summary": "Nature Medicine, Published online: 22 October 2026; doi:10.1038/s41591-026-04750-7 Author Correction: β-catenin confers resistance to PI3K and AKT inhibitors and subverts FOXO3a to promote metastasis in colon cancer",
+    "abstract": "Nature Medicine, Published online: 22 October 2026; doi:10.1038/s41591-026-04750-7 Author Correction: β-catenin confers resistance to PI3K and AKT inhibitors and subverts FOXO3a to promote metastasis in colon cancer",
+    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41591-026-04750-7/MediaObjects/41591_2026_4750_Fig1_HTML.png",
+    "topic": "default",
     "topic_color": "#60a5fa",
     "priority_score": 0
   },
@@ -559,19 +585,6 @@
     "priority_score": 0
   },
   {
-    "title": "The 2010 <em>Deepwater Horizon</em> oil spill devastated deep-sea life—and it hasn’t recovered",
-    "link": "https://www.science.org/content/article/2010-deepwater-horizon-oil-spill-devastated-deep-sea-life-and-it-hasn-t-recovered",
-    "journal": "Science",
-    "source_type": "journal",
-    "date": "2026-10-19T06:10:00Z",
-    "summary": "A 13-year study shows how sensitive deep-sea animals are to disturbance, scientists say",
-    "abstract": "A 13-year study shows how sensitive deep-sea animals are to disturbance, scientists say",
-    "image": "data:image/svg+xml;charset=utf-8,%0A%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23111827%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23374151%22/%3E%0A%20%20%20%20%3C/linearGradient%3E%0A%20%20%20%20%3Cfilter%20id%3D%22blur%22%3E%0A%20%20%20%20%20%20%3CfeGaussianBlur%20stdDeviation%3D%2230%22/%3E%0A%20%20%20%20%3C/filter%3E%0A%20%20%3C/defs%3E%0A%0A%20%20%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22url%28%23bg%29%22/%3E%0A%0A%20%20%3Ccircle%20cx%3D%221030%22%20cy%3D%22110%22%20r%3D%22170%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.18%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%20%20%3Ccircle%20cx%3D%22180%22%20cy%3D%22560%22%20r%3D%22150%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.16%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%0A%20%20%3Crect%20x%3D%2256%22%20y%3D%2252%22%20rx%3D%2218%22%20ry%3D%2218%22%20width%3D%22260%22%20height%3D%2254%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.08%29%22/%3E%0A%20%20%3Ctext%20x%3D%2284%22%20y%3D%2287%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2228%22%20fill%3D%22%23e5e7eb%22%3EScience%3C/text%3E%0A%0A%20%20%3Ctext%20x%3D%221010%22%20y%3D%22560%22%0A%20%20%20%20%20%20%20%20text-anchor%3D%22middle%22%0A%20%20%20%20%20%20%20%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%0A%20%20%20%20%20%20%20%20font-size%3D%22160%22%0A%20%20%20%20%20%20%20%20fill%3D%22%2360a5fa%22%0A%20%20%20%20%20%20%20%20opacity%3D%220.85%22%3E%0A%20%20%20%20%E2%80%A2%0A%20%20%3C/text%3E%0A%3C/svg%3E%0A",
-    "topic": "default",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
     "title": "Spatiotemporal remodeling in habenula marks the onset of depression-related phenotypes",
     "link": "https://www.nature.com/articles/s41593-026-02488-6",
     "journal": "Nature Neuroscience",
@@ -620,19 +633,6 @@
     "abstract": "Nature Immunology, Published online: 19 October 2026; doi:10.1038/s41590-026-02696-z The alarming rise in NCDs, particularly in low- and middle-income countries, is closely linked to infectious diseases. Despite growing evidence of a bidirectional, mutually reinforcing relationship, these links have received insufficient attention from researchers and healthcare stakeholders.",
     "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41590-026-02696-z/MediaObjects/41590_2026_2696_Fig1_HTML.png",
     "topic": "immunology",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
-    "title": "Waiting to get sick enough",
-    "link": "https://www.nature.com/articles/s41591-026-04701-2",
-    "journal": "Nature Medicine",
-    "source_type": "journal",
-    "date": "2026-10-19",
-    "summary": "Nature Medicine, Published online: 19 October 2026; doi:10.1038/s41591-026-04701-2 The liver can warn us of metabolic dysfunction long before serious consequences emerge. Why aren’t we listening?",
-    "abstract": "Nature Medicine, Published online: 19 October 2026; doi:10.1038/s41591-026-04701-2 The liver can warn us of metabolic dysfunction long before serious consequences emerge. Why aren’t we listening?",
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41591-026-04701-2/MediaObjects/41591_2026_4701_Figa_HTML.png",
-    "topic": "default",
     "topic_color": "#60a5fa",
     "priority_score": 0
   },
