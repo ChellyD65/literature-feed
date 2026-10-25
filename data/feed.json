@@ -182,6 +182,19 @@
     "priority_score": 29
   },
   {
+    "title": "ctDNA clearance and outcomes for resectable lung cancer from NeoCOAST-2",
+    "link": "https://www.nature.com/articles/s41586-026-11328-3",
+    "journal": "Nature",
+    "source_type": "journal",
+    "date": "2026-10-25",
+    "summary": "Nature, Published online: 25 October 2026; doi:10.1038/s41586-026-11328-3 ctDNA clearance and outcomes for resectable lung cancer from NeoCOAST-2",
+    "abstract": "Patients with resectable non-small cell lung cancer (NSCLC) remain at high risk of relapse despite perioperative treatment1-3. NeoCOAST-2 (NCT05061550), a phase 2, randomised platform trial, tested novel perioperative treatments in patients with stage IIA–IIIB NSCLC. At primary analysis, combining standard chemotherapy plus durvalumab (anti-PD-L1 antibody) with oleclumab (Arm 1, n = 76), monalizumab (Arm 2, n = 72) or datopotamab deruxtecan (Dato-DXd; Arm 4, n = 54) resulted in pathological complete response (pCR) rates of 20.3%, 25.7%, and 35.2%, respectively4. Here, we present the first report of prespecified secondary endpoints of event-free survival (EFS) and circulating tumour DNA (ctDNA) clearance, and exploratory analyses of associations between ctDNA dynamics and clinical outcomes. The 24-month EFS rates were 70.5%, 75.7% and 77.9% in Arms 1, 2 and 4, respectively. Using a tumour-agnostic assay, ctDNA clearance at neoadjuvant Cycle 3 Day 1 was highest in Arm 4 (50.9%, 54.5%, and 72.5% in each arm, respectively). ctDNA clearance correlated with prolonged EFS versus non-clearance (pooled hazard ratio (HR) 0.22; 95% CI = 0.11–0.45, P = 0.0000443). Patients with both ctDNA clearance and pCR had favourable EFS outcomes versus those with neither (EFS HR 0.10, 95% CI = 0.02–0.42, P = 0.002). These findings suggest combined assessment of ctDNA clearance and pCR may improve risk stratification, and that the numerically highest pCR4 and EFS rates with the Dato-DXd combination warrant further evaluation.",
+    "image": "data:image/svg+xml;charset=utf-8,%0A%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23111827%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23374151%22/%3E%0A%20%20%20%20%3C/linearGradient%3E%0A%20%20%20%20%3Cfilter%20id%3D%22blur%22%3E%0A%20%20%20%20%20%20%3CfeGaussianBlur%20stdDeviation%3D%2230%22/%3E%0A%20%20%20%20%3C/filter%3E%0A%20%20%3C/defs%3E%0A%0A%20%20%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22url%28%23bg%29%22/%3E%0A%0A%20%20%3Ccircle%20cx%3D%221030%22%20cy%3D%22110%22%20r%3D%22170%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.18%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%20%20%3Ccircle%20cx%3D%22180%22%20cy%3D%22560%22%20r%3D%22150%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.16%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%0A%20%20%3Crect%20x%3D%2256%22%20y%3D%2252%22%20rx%3D%2218%22%20ry%3D%2218%22%20width%3D%22260%22%20height%3D%2254%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.08%29%22/%3E%0A%20%20%3Ctext%20x%3D%2284%22%20y%3D%2287%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2228%22%20fill%3D%22%23e5e7eb%22%3ENature%3C/text%3E%0A%0A%20%20%3Ctext%20x%3D%221010%22%20y%3D%22560%22%0A%20%20%20%20%20%20%20%20text-anchor%3D%22middle%22%0A%20%20%20%20%20%20%20%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%0A%20%20%20%20%20%20%20%20font-size%3D%22160%22%0A%20%20%20%20%20%20%20%20fill%3D%22%2360a5fa%22%0A%20%20%20%20%20%20%20%20opacity%3D%220.85%22%3E%0A%20%20%20%20%E2%80%A2%0A%20%20%3C/text%3E%0A%3C/svg%3E%0A",
+    "topic": "default",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
     "title": "Neoadjuvant nivolumab with or without visugromab in muscle-invasive bladder cancer: the phase 2a GDFATHER-NEO trial",
     "link": "https://www.nature.com/articles/s41591-026-04740-9",
     "journal": "Nature Medicine",
@@ -502,19 +515,6 @@
     "summary": "Nature, Published online: 22 October 2026; doi:10.1038/d41586-026-03371-x Application of the high-precision technique is part of a clinical trial to treat a genetic disease that can cause liver and nerve damage.",
     "abstract": "Nature, Published online: 22 October 2026; doi:10.1038/d41586-026-03371-x Application of the high-precision technique is part of a clinical trial to treat a genetic disease that can cause liver and nerve damage.",
     "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-03371-x/d41586-026-03371-x_53883104.jpg",
-    "topic": "default",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
-    "title": "Teen depression and anxiety predicted by childhood brain development",
-    "link": "https://www.nature.com/articles/d41586-026-03357-9",
-    "journal": "Nature",
-    "source_type": "journal",
-    "date": "2026-10-22",
-    "summary": "Nature, Published online: 22 October 2026; doi:10.1038/d41586-026-03357-9 Analysis of nearly 30,000 brain scans yields detailed timeline of how the brain matures — and hints at the consequences of disrupting it.",
-    "abstract": "Nature, Published online: 22 October 2026; doi:10.1038/d41586-026-03357-9 Analysis of nearly 30,000 brain scans yields detailed timeline of how the brain matures — and hints at the consequences of disrupting it.",
-    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-03357-9/d41586-026-03357-9_53887308.jpg",
     "topic": "default",
     "topic_color": "#60a5fa",
     "priority_score": 0
