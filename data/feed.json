@@ -52,19 +52,6 @@
     "priority_score": 146
   },
   {
-    "title": "A single-cell atlas of human neutrophils reveals neutrophil heterogeneity across health and disease",
-    "link": "https://www.nature.com/articles/s41590-026-02671-8",
-    "journal": "Nature Immunology",
-    "source_type": "journal",
-    "date": "2026-10-21",
-    "summary": "Nature Immunology, Published online: 21 October 2026; doi:10.1038/s41590-026-02671-8 Khatri and colleagues assembled a single-cell atlas of 1 million human neutrophils based on the integration of 43 independent single-cell transcriptome datasets to define multiple neutrophil subsets with distinct functions across tissues and disease states.",
-    "abstract": "Nature Immunology, Published online: 21 October 2026; doi:10.1038/s41590-026-02671-8 Khatri and colleagues assembled a single-cell atlas of 1 million human neutrophils based on the integration of 43 independent single-cell transcriptome datasets to define multiple neutrophil subsets with distinct functions across tissues and disease states.",
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41590-026-02671-8/MediaObjects/41590_2026_2671_Fig1_HTML.png",
-    "topic": "Spatial & Single Cell",
-    "topic_color": "#60a5fa",
-    "priority_score": 133
-  },
-  {
     "title": "A CD4-lineage erythro–myeloid progenitor within the adult bone marrow defines an alternative pathway for macrophage generation",
     "link": "https://www.nature.com/articles/s41590-026-02686-1",
     "journal": "Nature Immunology",
@@ -195,6 +182,19 @@
     "priority_score": 0
   },
   {
+    "title": "Author Correction: A chemical defence against phage infection",
+    "link": "https://www.nature.com/articles/s41586-026-11302-z",
+    "journal": "Nature",
+    "source_type": "journal",
+    "date": "2026-10-27",
+    "summary": "Nature, Published online: 27 October 2026; doi:10.1038/s41586-026-11302-z Author Correction: A chemical defence against phage infection",
+    "abstract": "Nature, Published online: 27 October 2026; doi:10.1038/s41586-026-11302-z Author Correction: A chemical defence against phage infection",
+    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-11302-z/MediaObjects/41586_2026_11302_Fig1_HTML.png",
+    "topic": "default",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
     "title": "AI watermarking efforts must encourage independent public scrutiny",
     "link": "https://www.nature.com/articles/d41586-026-03406-3",
     "journal": "Nature",
@@ -247,6 +247,32 @@
     "priority_score": 0
   },
   {
+    "title": "Mysterious flickering brain signals could help to unlock secrets of consciousnes",
+    "link": "https://www.nature.com/articles/d41586-026-03384-6",
+    "journal": "Nature",
+    "source_type": "journal",
+    "date": "2026-10-27",
+    "summary": "Nature, Published online: 27 October 2026; doi:10.1038/d41586-026-03384-6 Monkeys’ brain activity flips 15 times per second between patterns linked to objects of which the monkeys are aware and patterns for objects outside their awareness.",
+    "abstract": "Nature, Published online: 27 October 2026; doi:10.1038/d41586-026-03384-6 Monkeys’ brain activity flips 15 times per second between patterns linked to objects of which the monkeys are aware and patterns for objects outside their awareness.",
+    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-03384-6/d41586-026-03384-6_53903222.jpg",
+    "topic": "default",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
+    "title": "Global climate body fights for survival: why the IPCC must be saved",
+    "link": "https://www.nature.com/articles/d41586-026-03403-6",
+    "journal": "Nature",
+    "source_type": "journal",
+    "date": "2026-10-27",
+    "summary": "Nature, Published online: 27 October 2026; doi:10.1038/d41586-026-03403-6 The UN organization faces perhaps the most serious crisis in its nearly 40-year history — but it is too precious to lose.",
+    "abstract": "Nature, Published online: 27 October 2026; doi:10.1038/d41586-026-03403-6 The UN organization faces perhaps the most serious crisis in its nearly 40-year history — but it is too precious to lose.",
+    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-03403-6/d41586-026-03403-6_53903702.jpg",
+    "topic": "default",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
     "title": "Can scientists reliably tell if a novel is written using AI?",
     "link": "https://www.nature.com/articles/d41586-026-03394-4",
     "journal": "Nature",
@@ -282,6 +308,19 @@
     "abstract": "Nature Neuroscience, Published online: 27 October 2026; doi:10.1038/s41593-026-02491-x The hippocampus encodes different aspects of experience as disentangled variables, enabling flexible recombination and generalization to new situations. This code is supported by the geometry of population dynamics and cell–assembly interactions.",
     "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41593-026-02491-x/MediaObjects/41593_2026_2491_Fig1_HTML.png",
     "topic": "neuroscience",
+    "topic_color": "#60a5fa",
+    "priority_score": 0
+  },
+  {
+    "title": "TRAM-dependent myddosomes",
+    "link": "https://www.nature.com/articles/s41590-026-02716-y",
+    "journal": "Nature Immunology",
+    "source_type": "journal",
+    "date": "2026-10-27",
+    "summary": "Nature Immunology, Published online: 27 October 2026; doi:10.1038/s41590-026-02716-y TRAM-dependent myddosomes",
+    "abstract": "Nature Immunology, Published online: 27 October 2026; doi:10.1038/s41590-026-02716-y TRAM-dependent myddosomes",
+    "image": "data:image/svg+xml;charset=utf-8,%0A%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23111827%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23374151%22/%3E%0A%20%20%20%20%3C/linearGradient%3E%0A%20%20%20%20%3Cfilter%20id%3D%22blur%22%3E%0A%20%20%20%20%20%20%3CfeGaussianBlur%20stdDeviation%3D%2230%22/%3E%0A%20%20%20%20%3C/filter%3E%0A%20%20%3C/defs%3E%0A%0A%20%20%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22url%28%23bg%29%22/%3E%0A%0A%20%20%3Ccircle%20cx%3D%221030%22%20cy%3D%22110%22%20r%3D%22170%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.18%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%20%20%3Ccircle%20cx%3D%22180%22%20cy%3D%22560%22%20r%3D%22150%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.16%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%0A%20%20%3Crect%20x%3D%2256%22%20y%3D%2252%22%20rx%3D%2218%22%20ry%3D%2218%22%20width%3D%22260%22%20height%3D%2254%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.08%29%22/%3E%0A%20%20%3Ctext%20x%3D%2284%22%20y%3D%2287%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2228%22%20fill%3D%22%23e5e7eb%22%3ENature%20Immunology%3C/text%3E%0A%0A%20%20%3Ctext%20x%3D%221010%22%20y%3D%22560%22%0A%20%20%20%20%20%20%20%20text-anchor%3D%22middle%22%0A%20%20%20%20%20%20%20%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%0A%20%20%20%20%20%20%20%20font-size%3D%22160%22%0A%20%20%20%20%20%20%20%20fill%3D%22%2360a5fa%22%0A%20%20%20%20%20%20%20%20opacity%3D%220.85%22%3E%0A%20%20%20%20%E2%80%A2%0A%20%20%3C/text%3E%0A%3C/svg%3E%0A",
+    "topic": "immunology",
     "topic_color": "#60a5fa",
     "priority_score": 0
   },
@@ -346,45 +385,6 @@
     "summary": "Jumping spiders enter a REM-like state, darting their eyes and twitching their legs. What’s happening beyond that remains unclear",
     "abstract": "Jumping spiders enter a REM-like state, darting their eyes and twitching their legs. What’s happening beyond that remains unclear",
     "image": "data:image/svg+xml;charset=utf-8,%0A%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23111827%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23374151%22/%3E%0A%20%20%20%20%3C/linearGradient%3E%0A%20%20%20%20%3Cfilter%20id%3D%22blur%22%3E%0A%20%20%20%20%20%20%3CfeGaussianBlur%20stdDeviation%3D%2230%22/%3E%0A%20%20%20%20%3C/filter%3E%0A%20%20%3C/defs%3E%0A%0A%20%20%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22url%28%23bg%29%22/%3E%0A%0A%20%20%3Ccircle%20cx%3D%221030%22%20cy%3D%22110%22%20r%3D%22170%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.18%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%20%20%3Ccircle%20cx%3D%22180%22%20cy%3D%22560%22%20r%3D%22150%22%20fill%3D%22%2360a5fa%22%20opacity%3D%220.16%22%20filter%3D%22url%28%23blur%29%22/%3E%0A%0A%20%20%3Crect%20x%3D%2256%22%20y%3D%2252%22%20rx%3D%2218%22%20ry%3D%2218%22%20width%3D%22260%22%20height%3D%2254%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.08%29%22/%3E%0A%20%20%3Ctext%20x%3D%2284%22%20y%3D%2287%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2228%22%20fill%3D%22%23e5e7eb%22%3EScience%3C/text%3E%0A%0A%20%20%3Ctext%20x%3D%221010%22%20y%3D%22560%22%0A%20%20%20%20%20%20%20%20text-anchor%3D%22middle%22%0A%20%20%20%20%20%20%20%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%0A%20%20%20%20%20%20%20%20font-size%3D%22160%22%0A%20%20%20%20%20%20%20%20fill%3D%22%2360a5fa%22%0A%20%20%20%20%20%20%20%20opacity%3D%220.85%22%3E%0A%20%20%20%20%E2%80%A2%0A%20%20%3C/text%3E%0A%3C/svg%3E%0A",
-    "topic": "default",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
-    "title": "Nerve activity initiates autoimmune hair loss",
-    "link": "https://www.nature.com/articles/d41586-026-03258-x",
-    "journal": "Nature",
-    "source_type": "journal",
-    "date": "2026-10-26",
-    "summary": "Nature, Published online: 26 October 2026; doi:10.1038/d41586-026-03258-x Understanding the triggers of autoimmunity might lead to better therapies, with hair loss among the conditions for which underpinning factors have come to light.",
-    "abstract": "Nature, Published online: 26 October 2026; doi:10.1038/d41586-026-03258-x Understanding the triggers of autoimmunity might lead to better therapies, with hair loss among the conditions for which underpinning factors have come to light.",
-    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-03258-x/d41586-026-03258-x_53903534.jpg",
-    "topic": "default",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
-    "title": "Women might have invented language — but not alone",
-    "link": "https://www.nature.com/articles/d41586-026-03392-6",
-    "journal": "Nature",
-    "source_type": "journal",
-    "date": "2026-10-26",
-    "summary": "Nature, Published online: 26 October 2026; doi:10.1038/d41586-026-03392-6 An eloquent analysis of the origins of human speech suggests that social cohesion, not conflict, drove our use of words.",
-    "abstract": "Nature, Published online: 26 October 2026; doi:10.1038/d41586-026-03392-6 An eloquent analysis of the origins of human speech suggests that social cohesion, not conflict, drove our use of words.",
-    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-03392-6/d41586-026-03392-6_53879322.jpg",
-    "topic": "default",
-    "topic_color": "#60a5fa",
-    "priority_score": 0
-  },
-  {
-    "title": "Daily briefing: <i>The Selfish Gene</i>, 50 years on",
-    "link": "https://www.nature.com/articles/d41586-026-03463-8",
-    "journal": "Nature",
-    "source_type": "journal",
-    "date": "2026-10-26",
-    "summary": "Nature, Published online: 26 October 2026; doi:10.1038/d41586-026-03463-8 What biologists think of Dawkins’s big idea now. Plus. how the subject of a new film haunts science and a bacterium that makes its own MOFs.",
-    "abstract": "Nature, Published online: 26 October 2026; doi:10.1038/d41586-026-03463-8 What biologists think of Dawkins’s big idea now. Plus. how the subject of a new film haunts science and a bacterium that makes its own MOFs.",
-    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-03463-8/d41586-026-03463-8_53907626.png",
     "topic": "default",
     "topic_color": "#60a5fa",
     "priority_score": 0
