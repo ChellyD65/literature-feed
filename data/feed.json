@@ -26,19 +26,6 @@
     "priority_score": 208
   },
   {
-    "title": "Cytokine circuits in CNS homeostasis and disease",
-    "link": "https://www.nature.com/articles/s41590-026-02684-3",
-    "journal": "Nature Immunology",
-    "source_type": "journal",
-    "date": "2026-10-23",
-    "summary": "Nature Immunology, Published online: 23 October 2026; doi:10.1038/s41590-026-02684-3 In their Review, Becher et al. discuss how selected cytokine networks preserve, destabilize and restore central nervous system integrity.",
-    "abstract": "Cytokines are critical regulators of central nervous system (CNS) integrity, acting not only as immune messengers but also as signals that coordinate interactions among glial and neuronal cells, resident macrophages, such as microglia and border-associated macrophages, and infiltrating leukocytes. These circuits establish basal immune tone, shape responses to perturbation, and promote tissue adaptation and recovery. In this Review, we examine selected cytokine pathways across homeostasis, inflammatory or degenerative tissue damage and repair to develop a framework for how cytokine networks preserve, destabilize and restore CNS integrity. We focus on CSF-1, IL-34, TGFβ and IL-33 in homeostasis; IL-1, TNF, GM-CSF and IFNγ in inflammation; type I and II interferons in antiviral and neurodegenerative states; and IL-12 at the interface of innate sensing, adaptive immunity and tissue-protective adaptation. By focusing on instructive modules, we highlight broader organizing principles and how cytokine miscalibration can lead to neurological disease across diverse contexts. In their Review, Becher et al. discuss how selected cytokine networks preserve, destabilize and restore central nervous system integrity.",
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41590-026-02684-3/MediaObjects/41590_2026_2684_Fig1_HTML.png",
-    "topic": "microglia",
-    "topic_color": "#38bdf8",
-    "priority_score": 187
-  },
-  {
     "title": "Chronic progressive demyelination induces a microglial state with lysosomal dysfunction",
     "link": "https://www.nature.com/articles/s41593-026-02489-5",
     "journal": "Nature Neuroscience",
@@ -50,6 +37,19 @@
     "topic": "microglia",
     "topic_color": "#38bdf8",
     "priority_score": 176
+  },
+  {
+    "title": "Autophagy limits steady-state IL-1α expression to restrain innate immunity",
+    "link": "https://www.nature.com/articles/s41590-026-02701-5",
+    "journal": "Nature Immunology",
+    "source_type": "journal",
+    "date": "2026-10-30",
+    "summary": "Nature Immunology, Published online: 30 October 2026; doi:10.1038/s41590-026-02701-5 Autophagy controls pulmonary innate immunity at the steady-state by restraining IL-1α expression by alveolar macrophages. Disrupting this regulatory pathway primes lung innate immunity and enhances resistance to distinct respiratory infections, identifying an unexpected role for autophagy in determining host immune readiness.",
+    "abstract": "Nature Immunology, Published online: 30 October 2026; doi:10.1038/s41590-026-02701-5 Autophagy controls pulmonary innate immunity at the steady-state by restraining IL-1α expression by alveolar macrophages. Disrupting this regulatory pathway primes lung innate immunity and enhances resistance to distinct respiratory infections, identifying an unexpected role for autophagy in determining host immune readiness.",
+    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41590-026-02701-5/MediaObjects/41590_2026_2701_Fig1_HTML.png",
+    "topic": "macrophage",
+    "topic_color": "#f59e0b",
+    "priority_score": 164
   },
   {
     "title": "Serotonin signaling enhances phagocytosis by brain macrophages through Htr2b and alleviates brain injury after stroke",
